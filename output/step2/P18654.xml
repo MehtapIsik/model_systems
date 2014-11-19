@@ -1,0 +1,1033 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1990-11-01" modified="2014-10-29" version="150">
+<accession>P18654</accession>
+<accession>B1AXN4</accession>
+<accession>Q03140</accession>
+<accession>Q8K3J8</accession>
+<name>KS6A3_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>Ribosomal protein S6 kinase alpha-3</fullName>
+<shortName>S6K-alpha-3</shortName>
+<ecNumber>2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>90 kDa ribosomal protein S6 kinase 3</fullName>
+<shortName>p90-RSK 3</shortName>
+<shortName>p90RSK3</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>MAP kinase-activated protein kinase 1b</fullName>
+<shortName>MAPK-activated protein kinase 1b</shortName>
+<shortName>MAPKAP kinase 1b</shortName>
+<shortName>MAPKAPK-1b</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Ribosomal S6 kinase 2</fullName>
+<shortName>RSK-2</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>pp90RSK2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">Rps6ka3</name>
+<name type="synonym">Mapkapk1b</name>
+<name type="synonym">Rps6ka-rs1</name>
+<name type="synonym">Rsk2</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Sciurognathi</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="27733" last="27741">
+<title>Characterization of the p90 ribosomal S6 kinase 2 carboxyl-terminal domain as a protein kinase.</title>
+<authorList>
+<person name="Chrestensen C.A."/>
+<person name="Sturgill T.W."/>
+</authorList>
+<dbReference type="PubMed" id="12016217"/>
+<dbReference type="DOI" id="10.1074/jbc.M202663200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2009" name="PLoS Biol." volume="7" first="E1000112" last="E1000112">
+<title>Lineage-specific biology revealed by a finished genome assembly of the mouse.</title>
+<authorList>
+<person name="Church D.M."/>
+<person name="Goodstadt L."/>
+<person name="Hillier L.W."/>
+<person name="Zody M.C."/>
+<person name="Goldstein S."/>
+<person name="She X."/>
+<person name="Bult C.J."/>
+<person name="Agarwala R."/>
+<person name="Cherry J.L."/>
+<person name="DiCuccio M."/>
+<person name="Hlavina W."/>
+<person name="Kapustin Y."/>
+<person name="Meric P."/>
+<person name="Maglott D."/>
+<person name="Birtle Z."/>
+<person name="Marques A.C."/>
+<person name="Graves T."/>
+<person name="Zhou S."/>
+<person name="Teague B."/>
+<person name="Potamousis K."/>
+<person name="Churas C."/>
+<person name="Place M."/>
+<person name="Herschleb J."/>
+<person name="Runnheim R."/>
+<person name="Forrest D."/>
+<person name="Amos-Landgraf J."/>
+<person name="Schwartz D.C."/>
+<person name="Cheng Z."/>
+<person name="Lindblad-Toh K."/>
+<person name="Eichler E.E."/>
+<person name="Ponting C.P."/>
+</authorList>
+<dbReference type="PubMed" id="19468303"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.1000112"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>C57BL/6J</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1989" name="Mol. Cell. Biol." volume="9" first="3850" last="3859">
+<title>Sequence and expression of chicken and mouse rsk: homologs of Xenopus laevis ribosomal S6 kinase.</title>
+<authorList>
+<person name="Alcorta D.A."/>
+<person name="Crews C.M."/>
+<person name="Sweet L.J."/>
+<person name="Bankston L."/>
+<person name="Jones S.W."/>
+<person name="Erikson R.L."/>
+</authorList>
+<dbReference type="PubMed" id="2779569"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 108-740</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="27168" last="27176">
+<title>90-kDa ribosomal S6 kinase is phosphorylated and activated by 3-phosphoinositide-dependent protein kinase-1.</title>
+<authorList>
+<person name="Jensen C.J."/>
+<person name="Buch M.-B."/>
+<person name="Krag T.O."/>
+<person name="Hemmings B.A."/>
+<person name="Gammeltoft S."/>
+<person name="Froedin M."/>
+</authorList>
+<dbReference type="PubMed" id="10480933"/>
+<dbReference type="DOI" id="10.1074/jbc.274.38.27168"/>
+</citation>
+<scope>ENZYME REGULATION</scope>
+<scope>PHOSPHORYLATION AT SER-227 AND SER-386</scope>
+<scope>MUTAGENESIS OF SER-227 AND SER-386</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2000" name="EMBO J." volume="19" first="2924" last="2934">
+<title>A phosphoserine-regulated docking site in the protein kinase RSK2 that recruits and activates PDK1.</title>
+<authorList>
+<person name="Froedin M."/>
+<person name="Jensen C.J."/>
+<person name="Merienne K."/>
+<person name="Gammeltoft S."/>
+</authorList>
+<dbReference type="PubMed" id="10856237"/>
+<dbReference type="DOI" id="10.1093/emboj/19.12.2924"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>MUTAGENESIS OF SER-386</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="49254" last="49260">
+<title>Phosphorylation of p27Kip1 at threonine 198 by p90 ribosomal protein S6 kinases promotes its binding to 14-3-3 and cytoplasmic localization.</title>
+<authorList>
+<person name="Fujita N."/>
+<person name="Sato S."/>
+<person name="Tsuruo T."/>
+</authorList>
+<dbReference type="PubMed" id="14504289"/>
+<dbReference type="DOI" id="10.1074/jbc.M306614200"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF CDKN1B</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2007" name="Cancer Cell" volume="12" first="201" last="214">
+<title>FGFR3 activates RSK2 to mediate hematopoietic transformation through tyrosine phosphorylation of RSK2 and activation of the MEK/ERK pathway.</title>
+<authorList>
+<person name="Kang S."/>
+<person name="Dong S."/>
+<person name="Gu T.L."/>
+<person name="Guo A."/>
+<person name="Cohen M.S."/>
+<person name="Lonial S."/>
+<person name="Khoury H.J."/>
+<person name="Fabbro D."/>
+<person name="Gilliland D.G."/>
+<person name="Bergsagel P.L."/>
+<person name="Taunton J."/>
+<person name="Polakiewicz R.D."/>
+<person name="Chen J."/>
+</authorList>
+<dbReference type="PubMed" id="17785202"/>
+<dbReference type="DOI" id="10.1016/j.ccr.2007.08.003"/>
+</citation>
+<scope>FUNCTION IN HEMATOPOIETIC TRANSFORMATION</scope>
+<scope>PHOSPHORYLATION AT TYR-529</scope>
+<scope>MUTAGENESIS OF TYR-529</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2007" name="Nat. Immunol." volume="8" first="1227" last="1235">
+<title>The MAPK-activated kinase Rsk controls an acute Toll-like receptor signaling response in dendritic cells and is activated through two distinct pathways.</title>
+<authorList>
+<person name="Zaru R."/>
+<person name="Ronkina N."/>
+<person name="Gaestel M."/>
+<person name="Arthur J.S."/>
+<person name="Watts C."/>
+</authorList>
+<dbReference type="PubMed" id="17906627"/>
+<dbReference type="DOI" id="10.1038/ni1517"/>
+</citation>
+<scope>FUNCTION IN TOLL-LIKE RECEPTOR SIGNALING</scope>
+<scope>PHOSPHORYLATION AT SER-386</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2008" name="Nat. Struct. Mol. Biol." volume="15" first="112" last="113">
+<title>Structural basis for activation of the autoinhibitory C-terminal kinase domain of p90 RSK2.</title>
+<authorList>
+<person name="Malakhova M."/>
+<person name="Tereshko V."/>
+<person name="Lee S.Y."/>
+<person name="Yao K."/>
+<person name="Cho Y.Y."/>
+<person name="Bode A."/>
+<person name="Dong Z."/>
+</authorList>
+<dbReference type="PubMed" id="18084304"/>
+<dbReference type="DOI" id="10.1038/nsmb1347"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 399-740</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2009" name="PLoS ONE" volume="4" first="E8044" last="E8044">
+<title>Structural diversity of the active N-terminal kinase domain of p90 ribosomal S6 kinase 2.</title>
+<authorList>
+<person name="Malakhova M."/>
+<person name="Kurinov I."/>
+<person name="Liu K."/>
+<person name="Zheng D."/>
+<person name="D'Angelo I."/>
+<person name="Shim J.H."/>
+<person name="Steinman V."/>
+<person name="Bode A.M."/>
+<person name="Dong Z."/>
+</authorList>
+<dbReference type="PubMed" id="19956600"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0008044"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS) OF 44-367</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Serine/threonine-protein kinase that acts downstream of ERK (MAPK1/ERK2 and MAPK3/ERK1) signaling and mediates mitogenic and stress-induced activation of the transcription factors CREB1, ETV1/ER81 and NR4A1/NUR77, regulates translation through RPS6 and EIF4B phosphorylation, and mediates cellular proliferation, survival, and differentiation by modulating mTOR signaling and repressing pro-apoptotic function of BAD and DAPK1. In fibroblast, is required for EGF-stimulated phosphorylation of CREB1 and histone H3 at 'Ser-10', which results in the subsequent transcriptional activation of several immediate-early genes. In response to mitogenic stimulation (EGF and PMA), phosphorylates and activates NR4A1/NUR77 and ETV1/ER81 transcription factors and the cofactor CREBBP. Upon insulin-derived signal, acts indirectly on the transcription regulation of several genes by phosphorylating GSK3B at 'Ser-9' and inhibiting its activity. Phosphorylates RPS6 in response to serum or EGF via an mTOR-independent mechanism and promotes translation initiation by facilitating assembly of the preinitiation complex. In response to insulin, phosphorylates EIF4B, enhancing EIF4B affinity for the EIF3 complex and stimulating cap-dependent translation. Is involved in the mTOR nutrient-sensing pathway by directly phosphorylating TSC2 at 'Ser-1798', which potently inhibits TSC2 ability to suppress mTOR signaling, and mediates phosphorylation of RPTOR, which regulates mTORC1 activity and may promote rapamycin-sensitive signaling independently of the PI3K/AKT pathway. Mediates cell survival by phosphorylating the pro-apoptotic proteins BAD and DAPK1 and suppressing their pro-apoptotic function. Promotes the survival of hepatic stellate cells by phosphorylating CEBPB in response to the hepatotoxin carbon tetrachloride (CCl4). Is involved in cell cycle regulation by phosphorylating the CDK inhibitor CDKN1B, which promotes CDKN1B association with 14-3-3 proteins and prevents its translocation to the nucleus and inhibition of G1 progression. In LPS-stimulated dendritic cells, is involved in TLR4-induced macropinocytosis, and in myeloma cells, acts as effector of FGFR3-mediated transformation signaling, after direct phosphorylation at Tyr-529 by FGFR3. Phosphorylates DAPK1 (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="cofactor">
+<text evidence="1">Magnesium.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">Upon extracellular signal or mitogen stimulation, phosphorylated at Thr-577 in the C-terminal kinase domain (CTKD) by MAPK1/ERK2 and MAPK3/ERK1. The activated CTKD then autophosphorylates Ser-386, allowing binding of PDPK1, which in turn phosphorylates Ser-227 in the N-terminal kinase domain (NTDK) leading to the full activation of the protein and subsequent phosphorylation of the substrates by the NTKD (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Forms a complex with either MAPK1/ERK2 or MAPK3/ERK1 in quiescent cells. Transiently dissociates following mitogenic stimulation (By similarity). Interacts with NFATC4, ETV1/ER81 and FGFR1 (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Intestine, thymus, lung, heart and brain.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3 5 6">Activated by phosphorylation at Ser-227 by PDPK1. Autophosphorylated on Ser-386, as part of the activation process. May be phosphorylated at Thr-365 and Ser-369 by MAPK1/ERK2 and MAPK3/ERK1. Can also be activated via phosphorylation at Ser-386 by MAPKAPK2.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">N-terminal myristoylation results in an activated kinase in the absence of added growth factors.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Contains 1 AGC-kinase C-terminal domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Contains 2 protein kinase domains.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1"/>
+<dbReference type="EMBL" id="AY083469">
+<property type="protein sequence ID" value="AAM00022.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL808146">
+<property type="protein sequence ID" value="CAM25836.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS30502.1"/>
+<dbReference type="PIR" id="C32571">
+<property type="entry name" value="C32571"/>
+</dbReference>
+<dbReference type="PIR" id="S30504">
+<property type="entry name" value="S30504"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_683747.1">
+<property type="nucleotide sequence ID" value="NM_148945.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Mm.328476"/>
+<dbReference type="UniGene" id="Mm.392829"/>
+<dbReference type="PDB" id="2QR7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=399-740"/>
+</dbReference>
+<dbReference type="PDB" id="2QR8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=399-740"/>
+</dbReference>
+<dbReference type="PDB" id="3G51">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=44-367"/>
+</dbReference>
+<dbReference type="PDB" id="3UBD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="A=45-346"/>
+</dbReference>
+<dbReference type="PDB" id="4EL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A=45-346"/>
+</dbReference>
+<dbReference type="PDB" id="4GUE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=45-346"/>
+</dbReference>
+<dbReference type="PDBsum" id="2QR7"/>
+<dbReference type="PDBsum" id="2QR8"/>
+<dbReference type="PDBsum" id="3G51"/>
+<dbReference type="PDBsum" id="3UBD"/>
+<dbReference type="PDBsum" id="4EL9"/>
+<dbReference type="PDBsum" id="4GUE"/>
+<dbReference type="ProteinModelPortal" id="P18654"/>
+<dbReference type="SMR" id="P18654">
+<property type="residue range" value="51-714"/>
+</dbReference>
+<dbReference type="BioGrid" id="225783">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-31554N"/>
+<dbReference type="IntAct" id="P18654">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1486771"/>
+<dbReference type="BindingDB" id="P18654"/>
+<dbReference type="PhosphoSite" id="P18654"/>
+<dbReference type="MaxQB" id="P18654"/>
+<dbReference type="PaxDb" id="P18654"/>
+<dbReference type="PRIDE" id="P18654"/>
+<dbReference type="DNASU" id="110651"/>
+<dbReference type="Ensembl" id="ENSMUST00000033671">
+<property type="protein sequence ID" value="ENSMUSP00000033671"/>
+<property type="gene ID" value="ENSMUSG00000031309"/>
+</dbReference>
+<dbReference type="GeneID" id="110651"/>
+<dbReference type="KEGG" id="mmu:110651"/>
+<dbReference type="UCSC" id="uc009usj.1">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="CTD" id="6197"/>
+<dbReference type="MGI" id="MGI:104557">
+<property type="gene designation" value="Rps6ka3"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515"/>
+<dbReference type="GeneTree" id="ENSGT00760000119016"/>
+<dbReference type="HOVERGEN" id="HBG108317"/>
+<dbReference type="InParanoid" id="P18654"/>
+<dbReference type="KO" id="K04373"/>
+<dbReference type="OMA" id="HPWIVHC"/>
+<dbReference type="PhylomeDB" id="P18654"/>
+<dbReference type="TreeFam" id="TF313438"/>
+<dbReference type="Reactome" id="REACT_188573">
+<property type="pathway name" value="Gastrin-CREB signalling pathway via PKC and MAPK"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_198245">
+<property type="pathway name" value="RSK activation"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_198246">
+<property type="pathway name" value="CREB phosphorylation through the activation of Ras"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_206033">
+<property type="pathway name" value="Senescence-Associated Secretory Phenotype (SASP)"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_215063">
+<property type="pathway name" value="ERK/MAPK targets"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_224314">
+<property type="pathway name" value="CREB phosphorylation"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="RPS6KA3">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P18654"/>
+<dbReference type="NextBio" id="364399"/>
+<dbReference type="PRO" id="PR:P18654"/>
+<dbReference type="Bgee" id="P18654"/>
+<dbReference type="CleanEx" id="MM_RPS6KA3"/>
+<dbReference type="ExpressionAtlas" id="P18654">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="P18654"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043027">
+<property type="term" value="F:cysteine-type endopeptidase inhibitor activity involved in apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="IPI:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007049">
+<property type="term" value="P:cell cycle"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032496">
+<property type="term" value="P:response to lipopolysaccharide"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006950">
+<property type="term" value="P:response to stress"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002224">
+<property type="term" value="P:toll-like receptor signaling pathway"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000961">
+<property type="entry name" value="AGC-kinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017892">
+<property type="entry name" value="Pkinase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016239">
+<property type="entry name" value="Ribosomal_S6_kinase_II"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002290">
+<property type="entry name" value="Ser/Thr_dual-sp_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00433">
+<property type="entry name" value="Pkinase_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000606">
+<property type="entry name" value="Ribsml_S6_kin_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00133">
+<property type="entry name" value="S_TK_X"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51285">
+<property type="entry name" value="AGC_KINASE_CTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0346">Stress response</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Ribosomal protein S6 kinase alpha-3" id="PRO_0000086204">
+<location>
+<begin position="1"/>
+<end position="740"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase 1" evidence="2">
+<location>
+<begin position="68"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="domain" description="AGC-kinase C-terminal">
+<location>
+<begin position="328"/>
+<end position="397"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase 2" evidence="2">
+<location>
+<begin position="422"/>
+<end position="679"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="74"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="428"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="1">
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="1">
+<location>
+<position position="539"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="451"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PDPK1" evidence="3">
+<location>
+<position position="227"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="1">
+<location>
+<position position="365"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="369"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="375"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by autocatalysis and MAPKAPK2" evidence="3 6">
+<location>
+<position position="386"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="415"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by FGFR3" evidence="5">
+<location>
+<position position="529"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="556"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="715"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphorylation and activation by PDPK1." evidence="3">
+<original>S</original>
+<variation>E</variation>
+<location>
+<position position="227"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphorylation by PDPK1; loss of activation by PDPK1 and EGF." evidence="3 4">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="386"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with PDPK1 and phosphorylation at S-227." evidence="3 4">
+<original>S</original>
+<variation>E</variation>
+<location>
+<position position="386"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Attenuates activation by MAPK1/ERK1 and MAPK3/ERK2." evidence="5">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="529"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="50"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="65"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="68"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="77"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="81"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="91"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="96"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="121"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="133"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="142"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="156"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="167"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="196"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="199"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="207"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="232"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="237"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="248"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="273"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="293"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="307"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="315"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="318"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="325"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="332"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="418"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="422"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="432"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="442"/>
+<end position="444"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="447"/>
+<end position="454"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="455"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="461"/>
+<end position="470"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="479"/>
+<end position="484"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="486"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="501"/>
+<end position="506"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="513"/>
+<end position="532"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="542"/>
+<end position="544"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="545"/>
+<end position="551"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="554"/>
+<end position="556"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="557"/>
+<end position="559"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="587"/>
+<end position="613"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="626"/>
+<end position="635"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="643"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="650"/>
+<end position="659"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="664"/>
+<end position="666"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="670"/>
+<end position="673"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="677"/>
+<end position="680"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="682"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="696"/>
+<end position="710"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="711"/>
+<end position="713"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10480933"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10856237"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17785202"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17906627"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="740" mass="83694" checksum="0CD54E5918567007" modified="2003-03-25" version="2">
+MPLAQLADPWQKMAVESPSDSAENGQQIMDEPMGEEEINPQTEEGSIKEIAITHHVKEGH
+EKADPSQFELLKVLGQGSFGKVFLVKKISGSDARQLYAMKVLKKATLKVRDRVRTKMERD
+ILVEVNHPFIVKLHYAFQTEGKLYLILDFLRGGDLFTRLSKEVMFTEEDVKFYLAELALA
+LDHLHSLGIIYRDLKPENILLDEEGHIKLTDFGLSKESIDHEKKAYSFCGTVEYMAPEVV
+NRRGHTQSADWWSFGVLMFEMLTGTLPFQGKDRKETMTMILKAKLGMPQFLSPEAQSLLR
+MLFKRNPANRLGAGPDGVEEIKRHSFFSTIDWNKLYRREIHPPFKPATGRPEDTFYFDPE
+FTAKTPKDSPGIPPSANAHQLFRGFSFVAITSDDESQAMQTVGVHSIVQQLHRNSIQFTD
+GYEVKEDIGVGSYSVCKRCIHKATNMEFAVKIIDKSKRDPTEEIEILLRYGQHPNIITLK
+DVYDDGKYVYVVTELMKGGELLDKILRQKFFSEREASAVLFTITKTVEYLHAQGVVHRDL
+KPSNILYVDESGNPESIRICDFGFAKQLRAENGLLMTPCYTANFVAPEVLKRQGYDAACD
+IWSLGVLLYTMLTGYTPFANGPDDTPEEILARIGSGKFSLSGGYWNSVSDTAKDLVSKML
+HVDPHQRLTAALVLRHPWIVHWDQLPQYQLNRQDAPHLVKGAMAATYSALNRNQSPVLEP
+VGRSTLAQRRGIKKITSTAL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

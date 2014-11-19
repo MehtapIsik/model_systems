@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1993-04-01" modified="2014-10-29" version="94">
+<accession>P30418</accession>
+<accession>Q5AMK5</accession>
+<name>NMT_CANAL</name>
+<protein>
+<recommendedName>
+<fullName>Glycylpeptide N-tetradecanoyltransferase</fullName>
+<ecNumber>2.3.1.97</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Myristoyl-CoA:protein N-myristoyltransferase</fullName>
+<shortName>NMT</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Peptide N-myristoyltransferase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NMT1</name>
+<name type="ORF">CaO19.12111</name>
+<name type="ORF">CaO19.4641</name>
+</gene>
+<organism>
+<name type="scientific">Candida albicans (strain SC5314 / ATCC MYA-2876)</name>
+<name type="common">Yeast</name>
+<dbReference type="NCBI Taxonomy" id="237561"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Fungi</taxon>
+<taxon>Dikarya</taxon>
+<taxon>Ascomycota</taxon>
+<taxon>Saccharomycotina</taxon>
+<taxon>Saccharomycetes</taxon>
+<taxon>Saccharomycetales</taxon>
+<taxon>Debaryomycetaceae</taxon>
+<taxon>Candida/Lodderomyces clade</taxon>
+<taxon>Candida</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="8591" last="8598">
+<title>The Candida albicans myristoyl-CoA:protein N-myristoyltransferase gene. Isolation and expression in Saccharomyces cerevisiae and Escherichia coli.</title>
+<authorList>
+<person name="Wiegand R.C."/>
+<person name="Carr C."/>
+<person name="Minnerly J.C."/>
+<person name="Pauley A.M."/>
+<person name="Carron C.P."/>
+<person name="Langner C.A."/>
+<person name="Duronio R.J."/>
+<person name="Gordon J.I."/>
+</authorList>
+<dbReference type="PubMed" id="1569105"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 121-132; 291-300; 341-359 AND 408-423</scope>
+<scope>FUNCTION</scope>
+<source>
+<strain>ATCC 32354 / B311</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="7329" last="7334">
+<title>The diploid genome sequence of Candida albicans.</title>
+<authorList>
+<person name="Jones T."/>
+<person name="Federspiel N.A."/>
+<person name="Chibana H."/>
+<person name="Dungan J."/>
+<person name="Kalman S."/>
+<person name="Magee B.B."/>
+<person name="Newport G."/>
+<person name="Thorstenson Y.R."/>
+<person name="Agabian N."/>
+<person name="Magee P.T."/>
+<person name="Davis R.W."/>
+<person name="Scherer S."/>
+</authorList>
+<dbReference type="PubMed" id="15123810"/>
+<dbReference type="DOI" id="10.1073/pnas.0401648101"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>SC5314 / ATCC MYA-2876</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="2996" last="3009">
+<title>Comparison of myristoyl-CoA:protein N-myristoyltransferases from three pathogenic fungi: Cryptococcus neoformans, Histoplasma capsulatum, and Candida albicans.</title>
+<authorList>
+<person name="Lodge J.K."/>
+<person name="Johnson R.L."/>
+<person name="Weinberg R.A."/>
+<person name="Gordon J.I."/>
+</authorList>
+<dbReference type="PubMed" id="8300631"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF GLY-447</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="11874" last="11880">
+<title>Scanning alanine mutagenesis and de-peptidization of a Candida albicans myristoyl-CoA:protein N-myristoyltransferase octapeptide substrate reveals three elements critical for molecular recognition.</title>
+<authorList>
+<person name="McWherter C.A."/>
+<person name="Rocque W.J."/>
+<person name="Zupec M.E."/>
+<person name="Freeman S.K."/>
+<person name="Brown D.L."/>
+<person name="Devadas B."/>
+<person name="Getman D.P."/>
+<person name="Sikorski J.A."/>
+<person name="Gordon J.I."/>
+</authorList>
+<dbReference type="PubMed" id="9115247"/>
+<dbReference type="DOI" id="10.1074/jbc.272.18.11874"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="Nat. Struct. Biol." volume="5" first="213" last="221">
+<title>Crystal structure of the anti-fungal target N-myristoyl transferase.</title>
+<authorList>
+<person name="Weston S.A."/>
+<person name="Camble R."/>
+<person name="Colls J."/>
+<person name="Rosenbrock G."/>
+<person name="Taylor I."/>
+<person name="Egerton M."/>
+<person name="Tucker A.D."/>
+<person name="Tunnicliffe A."/>
+<person name="Mistry A."/>
+<person name="Mancia F."/>
+<person name="de la Fortelle E."/>
+<person name="Irwin J."/>
+<person name="Bricogne G."/>
+<person name="Pauptit R.A."/>
+</authorList>
+<dbReference type="PubMed" id="9501915"/>
+<dbReference type="DOI" id="10.1038/nsb0398-213"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.45 ANGSTROMS)</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="Chem. Biol." volume="9" first="1119" last="1128">
+<title>Crystal structures of Candida albicans N-myristoyltransferase with two distinct inhibitors.</title>
+<authorList>
+<person name="Sogabe S."/>
+<person name="Masubuchi M."/>
+<person name="Sakata K."/>
+<person name="Fukami T.A."/>
+<person name="Morikami K."/>
+<person name="Shiratori Y."/>
+<person name="Ebiike H."/>
+<person name="Kawasaki K."/>
+<person name="Aoki Y."/>
+<person name="Shimma N."/>
+<person name="D'Arcy A."/>
+<person name="Winkler F.K."/>
+<person name="Banner D.W."/>
+<person name="Ohtsuka T."/>
+</authorList>
+<dbReference type="PubMed" id="12401496"/>
+<dbReference type="DOI" id="10.1016/S1074-5521(02)00240-5"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 60-451 IN COMPLEX WITH MYRISTOYL-COA AND INHIBITORS</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5">Adds a myristoyl group to the N-terminal glycine residue of certain cellular proteins. Substrate specificity requires an N-terminal glycine in the nascent polypeptide substrates. Ser is present at position 5 in almost all known N-myristoyl proteins and Lys is commonly encountered at postion 6. Basic residues are preferred at positions 7 and 8.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Tetradecanoyl-CoA + glycylpeptide = CoA + N-tetradecanoylglycylpeptide.</text>
+</comment>
+<comment type="enzyme regulation">
+<text>Competitively inhibited by SC-58272, a peptidomimetic derived from the N-terminal sequence of a natural substrate.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="miscellaneous">
+<text>Has an ordered Bi-Bi kinetic mechanism, with myristoyl-CoA binding taking place prior to peptide binding and CoA release occurring before acylated peptide release. Cooperative interactions between the acyl-CoA and peptide binding sites of NMT contribute to its extraordinary chain-length specificity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the NMT family.</text>
+</comment>
+<dbReference type="EC" id="2.3.1.97"/>
+<dbReference type="EMBL" id="M80544">
+<property type="protein sequence ID" value="AAA34351.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AACQ01000005">
+<property type="protein sequence ID" value="EAL04131.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AACQ01000006">
+<property type="protein sequence ID" value="EAL03976.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A38099">
+<property type="entry name" value="A38099"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_722713.1">
+<property type="nucleotide sequence ID" value="XM_717620.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_722859.1">
+<property type="nucleotide sequence ID" value="XM_717766.1"/>
+</dbReference>
+<dbReference type="PDB" id="1IYK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=60-451"/>
+</dbReference>
+<dbReference type="PDB" id="1IYL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B/C/D=60-451"/>
+</dbReference>
+<dbReference type="PDB" id="1NMT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A/B/C=60-451"/>
+</dbReference>
+<dbReference type="PDBsum" id="1IYK"/>
+<dbReference type="PDBsum" id="1IYL"/>
+<dbReference type="PDBsum" id="1NMT"/>
+<dbReference type="ProteinModelPortal" id="P30418"/>
+<dbReference type="SMR" id="P30418">
+<property type="residue range" value="60-451"/>
+</dbReference>
+<dbReference type="STRING" id="5476.CAL0003694"/>
+<dbReference type="BindingDB" id="P30418"/>
+<dbReference type="ChEMBL" id="CHEMBL3548"/>
+<dbReference type="GeneID" id="3635457"/>
+<dbReference type="GeneID" id="3635624"/>
+<dbReference type="KEGG" id="cal:CaO19.12111"/>
+<dbReference type="KEGG" id="cal:CaO19.4641"/>
+<dbReference type="eggNOG" id="COG5092"/>
+<dbReference type="InParanoid" id="P30418"/>
+<dbReference type="KO" id="K00671"/>
+<dbReference type="OrthoDB" id="EOG78SQSW"/>
+<dbReference type="BRENDA" id="2.3.1.97">
+<property type="organism ID" value="1096"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P30418"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008144">
+<property type="term" value="F:drug binding"/>
+<property type="evidence" value="IDA:CGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004379">
+<property type="term" value="F:glycylpeptide N-tetradecanoyltransferase activity"/>
+<property type="evidence" value="IDA:CGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018008">
+<property type="term" value="P:N-terminal peptidyl-glycine N-myristoylation"/>
+<property type="evidence" value="IDA:CGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009405">
+<property type="term" value="P:pathogenesis"/>
+<property type="evidence" value="IMP:CGD"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.630.30">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016181">
+<property type="entry name" value="Acyl_CoA_acyltransferase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000903">
+<property type="entry name" value="MyristoylCoA_TrFase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022677">
+<property type="entry name" value="MyristoylCoA_TrFase_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022678">
+<property type="entry name" value="MyristoylCoA_TrFase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022676">
+<property type="entry name" value="MyristoylCoA_TrFase_N"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11377">
+<property type="entry name" value="PTHR11377"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01233">
+<property type="entry name" value="NMT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02799">
+<property type="entry name" value="NMT_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF015892">
+<property type="entry name" value="N-myristl_transf"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55729">
+<property type="entry name" value="SSF55729"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00975">
+<property type="entry name" value="NMT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00976">
+<property type="entry name" value="NMT_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0012">Acyltransferase</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Glycylpeptide N-tetradecanoyltransferase" id="PRO_0000064236">
+<location>
+<begin position="1"/>
+<end position="451"/>
+</location>
+</feature>
+<feature type="region of interest" description="Myristoyl CoA-binding">
+<location>
+<begin position="42"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="region of interest" description="Myristoyl CoA-binding">
+<location>
+<begin position="174"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor; via carboxylate" evidence="1">
+<location>
+<position position="451"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Causes temperature-dependent reduction in catalytic activity." evidence="4">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="447"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; EAL04131/EAL03976." ref="2" evidence="6">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="327"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="69"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="82"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="93"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="113"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="121"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="135"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="138"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="144"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="149"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="163"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="167"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="185"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="189"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="202"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="208"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="220"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="232"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="249"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="267"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="272"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="275"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="289"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="297"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="309"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="314"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="328"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="339"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="348"/>
+<end position="350"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="352"/>
+<end position="360"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="361"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="368"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="384"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="389"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="399"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="402"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="409"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="433"/>
+<end position="435"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="445"/>
+<end position="447"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12401496"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1569105"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8300631"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9115247"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="451" mass="51877" checksum="7D107CBC05458D2D" modified="1993-04-01" version="1">
+MSGDNTGNKSNSAPSKSIEELLKLLAMGQELSPAQQKEMKDYKFWKTQPVPSLSETVTEE
+GPIDKLKTPEDVPNDPLPLISDFEWSTLDIDDNLQLDELYKLLYDNYVEDIDATFRFKYS
+HEFFQWALKPPGWRKDWHVGVRVKSTGKLVAFIAATPVTFKLNKSNKVIDSVEINFLCIH
+KKLRNKRLAPVLIKEITRRVNKQNIWQALYTGGSILPTPLTTCRYQHRPINWSKLHDVGF
+SHLPPNQTKSSMVASYTLPNNPKLKGLRPMTGKDVSTVLSLLYKYQERFDIVQLFTEEEF
+KHWMLGHDENSDSNVVKSYVVEDENGIITDYFSYYLLPFTVLDNAQHDELGIAYLFYYAS
+DSFEKPNYKKRLNELITDALITSKKFGVDVFNCLTCQDNTYFLKDCKFGSGDGFLNYYLF
+NYRTFPMDGGIDKKTKEVVEDQTSGIGVVLL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

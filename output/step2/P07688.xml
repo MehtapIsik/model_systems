@@ -1,0 +1,811 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1988-04-01" modified="2014-10-29" version="132">
+<accession>P07688</accession>
+<accession>Q3ZC03</accession>
+<name>CATB_BOVIN</name>
+<protein>
+<recommendedName>
+<fullName>Cathepsin B</fullName>
+<ecNumber>3.4.22.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>BCSB</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Cathepsin B light chain</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Cathepsin B heavy chain</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">CTSB</name>
+</gene>
+<organism>
+<name type="scientific">Bos taurus</name>
+<name type="common">Bovine</name>
+<dbReference type="NCBI Taxonomy" id="9913"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Laurasiatheria</taxon>
+<taxon>Cetartiodactyla</taxon>
+<taxon>Ruminantia</taxon>
+<taxon>Pecora</taxon>
+<taxon>Bovidae</taxon>
+<taxon>Bovinae</taxon>
+<taxon>Bos</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="14104" last="14112">
+<title>Expression of lysosomal cathepsin B during calf myoblast-myotube differentiation. Characterization of a cDNA encoding bovine cathepsin B.</title>
+<authorList>
+<person name="Bechet D.M."/>
+<person name="Ferrara M.J."/>
+<person name="Mordier S.B."/>
+<person name="Roux M.-P."/>
+<person name="Deval C."/>
+<person name="Obled A."/>
+</authorList>
+<dbReference type="PubMed" id="1856234"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Biochim. Biophys. Acta" volume="1174" first="305" last="311">
+<title>Nucleotide sequence of bovine preprocathepsin B. A study of polymorphism in the protein coding region.</title>
+<authorList>
+<person name="Mordier S."/>
+<person name="Bechet D."/>
+<person name="Roux M.-P."/>
+<person name="Obled A."/>
+<person name="Ferrara M."/>
+</authorList>
+<dbReference type="PubMed" id="8373811"/>
+<dbReference type="DOI" id="10.1016/0167-4781(93)90205-R"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="2005-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIH - Mammalian Gene Collection (MGC) project"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>Hereford</strain>
+<tissue>Thymus</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="9087" last="9093">
+<title>Amino acid sequence of bovine spleen cathepsin B.</title>
+<authorList>
+<person name="Meloun B."/>
+<person name="Baudys M."/>
+<person name="Pohl J."/>
+<person name="Pavlik M."/>
+<person name="Kostka V."/>
+</authorList>
+<dbReference type="PubMed" id="3379063"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 80-332</scope>
+<scope>GLYCOSYLATION AT ASN-192</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="book" date="1986" name="Cysteine proteinases and their inhibitors" first="19" last="29" publisher="Walter de Gruyter" city="Berlin and New York">
+<title>Tentative amino acid sequence of bovine spleen cathepsin B.</title>
+<editorList>
+<person name="Turk V."/>
+</editorList>
+<authorList>
+<person name="Meloun B."/>
+<person name="Pohl J."/>
+<person name="Kostka V."/>
+</authorList>
+</citation>
+<scope>PRELIMINARY PROTEIN SEQUENCE OF 80-332</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1982" name="FEBS Lett." volume="142" first="23" last="26">
+<title>Identification of the active site cysteine and of the disulfide bonds in the N-terminal part of the molecule of bovine spleen cathepsin B.</title>
+<authorList>
+<person name="Pohl J."/>
+<person name="Baudys M."/>
+<person name="Tomasek V."/>
+<person name="Kostka V."/>
+</authorList>
+<dbReference type="PubMed" id="7106283"/>
+<dbReference type="DOI" id="10.1016/0014-5793(82)80210-X"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 80-126</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1988" name="Biol. Chem. Hoppe-Seyler" volume="369" first="169" last="174">
+<title>Identification of the second (buried) cysteine residue and of the C-terminal disulfide bridge of bovine spleen cathepsin B.</title>
+<authorList>
+<person name="Baudys M."/>
+<person name="Meloun B."/>
+<person name="Pohl J."/>
+<person name="Kostka V."/>
+</authorList>
+<dbReference type="PubMed" id="3144290"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 224-237 AND 310-332</scope>
+<scope>DISULFIDE BOND</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1990" name="Biol. Chem. Hoppe-Seyler" volume="371" first="485" last="491">
+<title>Disulfide bridges of bovine spleen cathepsin B.</title>
+<authorList>
+<person name="Baudys M."/>
+<person name="Meloun B."/>
+<person name="Gan-Erdene T."/>
+<person name="Pohl J."/>
+<person name="Kostka V."/>
+</authorList>
+<dbReference type="PubMed" id="2390214"/>
+</citation>
+<scope>DISULFIDE BONDS</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="J. Biochem." volume="127" first="635" last="643">
+<title>Substrate specificity of bovine cathepsin B and its inhibition by CA074, based on crystal structure refinement of the complex.</title>
+<authorList>
+<person name="Yamamoto A."/>
+<person name="Tomoo K."/>
+<person name="Hara T."/>
+<person name="Murata M."/>
+<person name="Kitamura K."/>
+<person name="Ishida T."/>
+</authorList>
+<dbReference type="PubMed" id="10739956"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a022651"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.18 ANGSTROMS) OF 80-332</scope>
+</reference>
+<comment type="function">
+<text>Thiol protease which is believed to participate in intracellular degradation and turnover of proteins. Has also been implicated in tumor invasion and metastasis.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Hydrolysis of proteins with broad specificity for peptide bonds. Preferentially cleaves -Arg-Arg-|-Xaa bonds in small molecule substrates (thus differing from cathepsin L). In addition to being an endopeptidase, shows peptidyl-dipeptidase activity, liberating C-terminal dipeptides.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Interacts with SRPX2 (By similarity). Dimer of a heavy chain and a light chain cross-linked by a disulfide bond.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Lysosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Melanosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Secreted</location>
+<location evidence="1">Extracellular space</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3 4 5">Belongs to the peptidase C1 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.22.1"/>
+<dbReference type="EMBL" id="L06075">
+<property type="protein sequence ID" value="AAA03064.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M64620">
+<property type="protein sequence ID" value="AAA30434.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U16336">
+<property type="protein sequence ID" value="AAA80198.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U16337">
+<property type="protein sequence ID" value="AAA80198.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U16338">
+<property type="protein sequence ID" value="AAA80198.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U16339">
+<property type="protein sequence ID" value="AAA80198.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U16341">
+<property type="protein sequence ID" value="AAA80198.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U16342">
+<property type="protein sequence ID" value="AAA80198.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U16343">
+<property type="protein sequence ID" value="AAA80198.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC102997">
+<property type="protein sequence ID" value="AAI02998.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S38328">
+<property type="entry name" value="KHBOB"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_776456.1">
+<property type="nucleotide sequence ID" value="NM_174031.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005209879.1">
+<property type="nucleotide sequence ID" value="XM_005209822.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005209880.1">
+<property type="nucleotide sequence ID" value="XM_005209823.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Bt.393"/>
+<dbReference type="PDB" id="1ITO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="1QDQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.18"/>
+<property type="chains" value="A=80-332"/>
+</dbReference>
+<dbReference type="PDB" id="1SP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=80-127, B=128-332"/>
+</dbReference>
+<dbReference type="PDB" id="2DC6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="2DC7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="2DC8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="2DC9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="2DCA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.11"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="2DCB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="2DCC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.93"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDB" id="2DCD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=80-335"/>
+</dbReference>
+<dbReference type="PDBsum" id="1ITO"/>
+<dbReference type="PDBsum" id="1QDQ"/>
+<dbReference type="PDBsum" id="1SP4"/>
+<dbReference type="PDBsum" id="2DC6"/>
+<dbReference type="PDBsum" id="2DC7"/>
+<dbReference type="PDBsum" id="2DC8"/>
+<dbReference type="PDBsum" id="2DC9"/>
+<dbReference type="PDBsum" id="2DCA"/>
+<dbReference type="PDBsum" id="2DCB"/>
+<dbReference type="PDBsum" id="2DCC"/>
+<dbReference type="PDBsum" id="2DCD"/>
+<dbReference type="ProteinModelPortal" id="P07688"/>
+<dbReference type="SMR" id="P07688">
+<property type="residue range" value="18-332"/>
+</dbReference>
+<dbReference type="BioGrid" id="158468">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="BindingDB" id="P07688"/>
+<dbReference type="ChEMBL" id="CHEMBL2323"/>
+<dbReference type="MEROPS" id="C01.060"/>
+<dbReference type="PaxDb" id="P07688"/>
+<dbReference type="PRIDE" id="P07688"/>
+<dbReference type="Ensembl" id="ENSBTAT00000036795">
+<property type="protein sequence ID" value="ENSBTAP00000036650"/>
+<property type="gene ID" value="ENSBTAG00000012442"/>
+</dbReference>
+<dbReference type="GeneID" id="281105"/>
+<dbReference type="KEGG" id="bta:281105"/>
+<dbReference type="CTD" id="1508"/>
+<dbReference type="eggNOG" id="NOG315657"/>
+<dbReference type="GeneTree" id="ENSGT00730000110701"/>
+<dbReference type="HOGENOM" id="HOG000241341"/>
+<dbReference type="HOVERGEN" id="HBG003480"/>
+<dbReference type="InParanoid" id="P07688"/>
+<dbReference type="KO" id="K01363"/>
+<dbReference type="OMA" id="CTGEGDT"/>
+<dbReference type="OrthoDB" id="EOG7034HR"/>
+<dbReference type="TreeFam" id="TF314576"/>
+<dbReference type="BRENDA" id="3.4.22.1">
+<property type="organism ID" value="908"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_222620">
+<property type="pathway name" value="Collagen degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_225126">
+<property type="pathway name" value="Trafficking and processing of endosomal TLR"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P07688"/>
+<dbReference type="NextBio" id="20805177"/>
+<dbReference type="ExpressionAtlas" id="P07688">
+<property type="expression patterns" value="baseline"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular vesicular exosome"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005764">
+<property type="term" value="C:lysosome"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005730">
+<property type="term" value="C:nucleolus"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004197">
+<property type="term" value="F:cysteine-type endopeptidase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097067">
+<property type="term" value="P:cellular response to thyroid hormone stimulus"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030574">
+<property type="term" value="P:collagen catabolic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046697">
+<property type="term" value="P:decidualization"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030855">
+<property type="term" value="P:epithelial cell differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051603">
+<property type="term" value="P:proteolysis involved in cellular protein catabolic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050790">
+<property type="term" value="P:regulation of catalytic activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025661">
+<property type="entry name" value="Pept_asp_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000169">
+<property type="entry name" value="Pept_cys_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025660">
+<property type="entry name" value="Pept_his_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013128">
+<property type="entry name" value="Peptidase_C1A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000668">
+<property type="entry name" value="Peptidase_C1A_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015643">
+<property type="entry name" value="Peptidase_C1A_cathepsin-B"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012599">
+<property type="entry name" value="Propeptide_C1A"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12411">
+<property type="entry name" value="PTHR12411"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12411:SF285">
+<property type="entry name" value="PTHR12411:SF285"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00112">
+<property type="entry name" value="Peptidase_C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08127">
+<property type="entry name" value="Propeptide_C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00705">
+<property type="entry name" value="PAPAIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00645">
+<property type="entry name" value="Pept_C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00640">
+<property type="entry name" value="THIOL_PROTEASE_ASN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00139">
+<property type="entry name" value="THIOL_PROTEASE_CYS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00639">
+<property type="entry name" value="THIOL_PROTEASE_HIS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0458">Lysosome</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0788">Thiol protease</keyword>
+<keyword id="KW-0865">Zymogen</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="propeptide" description="Activation peptide" id="PRO_0000026138">
+<location>
+<begin position="18"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="chain" description="Cathepsin B" id="PRO_0000026139">
+<location>
+<begin position="80"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="chain" description="Cathepsin B light chain" id="PRO_0000026140">
+<location>
+<begin position="80"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="chain" description="Cathepsin B heavy chain" id="PRO_0000026141">
+<location>
+<begin position="129"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="propeptide" id="PRO_0000026142">
+<location>
+<begin position="333"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="298"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="1">
+<location>
+<position position="220"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="6">
+<location>
+<position position="192"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="93"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="105"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="141"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="142"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="179"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="187"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="227"/>
+<end position="331"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAI02998." ref="3" evidence="7">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4" evidence="7">
+<original>F</original>
+<variation>E</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4" evidence="7">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4" evidence="7">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="86"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="94"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="104"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="108"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="135"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="143"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="149"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="155"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="178"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="188"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="193"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="220"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="226"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="236"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="249"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="257"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="264"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="274"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="291"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="309"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="318"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="321"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="324"/>
+<end position="330"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10088"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10089"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10090"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3379063"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="335" mass="36661" checksum="865794C8B7F2AED1" modified="2006-05-30" version="5" precursor="true">
+MWRLLATLSCLLVLTSARSSLYFPPLSDELVNFVNKQNTTWKAGHNFYNVDLSYVKKLCG
+AILGGPKLPQRDAFAADVVLPESFDAREQWPNCPTIKEIRDQGSCGSCWAFGAVEAISDR
+ICIHSNGRVNVEVSAEDMLTCCGGECGDGCNGGFPSGAWNFWTKKGLVSGGLYNSHVGCR
+PYSIPPCEHHVNGSRPPCTGEGDTPKCSKTCEPGYSPSYKEDKHFGCSSYSVANNEKEIM
+AEIYKNGPVEGAFSVYSDFLLYKSGVYQHVSGEIMGGHAIRILGWGVENGTPYWLVGNSW
+NTDWGDNGFFKILRGQDHCGIESEIVAGMPCTHQY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

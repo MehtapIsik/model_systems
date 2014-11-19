@@ -1,0 +1,5196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2014-10-29" version="188">
+<accession>P02766</accession>
+<accession>Q549C7</accession>
+<accession>Q6IB96</accession>
+<accession>Q9UBZ6</accession>
+<accession>Q9UCM9</accession>
+<name>TTHY_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Transthyretin</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>ATTR</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Prealbumin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>TBPA</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">TTR</name>
+<name type="synonym">PALB</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="Biochem. Biophys. Res. Commun." volume="124" first="558" last="564">
+<title>Cloning and sequence analysis of cDNA for human prealbumin.</title>
+<authorList>
+<person name="Mita S."/>
+<person name="Maeda S."/>
+<person name="Shimada K."/>
+<person name="Araki S."/>
+</authorList>
+<dbReference type="PubMed" id="6093805"/>
+<dbReference type="DOI" id="10.1016/0006-291X(84)91590-0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Biochem. Biophys. Res. Commun." volume="129" first="753" last="758">
+<title>Localization of the human prealbumin gene to chromosome 18.</title>
+<authorList>
+<person name="Wallace M.R."/>
+<person name="Naylor S.L."/>
+<person name="Kluve-Beckerman B."/>
+<person name="Long G.L."/>
+<person name="McDonald L."/>
+<person name="Shows T.B."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="2990465"/>
+<dbReference type="DOI" id="10.1016/0006-291X(85)91956-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1985" name="Gene" volume="37" first="191" last="197">
+<title>Structure of the chromosomal gene for human serum prealbumin.</title>
+<authorList>
+<person name="Sasaki H."/>
+<person name="Yoshioka N."/>
+<person name="Takagi Y."/>
+<person name="Sakaki Y."/>
+</authorList>
+<dbReference type="PubMed" id="4054629"/>
+<dbReference type="DOI" id="10.1016/0378-1119(85)90272-0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1985" name="J. Biol. Chem." volume="260" first="12224" last="12227">
+<title>Structure of the human prealbumin gene.</title>
+<authorList>
+<person name="Tsuzuki T."/>
+<person name="Mita S."/>
+<person name="Maeda S."/>
+<person name="Araki S."/>
+<person name="Shimada K."/>
+</authorList>
+<dbReference type="PubMed" id="2995367"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1986" name="J. Biochem." volume="100" first="1215" last="1222">
+<title>Analyses of prealbumin mRNAs in individuals with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Mita S."/>
+<person name="Maeda S."/>
+<person name="Shimada K."/>
+<person name="Araki S."/>
+</authorList>
+<dbReference type="PubMed" id="3818577"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>VARIANT AMYL-TTR MET-50</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1986" name="Mol. Biol. Med." volume="3" first="329" last="338">
+<title>Structure and expression of the mutant prealbumin gene associated with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Maeda S."/>
+<person name="Mita S."/>
+<person name="Araki S."/>
+<person name="Shimada K."/>
+</authorList>
+<dbReference type="PubMed" id="3022108"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANT AMYL-TTR MET-50</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1991" name="FEBS Lett." volume="281" first="177" last="180">
+<title>The transthyretin cDNA sequence is normal in transthyretin-derived senile systemic amyloidosis.</title>
+<authorList>
+<person name="Christmanson L."/>
+<person name="Betsholtz C."/>
+<person name="Gustavsson A."/>
+<person name="Johansson B."/>
+<person name="Sletten K."/>
+<person name="Westermark P."/>
+</authorList>
+<dbReference type="PubMed" id="2015890"/>
+<dbReference type="DOI" id="10.1016/0014-5793(91)80387-I"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>PROTEIN SEQUENCE OF 22-28</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1991" name="Sci. China, Ser. B, Chem. Life Sci. Earth Sci." volume="34" first="1312" last="1318">
+<title>Transthyretin (prealbumin) gene in human primary hepatic cancer.</title>
+<authorList>
+<person name="Gu J.R."/>
+<person name="Jiang H.Q."/>
+<person name="He L.P."/>
+<person name="Li D.Z."/>
+<person name="Zhou X.M."/>
+<person name="Dai W.L."/>
+<person name="Qian L.F."/>
+<person name="Chen Y.Q."/>
+<person name="Schweinfest C."/>
+<person name="Papas T."/>
+</authorList>
+<dbReference type="PubMed" id="1666289"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1999" name="Exp. Eye Res." volume="68" first="629" last="636">
+<title>Transthyretin localization in cultured and native human retinal pigment epithelium.</title>
+<authorList>
+<person name="Getz R.K."/>
+<person name="Kennedy B.G."/>
+<person name="Mangini N.J."/>
+</authorList>
+<dbReference type="PubMed" id="10328977"/>
+<dbReference type="DOI" id="10.1006/exer.1998.0646"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<tissue>Retina</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Corpus callosum</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="12">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Ebert L."/>
+<person name="Schick M."/>
+<person name="Neubert P."/>
+<person name="Schatten R."/>
+<person name="Henze S."/>
+<person name="Korn B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="13">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1974" name="J. Biol. Chem." volume="249" first="6796" last="6805">
+<title>The amino acid sequence of human plasma prealbumin.</title>
+<authorList>
+<person name="Kanda Y."/>
+<person name="Goodman D.S."/>
+<person name="Canfield R.E."/>
+<person name="Morgan F.J."/>
+</authorList>
+<dbReference type="PubMed" id="4607556"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-147</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1983" name="Proc. Natl. Acad. Sci. U.S.A." volume="80" first="539" last="542">
+<title>Primary structure of an amyloid prealbumin variant in familial polyneuropathy of Jewish origin.</title>
+<authorList>
+<person name="Pras M."/>
+<person name="Prelli F."/>
+<person name="Franklin E.C."/>
+<person name="Frangione B."/>
+</authorList>
+<dbReference type="PubMed" id="6300852"/>
+<dbReference type="DOI" id="10.1073/pnas.80.2.539"/>
+</citation>
+<scope>PRELIMINARY PROTEIN SEQUENCE OF 21-147</scope>
+<scope>VARIANT SER-26</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1983" name="Biochem. Biophys. Res. Commun." volume="116" first="880" last="888">
+<title>Identification of amyloid prealbumin variant in familial amyloidotic polyneuropathy (Japanese type).</title>
+<authorList>
+<person name="Tawara S."/>
+<person name="Nakazato M."/>
+<person name="Kangawa K."/>
+<person name="Matsuo H."/>
+<person name="Araki S."/>
+</authorList>
+<dbReference type="PubMed" id="6651852"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(83)80224-1"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-147</scope>
+<scope>VARIANT AMYL-TTR MET-50</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1984" name="Proc. Natl. Acad. Sci. U.S.A." volume="81" first="694" last="698">
+<title>Primary structure of an amyloid prealbumin and its plasma precursor in a heredofamilial polyneuropathy of Swedish origin.</title>
+<authorList>
+<person name="Dwulet F.E."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="6583672"/>
+<dbReference type="DOI" id="10.1073/pnas.81.3.694"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-147</scope>
+<scope>VARIANT AMYL-TTR MET-50</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1988" name="Biochem. Biophys. Res. Commun." volume="154" first="648" last="653">
+<title>Evidence that the amyloid fibril protein in senile systemic amyloidosis is derived from normal prealbumin.</title>
+<authorList>
+<person name="Cornwell G.G. III"/>
+<person name="Sletten K."/>
+<person name="Johansson B."/>
+<person name="Westermark P."/>
+</authorList>
+<dbReference type="PubMed" id="3135807"/>
+<dbReference type="DOI" id="10.1016/0006-291X(88)90188-X"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-147</scope>
+<scope>VARIANT AMYL-TTR ILE-142</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1992" name="J. Neurol. Sci." volume="108" first="178" last="183">
+<title>Characterization of a transthyretin-related amyloid fibril protein from cerebral amyloid angiopathy in type I familial amyloid polyneuropathy.</title>
+<authorList>
+<person name="Kametani F."/>
+<person name="Ikeda S."/>
+<person name="Yanagisawa N."/>
+<person name="Ishi T."/>
+<person name="Hanyu N."/>
+</authorList>
+<dbReference type="PubMed" id="1517749"/>
+<dbReference type="DOI" id="10.1016/0022-510X(92)90048-P"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-147</scope>
+<scope>VARIANT AMYL-TTR MET-50</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2003" name="Nat. Biotechnol." volume="21" first="566" last="569">
+<title>Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides.</title>
+<authorList>
+<person name="Gevaert K."/>
+<person name="Goethals M."/>
+<person name="Martens L."/>
+<person name="Van Damme J."/>
+<person name="Staes A."/>
+<person name="Thomas G.R."/>
+<person name="Vandekerckhove J."/>
+</authorList>
+<dbReference type="PubMed" id="12665801"/>
+<dbReference type="DOI" id="10.1038/nbt810"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 21-41</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1991" name="Biochim. Biophys. Acta" volume="1097" first="183" last="186">
+<title>A second transthyretin mutation at position 33 (Leu/Phe) associated with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Harding J."/>
+<person name="Skare J."/>
+<person name="Skinner M."/>
+</authorList>
+<dbReference type="PubMed" id="1932142"/>
+<dbReference type="DOI" id="10.1016/0925-4439(91)90033-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-67</scope>
+<scope>VARIANT AMYL-TTR LEU-53</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="1994" name="Clin. Genet." volume="45" first="281" last="284">
+<title>Two transthyretin mutations (Glu42Gly, His90Asn) in an Italian family with amyloidosis.</title>
+<authorList>
+<person name="Skare J.C."/>
+<person name="Jones L.A."/>
+<person name="Myles N."/>
+<person name="Kane K."/>
+<person name="Milunsky A."/>
+<person name="Cohen A.S."/>
+<person name="Skinner M."/>
+</authorList>
+<dbReference type="PubMed" id="7923855"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 24-67</scope>
+<scope>VARIANT AMYL-TTR GLY-62</scope>
+<scope>VARIANT ASN-110</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="1985" name="J. Biol. Chem." volume="260" first="11793" last="11798">
+<title>Demonstration of transthyretin mRNA in the brain and other extrahepatic tissues in the rat.</title>
+<authorList>
+<person name="Soprano D.R."/>
+<person name="Herbert J."/>
+<person name="Soprano K.J."/>
+<person name="Schon E.A."/>
+<person name="Goodman D.S."/>
+</authorList>
+<dbReference type="PubMed" id="4044580"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 31-147</scope>
+</reference>
+<reference key="25">
+<citation type="submission" date="2008-12" db="UniProtKB">
+<authorList>
+<person name="Lubec G."/>
+<person name="Vishwanath V."/>
+<person name="Chen W.-Q."/>
+<person name="Sun Y."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 42-68; 101-123 AND 125-146</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Cajal-Retzius cell</tissue>
+<tissue>Fetal brain cortex</tissue>
+</source>
+</reference>
+<reference key="26">
+<citation type="journal article" date="1990" name="J. Clin. Invest." volume="86" first="2025" last="2033">
+<title>A point mutation in transthyretin increases affinity for thyroxine and produces euthyroid hyperthyroxinemia.</title>
+<authorList>
+<person name="Moses A.C."/>
+<person name="Rosen H.N."/>
+<person name="Moller D.E."/>
+<person name="Tsuzaki S."/>
+<person name="Haddow J.E."/>
+<person name="Lawlor J."/>
+<person name="Liepnieks J.J."/>
+<person name="Nichols W.C."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="1979335"/>
+<dbReference type="DOI" id="10.1172/JCI114938"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 113-129</scope>
+<scope>VARIANT HTDE THR-129</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="1995" name="Lab. Invest." volume="73" first="703" last="708">
+<title>Amyloid fibril composition and transthyretin gene structure in senile systemic amyloidosis.</title>
+<authorList>
+<person name="Gustavsson A."/>
+<person name="Jahr H."/>
+<person name="Tobiassen R."/>
+<person name="Jacobson D.R."/>
+<person name="Sletten K."/>
+<person name="Westermark P."/>
+</authorList>
+<dbReference type="PubMed" id="7474944"/>
+</citation>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="1977" name="Nature" volume="268" first="115" last="120">
+<title>Protein-DNA and protein-hormone interactions in prealbumin: a model of the thyroid hormone nuclear receptor?</title>
+<authorList>
+<person name="Blake C.C.F."/>
+<person name="Oatley S.J."/>
+</authorList>
+<dbReference type="PubMed" id="201845"/>
+<dbReference type="DOI" id="10.1038/268115a0"/>
+</citation>
+<scope>BINDING SITES FOR THYROID HORMONES</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="1986" name="Neurology" volume="36" first="900" last="911">
+<title>Transthyretin: a choroid plexus-specific transport protein in human brain. The 1986 S. Weir Mitchell award.</title>
+<authorList>
+<person name="Herbert J."/>
+<person name="Wilcox J.N."/>
+<person name="Pham K.T."/>
+<person name="Fremeau R.T. Jr."/>
+<person name="Zeviani M."/>
+<person name="Dwork A."/>
+<person name="Soprano D.R."/>
+<person name="Makover A."/>
+<person name="Goodman D.S."/>
+<person name="Zimmerman E.A."/>
+<person name="Roberts J.L."/>
+<person name="Schon E.A."/>
+</authorList>
+<dbReference type="PubMed" id="3714052"/>
+<dbReference type="DOI" id="10.1212/WNL.36.7.900"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2004" name="Proteomics" volume="4" first="454" last="465">
+<title>Screening for N-glycosylated proteins by liquid chromatography mass spectrometry.</title>
+<authorList>
+<person name="Bunkenborg J."/>
+<person name="Pilch B.J."/>
+<person name="Podtelejnikov A.V."/>
+<person name="Wisniewski J.R."/>
+</authorList>
+<dbReference type="PubMed" id="14760718"/>
+<dbReference type="DOI" id="10.1002/pmic.200300556"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Plasma</tissue>
+</source>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2005" name="J. Proteome Res." volume="4" first="2070" last="2080">
+<title>Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.</title>
+<authorList>
+<person name="Liu T."/>
+<person name="Qian W.-J."/>
+<person name="Gritsenko M.A."/>
+<person name="Camp D.G. II"/>
+<person name="Monroe M.E."/>
+<person name="Moore R.J."/>
+<person name="Smith R.D."/>
+</authorList>
+<dbReference type="PubMed" id="16335952"/>
+<dbReference type="DOI" id="10.1021/pr0502065"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-118</scope>
+<source>
+<tissue>Plasma</tissue>
+</source>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2008" name="Protein Pept. Lett." volume="15" first="43" last="46">
+<title>Detection of a gamma-carboxy-glutamate as novel post-translational modification of human transthyretin.</title>
+<authorList>
+<person name="Rueggeberg S."/>
+<person name="Horn P."/>
+<person name="Li X."/>
+<person name="Vajkoczy P."/>
+<person name="Franz T."/>
+</authorList>
+<dbReference type="PubMed" id="18221012"/>
+<dbReference type="DOI" id="10.2174/092986608783330297"/>
+</citation>
+<scope>GAMMA-CARBOXYGLUTAMATION AT GLU-62</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<tissue>Cerebrospinal fluid</tissue>
+</source>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2009" name="Cell" volume="136" first="272" last="283">
+<title>Cotranslational and posttranslational N-glycosylation of polypeptides by distinct mammalian OST isoforms.</title>
+<authorList>
+<person name="Ruiz-Canada C."/>
+<person name="Kelleher D.J."/>
+<person name="Gilmore R."/>
+</authorList>
+<dbReference type="PubMed" id="19167329"/>
+<dbReference type="DOI" id="10.1016/j.cell.2008.11.047"/>
+</citation>
+<scope>GLYCOSYLATION AT ASN-118</scope>
+<scope>CHARACTERIZATION OF VARIANT AMYL-TTR GLY-38</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1974" name="J. Mol. Biol." volume="88" first="1" last="12">
+<title>Structure of human plasma prealbumin at 2.5-A resolution. A preliminary report on the polypeptide chain conformation, quaternary structure and thyroxine binding.</title>
+<authorList>
+<person name="Blake C.C.F."/>
+<person name="Geisow M.J."/>
+<person name="Swan I.D.A."/>
+<person name="Rerat C."/>
+<person name="Rerat B."/>
+</authorList>
+<dbReference type="PubMed" id="4216640"/>
+<dbReference type="DOI" id="10.1016/0022-2836(74)90291-5"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS)</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1978" name="J. Mol. Biol." volume="121" first="339" last="356">
+<title>Structure of prealbumin: secondary, tertiary and quaternary interactions determined by Fourier refinement at 1.8 A.</title>
+<authorList>
+<person name="Blake C.C.F."/>
+<person name="Geisow M.J."/>
+<person name="Oatley S.J."/>
+<person name="Rerat B."/>
+<person name="Rerat C."/>
+</authorList>
+<dbReference type="PubMed" id="671542"/>
+<dbReference type="DOI" id="10.1016/0022-2836(78)90368-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS)</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1993" name="EMBO J." volume="12" first="735" last="741">
+<title>Structure of Met30 variant of transthyretin and its amyloidogenic implications.</title>
+<authorList>
+<person name="Terry C.J."/>
+<person name="Damas A.M."/>
+<person name="Oliveira P."/>
+<person name="Saraiva M.J.M."/>
+<person name="Alves I.L."/>
+<person name="Costa P.P."/>
+<person name="Matias P.M."/>
+<person name="Sakaki Y."/>
+<person name="Blake C.C.F."/>
+</authorList>
+<dbReference type="PubMed" id="8382610"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF VARIANT AMYL-TTR MET-50</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="2416" last="2424">
+<title>The X-ray crystal structure refinements of normal human transthyretin and the amyloidogenic Val-30-->Met variant to 1.7-A resolution.</title>
+<authorList>
+<person name="Hamilton J.A."/>
+<person name="Steinrauf L.K."/>
+<person name="Braden B.C."/>
+<person name="Liepnieks J."/>
+<person name="Benson M.D."/>
+<person name="Holmgren G."/>
+<person name="Sandgren O."/>
+<person name="Steen L."/>
+</authorList>
+<dbReference type="PubMed" id="8428915"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF VARIANT AMYL-TTR MET-50</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="1995" name="Science" volume="268" first="1039" last="1041">
+<title>Structure of a complex of two plasma proteins: transthyretin and retinol-binding protein.</title>
+<authorList>
+<person name="Monaco H.L."/>
+<person name="Rizzi M."/>
+<person name="Coda A."/>
+</authorList>
+<dbReference type="PubMed" id="7754382"/>
+<dbReference type="DOI" id="10.1126/science.7754382"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF COMPLEX WITH RBP</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="1998" name="Amyloid" volume="5" first="175" last="187">
+<title>Tertiary structures of amyloidogenic and non-amyloidogenic transthyretin variants: new model for amyloid fibril formation.</title>
+<authorList>
+<person name="Schormann N."/>
+<person name="Murrell J.R."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="9818054"/>
+<dbReference type="DOI" id="10.3109/13506129809003843"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF VARIANTS</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="24715" last="24722">
+<title>The crystal structure of amyloidogenic Leu55 --> Pro transthyretin variant reveals a possible pathway for transthyretin polymerization into amyloid fibrils.</title>
+<authorList>
+<person name="Sebastiao M.P."/>
+<person name="Saraiva M.J."/>
+<person name="Damas A.M."/>
+</authorList>
+<dbReference type="PubMed" id="9733771"/>
+<dbReference type="DOI" id="10.1074/jbc.273.38.24715"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 21-147 OF VARIANT AMYL-TTR PRO-75</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="1998" name="Proc. Natl. Acad. Sci. U.S.A." volume="95" first="12956" last="12960">
+<title>Inhibiting transthyretin conformational changes that lead to amyloid fibril formation.</title>
+<authorList>
+<person name="Peterson S.A."/>
+<person name="Klabunde T."/>
+<person name="Lashuel H.A."/>
+<person name="Purkey H."/>
+<person name="Sacchettini J.C."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="9789022"/>
+<dbReference type="DOI" id="10.1073/pnas.95.22.12956"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="2647" last="2653">
+<title>The structure of human retinol-binding protein (RBP) with its carrier protein transthyretin reveals an interaction with the carboxy terminus of RBP.</title>
+<authorList>
+<person name="Naylor H.M."/>
+<person name="Newcomer M.E."/>
+</authorList>
+<dbReference type="PubMed" id="10052934"/>
+<dbReference type="DOI" id="10.1021/bi982291i"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF COMPLEX WITH RBP4</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2000" name="J. Mol. Biol." volume="302" first="649" last="669">
+<title>A comparative analysis of 23 structures of the amyloidogenic protein transthyretin.</title>
+<authorList>
+<person name="Hoernberg A."/>
+<person name="Eneqvist T."/>
+<person name="Olofsson A."/>
+<person name="Lundgren E."/>
+<person name="Sauer-Eriksson A.E."/>
+</authorList>
+<dbReference type="PubMed" id="10986125"/>
+<dbReference type="DOI" id="10.1006/jmbi.2000.4078"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.3 ANGSTROMS) OF 21-147</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2000" name="Nat. Struct. Biol." volume="7" first="312" last="321">
+<title>Rational design of potent human transthyretin amyloid disease inhibitors.</title>
+<authorList>
+<person name="Klabunde T."/>
+<person name="Petrassi H.M."/>
+<person name="Oza V.B."/>
+<person name="Raman P."/>
+<person name="Kelly J.W."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="10742177"/>
+<dbReference type="DOI" id="10.1038/74082"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2001" name="Biochemistry" volume="40" first="11442" last="11452">
+<title>An engineered transthyretin monomer that is nonamyloidogenic, unless it is partially denatured.</title>
+<authorList>
+<person name="Jiang X."/>
+<person name="Smith C.S."/>
+<person name="Petrassi H.M."/>
+<person name="Hammarstroem P."/>
+<person name="White J.T."/>
+<person name="Sacchettini J.C."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="11560492"/>
+<dbReference type="DOI" id="10.1021/bi011194d"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 21-147</scope>
+<scope>MUTAGENESIS OF PHE-107 AND LEU-130</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>FORMATION OF AMYLOID FIBERS AT ACIDIC PH</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2001" name="J. Mol. Biol." volume="306" first="733" last="744">
+<title>Transthyretin stability as a key factor in amyloidogenesis: X-ray analysis at atomic resolution.</title>
+<authorList>
+<person name="Sebastiao M.P."/>
+<person name="Lamzin V."/>
+<person name="Saraiva M.J."/>
+<person name="Damas A.M."/>
+</authorList>
+<dbReference type="PubMed" id="11243784"/>
+<dbReference type="DOI" id="10.1006/jmbi.2000.4415"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.1 ANGSTROMS) OF 30-144 OF VARIANT AMYL-TTR MET-50 AND VARIANT CHICAGO MET-139 IN COMPLEX WITH L-THYROXINE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2002" name="Biochemistry" volume="41" first="13143" last="13151">
+<title>Disulfide-bond formation in the transthyretin mutant Y114C prevents amyloid fibril formation in vivo and in vitro.</title>
+<authorList>
+<person name="Eneqvist T."/>
+<person name="Olofsson A."/>
+<person name="Ando Y."/>
+<person name="Miyakawa T."/>
+<person name="Katsuragi S."/>
+<person name="Jass J."/>
+<person name="Lundgren E."/>
+<person name="Sauer-Eriksson A.E."/>
+</authorList>
+<dbReference type="PubMed" id="12403615"/>
+<dbReference type="DOI" id="10.1021/bi025800w"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 21-147 OF VARIANT AMYL-TTR CYS-134</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2003" name="Angew. Chem. Int. Ed." volume="42" first="2758" last="2761">
+<title>Benzoxazoles as transthyretin amyloid fibril inhibitors: synthesis, evaluation, and mechanism of action.</title>
+<authorList>
+<person name="Razavi H."/>
+<person name="Palaninathan S.K."/>
+<person name="Powers E.T."/>
+<person name="Wiseman R.L."/>
+<person name="Purkey H.E."/>
+<person name="Mohamedmohaideen N.N."/>
+<person name="Deechongkit S."/>
+<person name="Chiang K.P."/>
+<person name="Dendle M.T.A."/>
+<person name="Sacchettini J.C."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="12820260"/>
+<dbReference type="DOI" id="10.1002/anie.200351179"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) OF 21-147IN COMPLEX WITH AMYLOIDOGENESIS INHIBITORS</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2003" name="J. Am. Chem. Soc." volume="125" first="13404" last="13414">
+<title>Synthesis and characterization of potent bivalent amyloidosis inhibitors that bind prior to transthyretin tetramerization.</title>
+<authorList>
+<person name="Green N.S."/>
+<person name="Palaninathan S.K."/>
+<person name="Sacchettini J.C."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="14583036"/>
+<dbReference type="DOI" id="10.1021/ja030294z"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.46 ANGSTROMS) OF 21-147 IN COMPLEX WITH AMYLOIDOGENESIS INHIBITORS</scope>
+<scope>FIBRIL FORMATION</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2004" name="J. Med. Chem." volume="47" first="355" last="374">
+<title>Diflunisal analogues stabilize the native state of transthyretin. Potent inhibition of amyloidogenesis.</title>
+<authorList>
+<person name="Adamski-Werner S.L."/>
+<person name="Palaninathan S.K."/>
+<person name="Sacchettini J.C."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="14711308"/>
+<dbReference type="DOI" id="10.1021/jm030347n"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) OF 21-147 IN COMPLEX WITH DIFLUNISAL ANALOGS</scope>
+<scope>INHIBITION OF AMYLOID FORMATION</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2005" name="Acta Crystallogr. D" volume="61" first="333" last="339">
+<title>X-ray crystallographic studies of two transthyretin variants: further insights into amyloidogenesis.</title>
+<authorList>
+<person name="Neto-Silva R.M."/>
+<person name="Macedo-Ribeiro S."/>
+<person name="Pereira P.J.B."/>
+<person name="Coll M."/>
+<person name="Saraiva M.J."/>
+<person name="Damas A.M."/>
+</authorList>
+<dbReference type="PubMed" id="15735344"/>
+<dbReference type="DOI" id="10.1107/S0907444904034316"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) OF 21-147 OF VARIANT AMYL-TTR PHE-98 AND VARIANT HIS-124</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2005" name="Biochemistry" volume="44" first="9290" last="9299">
+<title>The effect of iodide and chloride on transthyretin structure and stability.</title>
+<authorList>
+<person name="Hoernberg A."/>
+<person name="Hultdin U.W."/>
+<person name="Olofsson A."/>
+<person name="Sauer-Eriksson A.E."/>
+</authorList>
+<dbReference type="PubMed" id="15981995"/>
+<dbReference type="DOI" id="10.1021/bi050249z"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 21-147 IN COMPLEXES WITH CHLORIDE AND IODIDE IONS</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="2005" name="Biochemistry" volume="44" first="13063" last="13070">
+<title>Cys114-linked dimers of transthyretin are compatible with amyloid formation.</title>
+<authorList>
+<person name="Karlsson A."/>
+<person name="Olofsson A."/>
+<person name="Eneqvist T."/>
+<person name="Sauer-Eriksson A.E."/>
+</authorList>
+<dbReference type="PubMed" id="16185074"/>
+<dbReference type="DOI" id="10.1021/bi050795s"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 21-147 OF VARIANT AMYL-TTR CYS-134</scope>
+</reference>
+<reference key="54">
+<citation type="journal article" date="2005" name="J. Am. Chem. Soc." volume="127" first="5540" last="5551">
+<title>Kinetic stabilization of an oligomeric protein by a single ligand binding event.</title>
+<authorList>
+<person name="Wiseman R.L."/>
+<person name="Johnson S.M."/>
+<person name="Kelker M.S."/>
+<person name="Foss T."/>
+<person name="Wilson I.A."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="15826192"/>
+<dbReference type="DOI" id="10.1021/ja042929f"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.69 ANGSTROMS) OF 21-147 IN COMPLEX WITH THYROID HORMONE ANALOG</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="55">
+<citation type="journal article" date="2005" name="J. Mol. Biol." volume="347" first="841" last="854">
+<title>Kinetic stabilization of the native state by protein engineering: implications for inhibition of transthyretin amyloidogenesis.</title>
+<authorList>
+<person name="Foss T.R."/>
+<person name="Kelker M.S."/>
+<person name="Wiseman R.L."/>
+<person name="Wilson I.A."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="15769474"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2005.01.050"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.36 ANGSTROMS) OF 31-147</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="56">
+<citation type="journal article" date="2006" name="Acta Crystallogr. D" volume="62" first="512" last="519">
+<title>The binding of 2,4-dinitrophenol to wild-type and amyloidogenic transthyretin.</title>
+<authorList>
+<person name="Morais-de-Sa E."/>
+<person name="Neto-Silva R.M."/>
+<person name="Pereira P.J.B."/>
+<person name="Saraiva M.J."/>
+<person name="Damas A.M."/>
+</authorList>
+<dbReference type="PubMed" id="16627944"/>
+<dbReference type="DOI" id="10.1107/S0907444906006962"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 21-147 OF WILD-TYPE AND VARIANTS AMYL-TTR PRO-75 AND PHE-98</scope>
+</reference>
+<reference key="57">
+<citation type="journal article" date="2007" name="Biochim. Biophys. Acta" volume="1774" first="59" last="64">
+<title>Structural basis for the protective role of sulfite against transthyretin amyloid formation.</title>
+<authorList>
+<person name="Gales L."/>
+<person name="Saraiva M.J."/>
+<person name="Damas A.M."/>
+</authorList>
+<dbReference type="PubMed" id="17175208"/>
+<dbReference type="DOI" id="10.1016/j.bbapap.2006.10.015"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.45 ANGSTROMS) OF 21-147</scope>
+</reference>
+<reference key="58">
+<citation type="journal article" date="2007" name="J. Mol. Biol." volume="366" first="711" last="719">
+<title>Acidic pH-induced conformational changes in amyloidogenic mutant transthyretin.</title>
+<authorList>
+<person name="Pasquato N."/>
+<person name="Berni R."/>
+<person name="Folli C."/>
+<person name="Alfieri B."/>
+<person name="Cendron L."/>
+<person name="Zanotti G."/>
+</authorList>
+<dbReference type="PubMed" id="17196219"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2006.11.076"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 21-147</scope>
+</reference>
+<reference key="59">
+<citation type="journal article" date="2008" name="Biochim. Biophys. Acta" volume="1784" first="512" last="517">
+<title>Iodination of salicylic acid improves its binding to transthyretin.</title>
+<authorList>
+<person name="Gales L."/>
+<person name="Almeida M.R."/>
+<person name="Arsequell G."/>
+<person name="Valencia G."/>
+<person name="Saraiva M.J."/>
+<person name="Damas A.M."/>
+</authorList>
+<dbReference type="PubMed" id="18155178"/>
+<dbReference type="DOI" id="10.1016/j.bbapap.2007.11.014"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) OF 21-147 IN COMPLEX WITH 3,5-DIIODOSALICYLIC ACID</scope>
+<scope>THYROXINE BINDING</scope>
+</reference>
+<reference key="60">
+<citation type="journal article" date="2008" name="FEBS J." volume="275" first="5841" last="5854">
+<title>Structural and mutational analyses of protein-protein interactions between transthyretin and retinol-binding protein.</title>
+<authorList>
+<person name="Zanotti G."/>
+<person name="Folli C."/>
+<person name="Cendron L."/>
+<person name="Alfieri B."/>
+<person name="Nishida S.K."/>
+<person name="Gliubich F."/>
+<person name="Pasquato N."/>
+<person name="Negro A."/>
+<person name="Berni R."/>
+</authorList>
+<dbReference type="PubMed" id="19021760"/>
+<dbReference type="DOI" id="10.1111/j.1742-4658.2008.06705.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.38 ANGSTROMS) OF 21-147 IN COMPLEX WITH RBP4</scope>
+</reference>
+<reference key="61">
+<citation type="journal article" date="2008" name="J. Med. Chem." volume="51" first="260" last="270">
+<title>Biochemical and structural evaluation of highly selective 2-arylbenzoxazole-based transthyretin amyloidogenesis inhibitors.</title>
+<authorList>
+<person name="Johnson S.M."/>
+<person name="Connelly S."/>
+<person name="Wilson I.A."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="18095641"/>
+<dbReference type="DOI" id="10.1021/jm0708735"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.3 ANGSTROMS) OF 21-147 IN COMPLEX WITH 2-ARYLBENZOXAZOLE-BASED TRANSTHYRETIN AMYLOIDOGENESIS INHIBITORS</scope>
+</reference>
+<reference key="62">
+<citation type="journal article" date="2008" name="J. Med. Chem." volume="51" first="6348" last="6358">
+<title>Toward optimization of the linker substructure common to transthyretin amyloidogenesis inhibitors using biochemical and structural studies.</title>
+<authorList>
+<person name="Johnson S.M."/>
+<person name="Connelly S."/>
+<person name="Wilson I.A."/>
+<person name="Kelly J.W."/>
+</authorList>
+<dbReference type="PubMed" id="18811132"/>
+<dbReference type="DOI" id="10.1021/jm800435s"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) OF 21-147 IN COMPLEX WITH BISARYL AMYLOIDOGENESIS INHIBITORS</scope>
+</reference>
+<reference key="63">
+<citation type="journal article" date="2008" name="J. Mol. Biol." volume="382" first="1157" last="1167">
+<title>Structural insight into pH-induced conformational changes within the native human transthyretin tetramer.</title>
+<authorList>
+<person name="Palaninathan S.K."/>
+<person name="Mohamedmohaideen N.N."/>
+<person name="Snee W.C."/>
+<person name="Kelly J.W."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="18662699"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2008.07.029"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.72 ANGSTROMS) OF 21-147 AT PH 3.5 AND 4.5</scope>
+</reference>
+<reference key="64">
+<citation type="submission" date="2008-07" db="PDB data bank">
+<title>Crystal structure of the F87M/L110M mutant of human transthyretin at pH 4.6 soaked.</title>
+<authorList>
+<consortium name="Mycobacterium tuberculosis structural genomics consortium (TB)"/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.38 ANGSTROMS) OF 21-147</scope>
+</reference>
+<reference key="65">
+<citation type="journal article" date="1995" name="Hum. Mutat." volume="5" first="191" last="196">
+<title>Transthyretin mutations in health and disease.</title>
+<authorList>
+<person name="Saraiva M.J.M."/>
+</authorList>
+<dbReference type="PubMed" id="7599630"/>
+<dbReference type="DOI" id="10.1002/humu.1380050302"/>
+</citation>
+<scope>REVIEW ON VARIANTS</scope>
+</reference>
+<reference key="66">
+<citation type="journal article" date="1984" name="Biochem. Biophys. Res. Commun." volume="123" first="921" last="928">
+<title>Revised analysis of amino acid replacement in a prealbumin variant (SKO-III) associated with familial amyloidotic polyneuropathy of Jewish origin.</title>
+<authorList>
+<person name="Nakazato M."/>
+<person name="Kangawa K."/>
+<person name="Minamino N."/>
+<person name="Tawara S."/>
+<person name="Matsuo H."/>
+<person name="Araki S."/>
+</authorList>
+<dbReference type="PubMed" id="6487335"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(84)80222-3"/>
+</citation>
+<scope>VARIANT AMYL-TTR ILE-53</scope>
+</reference>
+<reference key="67">
+<citation type="journal article" date="1986" name="J. Clin. Invest." volume="78" first="6" last="12">
+<title>Biochemical and molecular genetic characterization of a new variant prealbumin associated with hereditary amyloidosis.</title>
+<authorList>
+<person name="Wallace M.R."/>
+<person name="Dwulet F.E."/>
+<person name="Conneally P.M."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="3722385"/>
+<dbReference type="DOI" id="10.1172/JCI112573"/>
+</citation>
+<scope>VARIANT AMYL-TTR SER-104</scope>
+</reference>
+<reference key="68">
+<citation type="journal article" date="1987" name="Biochem. Biophys. Res. Commun." volume="148" first="471" last="477">
+<title>Identification and characterization of a human transthyretin variant.</title>
+<authorList>
+<person name="Strahler J.R."/>
+<person name="Rosenblum B.B."/>
+<person name="Hanash S.M."/>
+</authorList>
+<dbReference type="PubMed" id="3675594"/>
+<dbReference type="DOI" id="10.1016/0006-291X(87)91135-1"/>
+</citation>
+<scope>VARIANT VAL-136</scope>
+</reference>
+<reference key="69">
+<citation type="journal article" date="1988" name="J. Clin. Invest." volume="81" first="189" last="193">
+<title>Identification of a new hereditary amyloidosis prealbumin variant, Tyr-77, and detection of the gene by DNA analysis.</title>
+<authorList>
+<person name="Wallace M.R."/>
+<person name="Dwulet F.E."/>
+<person name="Williams E.C."/>
+<person name="Conneally P.M."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="2891727"/>
+<dbReference type="DOI" id="10.1172/JCI113293"/>
+</citation>
+<scope>VARIANT AMYL-TTR TYR-97</scope>
+</reference>
+<reference key="70">
+<citation type="journal article" date="1990" name="Biochem. Biophys. Res. Commun." volume="169" first="143" last="147">
+<title>A novel variant of transthyretin (Tyr114 to Cys) deduced from the nucleotide sequences of gene fragments from familial amyloidotic polyneuropathy in Japanese sibling cases.</title>
+<authorList>
+<person name="Ueno S."/>
+<person name="Uemichi T."/>
+<person name="Yorifuji S."/>
+<person name="Tarui S."/>
+</authorList>
+<dbReference type="PubMed" id="2161654"/>
+<dbReference type="DOI" id="10.1016/0006-291X(90)91445-X"/>
+</citation>
+<scope>VARIANT AMYL-TTR CYS-134</scope>
+</reference>
+<reference key="71">
+<citation type="journal article" date="1990" name="Biochem. Biophys. Res. Commun." volume="169" first="1117" last="1121">
+<title>Two novel variants of transthyretin identified in Japanese cases with familial amyloidotic polyneuropathy: transthyretin (Glu42 to Gly) and transthyretin (Ser50 to Arg).</title>
+<authorList>
+<person name="Ueno S."/>
+<person name="Uemichi T."/>
+<person name="Takahashi N."/>
+<person name="Soga F."/>
+<person name="Yorifuji S."/>
+<person name="Tarui S."/>
+</authorList>
+<dbReference type="PubMed" id="2363717"/>
+<dbReference type="DOI" id="10.1016/0006-291X(90)92011-N"/>
+</citation>
+<scope>VARIANTS AMYL-TTR GLY-62 AND ARG-70</scope>
+</reference>
+<reference key="72">
+<citation type="journal article" date="1991" name="Am. J. Med. Genet." volume="39" first="442" last="452">
+<title>Biochemical and clinical characterization of prealbuminCHICAGO: an apparently benign variant of serum prealbumin (transthyretin) discovered with high-resolution two-dimensional electrophoresis.</title>
+<authorList>
+<person name="Harrison H.H."/>
+<person name="Gordon E.D."/>
+<person name="Nichols W.C."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="1877623"/>
+<dbReference type="DOI" id="10.1002/ajmg.1320390415"/>
+</citation>
+<scope>VARIANT CHICAGO MET-139</scope>
+</reference>
+<reference key="73">
+<citation type="journal article" date="1991" name="Biochem. Biophys. Res. Commun." volume="180" first="380" last="385">
+<title>New mutant gene (transthyretin Arg 58) in cases with hereditary polyneuropathy detected by non-isotope method of single-strand conformation polymorphism analysis.</title>
+<authorList>
+<person name="Saeki Y."/>
+<person name="Ueno S."/>
+<person name="Yorifuji S."/>
+<person name="Sugiyama Y."/>
+<person name="Ide Y."/>
+<person name="Matsuzawa Y."/>
+</authorList>
+<dbReference type="PubMed" id="1656975"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(05)81304-X"/>
+</citation>
+<scope>VARIANT AMYL-TTR ARG-78</scope>
+</reference>
+<reference key="74">
+<citation type="journal article" date="1991" name="Clin. Genet." volume="39" first="6" last="12">
+<title>A new transthyretin variant from a patient with familial amyloidotic polyneuropathy has asparagine substituted for histidine at position 90.</title>
+<authorList>
+<person name="Skare J.C."/>
+<person name="Milunsky J.M."/>
+<person name="Milunsky A."/>
+<person name="Skare I.B."/>
+<person name="Cohen A.S."/>
+<person name="Skinner M."/>
+</authorList>
+<dbReference type="PubMed" id="1997217"/>
+</citation>
+<scope>VARIANT ASN-110</scope>
+</reference>
+<reference key="75">
+<citation type="journal article" date="1991" name="Neurology" volume="41" first="893" last="898">
+<title>Two-tiered DNA-based diagnosis of transthyretin amyloidosis reveals two novel point mutations.</title>
+<authorList>
+<person name="Li S."/>
+<person name="Minnerath S."/>
+<person name="Li K."/>
+<person name="Dyck P.J."/>
+<person name="Sommer S.S."/>
+</authorList>
+<dbReference type="PubMed" id="2046936"/>
+<dbReference type="DOI" id="10.1212/WNL.41.6.893"/>
+</citation>
+<scope>VARIANTS AMYL-TTR LEU-53 AND LEU-84</scope>
+</reference>
+<reference key="76">
+<citation type="journal article" date="1992" name="Am. J. Hum. Genet." volume="50" first="1027" last="1030">
+<title>A new transthyretin mutation associated with amyloid cardiomyopathy.</title>
+<authorList>
+<person name="Saraiva M.J.M."/>
+<person name="Almeida M.R."/>
+<person name="Sherman W."/>
+<person name="Gawinowicz M."/>
+<person name="Costa P."/>
+<person name="Costa P.P."/>
+<person name="Goodman D.S."/>
+</authorList>
+<dbReference type="PubMed" id="1570831"/>
+</citation>
+<scope>VARIANT AMYL-TTR THR-65</scope>
+</reference>
+<reference key="77">
+<citation type="journal article" date="1992" name="Biochem. Biophys. Res. Commun." volume="182" first="520" last="526">
+<title>A novel transthyretin mutation associated with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Murakami T."/>
+<person name="Maeda S."/>
+<person name="Yi S."/>
+<person name="Ikegawa S."/>
+<person name="Kawashima E."/>
+<person name="Onodera S."/>
+<person name="Shimada K."/>
+<person name="Araki S."/>
+</authorList>
+<dbReference type="PubMed" id="1734866"/>
+<dbReference type="DOI" id="10.1016/0006-291X(92)91763-G"/>
+</citation>
+<scope>VARIANT AMYL-TTR ARG-67</scope>
+</reference>
+<reference key="78">
+<citation type="journal article" date="1992" name="Biochem. Biophys. Res. Commun." volume="187" first="397" last="403">
+<title>A novel transthyretin mutation at position 30 (Leu for Val) associated with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Murakami T."/>
+<person name="Atsumi T."/>
+<person name="Maeda S."/>
+<person name="Tanase S."/>
+<person name="Ishikawa K."/>
+<person name="Mita S."/>
+<person name="Kumamoto T."/>
+<person name="Araki S."/>
+<person name="Ando M."/>
+</authorList>
+<dbReference type="PubMed" id="1520326"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(05)81506-2"/>
+</citation>
+<scope>VARIANT AMYL-TTR LEU-50</scope>
+</reference>
+<reference key="79">
+<citation type="journal article" date="1992" name="Biochem. Biophys. Res. Commun." volume="187" first="460" last="466">
+<title>Novel variant transthyretin gene (Ser50 to Ile) in familial cardiac amyloidosis.</title>
+<authorList>
+<person name="Nishi H."/>
+<person name="Kimura A."/>
+<person name="Harada H."/>
+<person name="Hayashi Y."/>
+<person name="Nakamura M."/>
+<person name="Sasazuki T."/>
+</authorList>
+<dbReference type="PubMed" id="1520336"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(05)81516-5"/>
+</citation>
+<scope>VARIANT AMYL-TTR ILE-70</scope>
+</reference>
+<reference key="80">
+<citation type="journal article" date="1992" name="Clin. Genet." volume="41" first="70" last="73">
+<title>Familial amyloidotic polyneuropathy: a new transthyretin position 30 mutation (alanine for valine) in a family of German descent.</title>
+<authorList>
+<person name="Jones L.A."/>
+<person name="Skare J.C."/>
+<person name="Cohen A.S."/>
+<person name="Harding J.A."/>
+<person name="Milunsky A."/>
+<person name="Skinner M."/>
+</authorList>
+<dbReference type="PubMed" id="1544214"/>
+</citation>
+<scope>VARIANT AMYL-TTR ALA-50</scope>
+</reference>
+<reference key="81">
+<citation type="journal article" date="1992" name="Hum. Genet." volume="89" first="353" last="356">
+<title>Transthyretin Pro55, a variant associated with early-onset, aggressive, diffuse amyloidosis with cardiac and neurologic involvement.</title>
+<authorList>
+<person name="Jacobson D.R."/>
+<person name="McFarlin D.E."/>
+<person name="Kane I."/>
+<person name="Buxbaum J.N."/>
+</authorList>
+<dbReference type="PubMed" id="1351039"/>
+<dbReference type="DOI" id="10.1007/BF00220559"/>
+</citation>
+<scope>VARIANT AMYL-TTR PRO-75</scope>
+</reference>
+<reference key="82">
+<citation type="journal article" date="1992" name="Hum. Mutat." volume="1" first="211" last="215">
+<title>Two transthyretin variants (TTR Ala-49 and TTR Gln-89) in two Sicilian kindreds with hereditary amyloidosis.</title>
+<authorList>
+<person name="Almeida M.R."/>
+<person name="Ferlini A."/>
+<person name="Forabosco A."/>
+<person name="Gawinowicz M.A."/>
+<person name="Costa P.P."/>
+<person name="Salvi F."/>
+<person name="Plasmati R."/>
+<person name="Tassinari C.A."/>
+<person name="Altland K."/>
+<person name="Saraiva M.J."/>
+</authorList>
+<dbReference type="PubMed" id="1301926"/>
+<dbReference type="DOI" id="10.1002/humu.1380010306"/>
+</citation>
+<scope>VARIANTS AMYL-TTR ALA-69 AND GLN-109</scope>
+</reference>
+<reference key="83">
+<citation type="journal article" date="1992" name="J. Med. Genet." volume="29" first="888" last="891">
+<title>A new mutant transthyretin (Arg 10) associated with familial amyloid polyneuropathy.</title>
+<authorList>
+<person name="Uemichi T."/>
+<person name="Murrel J.R."/>
+<person name="Zeldenrust S."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="1362222"/>
+<dbReference type="DOI" id="10.1136/jmg.29.12.888"/>
+</citation>
+<scope>VARIANT AMYL-TTR ARG-30</scope>
+</reference>
+<reference key="84">
+<citation type="journal article" date="1992" name="Neurology" volume="42" first="2094" last="2102">
+<title>Familial amyloidotic polyneuropathy presenting with carpal tunnel syndrome and a new transthyretin mutation, asparagine 70.</title>
+<authorList>
+<person name="Izumoto S."/>
+<person name="Younger D."/>
+<person name="Hays A.P."/>
+<person name="Martone R.L."/>
+<person name="Smith R.T."/>
+<person name="Herbert J."/>
+</authorList>
+<dbReference type="PubMed" id="1436517"/>
+<dbReference type="DOI" id="10.1212/WNL.42.11.2094"/>
+</citation>
+<scope>VARIANT AMYL-TTR ASN-90</scope>
+</reference>
+<reference key="85">
+<citation type="journal article" date="1993" name="Biochem. Biophys. Res. Commun." volume="194" first="1090" last="1096">
+<title>A basic transthyretin variant (Glu61-->Lys) causes familial amyloidotic polyneuropathy: protein and DNA sequencing and PCR-induced mutation restriction analysis.</title>
+<authorList>
+<person name="Shiomi K."/>
+<person name="Nakazato M."/>
+<person name="Matsukura S."/>
+<person name="Ohnishi A."/>
+<person name="Hatanaka H."/>
+<person name="Tsuji S."/>
+<person name="Murai Y."/>
+<person name="Kojima M."/>
+<person name="Kangawa K."/>
+<person name="Matsuo H."/>
+</authorList>
+<dbReference type="PubMed" id="8352764"/>
+<dbReference type="DOI" id="10.1006/bbrc.1993.1933"/>
+</citation>
+<scope>VARIANT AMYL-TTR LYS-81</scope>
+</reference>
+<reference key="86">
+<citation type="journal article" date="1993" name="Br. Heart J." volume="70" first="111" last="115">
+<title>Cardiac amyloidosis: a review and report of a new transthyretin (prealbumin) variant.</title>
+<authorList>
+<person name="Hesse A."/>
+<person name="Altland K."/>
+<person name="Linke R.P."/>
+<person name="Almeida M.R."/>
+<person name="Saraiva M.J.M."/>
+<person name="Steinmetz A."/>
+<person name="Maisch B."/>
+</authorList>
+<dbReference type="PubMed" id="8038017"/>
+<dbReference type="DOI" id="10.1136/hrt.70.2.111"/>
+</citation>
+<scope>VARIANT AMYL-TTR LEU-88</scope>
+</reference>
+<reference key="87">
+<citation type="journal article" date="1993" name="Hum. Mutat." volume="2" first="420" last="421">
+<title>Transthyretin Ala-71: a new transthyretin variant in a Spanish family with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Almeida M.R."/>
+<person name="Lopez-Andreu F."/>
+<person name="Munar-Ques M."/>
+<person name="Costa P.P."/>
+<person name="Saraiva M.J."/>
+</authorList>
+<dbReference type="PubMed" id="8257997"/>
+<dbReference type="DOI" id="10.1002/humu.1380020516"/>
+</citation>
+<scope>VARIANT AMYL-TTR ALA-91</scope>
+</reference>
+<reference key="88">
+<citation type="journal article" date="1993" name="J. Med. Genet." volume="30" first="120" last="122">
+<title>A transthyretin variant (alanine 71) associated with familial amyloidotic polyneuropathy in a French family.</title>
+<authorList>
+<person name="Benson M.D. II"/>
+<person name="Turpin J.C."/>
+<person name="Lucotte G."/>
+<person name="Zeldenrust S."/>
+<person name="Lechevalier B."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="8095302"/>
+<dbReference type="DOI" id="10.1136/jmg.30.2.120"/>
+</citation>
+<scope>VARIANT AMYL-TTR ALA-91</scope>
+</reference>
+<reference key="89">
+<citation type="journal article" date="1993" name="J. Rheumatol." volume="20" first="187" last="187">
+<title>Gly47Ala: a new transthyretin gene mutation in hereditary amyloidosis TTR-related.</title>
+<authorList>
+<person name="Ferlini A."/>
+<person name="Salvi F."/>
+<person name="Patrosso C."/>
+<person name="Fini S."/>
+<person name="Vezzoni P."/>
+<person name="Forbasco A."/>
+</authorList>
+</citation>
+<scope>VARIANT AMYL-TTR ALA-67</scope>
+</reference>
+<reference key="90">
+<citation type="journal article" date="1994" name="Hum. Mutat." volume="3" first="254" last="260">
+<title>A double-variant transthyretin allele (Ser 6, Ile 33) in the Israeli patient 'SKO' with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Jacobson D.R."/>
+<person name="Buxbaum J.N."/>
+</authorList>
+<dbReference type="PubMed" id="8019560"/>
+<dbReference type="DOI" id="10.1002/humu.1380030313"/>
+</citation>
+<scope>VARIANT SER-26</scope>
+<scope>VARIANT AMYL-TTR ILE-53</scope>
+</reference>
+<reference key="91">
+<citation type="journal article" date="1994" name="Hum. Mutat." volume="3" first="399" last="401">
+<title>Transthyretin VAL107, a new variant associated with familial cardiac and neuropathic amyloidosis.</title>
+<authorList>
+<person name="Jacobson D."/>
+<person name="Gertz M.A."/>
+<person name="Buxbaum J.N."/>
+</authorList>
+<dbReference type="PubMed" id="8081397"/>
+<dbReference type="DOI" id="10.1002/humu.1380030414"/>
+</citation>
+<scope>VARIANT AMYL-TTR VAL-127</scope>
+</reference>
+<reference key="92">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="23395" last="23398">
+<title>The Ile-84-->Ser amino acid substitution in transthyretin interferes with the interaction with plasma retinol-binding protein.</title>
+<authorList>
+<person name="Berni R."/>
+<person name="Malpeli G."/>
+<person name="Folli C."/>
+<person name="Murrell J.R."/>
+<person name="Liepnieks J.J."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="8089102"/>
+</citation>
+<scope>VARIANT SER-104</scope>
+<scope>RBP BINDING STUDIES</scope>
+</reference>
+<reference key="93">
+<citation type="journal article" date="1994" name="J. Med. Genet." volume="31" first="416" last="417">
+<title>Amyloid polyneuropathy in two German-American families: a new transthyretin variant (Val 107).</title>
+<authorList>
+<person name="Uemichi T."/>
+<person name="Gertz M.A."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="7914929"/>
+<dbReference type="DOI" id="10.1136/jmg.31.5.416"/>
+</citation>
+<scope>VARIANT AMYL-TTR VAL-127</scope>
+</reference>
+<reference key="94">
+<citation type="journal article" date="1994" name="J. Neurol. Sci." volume="121" first="97" last="102">
+<title>Familial amyloidotic polyneuropathy with late-onset and well-preserved autonomic function: a Japanese kindred with novel mutant transthyretin (Ala97 to Gly).</title>
+<authorList>
+<person name="Yasuda T."/>
+<person name="Sobue G."/>
+<person name="Doyu M."/>
+<person name="Nakazato M."/>
+<person name="Shiomi K."/>
+<person name="Yanagi T."/>
+<person name="Mitsuma T."/>
+</authorList>
+<dbReference type="PubMed" id="8133316"/>
+<dbReference type="DOI" id="10.1016/0022-510X(94)90162-7"/>
+</citation>
+<scope>VARIANT AMYL-TTR GLY-117</scope>
+</reference>
+<reference key="95">
+<citation type="journal article" date="1994" name="Muscle Nerve" volume="17" first="637" last="641">
+<title>Familial amyloid polyneuropathy in Taiwan: identification of transthyretin variant (Leu55-->Pro).</title>
+<authorList>
+<person name="Yamamoto K."/>
+<person name="Hsu S.P."/>
+<person name="Yoshida K."/>
+<person name="Ikeda S."/>
+<person name="Nakazato M."/>
+<person name="Shiomi K."/>
+<person name="Cheng S.Y."/>
+<person name="Furihata K."/>
+<person name="Ueno I."/>
+<person name="Yanagisawa N."/>
+</authorList>
+<dbReference type="PubMed" id="7910950"/>
+<dbReference type="DOI" id="10.1002/mus.880170611"/>
+</citation>
+<scope>VARIANT AMYL-TTR PRO-75</scope>
+</reference>
+<reference key="96">
+<citation type="journal article" date="1994" name="Neurology" volume="44" first="315" last="318">
+<title>Familial carpal tunnel syndrome due to amyloidogenic transthyretin His 114 variant.</title>
+<authorList>
+<person name="Murakami T."/>
+<person name="Tachibana S."/>
+<person name="Endo Y."/>
+<person name="Kawai R."/>
+<person name="Hara M."/>
+<person name="Tanase S."/>
+<person name="Ando M."/>
+</authorList>
+<dbReference type="PubMed" id="8309582"/>
+<dbReference type="DOI" id="10.1212/WNL.44.2.315"/>
+</citation>
+<scope>VARIANT CTS1 HIS-134</scope>
+</reference>
+<reference key="97">
+<citation type="journal article" date="1995" name="Brain" volume="118" first="849" last="856">
+<title>Transthyretin gene analysis in European patients with suspected familial amyloid polyneuropathy.</title>
+<authorList>
+<person name="Reilly M.M."/>
+<person name="Adams D."/>
+<person name="Booth D.R."/>
+<person name="Davis M.B."/>
+<person name="Said G."/>
+<person name="Laubriat-Bianchin M."/>
+<person name="Pepys M.B."/>
+<person name="Thomas P.K."/>
+<person name="Harding A.E."/>
+</authorList>
+<dbReference type="PubMed" id="7655883"/>
+<dbReference type="DOI" id="10.1093/brain/118.4.849"/>
+</citation>
+<scope>VARIANTS AMYL-TTR MET-50; ASN-55; ALA-69; ARG-70; ALA-80; TYR-97 AND GLN-109</scope>
+</reference>
+<reference key="98">
+<citation type="journal article" date="1995" name="Circulation" volume="91" first="962" last="967">
+<title>A novel variant of transthyretin, 59Thr-->Lys, associated with autosomal dominant cardiac amyloidosis in an Italian family.</title>
+<authorList>
+<person name="Booth D.R."/>
+<person name="Tan S.Y."/>
+<person name="Hawkins P.N."/>
+<person name="Pepys M.B."/>
+<person name="Frustaci A."/>
+</authorList>
+<dbReference type="PubMed" id="7850982"/>
+<dbReference type="DOI" id="10.1161/01.CIR.91.4.962"/>
+</citation>
+<scope>VARIANT AMYL-TTR LYS-79</scope>
+</reference>
+<reference key="99">
+<citation type="journal article" date="1996" name="Am. J. Pathol." volume="148" first="361" last="366">
+<title>Meningocerebrovascular amyloidosis associated with a novel transthyretin mis-sense mutation at codon 18 (TTRD 18G).</title>
+<authorList>
+<person name="Vidal R."/>
+<person name="Garzuly F."/>
+<person name="Budka H."/>
+<person name="Lalowski M."/>
+<person name="Linke R.P."/>
+<person name="Brittig F."/>
+<person name="Frangione B."/>
+<person name="Wisniewski T."/>
+</authorList>
+<dbReference type="PubMed" id="8579098"/>
+</citation>
+<scope>VARIANT AMYL-TTR GLY-38</scope>
+</reference>
+<reference key="100">
+<citation type="journal article" date="1997" name="Ann. Neurol." volume="41" first="307" last="313">
+<title>Transthyretin amyloidosis: a new mutation associated with dementia.</title>
+<authorList>
+<person name="Petersen R.B."/>
+<person name="Goren H."/>
+<person name="Cohen M."/>
+<person name="Richardson S.L."/>
+<person name="Tresser N."/>
+<person name="Lynn A."/>
+<person name="Gali M."/>
+<person name="Estes M."/>
+<person name="Gambetti P."/>
+</authorList>
+<dbReference type="PubMed" id="9066351"/>
+<dbReference type="DOI" id="10.1002/ana.410410305"/>
+</citation>
+<scope>VARIANT AMYL-TTR GLY-50</scope>
+</reference>
+<reference key="101">
+<citation type="journal article" date="1997" name="Hum. Mutat." volume="9" first="83" last="85">
+<title>Transthyretin ILE20, a new variant associated with late-onset cardiac amyloidosis.</title>
+<authorList>
+<person name="Jacobson D.R."/>
+<person name="Pan T."/>
+<person name="Kyle R.A."/>
+<person name="Buxbaum J.N."/>
+</authorList>
+<dbReference type="PubMed" id="8990019"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1997)9:1&lt;83::AID-HUMU19>3.0.CO;2-L"/>
+</citation>
+<scope>VARIANT AMYL-TTR ILE-40</scope>
+</reference>
+<reference key="102">
+<citation type="journal article" date="1998" name="Am. J. Med. Genet." volume="77" first="135" last="138">
+<title>Novel transthyretin missense mutation (Thr34) in an Italian family with hereditary amyloidosis.</title>
+<authorList>
+<person name="Patrosso M.C."/>
+<person name="Salvi F."/>
+<person name="De Grandis D."/>
+<person name="Vezzoni P."/>
+<person name="Jacobson D.R."/>
+<person name="Ferlini A."/>
+</authorList>
+<dbReference type="PubMed" id="9605286"/>
+<dbReference type="DOI" id="10.1002/(SICI)1096-8628(19980501)77:2&lt;135::AID-AJMG5>3.0.CO;2-R"/>
+</citation>
+<scope>VARIANT AMYL-TTR THR-54</scope>
+</reference>
+<reference key="103">
+<citation type="journal article" date="1998" name="Amyloid" volume="5" first="285" last="287">
+<title>A novel variant of transthyretin (Glu42Asp) associated with sporadic late-onset cardiac amyloidosis.</title>
+<authorList>
+<person name="Dupuy O."/>
+<person name="Bletry O."/>
+<person name="Blanc A.S."/>
+<person name="Droz D."/>
+<person name="Viemont M."/>
+<person name="Delpech M."/>
+<person name="Grateau G."/>
+</authorList>
+<dbReference type="PubMed" id="10036587"/>
+<dbReference type="DOI" id="10.3109/13506129809007302"/>
+</citation>
+<scope>VARIANT AMYL-TTR ASP-62</scope>
+</reference>
+<reference key="104">
+<citation type="journal article" date="1998" name="Hum. Mutat." volume="12" first="71" last="71">
+<title>New transthyretin variants Ser 91 and Ser 116 associated with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Misrahi A.M."/>
+<person name="Plante V."/>
+<person name="Lalu T."/>
+<person name="Serre I."/>
+<person name="Adams D."/>
+<person name="Lacroix D.C."/>
+<person name="Said G."/>
+</authorList>
+<dbReference type="PubMed" id="10627135"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1998)12:1&lt;71::AID-HUMU15>3.0.CO;2-7"/>
+</citation>
+<scope>VARIANTS AMYL-TTR SER-111 AND SER-136</scope>
+</reference>
+<reference key="105">
+<citation type="journal article" date="1998" name="Hum. Mutat." volume="12" first="135" last="135">
+<title>Transthyretin Ile73Val is associated with familial amyloidotic polyneuropathy in a Bangladeshi family.</title>
+<authorList>
+<person name="Booth D.R."/>
+<person name="Gillmore J.D."/>
+<person name="Persey M.R."/>
+<person name="Booth S.E."/>
+<person name="Cafferty K.D."/>
+<person name="Tennent G.A."/>
+<person name="Madhoo S."/>
+<person name="Cochrane S.W."/>
+<person name="Whitehead T.C."/>
+<person name="Pasvol G."/>
+<person name="Hawkins P.N."/>
+</authorList>
+<dbReference type="PubMed" id="10694917"/>
+<dbReference type="DOI" id="10.1002/(SICI)1098-1004(1998)12:2&lt;135::AID-HUMU9>3.0.CO;2-K"/>
+</citation>
+<scope>VARIANT AMYL-TTR VAL-93</scope>
+</reference>
+<reference key="106">
+<citation type="journal article" date="1998" name="Hum. Mutat." volume="12" first="363" last="363">
+<title>A new nonamyloid transthyretin variant, G101S, detected by electrospray ionization/mass spectrometry.</title>
+<authorList>
+<person name="Kishikawa M."/>
+<person name="Nakanishi T."/>
+<person name="Miyazaki A."/>
+<person name="Hatanaka M."/>
+<person name="Shimizu A."/>
+<person name="Tamoto S."/>
+<person name="Ohsawa N."/>
+<person name="Hayashi H."/>
+<person name="Kanai M."/>
+</authorList>
+<dbReference type="PubMed" id="10671063"/>
+</citation>
+<scope>VARIANT SER-121</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="107">
+<citation type="journal article" date="1998" name="Neurology" volume="51" first="1462" last="1464">
+<title>Transthyretin amyloidosis (serine 44) with headache, hearing loss, and peripheral neuropathy.</title>
+<authorList>
+<person name="Klein C.J."/>
+<person name="Nakumura M."/>
+<person name="Jacobson D.R."/>
+<person name="Lacy M.Q."/>
+<person name="Benson M.D."/>
+<person name="Petersen R.C."/>
+</authorList>
+<dbReference type="PubMed" id="9818883"/>
+<dbReference type="DOI" id="10.1212/WNL.51.5.1462"/>
+</citation>
+<scope>VARIANT SER-64</scope>
+</reference>
+<reference key="108">
+<citation type="journal article" date="1999" name="Amyloid" volume="6" first="54" last="58">
+<title>A new amyloidogenic transthyretin variant (Val122Ala) found in a compound heterozygous patient.</title>
+<authorList>
+<person name="Theberge R."/>
+<person name="Connors L."/>
+<person name="Skare J."/>
+<person name="Skinner M."/>
+<person name="Falk R.H."/>
+<person name="Costello C.E."/>
+</authorList>
+<dbReference type="PubMed" id="10211412"/>
+<dbReference type="DOI" id="10.3109/13506129908993288"/>
+</citation>
+<scope>VARIANT AMYL-TTR ALA-142</scope>
+<scope>VARIANT SER-26</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="109">
+<citation type="journal article" date="1999" name="Amyloid" volume="6" first="114" last="118">
+<title>A new transthyretin variant (Ser23Asn) associated with familial amyloidosis in a Portuguese patient.</title>
+<authorList>
+<person name="Connors L.H."/>
+<person name="Theberge R."/>
+<person name="Skare J."/>
+<person name="Costello C.E."/>
+<person name="Falk R.H."/>
+<person name="Skinner M."/>
+</authorList>
+<dbReference type="PubMed" id="10439117"/>
+<dbReference type="DOI" id="10.3109/13506129909007311"/>
+</citation>
+<scope>VARIANT AMYL-TTR ASN-43</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="110">
+<citation type="journal article" date="1999" name="Amyloid" volume="6" first="282" last="288">
+<title>Usefulness of MALDI/TOF mass spectrometry of immunoprecipitated serum variant transthyretin in the diagnosis of familial amyloid polyneuropathy.</title>
+<authorList>
+<person name="Tachibana N."/>
+<person name="Tokuda T."/>
+<person name="Yoshida K."/>
+<person name="Taketomi T."/>
+<person name="Nakazato M."/>
+<person name="Li Y.F."/>
+<person name="Masuda Y."/>
+<person name="Ikeda S."/>
+</authorList>
+<dbReference type="PubMed" id="10611950"/>
+<dbReference type="DOI" id="10.3109/13506129909007341"/>
+</citation>
+<scope>VARIANTS AMYL-TTR LEU-50; VAL-53; ALA-58; ARG-70; GLY-117 AND SER-117</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="111">
+<citation type="journal article" date="1999" name="Biochem. Biophys. Res. Commun." volume="264" first="365" last="370">
+<title>A novel compound heterozygote (FAP ATTR Arg104His/ATTR Val30Met) with high serum transthyretin (TTR) and retinol binding protein (RBP) levels.</title>
+<authorList>
+<person name="Terazaki H."/>
+<person name="Ando Y."/>
+<person name="Misumi S."/>
+<person name="Nakamura M."/>
+<person name="Ando E."/>
+<person name="Matsunaga N."/>
+<person name="Shoji S."/>
+<person name="Okuyama M."/>
+<person name="Ideta H."/>
+<person name="Nakagawa K."/>
+<person name="Ishizaki T."/>
+<person name="Ando M."/>
+<person name="Saraiva M.J."/>
+</authorList>
+<dbReference type="PubMed" id="10529370"/>
+<dbReference type="DOI" id="10.1006/bbrc.1999.1514"/>
+</citation>
+<scope>VARIANT HIS-124</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="112">
+<citation type="journal article" date="1999" name="Brain" volume="122" first="183" last="190">
+<title>Transthyretin Leu12Pro is associated with systemic, neuropathic and leptomeningeal amyloidosis.</title>
+<authorList>
+<person name="Brett M."/>
+<person name="Persey M.R."/>
+<person name="Reilly M.M."/>
+<person name="Revesz T."/>
+<person name="Booth D.R."/>
+<person name="Booth S.E."/>
+<person name="Hawkins P.N."/>
+<person name="Pepys M.B."/>
+<person name="Morgan-Hughes J.A."/>
+</authorList>
+<dbReference type="PubMed" id="10071047"/>
+<dbReference type="DOI" id="10.1093/brain/122.2.183"/>
+</citation>
+<scope>VARIANT AMYL-TTR PRO-32</scope>
+</reference>
+<reference key="113">
+<citation type="journal article" date="1999" name="Hum. Hered." volume="49" first="186" last="189">
+<title>Identification of a new transthyretin variant (Ile49) in familial amyloidotic polyneuropathy using electrospray ionization mass spectrometry and nonisotopic RNase cleavage assay.</title>
+<authorList>
+<person name="Nakamura M."/>
+<person name="Yamashita T."/>
+<person name="Ando Y."/>
+<person name="Hamidi Asl K."/>
+<person name="Tashima K."/>
+<person name="Ohlsson P."/>
+<person name="Kususe Y."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="10436378"/>
+<dbReference type="DOI" id="10.1159/000022872"/>
+</citation>
+<scope>VARIANT AMYL-TTR ILE-69</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="114">
+<citation type="journal article" date="2000" name="Amyloid" volume="7" first="46" last="50">
+<title>A novel variant of transthyretin (Glu89Lys) associated with familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Nakamura M."/>
+<person name="Hamidi Asl K."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="10842705"/>
+<dbReference type="DOI" id="10.3109/13506120009146824"/>
+</citation>
+<scope>VARIANT AMYL-TTR LYS-109</scope>
+</reference>
+<reference key="115">
+<citation type="journal article" date="2000" name="Amyloid" volume="7" first="137" last="140">
+<title>Heart failure caused by a novel amyloidogenic mutation of the transthyretin gene: ATTR Ala45Ser.</title>
+<authorList>
+<person name="Janunger T."/>
+<person name="Anan I."/>
+<person name="Holmgren G."/>
+<person name="Lovheim O."/>
+<person name="Ohlsson P.I."/>
+<person name="Suhr O.B."/>
+<person name="Tashima K."/>
+</authorList>
+<dbReference type="PubMed" id="10842718"/>
+<dbReference type="DOI" id="10.3109/13506120009146252"/>
+</citation>
+<scope>VARIANT AMYL-TTR SER-65</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="116">
+<citation type="journal article" date="2000" name="Muscle Nerve" volume="23" first="1016" last="1021">
+<title>New transthyretin mutation V28M in a Portuguese kindred with amyloid polyneuropathy.</title>
+<authorList>
+<person name="de Carvalho M."/>
+<person name="Moreira P."/>
+<person name="Evangelista T."/>
+<person name="Ducla-Soares J.L."/>
+<person name="Bento M."/>
+<person name="Fernandes R."/>
+<person name="Saraiva M.J."/>
+</authorList>
+<dbReference type="PubMed" id="10882995"/>
+<dbReference type="DOI" id="10.1002/1097-4598(200007)23:7&lt;1016::AID-MUS3>3.0.CO;2-W"/>
+</citation>
+<scope>VARIANT AMYL-TTR MET-48</scope>
+</reference>
+<reference key="117">
+<citation type="journal article" date="2001" name="Neurology" volume="57" first="135" last="137">
+<title>Recurrent subarachnoid hemorrhage associated with a new transthyretin variant (Gly53Glu).</title>
+<authorList>
+<person name="Ellie E."/>
+<person name="Camou F."/>
+<person name="Vital A."/>
+<person name="Rummens C."/>
+<person name="Grateau G."/>
+<person name="Delpech M."/>
+<person name="Valleix S."/>
+</authorList>
+<dbReference type="PubMed" id="11445644"/>
+<dbReference type="DOI" id="10.1212/WNL.57.1.135"/>
+</citation>
+<scope>VARIANT AMYL-TTR GLU-73</scope>
+</reference>
+<reference key="118">
+<citation type="journal article" date="2002" name="Amyloid" volume="9" first="268" last="271">
+<title>A new transthyretin variant Leu55Gln in a patient with systemic amyloidosis.</title>
+<authorList>
+<person name="Yazaki M."/>
+<person name="Varga J."/>
+<person name="Dyck P.J."/>
+<person name="Benson M.D."/>
+</authorList>
+<dbReference type="PubMed" id="12557757"/>
+<dbReference type="DOI" id="10.3109/13506120209114105"/>
+</citation>
+<scope>VARIANT AMYL-TTR GLN-75</scope>
+</reference>
+<reference key="119">
+<citation type="journal article" date="2002" name="Anal. Chem." volume="74" first="741" last="751">
+<title>Characterization of transthyretin variants in familial transthyretin amyloidosis by mass spectrometric peptide mapping and DNA sequence analysis.</title>
+<authorList>
+<person name="Lim A."/>
+<person name="Prokaeva T."/>
+<person name="McComb M.E."/>
+<person name="O'Connor P.B."/>
+<person name="Theberge R."/>
+<person name="Connors L.H."/>
+<person name="Skinner M."/>
+<person name="Costello C.E."/>
+</authorList>
+<dbReference type="PubMed" id="11866053"/>
+<dbReference type="DOI" id="10.1021/ac010780+"/>
+</citation>
+<scope>VARIANTS SER-26 AND MET-139</scope>
+<scope>VARIANTS AMYL-TTR ALA-58; LEU-61; SER-64 AND LEU-84</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="120">
+<citation type="journal article" date="2002" name="N. Engl. J. Med." volume="346" first="1786" last="1791">
+<title>Misdiagnosis of hereditary amyloidosis as AL (primary) amyloidosis.</title>
+<authorList>
+<person name="Lachmann H.J."/>
+<person name="Booth D.R."/>
+<person name="Booth S.E."/>
+<person name="Bybee A."/>
+<person name="Gilbertson J.A."/>
+<person name="Gillmore J.D."/>
+<person name="Pepys M.B."/>
+<person name="Hawkins P.N."/>
+</authorList>
+<dbReference type="PubMed" id="12050338"/>
+<dbReference type="DOI" id="10.1056/NEJMoa013354"/>
+</citation>
+<scope>VARIANTS AMYL-TTR MET-50; LEU-53; VAL-53; VAL-58; GLU-67; ALA-80; SER-140 AND ILE-142</scope>
+</reference>
+<reference key="121">
+<citation type="journal article" date="2003" name="Neurology" volume="60" first="1625" last="1630">
+<title>Oculoleptomeningeal amyloidosis in a large kindred with a new transthyretin variant Tyr69His.</title>
+<authorList>
+<person name="Blevins G."/>
+<person name="Macaulay R."/>
+<person name="Harder S."/>
+<person name="Fladeland D."/>
+<person name="Yamashita T."/>
+<person name="Yazaki M."/>
+<person name="Hamidi Asl K."/>
+<person name="Benson M.D."/>
+<person name="Donat J.R."/>
+</authorList>
+<dbReference type="PubMed" id="12771253"/>
+<dbReference type="DOI" id="10.1212/01.WNL.0000065901.18353.AB"/>
+</citation>
+<scope>VARIANT AMYL-TTR HIS-89</scope>
+</reference>
+<reference key="122">
+<citation type="journal article" date="2003" name="Protein Sci." volume="12" first="1775" last="1785">
+<title>Identification of S-sulfonation and S-thiolation of a novel transthyretin Phe33Cys variant from a patient diagnosed with familial transthyretin amyloidosis.</title>
+<authorList>
+<person name="Lim A."/>
+<person name="Prokaeva T."/>
+<person name="McComb M.E."/>
+<person name="Connors L.H."/>
+<person name="Skinner M."/>
+<person name="Costello C.E."/>
+</authorList>
+<dbReference type="PubMed" id="12876326"/>
+<dbReference type="DOI" id="10.1110/ps.0349703"/>
+</citation>
+<scope>VARIANT CYS-53</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="123">
+<citation type="journal article" date="2004" name="Am. J. Med. Genet. A" volume="128" first="190" last="194">
+<title>A severe form of amyloidotic polyneuropathy in a Costa Rican family with a rare transthyretin mutation (Glu54Lys).</title>
+<authorList>
+<person name="Busse A."/>
+<person name="Sanchez M.A."/>
+<person name="Monterroso V."/>
+<person name="Alvarado M.V."/>
+<person name="Leon P."/>
+</authorList>
+<dbReference type="PubMed" id="15214015"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.30007"/>
+</citation>
+<scope>VARIANT AMYL-TTR LYS-74</scope>
+</reference>
+<reference key="124">
+<citation type="journal article" date="2004" name="Amyloid" volume="11" first="121" last="124">
+<title>An unusual transthyretin gene missense mutation (TTR Phe33Val) linked to familial amyloidotic polyneuropathy.</title>
+<authorList>
+<person name="Frigerio R."/>
+<person name="Fabrizi G.M."/>
+<person name="Ferrarini M."/>
+<person name="Cavallaro T."/>
+<person name="Brighina L."/>
+<person name="Santoro P."/>
+<person name="Agostoni E."/>
+<person name="Cavaletti G."/>
+<person name="Rizzuto N."/>
+<person name="Ferrarese C."/>
+</authorList>
+<dbReference type="PubMed" id="15478468"/>
+<dbReference type="DOI" id="10.1080/13506120410001727767"/>
+</citation>
+<scope>VARIANT AMYL-TTR VAL-53</scope>
+</reference>
+<reference key="125">
+<citation type="journal article" date="2004" name="Clin. Chem." volume="50" first="1544" last="1552">
+<title>Identification of transthyretin variants by sequential proteomic and genomic analysis.</title>
+<authorList>
+<person name="Bergen H.R. III"/>
+<person name="Zeldenrust S.R."/>
+<person name="Butz M.L."/>
+<person name="Snow D.S."/>
+<person name="Dyck P.J."/>
+<person name="Dyck P.J.B."/>
+<person name="Klein C.J."/>
+<person name="O'Brien J.F."/>
+<person name="Thibodeau S.N."/>
+<person name="Muddiman D.C."/>
+</authorList>
+<dbReference type="PubMed" id="15217993"/>
+<dbReference type="DOI" id="10.1373/clinchem.2004.033266"/>
+</citation>
+<scope>VARIANTS SER-26; CYS-53 AND ALA-114</scope>
+<scope>VARIANTS AMYL-TTR GLU-67; HIS-78; ALA-80 AND TYR-97</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="126">
+<citation type="journal article" date="2007" name="Amyloid" volume="14" first="65" last="71">
+<title>A new transthyretin variant (Glu61Gly) associated with cardiomyopathy.</title>
+<authorList>
+<person name="Rosenzweig M."/>
+<person name="Skinner M."/>
+<person name="Prokaeva T."/>
+<person name="Theberge R."/>
+<person name="Costello C."/>
+<person name="Drachman B.M."/>
+<person name="Connors L.H."/>
+</authorList>
+<dbReference type="PubMed" id="17453626"/>
+<dbReference type="DOI" id="10.1080/13506120601116625"/>
+</citation>
+<scope>VARIANT AMYL-TTR GLY-81</scope>
+</reference>
+<reference key="127">
+<citation type="journal article" date="2007" name="Amyloid" volume="14" first="141" last="145">
+<title>A novel type of familial transthyretin amyloidosis, ATTR Asn124Ser, with co-localization of kappa light chains.</title>
+<authorList>
+<person name="Bergstroem J."/>
+<person name="Patrosso M.C."/>
+<person name="Colussi G."/>
+<person name="Salvadore M."/>
+<person name="Penco S."/>
+<person name="Lando G."/>
+<person name="Marocchi A."/>
+<person name="Ueda A."/>
+<person name="Nakamura M."/>
+<person name="Ando Y."/>
+</authorList>
+<dbReference type="PubMed" id="17577687"/>
+<dbReference type="DOI" id="10.1080/13506120701259895"/>
+</citation>
+<scope>VARIANT AMYL-TTR SER-144</scope>
+</reference>
+<reference key="128">
+<citation type="journal article" date="2007" name="Electrophoresis" volume="28" first="2053" last="2064">
+<title>Genetic microheterogeneity of human transthyretin detected by IEF.</title>
+<authorList>
+<person name="Altland K."/>
+<person name="Benson M.D."/>
+<person name="Costello C.E."/>
+<person name="Ferlini A."/>
+<person name="Hazenberg B.P.C."/>
+<person name="Hund E."/>
+<person name="Kristen A.V."/>
+<person name="Linke R.P."/>
+<person name="Merlini G."/>
+<person name="Salvi F."/>
+<person name="Saraiva M.J."/>
+<person name="Singer R."/>
+<person name="Skinner M."/>
+<person name="Winter P."/>
+</authorList>
+<dbReference type="PubMed" id="17503405"/>
+<dbReference type="DOI" id="10.1002/elps.200600840"/>
+</citation>
+<scope>VARIANTS AMYL-TTR PRO-32; ILE-40; SER-44; ALA-50; MET-50; LEU-53; VAL-53; PRO-56; THR-65; ALA-67; ALA-69; ILE-69; ALA-80; LEU-84; LEU-88; ALA-91; TYR-97; PHE-98; SER-104; ASN-104; THR-104; ALA-114; GLY-117; ASN-126; MET-127; VAL-127; MET-131 AND ILE-142</scope>
+<scope>VARIANTS ILE-33; SER-121 AND THR-129</scope>
+<scope>VARIANT CHICAGO MET-139</scope>
+</reference>
+<reference key="129">
+<citation type="journal article" date="2007" name="Eur. J. Clin. Invest." volume="37" first="673" last="678">
+<title>Familial amyloidosis in a large Spanish kindred resulting from a D38V mutation in the transthyretin gene.</title>
+<authorList>
+<person name="Augustin S."/>
+<person name="Llige D."/>
+<person name="Andreu A."/>
+<person name="Gonzalez A."/>
+<person name="Genesca J."/>
+</authorList>
+<dbReference type="PubMed" id="17635579"/>
+<dbReference type="DOI" id="10.1111/j.1365-2362.2007.01836.x"/>
+</citation>
+<scope>VARIANT AMYL-TTR VAL-58</scope>
+</reference>
+<reference key="130">
+<citation type="journal article" date="2013" name="J. Am. Acad. Dermatol." volume="68" first="E49" last="E51">
+<title>Delayed diagnosis of transthyretin amyloidosis with a novel mutation (c.210T>A) in the transthyretin gene.</title>
+<authorList>
+<person name="Dekmezian M.S."/>
+<person name="Tschen J.A."/>
+<person name="Cho-Vega J.H."/>
+</authorList>
+<dbReference type="PubMed" id="23317988"/>
+<dbReference type="DOI" id="10.1016/j.jaad.2012.07.026"/>
+</citation>
+<scope>VARIANT AMYL-TTR ARG-70</scope>
+</reference>
+<comment type="function">
+<text evidence="69">Thyroid hormone-binding protein. Probably transports thyroxine from the bloodstream to the brain.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 16 18 24 30 31 41 42 43 51 52 55 56">Homotetramer. Dimer of dimers. In the homotetramer, subunits assemble around a central channel that can accommodate two ligand molecules. Interacts with RBP4.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-711909"/>
+<interactant intactId="EBI-711909"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-711909"/>
+<interactant intactId="EBI-1646426">
+<id>Q15109</id>
+<label>AGER</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-711909"/>
+<interactant intactId="EBI-8084264">
+<id>P25713</id>
+<label>MT3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Secreted</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 69">Detected in serum and cerebrospinal fluid (at protein level). Highly expressed in choroid plexus epithelial cells. Detected in retina pigment epithelium and liver.</text>
+</comment>
+<comment type="domain">
+<text>Each monomer has two 4-stranded beta sheets and the shape of a prolate ellipsoid. Antiparallel beta-sheet interactions link monomers into dimers. A short loop from each monomer forms the main dimer-dimer interaction. These two pairs of loops separate the opposed, convex beta-sheets of the dimers to form an internal channel.</text>
+</comment>
+<comment type="PTM">
+<text evidence="32 44 57">Not glycosylated under normal conditions. Following unfolding, caused for example by variant AMYL-TTR 'Gly-38', the cryptic Asn-118 site is exposed and glycosylated by STT3B-containing OST complex, leading to its degradation by the ER-associated degradation (ERAD) pathway.</text>
+</comment>
+<comment type="disease" evidence="1 3 4 6 7 9 10 12 13 14 15 17 19 20 21 23 26 27 28 29 33 34 35 36 37 38 39 40 45 46 47 48 49 50 58 61 62 63 64 65 66 67 70 71 74 75 76 77 78 79 80 81 82 83 84 86 87 88 90 91 92 93 94 96">
+<disease id="DI-00100">
+<name>Amyloidosis, transthyretin-related</name>
+<acronym>AMYL-TTR</acronym>
+<description>A hereditary generalized amyloidosis due to transthyretin amyloid deposition. Protein fibrils can form in different tissues leading to amyloid polyneuropathies, amyloidotic cardiomyopathy, carpal tunnel syndrome, systemic senile amyloidosis. The disease includes leptomeningeal amyloidosis that is characterized by primary involvement of the central nervous system. Neuropathologic examination shows amyloid in the walls of leptomeningeal vessels, in pia arachnoid, and subpial deposits. Some patients also develop vitreous amyloid deposition that leads to visual impairment (oculoleptomeningeal amyloidosis). Clinical features include seizures, stroke-like episodes, dementia, psychomotor deterioration, variable amyloid deposition in the vitreous humor.</description>
+<dbReference type="MIM" id="105210"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="59">
+<disease id="DI-01785">
+<name>Hyperthyroxinemia dystransthyretinemic euthyroidal</name>
+<acronym>HTDE</acronym>
+<description>A condition characterized by elevation of total and free thyroxine in healthy, euthyroid persons without detectable binding protein abnormalities.</description>
+<dbReference type="MIM" id="145680"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="89">
+<disease id="DI-02811">
+<name>Carpal tunnel syndrome 1</name>
+<acronym>CTS1</acronym>
+<description>A condition characterized by entrapment of the median nerve within the carpal tunnel. Symptoms include burning pain and paresthesias involving the ventral surface of the hand and fingers which may radiate proximally. Impairment of sensation in the distribution of the median nerve and thenar muscle atrophy may occur. This condition may be associated with repetitive occupational trauma, wrist injuries, amyloid neuropathies, rheumatoid arthritis.</description>
+<dbReference type="MIM" id="115430"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Tetramer dissociation and partial unfolding leads to the formation of aggregates and amyloid fibrils. Small molecules that occupy at least one of the thyroid hormone binding sites stabilize the tetramer, and thereby stabilize the native state and protect against misfolding and the formation of amyloid fibrils.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Two binding sites for thyroxine are located in the channel. Less than 1% of plasma prealbumin molecules are normally involved in thyroxine transport. L-thyroxine binds to the transthyretin by an order of magnitude stronger than does the triiodo-L-thyronine. Thyroxine-binding globulin is the major carrier protein for thyroid hormones in man.</text>
+</comment>
+<comment type="miscellaneous">
+<text>About 40% of plasma transthyretin circulates in a tight protein-protein complex with the plasma retinol-binding protein (RBP). The formation of the complex with RBP stabilizes the binding of retinol to RBP and decreases the glomerular filtration and renal catabolism of the relatively small RBP molecule. There is evidence for 2 binding sites for RBP, one possibly being a region that includes Ile-104, located on the outer surface of the transthyretin molecule.</text>
+</comment>
+<comment type="similarity">
+<text evidence="97">Belongs to the transthyretin family.</text>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="http://en.wikipedia.org/wiki/Transthyretin"/>
+<text>Transthyretin entry</text>
+</comment>
+<dbReference type="EMBL" id="K02091">
+<property type="protein sequence ID" value="AAA60011.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M10605">
+<property type="protein sequence ID" value="AAA60012.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M11518">
+<property type="protein sequence ID" value="AAA98771.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M11844">
+<property type="protein sequence ID" value="AAA60013.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X59498">
+<property type="protein sequence ID" value="CAA42087.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D00096">
+<property type="protein sequence ID" value="BAA00059.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M15517">
+<property type="protein sequence ID" value="AAA60018.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M15515">
+<property type="protein sequence ID" value="AAA60018.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M15516">
+<property type="protein sequence ID" value="AAA60018.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U19780">
+<property type="protein sequence ID" value="AAA73473.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF162690">
+<property type="protein sequence ID" value="AAD45014.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK312051">
+<property type="protein sequence ID" value="BAG34987.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT007189">
+<property type="protein sequence ID" value="AAP35853.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR456908">
+<property type="protein sequence ID" value="CAG33189.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471088">
+<property type="protein sequence ID" value="EAX01264.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC005310">
+<property type="protein sequence ID" value="AAH05310.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC020791">
+<property type="protein sequence ID" value="AAH20791.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S63185">
+<property type="protein sequence ID" value="AAD14937.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S72385">
+<property type="protein sequence ID" value="AAD14098.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M11714">
+<property type="protein sequence ID" value="AAA61181.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M63285">
+<property type="protein sequence ID" value="AAA36784.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11899.1"/>
+<dbReference type="PIR" id="A91532">
+<property type="entry name" value="VBHU"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000362.1">
+<property type="nucleotide sequence ID" value="NM_000371.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.427202"/>
+<dbReference type="PDB" id="1BM7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1BMZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-143"/>
+</dbReference>
+<dbReference type="PDB" id="1BZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1BZD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1BZE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1DVQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="1DVS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="1DVT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="1DVU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="1DVX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="1DVY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="1DVZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="1E3F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-145"/>
+</dbReference>
+<dbReference type="PDB" id="1E4H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1E5A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1ETA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="1/2=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1ETB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="1/2=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1F41">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1F64">
+<property type="method" value="Model"/>
+<property type="chains" value="A=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1F86">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.10"/>
+<property type="chains" value="A/B=30-144"/>
+</dbReference>
+<dbReference type="PDB" id="1FH2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1FHN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1G1O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1GKO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1ICT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1III">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1IIK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1IJN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1QAB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1QWH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.36"/>
+<property type="chains" value="A/B=31-147"/>
+</dbReference>
+<dbReference type="PDB" id="1RLB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1SOK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1SOQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1THA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1THC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TLM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TSH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TT6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TTA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TTB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TTC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TTR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TYR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1TZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1U21">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.69"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1X7S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1X7T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1Y1D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1Z7J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1ZCR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="1ZD6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2B14">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2B15">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2B16">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2B77">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2B9A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2F7I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2F8I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2FBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.46"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2FLM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2G3X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.58"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2G3Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2G4E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.17"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2G4G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2G5U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2G9K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2GAB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2H4E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2M5N">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P=125-135"/>
+</dbReference>
+<dbReference type="PDB" id="2NOY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2PAB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2QEL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2QGB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2QGC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2QGD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2QGE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2ROX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2ROY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2TRH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2TRY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="2WQA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3A4D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3A4E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3A4F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.99"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3B56">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3BSZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.38"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3BT0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.59"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CFM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=30-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CFN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A/B=30-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CFQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.09"/>
+<property type="chains" value="A/B=30-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CFT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A/B=30-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CN0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.52"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CN1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.52"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CN2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.52"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CN3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CN4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3CXF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3D2T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3D7P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.72"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DGD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.38"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DID">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DJR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.02"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DJS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DJT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DJZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.82"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DK0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DK2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3DO4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3ESN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3ESO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.31"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3ESP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.31"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3FC8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="3FCB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="3GLZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3GPS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3GRB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3GRG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3GS0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3GS4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3GS7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3HJ0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.34"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3I9A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3I9I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="3I9P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="3IMR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3IMS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3IMT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3IMU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3IMV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.47"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3IMW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.31"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3IPB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3IPE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3KGS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3KGT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3KGU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3M1O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3NEE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="3NEO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="3NES">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="3NEX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="3NG5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3OZK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3OZL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3P3R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.25"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3P3S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3P3T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3P3U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3SSG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3TCT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="3TFB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.03"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="3U2I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=32-147"/>
+</dbReference>
+<dbReference type="PDB" id="3U2J">
+<property type="method" value="Neutron"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=32-147"/>
+</dbReference>
+<dbReference type="PDB" id="3W3B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4ABQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="4ABU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="4ABV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="4ABW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="4AC2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B=21-144"/>
+</dbReference>
+<dbReference type="PDB" id="4AC4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4ACT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4ANK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=1-147"/>
+</dbReference>
+<dbReference type="PDB" id="4DER">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="4DES">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="4DET">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="4DEU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="4DEW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-147"/>
+</dbReference>
+<dbReference type="PDB" id="4FI6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.46"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4FI7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4FI8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.22"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4HIQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.18"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4HIS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4HJS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.22"/>
+<property type="chains" value="A/B=30-145"/>
+</dbReference>
+<dbReference type="PDB" id="4HJT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4HJU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4I85">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.67"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4I87">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.69"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4I89">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.69"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4IIZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4IK6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4IK7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4IKI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4IKJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4IKK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4IKL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4KY2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.13"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4L1S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4L1T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.16"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4MAS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.22"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4MRB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.27"/>
+<property type="chains" value="A/B=21-147"/>
+</dbReference>
+<dbReference type="PDB" id="4MRC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A/B=22-147"/>
+</dbReference>
+<dbReference type="PDB" id="4N85">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=1-147"/>
+</dbReference>
+<dbReference type="PDB" id="4N86">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=1-147"/>
+</dbReference>
+<dbReference type="PDB" id="4N87">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.79"/>
+<property type="chains" value="A/B=1-147"/>
+</dbReference>
+<dbReference type="PDB" id="5TTR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=21-147"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BM7"/>
+<dbReference type="PDBsum" id="1BMZ"/>
+<dbReference type="PDBsum" id="1BZ8"/>
+<dbReference type="PDBsum" id="1BZD"/>
+<dbReference type="PDBsum" id="1BZE"/>
+<dbReference type="PDBsum" id="1DVQ"/>
+<dbReference type="PDBsum" id="1DVS"/>
+<dbReference type="PDBsum" id="1DVT"/>
+<dbReference type="PDBsum" id="1DVU"/>
+<dbReference type="PDBsum" id="1DVX"/>
+<dbReference type="PDBsum" id="1DVY"/>
+<dbReference type="PDBsum" id="1DVZ"/>
+<dbReference type="PDBsum" id="1E3F"/>
+<dbReference type="PDBsum" id="1E4H"/>
+<dbReference type="PDBsum" id="1E5A"/>
+<dbReference type="PDBsum" id="1ETA"/>
+<dbReference type="PDBsum" id="1ETB"/>
+<dbReference type="PDBsum" id="1F41"/>
+<dbReference type="PDBsum" id="1F64"/>
+<dbReference type="PDBsum" id="1F86"/>
+<dbReference type="PDBsum" id="1FH2"/>
+<dbReference type="PDBsum" id="1FHN"/>
+<dbReference type="PDBsum" id="1G1O"/>
+<dbReference type="PDBsum" id="1GKO"/>
+<dbReference type="PDBsum" id="1ICT"/>
+<dbReference type="PDBsum" id="1III"/>
+<dbReference type="PDBsum" id="1IIK"/>
+<dbReference type="PDBsum" id="1IJN"/>
+<dbReference type="PDBsum" id="1QAB"/>
+<dbReference type="PDBsum" id="1QWH"/>
+<dbReference type="PDBsum" id="1RLB"/>
+<dbReference type="PDBsum" id="1SOK"/>
+<dbReference type="PDBsum" id="1SOQ"/>
+<dbReference type="PDBsum" id="1THA"/>
+<dbReference type="PDBsum" id="1THC"/>
+<dbReference type="PDBsum" id="1TLM"/>
+<dbReference type="PDBsum" id="1TSH"/>
+<dbReference type="PDBsum" id="1TT6"/>
+<dbReference type="PDBsum" id="1TTA"/>
+<dbReference type="PDBsum" id="1TTB"/>
+<dbReference type="PDBsum" id="1TTC"/>
+<dbReference type="PDBsum" id="1TTR"/>
+<dbReference type="PDBsum" id="1TYR"/>
+<dbReference type="PDBsum" id="1TZ8"/>
+<dbReference type="PDBsum" id="1U21"/>
+<dbReference type="PDBsum" id="1X7S"/>
+<dbReference type="PDBsum" id="1X7T"/>
+<dbReference type="PDBsum" id="1Y1D"/>
+<dbReference type="PDBsum" id="1Z7J"/>
+<dbReference type="PDBsum" id="1ZCR"/>
+<dbReference type="PDBsum" id="1ZD6"/>
+<dbReference type="PDBsum" id="2B14"/>
+<dbReference type="PDBsum" id="2B15"/>
+<dbReference type="PDBsum" id="2B16"/>
+<dbReference type="PDBsum" id="2B77"/>
+<dbReference type="PDBsum" id="2B9A"/>
+<dbReference type="PDBsum" id="2F7I"/>
+<dbReference type="PDBsum" id="2F8I"/>
+<dbReference type="PDBsum" id="2FBR"/>
+<dbReference type="PDBsum" id="2FLM"/>
+<dbReference type="PDBsum" id="2G3X"/>
+<dbReference type="PDBsum" id="2G3Z"/>
+<dbReference type="PDBsum" id="2G4E"/>
+<dbReference type="PDBsum" id="2G4G"/>
+<dbReference type="PDBsum" id="2G5U"/>
+<dbReference type="PDBsum" id="2G9K"/>
+<dbReference type="PDBsum" id="2GAB"/>
+<dbReference type="PDBsum" id="2H4E"/>
+<dbReference type="PDBsum" id="2M5N"/>
+<dbReference type="PDBsum" id="2NOY"/>
+<dbReference type="PDBsum" id="2PAB"/>
+<dbReference type="PDBsum" id="2QEL"/>
+<dbReference type="PDBsum" id="2QGB"/>
+<dbReference type="PDBsum" id="2QGC"/>
+<dbReference type="PDBsum" id="2QGD"/>
+<dbReference type="PDBsum" id="2QGE"/>
+<dbReference type="PDBsum" id="2ROX"/>
+<dbReference type="PDBsum" id="2ROY"/>
+<dbReference type="PDBsum" id="2TRH"/>
+<dbReference type="PDBsum" id="2TRY"/>
+<dbReference type="PDBsum" id="2WQA"/>
+<dbReference type="PDBsum" id="3A4D"/>
+<dbReference type="PDBsum" id="3A4E"/>
+<dbReference type="PDBsum" id="3A4F"/>
+<dbReference type="PDBsum" id="3B56"/>
+<dbReference type="PDBsum" id="3BSZ"/>
+<dbReference type="PDBsum" id="3BT0"/>
+<dbReference type="PDBsum" id="3CBR"/>
+<dbReference type="PDBsum" id="3CFM"/>
+<dbReference type="PDBsum" id="3CFN"/>
+<dbReference type="PDBsum" id="3CFQ"/>
+<dbReference type="PDBsum" id="3CFT"/>
+<dbReference type="PDBsum" id="3CN0"/>
+<dbReference type="PDBsum" id="3CN1"/>
+<dbReference type="PDBsum" id="3CN2"/>
+<dbReference type="PDBsum" id="3CN3"/>
+<dbReference type="PDBsum" id="3CN4"/>
+<dbReference type="PDBsum" id="3CXF"/>
+<dbReference type="PDBsum" id="3D2T"/>
+<dbReference type="PDBsum" id="3D7P"/>
+<dbReference type="PDBsum" id="3DGD"/>
+<dbReference type="PDBsum" id="3DID"/>
+<dbReference type="PDBsum" id="3DJR"/>
+<dbReference type="PDBsum" id="3DJS"/>
+<dbReference type="PDBsum" id="3DJT"/>
+<dbReference type="PDBsum" id="3DJZ"/>
+<dbReference type="PDBsum" id="3DK0"/>
+<dbReference type="PDBsum" id="3DK2"/>
+<dbReference type="PDBsum" id="3DO4"/>
+<dbReference type="PDBsum" id="3ESN"/>
+<dbReference type="PDBsum" id="3ESO"/>
+<dbReference type="PDBsum" id="3ESP"/>
+<dbReference type="PDBsum" id="3FC8"/>
+<dbReference type="PDBsum" id="3FCB"/>
+<dbReference type="PDBsum" id="3GLZ"/>
+<dbReference type="PDBsum" id="3GPS"/>
+<dbReference type="PDBsum" id="3GRB"/>
+<dbReference type="PDBsum" id="3GRG"/>
+<dbReference type="PDBsum" id="3GS0"/>
+<dbReference type="PDBsum" id="3GS4"/>
+<dbReference type="PDBsum" id="3GS7"/>
+<dbReference type="PDBsum" id="3HJ0"/>
+<dbReference type="PDBsum" id="3I9A"/>
+<dbReference type="PDBsum" id="3I9I"/>
+<dbReference type="PDBsum" id="3I9P"/>
+<dbReference type="PDBsum" id="3IMR"/>
+<dbReference type="PDBsum" id="3IMS"/>
+<dbReference type="PDBsum" id="3IMT"/>
+<dbReference type="PDBsum" id="3IMU"/>
+<dbReference type="PDBsum" id="3IMV"/>
+<dbReference type="PDBsum" id="3IMW"/>
+<dbReference type="PDBsum" id="3IPB"/>
+<dbReference type="PDBsum" id="3IPE"/>
+<dbReference type="PDBsum" id="3KGS"/>
+<dbReference type="PDBsum" id="3KGT"/>
+<dbReference type="PDBsum" id="3KGU"/>
+<dbReference type="PDBsum" id="3M1O"/>
+<dbReference type="PDBsum" id="3NEE"/>
+<dbReference type="PDBsum" id="3NEO"/>
+<dbReference type="PDBsum" id="3NES"/>
+<dbReference type="PDBsum" id="3NEX"/>
+<dbReference type="PDBsum" id="3NG5"/>
+<dbReference type="PDBsum" id="3OZK"/>
+<dbReference type="PDBsum" id="3OZL"/>
+<dbReference type="PDBsum" id="3P3R"/>
+<dbReference type="PDBsum" id="3P3S"/>
+<dbReference type="PDBsum" id="3P3T"/>
+<dbReference type="PDBsum" id="3P3U"/>
+<dbReference type="PDBsum" id="3SSG"/>
+<dbReference type="PDBsum" id="3TCT"/>
+<dbReference type="PDBsum" id="3TFB"/>
+<dbReference type="PDBsum" id="3U2I"/>
+<dbReference type="PDBsum" id="3U2J"/>
+<dbReference type="PDBsum" id="3W3B"/>
+<dbReference type="PDBsum" id="4ABQ"/>
+<dbReference type="PDBsum" id="4ABU"/>
+<dbReference type="PDBsum" id="4ABV"/>
+<dbReference type="PDBsum" id="4ABW"/>
+<dbReference type="PDBsum" id="4AC2"/>
+<dbReference type="PDBsum" id="4AC4"/>
+<dbReference type="PDBsum" id="4ACT"/>
+<dbReference type="PDBsum" id="4ANK"/>
+<dbReference type="PDBsum" id="4DER"/>
+<dbReference type="PDBsum" id="4DES"/>
+<dbReference type="PDBsum" id="4DET"/>
+<dbReference type="PDBsum" id="4DEU"/>
+<dbReference type="PDBsum" id="4DEW"/>
+<dbReference type="PDBsum" id="4FI6"/>
+<dbReference type="PDBsum" id="4FI7"/>
+<dbReference type="PDBsum" id="4FI8"/>
+<dbReference type="PDBsum" id="4HIQ"/>
+<dbReference type="PDBsum" id="4HIS"/>
+<dbReference type="PDBsum" id="4HJS"/>
+<dbReference type="PDBsum" id="4HJT"/>
+<dbReference type="PDBsum" id="4HJU"/>
+<dbReference type="PDBsum" id="4I85"/>
+<dbReference type="PDBsum" id="4I87"/>
+<dbReference type="PDBsum" id="4I89"/>
+<dbReference type="PDBsum" id="4IIZ"/>
+<dbReference type="PDBsum" id="4IK6"/>
+<dbReference type="PDBsum" id="4IK7"/>
+<dbReference type="PDBsum" id="4IKI"/>
+<dbReference type="PDBsum" id="4IKJ"/>
+<dbReference type="PDBsum" id="4IKK"/>
+<dbReference type="PDBsum" id="4IKL"/>
+<dbReference type="PDBsum" id="4KY2"/>
+<dbReference type="PDBsum" id="4L1S"/>
+<dbReference type="PDBsum" id="4L1T"/>
+<dbReference type="PDBsum" id="4MAS"/>
+<dbReference type="PDBsum" id="4MRB"/>
+<dbReference type="PDBsum" id="4MRC"/>
+<dbReference type="PDBsum" id="4N85"/>
+<dbReference type="PDBsum" id="4N86"/>
+<dbReference type="PDBsum" id="4N87"/>
+<dbReference type="PDBsum" id="5TTR"/>
+<dbReference type="ProteinModelPortal" id="P02766"/>
+<dbReference type="SMR" id="P02766">
+<property type="residue range" value="30-145"/>
+</dbReference>
+<dbReference type="BioGrid" id="113127">
+<property type="interactions" value="43"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-1083N"/>
+<dbReference type="IntAct" id="P02766">
+<property type="interactions" value="45"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1374623"/>
+<dbReference type="STRING" id="9606.ENSP00000237014"/>
+<dbReference type="BindingDB" id="P02766"/>
+<dbReference type="ChEMBL" id="CHEMBL3194"/>
+<dbReference type="DrugBank" id="DB00586">
+<property type="generic name" value="Diclofenac"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00255">
+<property type="generic name" value="Diethylstilbestrol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00861">
+<property type="generic name" value="Diflunisal"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01093">
+<property type="generic name" value="Dimethyl sulfoxide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00451">
+<property type="generic name" value="Levothyroxine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00279">
+<property type="generic name" value="Liothyronine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01583">
+<property type="generic name" value="Liotrix"/>
+</dbReference>
+<dbReference type="PhosphoSite" id="P02766"/>
+<dbReference type="DMDM" id="136464"/>
+<dbReference type="DOSAC-COBS-2DPAGE" id="P02766"/>
+<dbReference type="REPRODUCTION-2DPAGE" id="P02766"/>
+<dbReference type="SWISS-2DPAGE" id="P02766"/>
+<dbReference type="UCD-2DPAGE" id="P02766"/>
+<dbReference type="MaxQB" id="P02766"/>
+<dbReference type="PaxDb" id="P02766"/>
+<dbReference type="PeptideAtlas" id="P02766"/>
+<dbReference type="PRIDE" id="P02766"/>
+<dbReference type="DNASU" id="7276"/>
+<dbReference type="Ensembl" id="ENST00000237014">
+<property type="protein sequence ID" value="ENSP00000237014"/>
+<property type="gene ID" value="ENSG00000118271"/>
+</dbReference>
+<dbReference type="GeneID" id="7276"/>
+<dbReference type="KEGG" id="hsa:7276"/>
+<dbReference type="UCSC" id="uc002kwx.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="7276"/>
+<dbReference type="GeneCards" id="GC18P029194"/>
+<dbReference type="GeneReviews" id="TTR"/>
+<dbReference type="HGNC" id="HGNC:12405">
+<property type="gene designation" value="TTR"/>
+</dbReference>
+<dbReference type="HPA" id="CAB002517"/>
+<dbReference type="HPA" id="CAB062567"/>
+<dbReference type="HPA" id="HPA002550"/>
+<dbReference type="MIM" id="105210">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="115430">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="145680">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="176300">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P02766"/>
+<dbReference type="Orphanet" id="85447">
+<property type="disease" value="Familial amyloid polyneuropathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="85451">
+<property type="disease" value="Transthyretin-related familial amyloid cardiomyopathy"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA37069"/>
+<dbReference type="eggNOG" id="NOG321124"/>
+<dbReference type="GeneTree" id="ENSGT00390000005321"/>
+<dbReference type="HOGENOM" id="HOG000251776"/>
+<dbReference type="HOVERGEN" id="HBG000285"/>
+<dbReference type="InParanoid" id="P02766"/>
+<dbReference type="OMA" id="RRYTIAA"/>
+<dbReference type="OrthoDB" id="EOG7S4X7V"/>
+<dbReference type="PhylomeDB" id="P02766"/>
+<dbReference type="TreeFam" id="TF300210"/>
+<dbReference type="Reactome" id="REACT_160130">
+<property type="pathway name" value="Retinoid cycle disease events"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_160156">
+<property type="pathway name" value="The canonical retinoid cycle in rods (twilight vision)"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_163874">
+<property type="pathway name" value="Non-integrin membrane-ECM interactions"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_24968">
+<property type="pathway name" value="Retinoid metabolism and transport"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_75925">
+<property type="pathway name" value="Amyloids"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="TTR">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P02766"/>
+<dbReference type="GeneWiki" id="Transthyretin"/>
+<dbReference type="GenomeRNAi" id="7276"/>
+<dbReference type="NextBio" id="28455"/>
+<dbReference type="PMAP-CutDB" id="P02766"/>
+<dbReference type="PRO" id="PR:P02766"/>
+<dbReference type="Bgee" id="P02766"/>
+<dbReference type="CleanEx" id="HS_TTR"/>
+<dbReference type="ExpressionAtlas" id="P02766">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="P02766"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="NAS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="IDA:UniProt"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular vesicular exosome"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043234">
+<property type="term" value="C:protein complex"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042562">
+<property type="term" value="F:hormone binding"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="IPI:IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030198">
+<property type="term" value="P:extracellular matrix organization"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007603">
+<property type="term" value="P:phototransduction, visible light"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001523">
+<property type="term" value="P:retinoid metabolic process"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042572">
+<property type="term" value="P:retinol metabolic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006810">
+<property type="term" value="P:transport"/>
+<property type="evidence" value="NAS:ProtInc"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.180">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023418">
+<property type="entry name" value="Thyroxine_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000895">
+<property type="entry name" value="Transthyretin/HIU_hydrolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023416">
+<property type="entry name" value="Transthyretin/HIU_hydrolase_SF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023419">
+<property type="entry name" value="Transthyretin_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00576">
+<property type="entry name" value="Transthyretin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00189">
+<property type="entry name" value="TRNSTHYRETIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00095">
+<property type="entry name" value="TR_THY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49472">
+<property type="entry name" value="SSF49472"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00768">
+<property type="entry name" value="TRANSTHYRETIN_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00769">
+<property type="entry name" value="TRANSTHYRETIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0034">Amyloid</keyword>
+<keyword id="KW-1008">Amyloidosis</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0301">Gamma-carboxyglutamic acid</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0372">Hormone</keyword>
+<keyword id="KW-0622">Neuropathy</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0795">Thyroid hormone</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="signal peptide" evidence="22 33 67 72 75 76">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="chain" description="Transthyretin" id="PRO_0000035755">
+<location>
+<begin position="21"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="region of interest" description="Thyroid hormone binding">
+<location>
+<begin position="135"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="binding site" description="Thyroid hormones">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="binding site" description="Thyroid hormones">
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate; in a patient with Moyamoya disease" evidence="53">
+<location>
+<position position="62"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="44 57">
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Common polymorphism; dbSNP:rs1800458." id="VAR_007546" evidence="4 19 37 73 82">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007547" evidence="28">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038959" evidence="3 48">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="32"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_038960" evidence="48">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007548">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; leptomeningeal amyloidosis; leads to unfolding and exposure of N-118 to glycosylation by STT3B and subsequent degradation by the ERAD pathway." id="VAR_007549" evidence="91">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; late-onset amyloid polyneuropathy with carpal tunnel syndrome." id="VAR_007550" evidence="48 92">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038961" evidence="7">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy; dbSNP:rs11541790." id="VAR_007551" evidence="48">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_010658" evidence="15">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007552" evidence="38 48">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038962" evidence="93">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007553" evidence="9 34">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy; by far the most frequent mutation; dbSNP:rs28933979." id="VAR_007554" evidence="20 33 48 66 71 75 76 77">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a patient with amyloidosis." id="VAR_038963" evidence="25 37">
+<original>F</original>
+<variation>C</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; Jewish 'SKO' amyloid polyneuropathy." id="VAR_007555" evidence="74 82">
+<original>F</original>
+<variation>I</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007556" evidence="20 48 58 61">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_038964" evidence="9 20 39 48">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038965" evidence="94">
+<original>R</original>
+<variation>T</variation>
+<location>
+<position position="54"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_038966" evidence="77">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007557" evidence="48">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038967" evidence="9 19">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038968" evidence="20 50">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038969" evidence="19">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; dbSNP:rs11541796." id="VAR_038970" evidence="1">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="62"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy; dbSNP:rs11541796." id="VAR_007558" evidence="64 81">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="62"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038971" evidence="19 95">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid cardiomyopathy." id="VAR_007559">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038972" evidence="14">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid cardiomyopathy." id="VAR_007560" evidence="40 48">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007561" evidence="48 96">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038973" evidence="20 37">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007562" evidence="46">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy with carpal tunnel syndrome." id="VAR_007563">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007564" evidence="26 48 77">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038974" evidence="6 48">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid cardiomyopathy." id="VAR_007565" evidence="35">
+<original>S</original>
+<variation>I</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007566" evidence="9 63 64 77">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007567">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038975" evidence="17">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007568">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; early-onset amyloid polyneuropathy." id="VAR_038976" evidence="36">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007569" evidence="27 79">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038977" evidence="21">
+<original>L</original>
+<variation>Q</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007570" evidence="37">
+<original>L</original>
+<variation>H</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007571" evidence="45">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid cardiomyopathy." id="VAR_007572" evidence="78">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy and cardiomyopathy." id="VAR_007573" evidence="20 37 48 77">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038978" evidence="47">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007574" evidence="90">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007575" evidence="19 48 61">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid cardiomyopathy." id="VAR_007576" evidence="48 83">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; leptomeningeal amyloidosis; vitreous amyloid in some patients." id="VAR_007577" evidence="23">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007578" evidence="29">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007579" evidence="48 86 88">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007580" evidence="12">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="93"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_007581">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007582" evidence="37 48 65 77">
+<original>S</original>
+<variation>Y</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038979" evidence="48">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="98"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; vitrous amyloid." id="VAR_007583" evidence="48">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy; almost no RBP binding." id="VAR_007584" evidence="48 70 85">
+<original>I</original>
+<variation>S</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038980" evidence="48">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_010659" evidence="13">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy and cardiomyopathy." id="VAR_007585" evidence="26 77">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_007586" evidence="60 81">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007587" evidence="10">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a patient with amyloidosis." id="VAR_038981" evidence="37 48">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007588" evidence="9 48 87">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038982" evidence="9">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_007589" evidence="11 48">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_007590">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="122"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_007591">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs121918095." id="VAR_038983" evidence="8">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038984" evidence="48">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="126"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038985" evidence="48">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="127"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007592" evidence="48 80 84">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="127"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HTDE; increased affinity for thyroxine." id="VAR_007593" evidence="48 59">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="129"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_007594" evidence="48">
+<original>L</original>
+<variation>M</variation>
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007595" evidence="62">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CTS1; amyloid deposit on carpal tunnel; patients show no other abnormalities." id="VAR_007598" evidence="89">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; amyloid polyneuropathy." id="VAR_007596" evidence="10">
+<original>Y</original>
+<variation>S</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Requires 2 nucleotide substitutions." id="VAR_007597" evidence="68">
+<original>Y</original>
+<variation>V</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In Chicago variant; dbSNP:rs28933981." id="VAR_007599" evidence="19 48 54">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038986" evidence="20">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038987" evidence="4">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR; dbSNP:rs28933980." id="VAR_007600" evidence="20 48 67">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AMYL-TTR." id="VAR_038988" evidence="49">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of tetramerization; when associated with M-130." evidence="18">
+<original>F</original>
+<variation>M</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of tetramerization; when associated with M-107." evidence="18">
+<original>L</original>
+<variation>M</variation>
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA98771." ref="3" evidence="97">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 12; CAG33189." ref="12" evidence="97">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="23"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="32"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="39"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="49"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="57"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="61"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="73"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="77"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="81"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="86"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="95"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="107"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="119"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="124"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="135"/>
+<end position="143"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10036587"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10052934"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10071047"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10211412"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10328977"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10436378"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10439117"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10529370"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10611950"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10627135"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10671063"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10694917"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10842705"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10842718"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10882995"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11243784"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11445644"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11560492"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11866053"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12050338"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12557757"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12665801"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12771253"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12820260"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12876326"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1301926"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1351039"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1362222"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1436517"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14583036"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14711308"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14760718"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1517749"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1520326"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1520336"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15214015"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15217993"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1544214"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15478468"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1570831"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15735344"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15769474"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15826192"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16335952"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1656975"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1734866"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17453626"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17503405"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17577687"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17635579"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18095641"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18155178"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18221012"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1877623"/>
+</source>
+</evidence>
+<evidence key="55" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18811132"/>
+</source>
+</evidence>
+<evidence key="56" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19021760"/>
+</source>
+</evidence>
+<evidence key="57" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19167329"/>
+</source>
+</evidence>
+<evidence key="58" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1932142"/>
+</source>
+</evidence>
+<evidence key="59" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1979335"/>
+</source>
+</evidence>
+<evidence key="60" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1997217"/>
+</source>
+</evidence>
+<evidence key="61" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2046936"/>
+</source>
+</evidence>
+<evidence key="62" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2161654"/>
+</source>
+</evidence>
+<evidence key="63" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23317988"/>
+</source>
+</evidence>
+<evidence key="64" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2363717"/>
+</source>
+</evidence>
+<evidence key="65" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2891727"/>
+</source>
+</evidence>
+<evidence key="66" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3022108"/>
+</source>
+</evidence>
+<evidence key="67" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3135807"/>
+</source>
+</evidence>
+<evidence key="68" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3675594"/>
+</source>
+</evidence>
+<evidence key="69" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3714052"/>
+</source>
+</evidence>
+<evidence key="70" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3722385"/>
+</source>
+</evidence>
+<evidence key="71" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3818577"/>
+</source>
+</evidence>
+<evidence key="72" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4607556"/>
+</source>
+</evidence>
+<evidence key="73" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6300852"/>
+</source>
+</evidence>
+<evidence key="74" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6487335"/>
+</source>
+</evidence>
+<evidence key="75" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6583672"/>
+</source>
+</evidence>
+<evidence key="76" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6651852"/>
+</source>
+</evidence>
+<evidence key="77" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7655883"/>
+</source>
+</evidence>
+<evidence key="78" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7850982"/>
+</source>
+</evidence>
+<evidence key="79" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7910950"/>
+</source>
+</evidence>
+<evidence key="80" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7914929"/>
+</source>
+</evidence>
+<evidence key="81" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7923855"/>
+</source>
+</evidence>
+<evidence key="82" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8019560"/>
+</source>
+</evidence>
+<evidence key="83" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8038017"/>
+</source>
+</evidence>
+<evidence key="84" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8081397"/>
+</source>
+</evidence>
+<evidence key="85" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8089102"/>
+</source>
+</evidence>
+<evidence key="86" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8095302"/>
+</source>
+</evidence>
+<evidence key="87" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8133316"/>
+</source>
+</evidence>
+<evidence key="88" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8257997"/>
+</source>
+</evidence>
+<evidence key="89" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8309582"/>
+</source>
+</evidence>
+<evidence key="90" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8352764"/>
+</source>
+</evidence>
+<evidence key="91" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8579098"/>
+</source>
+</evidence>
+<evidence key="92" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8990019"/>
+</source>
+</evidence>
+<evidence key="93" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9066351"/>
+</source>
+</evidence>
+<evidence key="94" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9605286"/>
+</source>
+</evidence>
+<evidence key="95" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9818883"/>
+</source>
+</evidence>
+<evidence key="96" type="ECO:0000269">
+<source ref="89"/>
+</evidence>
+<evidence key="97" type="ECO:0000305"/>
+<sequence length="147" mass="15887" checksum="3A6AEBCBBA56BC44" modified="1987-03-20" version="1" precursor="true">
+MASHRLLLLCLAGLVFVSEAGPTGTGESKCPLMVKVLDAVRGSPAINVAVHVFRKAADDT
+WEPFASGKTSESGELHGLTTEEEFVEGIYKVEIDTKSYWKALGISPFHEHAEVVFTANDS
+GPRRYTIAALLSPYSYSTTAVVTNPKE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

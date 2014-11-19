@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2014-04-16" modified="2014-10-29" version="7">
+<accession>P9WGR1</accession>
+<accession>F2GEM2</accession>
+<accession>P0A5Y6</accession>
+<accession>P46533</accession>
+<accession>Q540M9</accession>
+<name>INHA_MYCTU</name>
+<protein>
+<recommendedName>
+<fullName>Enoyl-[acyl-carrier-protein] reductase [NADH]</fullName>
+<ecNumber>1.3.1.9</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>NADH-dependent enoyl-ACP reductase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">inhA</name>
+<name type="ordered locus">Rv1484</name>
+<name type="ORF">MTCY277.05</name>
+</gene>
+<organism>
+<name type="scientific">Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)</name>
+<dbReference type="NCBI Taxonomy" id="83332"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Actinobacteridae</taxon>
+<taxon>Actinomycetales</taxon>
+<taxon>Corynebacterineae</taxon>
+<taxon>Mycobacteriaceae</taxon>
+<taxon>Mycobacterium</taxon>
+<taxon>Mycobacterium tuberculosis complex</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Science" volume="263" first="227" last="230">
+<title>inhA, a gene encoding a target for isoniazid and ethionamide in Mycobacterium tuberculosis.</title>
+<authorList>
+<person name="Banerjee A."/>
+<person name="Dubnau E."/>
+<person name="Quemard A."/>
+<person name="Balasubramanian V."/>
+<person name="Um K.S."/>
+<person name="Wilson T."/>
+<person name="Collins D."/>
+<person name="de Lisle G."/>
+<person name="Jacobs W.R. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="8284673"/>
+<dbReference type="DOI" id="10.1126/science.8284673"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2002-09" db="EMBL/GenBank/DDBJ databases">
+<title>The allelic profiles of multidrug-resistant Mycobacterium tuberculosis isolates from Taiwan.</title>
+<authorList>
+<person name="Shi Z.-Y."/>
+<person name="Lee K."/>
+<person name="Hu C.-H."/>
+<person name="Liu M.-F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>TCVGH1</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1998" name="Nature" volume="393" first="537" last="544">
+<title>Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence.</title>
+<authorList>
+<person name="Cole S.T."/>
+<person name="Brosch R."/>
+<person name="Parkhill J."/>
+<person name="Garnier T."/>
+<person name="Churcher C.M."/>
+<person name="Harris D.E."/>
+<person name="Gordon S.V."/>
+<person name="Eiglmeier K."/>
+<person name="Gas S."/>
+<person name="Barry C.E. III"/>
+<person name="Tekaia F."/>
+<person name="Badcock K."/>
+<person name="Basham D."/>
+<person name="Brown D."/>
+<person name="Chillingworth T."/>
+<person name="Connor R."/>
+<person name="Davies R.M."/>
+<person name="Devlin K."/>
+<person name="Feltwell T."/>
+<person name="Gentles S."/>
+<person name="Hamlin N."/>
+<person name="Holroyd S."/>
+<person name="Hornsby T."/>
+<person name="Jagels K."/>
+<person name="Krogh A."/>
+<person name="McLean J."/>
+<person name="Moule S."/>
+<person name="Murphy L.D."/>
+<person name="Oliver S."/>
+<person name="Osborne J."/>
+<person name="Quail M.A."/>
+<person name="Rajandream M.A."/>
+<person name="Rogers J."/>
+<person name="Rutter S."/>
+<person name="Seeger K."/>
+<person name="Skelton S."/>
+<person name="Squares S."/>
+<person name="Squares R."/>
+<person name="Sulston J.E."/>
+<person name="Taylor K."/>
+<person name="Whitehead S."/>
+<person name="Barrell B.G."/>
+</authorList>
+<dbReference type="PubMed" id="9634230"/>
+<dbReference type="DOI" id="10.1038/31159"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="BMC Syst. Biol." volume="2" first="109" last="109">
+<title>targetTB: a target identification pipeline for Mycobacterium tuberculosis through an interactome, reactome and genome-scale structural analysis.</title>
+<authorList>
+<person name="Raman K."/>
+<person name="Yeturu K."/>
+<person name="Chandra N."/>
+</authorList>
+<dbReference type="PubMed" id="19099550"/>
+<dbReference type="DOI" id="10.1186/1752-0509-2-109"/>
+</citation>
+<scope>IDENTIFICATION AS A DRUG TARGET [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="Mol. Cell. Proteomics" volume="10" first="M111.011627" last="M111.011627">
+<title>Proteogenomic analysis of Mycobacterium tuberculosis by high resolution mass spectrometry.</title>
+<authorList>
+<person name="Kelkar D.S."/>
+<person name="Kumar D."/>
+<person name="Kumar P."/>
+<person name="Balakrishnan L."/>
+<person name="Muthusamy B."/>
+<person name="Yadav A.K."/>
+<person name="Shrivastava P."/>
+<person name="Marimuthu A."/>
+<person name="Anand S."/>
+<person name="Sundaram H."/>
+<person name="Kingsbury R."/>
+<person name="Harsha H.C."/>
+<person name="Nair B."/>
+<person name="Prasad T.S."/>
+<person name="Chauhan D.S."/>
+<person name="Katoch K."/>
+<person name="Katoch V.M."/>
+<person name="Kumar P."/>
+<person name="Chaerkady R."/>
+<person name="Ramachandran S."/>
+<person name="Dash D."/>
+<person name="Pandey A."/>
+</authorList>
+<dbReference type="PubMed" id="21969609"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.011627"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1995" name="Science" volume="267" first="1638" last="1641">
+<title>Crystal structure and function of the isoniazid target of Mycobacterium tuberculosis.</title>
+<authorList>
+<person name="Dessen A."/>
+<person name="Quemard A."/>
+<person name="Blanchard J.S."/>
+<person name="Jacobs W.R. Jr."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="7886450"/>
+<dbReference type="DOI" id="10.1126/science.7886450"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS)</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Science" volume="279" first="98" last="102">
+<title>Modification of the NADH of the isoniazid target (InhA) from Mycobacterium tuberculosis.</title>
+<authorList>
+<person name="Rozwarski D.A."/>
+<person name="Grant G.A."/>
+<person name="Barton D.H.R."/>
+<person name="Jacobs W.R. Jr."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="9417034"/>
+<dbReference type="DOI" id="10.1126/science.279.5347.98"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="15582" last="15589">
+<title>Crystal structure of the Mycobacterium tuberculosis enoyl-ACP reductase, InhA, in complex with NAD+ and a C16 fatty acyl substrate.</title>
+<authorList>
+<person name="Rozwarski D.A."/>
+<person name="Vilcheze C."/>
+<person name="Sugantino M."/>
+<person name="Bittman R."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="10336454"/>
+<dbReference type="DOI" id="10.1074/jbc.274.22.15582"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) IN COMPLEX WITH NAD AND SUBSTRATE</scope>
+</reference>
+<comment type="catalytic activity">
+<text>An acyl-[acyl-carrier protein] + NAD(+) = a trans-2,3-dehydroacyl-[acyl-carrier protein] + NADH.</text>
+</comment>
+<comment type="pathway">
+<text>Lipid metabolism; fatty acid biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Homotetramer.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Target of the preferred antitubercular drug isoniazid (INH) which specifically inhibits InhA by covalent attachment of the activated form of the drug to the nicotinamide ring of nicotinamide adenine dinucleotide bound within the active site of the enzyme. Involved in the resistance against both isoniazid and ethionamide (ETH).</text>
+</comment>
+<comment type="miscellaneous">
+<text>Was identified as a high-confidence drug target.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the short-chain dehydrogenases/reductases (SDR) family. FabI subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.3.1.9"/>
+<dbReference type="EMBL" id="U02492">
+<property type="protein sequence ID" value="AAC43210.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY155363">
+<property type="protein sequence ID" value="AAN75060.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL123456">
+<property type="protein sequence ID" value="CCP44244.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G70710">
+<property type="entry name" value="G70710"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_216000.1">
+<property type="nucleotide sequence ID" value="NC_000962.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_006514868.1">
+<property type="nucleotide sequence ID" value="NC_018143.2"/>
+</dbReference>
+<dbReference type="PDB" id="1BVR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D/E/F=2-269"/>
+</dbReference>
+<dbReference type="PDB" id="1ENY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=3-269"/>
+</dbReference>
+<dbReference type="PDB" id="1ENZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=3-269"/>
+</dbReference>
+<dbReference type="PDB" id="1P44">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B/C/D/E/F=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="1P45">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="1ZID">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=3-269"/>
+</dbReference>
+<dbReference type="PDB" id="2AQ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.92"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2AQH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.01"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2AQI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2AQK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2B35">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D/E/F=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2B36">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D/E/F=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2B37">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C/D/E/F=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2H9I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-269"/>
+</dbReference>
+<dbReference type="PDB" id="2IDZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-269"/>
+</dbReference>
+<dbReference type="PDB" id="2IE0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-269"/>
+</dbReference>
+<dbReference type="PDB" id="2IEB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-269"/>
+</dbReference>
+<dbReference type="PDB" id="2IED">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.14"/>
+<property type="chains" value="A/B/C/D=2-269"/>
+</dbReference>
+<dbReference type="PDB" id="2NSD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2NTJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=3-269"/>
+</dbReference>
+<dbReference type="PDB" id="2NV6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=3-269"/>
+</dbReference>
+<dbReference type="PDB" id="2PR2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2X22">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="2X23">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B/E/G=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="3FNE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="3FNF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="3FNG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="3FNH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="3OEW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="3OEY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="3OF2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4BGE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B/C/D/E/F=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4BGI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.09"/>
+<property type="chains" value="A/B/C/D/E/F=2-269"/>
+</dbReference>
+<dbReference type="PDB" id="4BII">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4BQP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="A/B/C/D/E/F=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4BQR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4DQU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4DRE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4DTI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4OHU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4OXK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.84"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4OXN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A/B=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4OXY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4OYR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4TRJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.73"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4TZK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.62"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4TZT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4U0J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.62"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4U0K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BVR"/>
+<dbReference type="PDBsum" id="1ENY"/>
+<dbReference type="PDBsum" id="1ENZ"/>
+<dbReference type="PDBsum" id="1P44"/>
+<dbReference type="PDBsum" id="1P45"/>
+<dbReference type="PDBsum" id="1ZID"/>
+<dbReference type="PDBsum" id="2AQ8"/>
+<dbReference type="PDBsum" id="2AQH"/>
+<dbReference type="PDBsum" id="2AQI"/>
+<dbReference type="PDBsum" id="2AQK"/>
+<dbReference type="PDBsum" id="2B35"/>
+<dbReference type="PDBsum" id="2B36"/>
+<dbReference type="PDBsum" id="2B37"/>
+<dbReference type="PDBsum" id="2H9I"/>
+<dbReference type="PDBsum" id="2IDZ"/>
+<dbReference type="PDBsum" id="2IE0"/>
+<dbReference type="PDBsum" id="2IEB"/>
+<dbReference type="PDBsum" id="2IED"/>
+<dbReference type="PDBsum" id="2NSD"/>
+<dbReference type="PDBsum" id="2NTJ"/>
+<dbReference type="PDBsum" id="2NV6"/>
+<dbReference type="PDBsum" id="2PR2"/>
+<dbReference type="PDBsum" id="2X22"/>
+<dbReference type="PDBsum" id="2X23"/>
+<dbReference type="PDBsum" id="3FNE"/>
+<dbReference type="PDBsum" id="3FNF"/>
+<dbReference type="PDBsum" id="3FNG"/>
+<dbReference type="PDBsum" id="3FNH"/>
+<dbReference type="PDBsum" id="3OEW"/>
+<dbReference type="PDBsum" id="3OEY"/>
+<dbReference type="PDBsum" id="3OF2"/>
+<dbReference type="PDBsum" id="4BGE"/>
+<dbReference type="PDBsum" id="4BGI"/>
+<dbReference type="PDBsum" id="4BII"/>
+<dbReference type="PDBsum" id="4BQP"/>
+<dbReference type="PDBsum" id="4BQR"/>
+<dbReference type="PDBsum" id="4DQU"/>
+<dbReference type="PDBsum" id="4DRE"/>
+<dbReference type="PDBsum" id="4DTI"/>
+<dbReference type="PDBsum" id="4OHU"/>
+<dbReference type="PDBsum" id="4OXK"/>
+<dbReference type="PDBsum" id="4OXN"/>
+<dbReference type="PDBsum" id="4OXY"/>
+<dbReference type="PDBsum" id="4OYR"/>
+<dbReference type="PDBsum" id="4TRJ"/>
+<dbReference type="PDBsum" id="4TZK"/>
+<dbReference type="PDBsum" id="4TZT"/>
+<dbReference type="PDBsum" id="4U0J"/>
+<dbReference type="PDBsum" id="4U0K"/>
+<dbReference type="ProteinModelPortal" id="P9WGR1"/>
+<dbReference type="SMR" id="P9WGR1">
+<property type="residue range" value="2-269"/>
+</dbReference>
+<dbReference type="ChEMBL" id="CHEMBL1849"/>
+<dbReference type="GeneID" id="13320077"/>
+<dbReference type="GeneID" id="886523"/>
+<dbReference type="KEGG" id="mtu:Rv1484"/>
+<dbReference type="KEGG" id="mtv:RVBD_1484"/>
+<dbReference type="TubercuList" id="Rv1484"/>
+<dbReference type="KO" id="K11611"/>
+<dbReference type="PhylomeDB" id="P9WGR1"/>
+<dbReference type="UniPathway" id="UPA00094"/>
+<dbReference type="GO" id="GO:0005618">
+<property type="term" value="C:cell wall"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004318">
+<property type="term" value="F:enoyl-[acyl-carrier-protein] reductase (NADH) activity"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005504">
+<property type="term" value="F:fatty acid binding"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070403">
+<property type="term" value="F:NAD+ binding"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030497">
+<property type="term" value="P:fatty acid elongation"/>
+<property type="evidence" value="IMP:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071768">
+<property type="term" value="P:mycolic acid biosynthetic process"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.720">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014358">
+<property type="entry name" value="Enoyl-ACP_Rdtase_NADH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016040">
+<property type="entry name" value="NAD(P)-bd_dom"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000094">
+<property type="entry name" value="Enoyl-ACP_rdct"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0275">Fatty acid biosynthesis</keyword>
+<keyword id="KW-0276">Fatty acid metabolism</keyword>
+<keyword id="KW-0444">Lipid biosynthesis</keyword>
+<keyword id="KW-0443">Lipid metabolism</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Enoyl-[acyl-carrier-protein] reductase [NADH]" id="PRO_0000054916">
+<location>
+<begin position="1"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="1">
+<location>
+<begin position="136"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="2">
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: NZ; INH-resistant.">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="94"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="4"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="9"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="16"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="21"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="35"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="44"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="60"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="68"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="88"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="100"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="103"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="108"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="113"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="125"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="135"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="138"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="152"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="156"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="159"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="185"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="197"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="204"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="208"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="211"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="236"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="247"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="255"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="264"/>
+<end position="266"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10336454"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="269" mass="28528" checksum="F161D6D6A631CA08" modified="2014-04-16" version="1">
+MTGLLDGKRILVSGIITDSSIAFHIARVAQEQGAQLVLTGFDRLRLIQRITDRLPAKAPL
+LELDVQNEEHLASLAGRVTEAIGAGNKLDGVVHSIGFMPQTGMGINPFFDAPYADVSKGI
+HISAYSYASMAKALLPIMNPGGSIVGMDFDPSRAMPAYNWMTVAKSALESVNRFVAREAG
+KYGVRSNLVAAGPIRTLAMSAIVGGALGEEAGAQIQLLEEGWDQRAPIGWNMKDATPVAK
+TVCALLSDWLPATTGDIIYADGGAHTQLL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

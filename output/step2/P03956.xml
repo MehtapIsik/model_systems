@@ -1,0 +1,1484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1986-10-23" modified="2014-10-29" version="177">
+<accession>P03956</accession>
+<accession>P08156</accession>
+<name>MMP1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Interstitial collagenase</fullName>
+<ecNumber>3.4.24.7</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Fibroblast collagenase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Matrix metalloproteinase-1</fullName>
+<shortName>MMP-1</shortName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>22 kDa interstitial collagenase</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>27 kDa interstitial collagenase</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">MMP1</name>
+<name type="synonym">CLG</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="Cancer Res." volume="50" first="5431" last="5437">
+<title>Cloning and characterization of human tumor cell interstitial collagenase.</title>
+<authorList>
+<person name="Templeton N.S."/>
+<person name="Brown P.D."/>
+<person name="Levy A.T."/>
+<person name="Margulies I.M.K."/>
+<person name="Liotta L.A."/>
+<person name="Stetler-Stevenson W.G."/>
+</authorList>
+<dbReference type="PubMed" id="2167156"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1986" name="Biochem. J." volume="240" first="913" last="916">
+<title>Comparison of human stromelysin and collagenase by cloning and sequence analysis.</title>
+<authorList>
+<person name="Whitham S.E."/>
+<person name="Murphy G."/>
+<person name="Angel P."/>
+<person name="Rahmsdorf H.J."/>
+<person name="Smith B."/>
+<person name="Lyons A."/>
+<person name="Harris T.J.R."/>
+<person name="Reynolds J.J."/>
+<person name="Herrlich P."/>
+<person name="Docherty A.J.P."/>
+</authorList>
+<dbReference type="PubMed" id="3030290"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="6600" last="6605">
+<title>Human fibroblast collagenase. Complete primary structure and homology to an oncogene transformation-induced rat protein.</title>
+<authorList>
+<person name="Goldberg G.I."/>
+<person name="Wilhelm S.M."/>
+<person name="Kronberger A."/>
+<person name="Bauer E.A."/>
+<person name="Grant G.A."/>
+<person name="Eisen A.Z."/>
+</authorList>
+<dbReference type="PubMed" id="3009463"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="1996-12" db="EMBL/GenBank/DDBJ databases">
+<title>Three matrix metalloproteinases on 81kb of P1 insert.</title>
+<authorList>
+<person name="Lin D."/>
+<person name="Duncan M."/>
+<person name="Allen E."/>
+<person name="Araujo R."/>
+<person name="Aparicio A."/>
+<person name="Chai A."/>
+<person name="Chung E."/>
+<person name="Davis K."/>
+<person name="Federspiel N."/>
+<person name="Hyman R."/>
+<person name="Kalman S."/>
+<person name="Komp C."/>
+<person name="Kurdi O."/>
+<person name="Lashkari D."/>
+<person name="Lew H."/>
+<person name="Namath A."/>
+<person name="Oefner P."/>
+<person name="Roberts D."/>
+<person name="Heller R."/>
+<person name="Davis R.W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2004-10" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2004-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS VAL-191; GLN-405 AND THR-406</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Ovary</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1987" name="Mol. Cell. Biol." volume="7" first="2256" last="2266">
+<title>12-O-tetradecanoyl-phorbol-13-acetate induction of the human collagenase gene is mediated by an inducible enhancer element located in the 5'-flanking region.</title>
+<authorList>
+<person name="Angel P."/>
+<person name="Baumann I."/>
+<person name="Stein B."/>
+<person name="Delius H."/>
+<person name="Rahmsdorf H.J."/>
+<person name="Herrlich P."/>
+</authorList>
+<dbReference type="PubMed" id="3037355"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-35</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1987" name="J. Clin. Invest." volume="79" first="542" last="546">
+<title>Molecular cloning of human synovial cell collagenase and selection of a single gene from genomic DNA.</title>
+<authorList>
+<person name="Brinckerhoff C.E."/>
+<person name="Ruby P.L."/>
+<person name="Austin S.D."/>
+<person name="Fini M.E."/>
+<person name="White H.D."/>
+</authorList>
+<dbReference type="PubMed" id="3027129"/>
+<dbReference type="DOI" id="10.1172/JCI112845"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1-70</scope>
+<source>
+<tissue>Synovial cell</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1989" name="Biochem. J." volume="263" first="201" last="206">
+<title>Fragments of human fibroblast collagenase. Purification and characterization.</title>
+<authorList>
+<person name="Clark I.M."/>
+<person name="Cawston T.E."/>
+</authorList>
+<dbReference type="PubMed" id="2557822"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 100-112 AND 270-287</scope>
+<source>
+<tissue>Fibroblast</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1987" name="J. Biol. Chem." volume="262" first="5943" last="5943">
+<title>Human fibroblast collagenase contains an amino acid sequence homologous to the zinc-binding site of Serratia protease.</title>
+<authorList>
+<person name="McKerrow J.H."/>
+</authorList>
+<dbReference type="PubMed" id="3032950"/>
+</citation>
+<scope>SIMILARITY TO THERMOLYSIN TYPE PROTEASES</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1991" name="J. Clin. Invest." volume="87" first="2258" last="2265">
+<title>Interstitial collagenase (matrix metalloproteinase-1) expresses serpinase activity.</title>
+<authorList>
+<person name="Desrochers P.E."/>
+<person name="Jeffrey J.J."/>
+<person name="Weiss S.J."/>
+</authorList>
+<dbReference type="PubMed" id="1645757"/>
+<dbReference type="DOI" id="10.1172/JCI115262"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1999" name="Eur. J. Biochem." volume="259" first="829" last="840">
+<title>N-glycan structures of matrix metalloproteinase-1 derived from human fibroblasts and from HT-1080 fibrosarcoma cells.</title>
+<authorList>
+<person name="Saarinen J."/>
+<person name="Welgus H.G."/>
+<person name="Flizar C.A."/>
+<person name="Kalkkinen N."/>
+<person name="Helin J."/>
+</authorList>
+<dbReference type="PubMed" id="10092871"/>
+<dbReference type="DOI" id="10.1046/j.1432-1327.1999.00105.x"/>
+</citation>
+<scope>GLYCOSYLATION AT ASN-120</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2006" name="FASEB J." volume="20" first="1736" last="1738">
+<title>Interaction of HIV Tat and matrix metalloproteinase in HIV neuropathogenesis: a new host defense mechanism.</title>
+<authorList>
+<person name="Rumbaugh J."/>
+<person name="Turchan-Cholewo J."/>
+<person name="Galey D."/>
+<person name="St Hillaire C."/>
+<person name="Anderson C."/>
+<person name="Conant K."/>
+<person name="Nath A."/>
+</authorList>
+<dbReference type="PubMed" id="16807369"/>
+<dbReference type="DOI" id="10.1096/fj.05-5619fje"/>
+</citation>
+<scope>INTERACTION WITH HIV-1 TAT</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2014" name="Cell" volume="158" first="1033" last="1044">
+<title>A secreted tyrosine kinase acts in the extracellular environment.</title>
+<authorList>
+<person name="Bordoli M.R."/>
+<person name="Yum J."/>
+<person name="Breitkopf S.B."/>
+<person name="Thon J.N."/>
+<person name="Italiano J.E. Jr."/>
+<person name="Xiao J."/>
+<person name="Worby C."/>
+<person name="Wong S.K."/>
+<person name="Lin G."/>
+<person name="Edenius M."/>
+<person name="Keller T.L."/>
+<person name="Asara J.M."/>
+<person name="Dixon J.E."/>
+<person name="Yeo C.Y."/>
+<person name="Whitman M."/>
+</authorList>
+<dbReference type="PubMed" id="25171405"/>
+<dbReference type="DOI" id="10.1016/j.cell.2014.06.048"/>
+</citation>
+<scope>PHOSPHORYLATION AT TYR-360</scope>
+<scope>MUTAGENESIS OF TYR-360</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1994" name="Nat. Struct. Biol." volume="1" first="106" last="110">
+<title>Structure of the catalytic domain of human fibroblast collagenase complexed with an inhibitor.</title>
+<authorList>
+<person name="Borkakoti N."/>
+<person name="Winkler F.K."/>
+<person name="Williams D.H."/>
+<person name="D'Arcy A."/>
+<person name="Broadhurst M.J."/>
+<person name="Brown P.A."/>
+<person name="Johnson W.H."/>
+<person name="Murray E.J."/>
+</authorList>
+<dbReference type="PubMed" id="7656013"/>
+<dbReference type="DOI" id="10.1038/nsb0294-106"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 100-269</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1994" name="Biochemistry" volume="33" first="8207" last="8217">
+<title>Crystal structures of recombinant 19-kDa human fibroblast collagenase complexed to itself.</title>
+<authorList>
+<person name="Lovejoy B."/>
+<person name="Hassell A.M."/>
+<person name="Luther M.A."/>
+<person name="Weigl D."/>
+<person name="Jordan S.R."/>
+</authorList>
+<dbReference type="PubMed" id="8031754"/>
+<dbReference type="DOI" id="10.1021/bi00193a006"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 102-269</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1994" name="Science" volume="263" first="375" last="377">
+<title>Structure of the catalytic domain of fibroblast collagenase complexed with an inhibitor.</title>
+<authorList>
+<person name="Lovejoy B."/>
+<person name="Cleasby A."/>
+<person name="Hassell A.M."/>
+<person name="Longley K."/>
+<person name="Luther M.A."/>
+<person name="Weigl D."/>
+<person name="McGeehan G."/>
+<person name="McElroy A.B."/>
+<person name="Drewry D."/>
+<person name="Lambert M.H."/>
+<person name="Jordan S.R."/>
+</authorList>
+<dbReference type="PubMed" id="8278810"/>
+<dbReference type="DOI" id="10.1126/science.8278810"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 102-269</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1994" name="Proteins" volume="19" first="98" last="109">
+<title>1.56-A structure of mature truncated human fibroblast collagenase.</title>
+<authorList>
+<person name="Spurlino J.C."/>
+<person name="Smallwood A.M."/>
+<person name="Carlton D.D."/>
+<person name="Banks T.M."/>
+<person name="Vavra K.J."/>
+<person name="Johnson J.S."/>
+<person name="Cook E.R."/>
+<person name="Falvo J."/>
+<person name="Wahl R.C."/>
+<person name="Pulvino T.A."/>
+<person name="Et A.L."/>
+</authorList>
+<dbReference type="PubMed" id="8090713"/>
+<dbReference type="DOI" id="10.1002/prot.340190203"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.56 ANGSTROMS) OF 101-269</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="1495" last="1504">
+<title>High-resolution solution structure of the inhibitor-free catalytic fragment of human fibroblast collagenase determined by multidimensional NMR.</title>
+<authorList>
+<person name="Moy F.J."/>
+<person name="Chanda P.K."/>
+<person name="Cosmi S."/>
+<person name="Pisano M.R."/>
+<person name="Urbano C."/>
+<person name="Wilhelm J."/>
+<person name="Powers R."/>
+</authorList>
+<dbReference type="PubMed" id="9484219"/>
+<dbReference type="DOI" id="10.1021/bi972181w"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 101-269</scope>
+</reference>
+<comment type="function">
+<text evidence="3">Cleaves collagens of types I, II, and III at one site in the helical domain. Also cleaves collagens of types VII and X. In case of HIV infection, interacts and cleaves the secreted viral Tat protein, leading to a decrease in neuronal Tat's mediated neurotoxicity.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Cleavage of the triple helix of collagen at about three-quarters of the length of the molecule from the N-terminus, at 775-Gly-|-Ile-776 in the alpha-1(I) chain. Cleaves synthetic substrates and alpha-macroglobulins at bonds where P1' is a hydrophobic residue.</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 4 calcium ions per subunit.</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 2 zinc ions per subunit.</text>
+</comment>
+<comment type="enzyme regulation">
+<text>Can be activated without removal of the activation peptide.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Interacts with HIV-1 Tat.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9">Secreted</location>
+<location evidence="9">Extracellular space</location>
+<location evidence="9">Extracellular matrix</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text>There are two distinct domains in this protein; the catalytic N-terminal, and the C-terminal which is involved in substrate specificity and in binding TIMP (tissue inhibitor of metalloproteinases).</text>
+</comment>
+<comment type="domain">
+<text>The conserved cysteine present in the cysteine-switch motif binds the catalytic zinc ion, thus inhibiting the enzyme. The dissociation of the cysteine from the zinc ion upon the activation-peptide release activates the enzyme.</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Undergoes autolytic cleavage to two major forms (22 kDa and 27 kDa). A minor form (25 kDa) is the glycosylated form of the 22 kDa form. The 27 kDa form has no activity while the 22/25 kDa form can act as activator for collagenase.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Tyrosine phosphorylated in platelets by PKDCC/VLK.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the peptidase M10A family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Contains 4 hemopexin repeats.</text>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/mmp1/"/>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="http://en.wikipedia.org/wiki/Collagenase"/>
+<text>Collagenase entry</text>
+</comment>
+<dbReference type="EC" id="3.4.24.7"/>
+<dbReference type="EMBL" id="X54925">
+<property type="protein sequence ID" value="CAA38691.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X05231">
+<property type="protein sequence ID" value="CAA28858.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M13509">
+<property type="protein sequence ID" value="AAA35699.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U78045">
+<property type="protein sequence ID" value="AAB36941.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT006874">
+<property type="protein sequence ID" value="AAP35520.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY769434">
+<property type="protein sequence ID" value="AAV28732.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC013875">
+<property type="protein sequence ID" value="AAH13875.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M16567">
+<property type="protein sequence ID" value="AAA52033.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M15996">
+<property type="protein sequence ID" value="AAA35700.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS8322.1"/>
+<dbReference type="PIR" id="A37308">
+<property type="entry name" value="KCHUI"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002412.1">
+<property type="nucleotide sequence ID" value="NM_002421.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.83169"/>
+<dbReference type="PDB" id="1AYK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="1CGE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=102-269"/>
+</dbReference>
+<dbReference type="PDB" id="1CGF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=102-263"/>
+</dbReference>
+<dbReference type="PDB" id="1CGL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="1HFC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="1SU3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=20-469"/>
+</dbReference>
+<dbReference type="PDB" id="2AYK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="2CLT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.67"/>
+<property type="chains" value="A/B=100-466"/>
+</dbReference>
+<dbReference type="PDB" id="2J0T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.54"/>
+<property type="chains" value="A/B/C=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="2TCL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="3AYK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="3SHI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/G/M=106-261"/>
+</dbReference>
+<dbReference type="PDB" id="4AUO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=100-466"/>
+</dbReference>
+<dbReference type="PDB" id="4AYK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=101-269"/>
+</dbReference>
+<dbReference type="PDB" id="966C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=108-264"/>
+</dbReference>
+<dbReference type="PDBsum" id="1AYK"/>
+<dbReference type="PDBsum" id="1CGE"/>
+<dbReference type="PDBsum" id="1CGF"/>
+<dbReference type="PDBsum" id="1CGL"/>
+<dbReference type="PDBsum" id="1HFC"/>
+<dbReference type="PDBsum" id="1SU3"/>
+<dbReference type="PDBsum" id="2AYK"/>
+<dbReference type="PDBsum" id="2CLT"/>
+<dbReference type="PDBsum" id="2J0T"/>
+<dbReference type="PDBsum" id="2TCL"/>
+<dbReference type="PDBsum" id="3AYK"/>
+<dbReference type="PDBsum" id="3SHI"/>
+<dbReference type="PDBsum" id="4AUO"/>
+<dbReference type="PDBsum" id="4AYK"/>
+<dbReference type="PDBsum" id="966C"/>
+<dbReference type="ProteinModelPortal" id="P03956"/>
+<dbReference type="SMR" id="P03956">
+<property type="residue range" value="32-466"/>
+</dbReference>
+<dbReference type="BioGrid" id="110456">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-529N"/>
+<dbReference type="IntAct" id="P03956">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-198818"/>
+<dbReference type="STRING" id="9606.ENSP00000322788"/>
+<dbReference type="BindingDB" id="P03956"/>
+<dbReference type="ChEMBL" id="CHEMBL2095216"/>
+<dbReference type="DrugBank" id="DB00786">
+<property type="generic name" value="Marimastat"/>
+</dbReference>
+<dbReference type="GuidetoPHARMACOLOGY" id="1628"/>
+<dbReference type="MEROPS" id="M10.001"/>
+<dbReference type="PhosphoSite" id="P03956"/>
+<dbReference type="UniCarbKB" id="P03956"/>
+<dbReference type="DMDM" id="116852"/>
+<dbReference type="PaxDb" id="P03956"/>
+<dbReference type="PeptideAtlas" id="P03956"/>
+<dbReference type="PRIDE" id="P03956"/>
+<dbReference type="DNASU" id="4312"/>
+<dbReference type="Ensembl" id="ENST00000315274">
+<property type="protein sequence ID" value="ENSP00000322788"/>
+<property type="gene ID" value="ENSG00000196611"/>
+</dbReference>
+<dbReference type="GeneID" id="4312"/>
+<dbReference type="KEGG" id="hsa:4312"/>
+<dbReference type="UCSC" id="uc001phi.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4312"/>
+<dbReference type="GeneCards" id="GC11M102660"/>
+<dbReference type="H-InvDB" id="HIX0201751"/>
+<dbReference type="HGNC" id="HGNC:7155">
+<property type="gene designation" value="MMP1"/>
+</dbReference>
+<dbReference type="MIM" id="120353">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P03956"/>
+<dbReference type="Orphanet" id="79408">
+<property type="disease" value="Severe generalized recessive dystrophic epidermolysis bullosa"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA30867"/>
+<dbReference type="eggNOG" id="NOG258253"/>
+<dbReference type="GeneTree" id="ENSGT00760000118870"/>
+<dbReference type="HOGENOM" id="HOG000217927"/>
+<dbReference type="HOVERGEN" id="HBG052484"/>
+<dbReference type="InParanoid" id="P03956"/>
+<dbReference type="KO" id="K01388"/>
+<dbReference type="OMA" id="MRTNPFY"/>
+<dbReference type="OrthoDB" id="EOG7XPZ57"/>
+<dbReference type="PhylomeDB" id="P03956"/>
+<dbReference type="TreeFam" id="TF315428"/>
+<dbReference type="Reactome" id="REACT_118572">
+<property type="pathway name" value="Degradation of the extracellular matrix"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_118682">
+<property type="pathway name" value="Activation of Matrix Metalloproteinases"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_12560">
+<property type="pathway name" value="Basigin interactions"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_150401">
+<property type="pathway name" value="Collagen degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_15428">
+<property type="pathway name" value="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_197191">
+<property type="pathway name" value="Collagen degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_222620">
+<property type="pathway name" value="Collagen degradation"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P03956"/>
+<dbReference type="GeneWiki" id="MMP1"/>
+<dbReference type="GenomeRNAi" id="4312"/>
+<dbReference type="NextBio" id="16969"/>
+<dbReference type="PMAP-CutDB" id="P03956"/>
+<dbReference type="PRO" id="PR:P03956"/>
+<dbReference type="Bgee" id="P03956"/>
+<dbReference type="CleanEx" id="HS_MMP1"/>
+<dbReference type="ExpressionAtlas" id="P03956">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="P03956"/>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005578">
+<property type="term" value="C:proteinaceous extracellular matrix"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004222">
+<property type="term" value="F:metalloendopeptidase activity"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044267">
+<property type="term" value="P:cellular protein metabolic process"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030574">
+<property type="term" value="P:collagen catabolic process"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022617">
+<property type="term" value="P:extracellular matrix disassembly"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030198">
+<property type="term" value="P:extracellular matrix organization"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050900">
+<property type="term" value="P:leukocyte migration"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.110.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.390.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000585">
+<property type="entry name" value="Hemopexin-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018487">
+<property type="entry name" value="Hemopexin-like_repeat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018486">
+<property type="entry name" value="Hemopexin_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024079">
+<property type="entry name" value="MetalloPept_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001818">
+<property type="entry name" value="Pept_M10_metallopeptidase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021190">
+<property type="entry name" value="Pept_M10A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016293">
+<property type="entry name" value="Pept_M10A_stromelysin-type"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021158">
+<property type="entry name" value="Pept_M10A_Zn_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006026">
+<property type="entry name" value="Peptidase_Metallo"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002477">
+<property type="entry name" value="Peptidoglycan-bd-like"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00045">
+<property type="entry name" value="Hemopexin"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00413">
+<property type="entry name" value="Peptidase_M10"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01471">
+<property type="entry name" value="PG_binding_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001191">
+<property type="entry name" value="Peptidase_M10A_matrix"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00138">
+<property type="entry name" value="MATRIXIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00120">
+<property type="entry name" value="HX"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SMART" id="SM00235">
+<property type="entry name" value="ZnMc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47090">
+<property type="entry name" value="SSF47090"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50923">
+<property type="entry name" value="SSF50923"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00546">
+<property type="entry name" value="CYSTEINE_SWITCH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00024">
+<property type="entry name" value="HEMOPEXIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51642">
+<property type="entry name" value="HEMOPEXIN_2"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00142">
+<property type="entry name" value="ZINC_PROTEASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0068">Autocatalytic cleavage</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0177">Collagen degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0272">Extracellular matrix</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0482">Metalloprotease</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0865">Zymogen</keyword>
+<feature type="signal peptide">
+<location>
+<begin position="1"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="propeptide" description="Activation peptide" id="PRO_0000028703" evidence="6">
+<location>
+<begin position="20"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="chain" description="Interstitial collagenase" id="PRO_0000028704">
+<location>
+<begin position="100"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="chain" description="22 kDa interstitial collagenase" id="PRO_0000028705">
+<location>
+<begin position="100"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="chain" description="27 kDa interstitial collagenase" id="PRO_0000028706">
+<location>
+<begin position="270"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="repeat" description="Hemopexin 1">
+<location>
+<begin position="275"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="repeat" description="Hemopexin 2">
+<location>
+<begin position="325"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="repeat" description="Hemopexin 3">
+<location>
+<begin position="374"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="repeat" description="Hemopexin 4">
+<location>
+<begin position="423"/>
+<end position="466"/>
+</location>
+</feature>
+<feature type="region of interest" description="Metalloprotease">
+<location>
+<begin position="98"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Cysteine switch" evidence="1">
+<location>
+<begin position="90"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="219"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; in inhibited form">
+<location>
+<position position="92"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1">
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1">
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3">
+<location>
+<position position="175"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3; via carbonyl oxygen">
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3; via carbonyl oxygen">
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3; via carbonyl oxygen">
+<location>
+<position position="180"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1">
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2; via carbonyl oxygen">
+<location>
+<position position="190"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2; via carbonyl oxygen">
+<location>
+<position position="192"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="194"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 1">
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3">
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="199"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3">
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; catalytic">
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; catalytic">
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc 2; catalytic">
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4; via carbonyl oxygen" evidence="1">
+<location>
+<position position="285"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4; via carbonyl oxygen" evidence="1">
+<location>
+<position position="329"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4; via carbonyl oxygen" evidence="1">
+<location>
+<position position="378"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4; via carbonyl oxygen" evidence="1">
+<location>
+<position position="427"/>
+</location>
+</feature>
+<feature type="site" description="Not glycosylated (PubMed:10092871)" evidence="2">
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by autolysis">
+<location>
+<begin position="269"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="57"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="5">
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by PKDCC" evidence="5">
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" id="CAR_000105" evidence="2">
+<location>
+<position position="120"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="278"/>
+<end position="466"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs554499." id="VAR_011969">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17879973." id="VAR_021024" evidence="7">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="191"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs513964." id="VAR_011970">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="252"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12282811." id="VAR_054005">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="262"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17879165." id="VAR_021025" evidence="7">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17884120." id="VAR_021026" evidence="7">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="406"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial reduction of tyrosine phosphorylation in the presence of PKDCC/VLK." evidence="5">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 9; AAA35700." ref="9" evidence="8">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 9; AAA35700." ref="9" evidence="8">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA35699." ref="3" evidence="8">
+<original>T</original>
+<variation>R</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA28858." ref="2" evidence="8">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="200"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA28858." ref="2" evidence="8">
+<original>R</original>
+<variation>T</variation>
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA28858." ref="2" evidence="8">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA35699." ref="3" evidence="8">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="410"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="33"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="59"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="81"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="103"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="112"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="123"/>
+<end position="125"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="127"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="144"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="148"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="153"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="158"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="169"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="176"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="182"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="187"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="190"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="195"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="204"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="212"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="250"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="285"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="293"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="301"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="309"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="313"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="317"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="330"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="335"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="339"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="347"/>
+<end position="352"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="361"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="364"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="379"/>
+<end position="382"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="384"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="388"/>
+<end position="393"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="396"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="402"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="412"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="415"/>
+<end position="418"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="427"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="435"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="443"/>
+<end position="448"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="449"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="453"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="460"/>
+<end position="463"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10092871"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1645757"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16807369"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25171405"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2557822"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source ref="6"/>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="2167156"/>
+</source>
+</evidence>
+<sequence length="469" mass="54007" checksum="4B1361DCF4C54B20" modified="1992-12-01" version="3" precursor="true">
+MHSFPPLLLLLFWGVVSHSFPATLETQEQDVDLVQKYLEKYYNLKNDGRQVEKRRNSGPV
+VEKLKQMQEFFGLKVTGKPDAETLKVMKQPRCGVPDVAQFVLTEGNPRWEQTHLTYRIEN
+YTPDLPRADVDHAIEKAFQLWSNVTPLTFTKVSEGQADIMISFVRGDHRDNSPFDGPGGN
+LAHAFQPGPGIGGDAHFDEDERWTNNFREYNLHRVAAHELGHSLGLSHSTDIGALMYPSY
+TFSGDVQLAQDDIDGIQAIYGRSQNPVQPIGPQTPKACDSKLTFDAITTIRGEVMFFKDR
+FYMRTNPFYPEVELNFISVFWPQLPNGLEAAYEFADRDEVRFFKGNKYWAVQGQNVLHGY
+PKDIYSSFGFPRTVKHIDAALSEENTGKTYFFVANKYWRYDEYKRSMDPGYPKMIAHDFP
+GIGHKVDAVFMKDGFFYFFHGTRQYKFDPKTKRILTLQKANSWFNCRKN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

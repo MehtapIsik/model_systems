@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2003-10-01" modified="2014-10-29" version="89">
+<accession>Q7YTF7</accession>
+<name>Q7YTF7_PLAF7</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Protein kinase, putative</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">PK7</name>
+<name type="ORF" evidence="2">PFB0605w</name>
+</gene>
+<organism evidence="2 5">
+<name type="scientific">Plasmodium falciparum (isolate 3D7)</name>
+<dbReference type="NCBI Taxonomy" id="36329"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Laverania)</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2 5">
+<citation type="journal article" date="1998" name="Science" volume="282" first="1126" last="1132">
+<title>Chromosome 2 sequence of the human malaria parasite Plasmodium falciparum.</title>
+<authorList>
+<person name="Gardner M.J."/>
+<person name="Tettelin H."/>
+<person name="Carucci D.J."/>
+<person name="Cummings L.M."/>
+<person name="Aravind L."/>
+<person name="Koonin E.V."/>
+<person name="Shallom S."/>
+<person name="Mason T."/>
+<person name="Yu K."/>
+<person name="Fujii C."/>
+<person name="Pederson J."/>
+<person name="Shen K."/>
+<person name="Jing J."/>
+<person name="Aston C."/>
+<person name="Lai Z."/>
+<person name="Schwartz D.C."/>
+<person name="Pertea M."/>
+<person name="Salzberg S."/>
+<person name="Zhou L."/>
+<person name="Sutton G.G."/>
+<person name="Clayton R."/>
+<person name="White O."/>
+<person name="Smith H.O."/>
+<person name="Fraser C.M."/>
+<person name="Adams M.D."/>
+<person name="Venter J.C."/>
+<person name="Hoffman S.L."/>
+</authorList>
+<dbReference type="PubMed" id="9804551"/>
+<dbReference type="DOI" id="10.1126/science.282.5391.1126"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="2" evidence="2 5">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="498" last="511">
+<title>Genome sequence of the human malaria parasite Plasmodium falciparum.</title>
+<authorList>
+<person name="Gardner M.J."/>
+<person name="Hall N."/>
+<person name="Fung E."/>
+<person name="White O."/>
+<person name="Berriman M."/>
+<person name="Hyman R.W."/>
+<person name="Carlton J.M."/>
+<person name="Pain A."/>
+<person name="Nelson K.E."/>
+<person name="Bowman S."/>
+<person name="Paulsen I.T."/>
+<person name="James K."/>
+<person name="Eisen J.A."/>
+<person name="Rutherford K."/>
+<person name="Salzberg S.L."/>
+<person name="Craig A."/>
+<person name="Kyes S."/>
+<person name="Chan M.-S."/>
+<person name="Nene V."/>
+<person name="Shallom S.J."/>
+<person name="Suh B."/>
+<person name="Peterson J."/>
+<person name="Angiuoli S."/>
+<person name="Pertea M."/>
+<person name="Allen J."/>
+<person name="Selengut J."/>
+<person name="Haft D."/>
+<person name="Mather M.W."/>
+<person name="Vaidya A.B."/>
+<person name="Martin D.M.A."/>
+<person name="Fairlamb A.H."/>
+<person name="Fraunholz M.J."/>
+<person name="Roos D.S."/>
+<person name="Ralph S.A."/>
+<person name="McFadden G.I."/>
+<person name="Cummings L.M."/>
+<person name="Subramanian G.M."/>
+<person name="Mungall C."/>
+<person name="Venter J.C."/>
+<person name="Carucci D.J."/>
+<person name="Hoffman S.L."/>
+<person name="Newbold C."/>
+<person name="Davis R.W."/>
+<person name="Fraser C.M."/>
+<person name="Barrell B."/>
+</authorList>
+<dbReference type="PubMed" id="12368864"/>
+<dbReference type="DOI" id="10.1038/nature01097"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="3" evidence="3 4">
+<citation type="journal article" date="2008" name="Structure" volume="16" first="228" last="238">
+<title>Structures of P. falciparum protein kinase 7 identify an activation motif and leads for inhibitor design.</title>
+<authorList>
+<person name="Merckx A."/>
+<person name="Echalier A."/>
+<person name="Langford K."/>
+<person name="Sicard A."/>
+<person name="Langsley G."/>
+<person name="Joore J."/>
+<person name="Doerig C."/>
+<person name="Noble M."/>
+<person name="Endicott J."/>
+</authorList>
+<dbReference type="PubMed" id="18275814"/>
+<dbReference type="DOI" id="10.1016/j.str.2007.11.014"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS)</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Contains protein kinase domain.</text>
+</comment>
+<dbReference type="EMBL" id="AE001362">
+<property type="protein sequence ID" value="AAC71910.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_001349639.1">
+<property type="nucleotide sequence ID" value="XM_001349603.2"/>
+</dbReference>
+<dbReference type="PDB" id="2PMN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="X=1-343"/>
+</dbReference>
+<dbReference type="PDB" id="2PMO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="X=1-343"/>
+</dbReference>
+<dbReference type="PDBsum" id="2PMN"/>
+<dbReference type="PDBsum" id="2PMO"/>
+<dbReference type="ProteinModelPortal" id="Q7YTF7"/>
+<dbReference type="SMR" id="Q7YTF7">
+<property type="residue range" value="1-343"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-29584N"/>
+<dbReference type="STRING" id="5833.PFB0605w-1"/>
+<dbReference type="EnsemblProtists" id="PFB0605w:mRNA">
+<property type="protein sequence ID" value="PFB0605w:pep"/>
+<property type="gene ID" value="PFB0605w"/>
+</dbReference>
+<dbReference type="GeneID" id="812721"/>
+<dbReference type="KEGG" id="pfa:PFB0605w"/>
+<dbReference type="EuPathDB" id="PlasmoDB:PF3D7_0213400"/>
+<dbReference type="HOGENOM" id="HOG000284345"/>
+<dbReference type="InParanoid" id="Q7YTF7"/>
+<dbReference type="OMA" id="NEKNICH"/>
+<dbReference type="PhylomeDB" id="Q7YTF7"/>
+<dbReference type="EvolutionaryTrace" id="Q7YTF7"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004708">
+<property type="term" value="F:MAP kinase kinase activity"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000187">
+<property type="term" value="P:activation of MAPK activity"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000165">
+<property type="term" value="P:MAPK cascade"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020636">
+<property type="entry name" value="Ca/CaM-dep_Ca-dep_prot_Kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR24347">
+<property type="entry name" value="PTHR24347"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="3 4">3D-structure</keyword>
+<keyword id="KW-0181" evidence="5">Complete proteome</keyword>
+<keyword id="KW-0418" evidence="2">Kinase</keyword>
+<keyword id="KW-1185" evidence="5">Reference proteome</keyword>
+<keyword id="KW-0808" evidence="2">Transferase</keyword>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00020640"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAC71910.2"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2PMN"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2PMO"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000001450"/>
+</source>
+</evidence>
+<sequence length="343" mass="40963" checksum="90A79614B0FCCD32" modified="2003-10-01" version="1">
+MKDILSNYSNLIYLNKYVKEKDKYINDYRIIRTLNQGKFNKIILCEKDNKFYALKKYEKS
+LLEKKRDFTKSNNDKISIKSKYDDFKNELQIITDIKNEYCLTCEGIITNYDEVYIIYEYM
+ENDSILKFDEYFFVLDKNYTCFIPIQVIKCIIKSVLNSFSYIHNEKNICHRDVKPSNILM
+DKNGRVKLSDFGESEYMVDKKIKGSRGTYEFMPPEFFSNESSYNGAKVDIWSLGICLYVM
+FYNVVPFSLKISLVELFNNIRTKNIEYPLDRNHFLYPLTNKKSTCSNNFLSNEDIDFLKL
+FLRKNPAERITSEDALKHEWLADTNIEDLREFSKELYKKRKKL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

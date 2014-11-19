@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2004-07-19" modified="2014-10-29" version="71">
+<accession>Q6FPH0</accession>
+<name>Q6FPH0_CANGA</name>
+<protein>
+<submittedName>
+<fullName evidence="2">Strain CBS138 chromosome J complete sequence</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="2">CAGL0J03894g</name>
+</gene>
+<organism evidence="12">
+<name type="scientific">Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65)</name>
+<name type="common">Yeast</name>
+<name type="synonym">Torulopsis glabrata</name>
+<dbReference type="NCBI Taxonomy" id="284593"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Fungi</taxon>
+<taxon>Dikarya</taxon>
+<taxon>Ascomycota</taxon>
+<taxon>Saccharomycotina</taxon>
+<taxon>Saccharomycetes</taxon>
+<taxon>Saccharomycetales</taxon>
+<taxon>Saccharomycetaceae</taxon>
+<taxon>Nakaseomyces</taxon>
+<taxon>Nakaseomyces/Candida clade</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="12">
+<citation type="journal article" date="2004" name="Nature" volume="430" first="35" last="44">
+<title>Genome evolution in yeasts.</title>
+<authorList>
+<consortium name="Genolevures"/>
+<person name="Dujon B."/>
+<person name="Sherman D."/>
+<person name="Fischer G."/>
+<person name="Durrens P."/>
+<person name="Casaregola S."/>
+<person name="Lafontaine I."/>
+<person name="de Montigny J."/>
+<person name="Marck C."/>
+<person name="Neuveglise C."/>
+<person name="Talla E."/>
+<person name="Goffard N."/>
+<person name="Frangeul L."/>
+<person name="Aigle M."/>
+<person name="Anthouard V."/>
+<person name="Babour A."/>
+<person name="Barbe V."/>
+<person name="Barnay S."/>
+<person name="Blanchin S."/>
+<person name="Beckerich J.-M."/>
+<person name="Beyne E."/>
+<person name="Bleykasten C."/>
+<person name="Boisrame A."/>
+<person name="Boyer J."/>
+<person name="Cattolico L."/>
+<person name="Confanioleri F."/>
+<person name="de Daruvar A."/>
+<person name="Despons L."/>
+<person name="Fabre E."/>
+<person name="Fairhead C."/>
+<person name="Ferry-Dumazet H."/>
+<person name="Groppi A."/>
+<person name="Hantraye F."/>
+<person name="Hennequin C."/>
+<person name="Jauniaux N."/>
+<person name="Joyet P."/>
+<person name="Kachouri R."/>
+<person name="Kerrest A."/>
+<person name="Koszul R."/>
+<person name="Lemaire M."/>
+<person name="Lesur I."/>
+<person name="Ma L."/>
+<person name="Muller H."/>
+<person name="Nicaud J.-M."/>
+<person name="Nikolski M."/>
+<person name="Oztas S."/>
+<person name="Ozier-Kalogeropoulos O."/>
+<person name="Pellenz S."/>
+<person name="Potier S."/>
+<person name="Richard G.-F."/>
+<person name="Straub M.-L."/>
+<person name="Suleau A."/>
+<person name="Swennen D."/>
+<person name="Tekaia F."/>
+<person name="Wesolowski-Louvel M."/>
+<person name="Westhof E."/>
+<person name="Wirth B."/>
+<person name="Zeniou-Meyer M."/>
+<person name="Zivanovic Y."/>
+<person name="Bolotin-Fukuhara M."/>
+<person name="Thierry A."/>
+<person name="Bouchier C."/>
+<person name="Caudron B."/>
+<person name="Scarpelli C."/>
+<person name="Gaillardin C."/>
+<person name="Weissenbach J."/>
+<person name="Wincker P."/>
+<person name="Souciet J.-L."/>
+</authorList>
+<dbReference type="PubMed" id="15229592"/>
+<dbReference type="DOI" id="10.1038/nature02579"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="12">ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65</strain>
+</source>
+</reference>
+<reference key="2" evidence="3">
+<citation type="journal article" date="2008" name="Chem. Biol." volume="15" first="990" last="996">
+<title>Structure-guided development of efficacious antifungal agents targeting Candida glabrata dihydrofolate reductase.</title>
+<authorList>
+<person name="Liu J."/>
+<person name="Bolstad D.B."/>
+<person name="Smith A.E."/>
+<person name="Priestley N.D."/>
+<person name="Wright D.L."/>
+<person name="Anderson A.C."/>
+</authorList>
+<dbReference type="PubMed" id="18804036"/>
+<dbReference type="DOI" id="10.1016/j.chembiol.2008.07.013"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="3" evidence="4 5">
+<citation type="journal article" date="2009" name="Chem. Biol. Drug Des." volume="73" first="62" last="74">
+<title>Probing the active site of Candida glabrata dihydrofolate reductase with high resolution crystal structures and the synthesis of new inhibitors.</title>
+<authorList>
+<person name="Liu J."/>
+<person name="Bolstad D.B."/>
+<person name="Smith A.E."/>
+<person name="Priestley N.D."/>
+<person name="Wright D.L."/>
+<person name="Anderson A.C."/>
+</authorList>
+<dbReference type="PubMed" id="19152636"/>
+<dbReference type="DOI" id="10.1111/j.1747-0285.2008.00745.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="4" evidence="7 8">
+<citation type="journal article" date="2011" name="Chem. Biol. Drug Des." volume="78" first="505" last="512">
+<title>Crystal structures of Candida albicans dihydrofolate reductase bound to propargyl-linked antifolates reveal the flexibility of active site loop residues critical for ligand potency and selectivity.</title>
+<authorList>
+<person name="Paulsen J.L."/>
+<person name="Bendel S.D."/>
+<person name="Anderson A.C."/>
+</authorList>
+<dbReference type="PubMed" id="21726415"/>
+<dbReference type="DOI" id="10.1111/j.1747-0285.2011.01169.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.94 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="5" evidence="9 10">
+<citation type="journal article" date="2013" name="Bioorg. Med. Chem. Lett." volume="23" first="1279" last="1284">
+<title>Structural analysis of the active sites of dihydrofolate reductase from two species of Candida uncovers ligand-induced conformational changes shared among species.</title>
+<authorList>
+<person name="Paulsen J.L."/>
+<person name="Viswanathan K."/>
+<person name="Wright D.L."/>
+<person name="Anderson A.C."/>
+</authorList>
+<dbReference type="PubMed" id="23375226"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2013.01.008"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 3-217 IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="6" evidence="11">
+<citation type="journal article" date="2014" name="J. Med. Chem." volume="57" first="2643" last="2656">
+<title>Propargyl-linked antifolates are dual inhibitors of Candida albicans and Candida glabrata.</title>
+<authorList>
+<person name="G-Dayanandan N."/>
+<person name="Paulsen J.L."/>
+<person name="Viswanathan K."/>
+<person name="Keshipeddy S."/>
+<person name="Lombardo M.N."/>
+<person name="Zhou W."/>
+<person name="Lamb K.M."/>
+<person name="Sochia A.E."/>
+<person name="Alverson J.B."/>
+<person name="Priestley N.D."/>
+<person name="Wright D.L."/>
+<person name="Anderson A.C."/>
+</authorList>
+<dbReference type="PubMed" id="24568657"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<comment type="similarity">
+<text evidence="1">Belongs to the dihydrofolate reductase family.</text>
+</comment>
+<dbReference type="EMBL" id="CR380956">
+<property type="protein sequence ID" value="CAG60823.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_447874.1">
+<property type="nucleotide sequence ID" value="XM_447874.1"/>
+</dbReference>
+<dbReference type="PDB" id="3CSE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3EEJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.11"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3EEK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.03"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3EEL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3EEM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.11"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3QLX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.24"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3QLY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.52"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3QLZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDB" id="3RO9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B=3-217"/>
+</dbReference>
+<dbReference type="PDB" id="3ROA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=3-217"/>
+</dbReference>
+<dbReference type="PDB" id="4H98">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=4-217"/>
+</dbReference>
+<dbReference type="PDB" id="4HOG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=1-217"/>
+</dbReference>
+<dbReference type="PDBsum" id="3CSE"/>
+<dbReference type="PDBsum" id="3EEJ"/>
+<dbReference type="PDBsum" id="3EEK"/>
+<dbReference type="PDBsum" id="3EEL"/>
+<dbReference type="PDBsum" id="3EEM"/>
+<dbReference type="PDBsum" id="3QLX"/>
+<dbReference type="PDBsum" id="3QLY"/>
+<dbReference type="PDBsum" id="3QLZ"/>
+<dbReference type="PDBsum" id="3RO9"/>
+<dbReference type="PDBsum" id="3ROA"/>
+<dbReference type="PDBsum" id="4H98"/>
+<dbReference type="PDBsum" id="4HOG"/>
+<dbReference type="ProteinModelPortal" id="Q6FPH0"/>
+<dbReference type="GeneID" id="2889661"/>
+<dbReference type="KEGG" id="cgr:CAGL0J03894g"/>
+<dbReference type="HOGENOM" id="HOG000040235"/>
+<dbReference type="InParanoid" id="Q6FPH0"/>
+<dbReference type="KO" id="K00287"/>
+<dbReference type="OMA" id="KEMKYFR"/>
+<dbReference type="OrthoDB" id="EOG7Q8D07"/>
+<dbReference type="EvolutionaryTrace" id="Q6FPH0"/>
+<dbReference type="GO" id="GO:0004146">
+<property type="term" value="F:dihydrofolate reductase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050661">
+<property type="term" value="F:NADP binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006545">
+<property type="term" value="P:glycine biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009165">
+<property type="term" value="P:nucleotide biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.430.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012259">
+<property type="entry name" value="DHFR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024072">
+<property type="entry name" value="DHFR-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017925">
+<property type="entry name" value="DHFR_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001796">
+<property type="entry name" value="DHFR_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00186">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00070">
+<property type="entry name" value="DHFR"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53597">
+<property type="entry name" value="SSF53597"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00075">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51330">
+<property type="entry name" value="DHFR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="3 4">3D-structure</keyword>
+<keyword id="KW-0181" evidence="12">Complete proteome</keyword>
+<keyword id="KW-0521" evidence="3 4">NADP</keyword>
+<keyword id="KW-0547" evidence="3 4">Nucleotide-binding</keyword>
+<keyword id="KW-1185" evidence="12">Reference proteome</keyword>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<location>
+<begin position="24"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<location>
+<begin position="56"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<location>
+<begin position="78"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<location>
+<begin position="123"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via amide nitrogen and carbonyl oxygen" evidence="3 4">
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via carbonyl oxygen" evidence="3 4">
+<location>
+<position position="19"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via amide nitrogen" evidence="6 7">
+<location>
+<position position="98"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004474"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAG60823.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3CSE"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3EEJ"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3EEK"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3EEM"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3QLX"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3QLY"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3RO9"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3ROA"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="4HOG"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000002428"/>
+</source>
+</evidence>
+<sequence length="217" mass="25050" checksum="AF1E7DC86BB5BE80" modified="2004-07-19" version="1">
+MSKVPVVGIVAALLPEMGIGFQGNLPWRLAKEMKYFREVTTLTNDNSKQNVVIMGRKTWE
+SIPQKFRPLPKRINVVVSRSFDGELRKVEDGIYHSNSLRNCLTALQSSLANENKIERIYI
+IGGGEIYRQSMDLADHWLITKIMPLPETTIPQMDTFLQKQELEQRFYDNSDKLVDFLPSS
+IQLEGRLTSQEWNGELVKGLPVQEKGYQFYFTLYTKK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

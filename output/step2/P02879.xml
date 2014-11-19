@@ -1,0 +1,1394 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2014-10-29" version="150">
+<accession>P02879</accession>
+<accession>P02880</accession>
+<name>RICI_RICCO</name>
+<protein>
+<recommendedName>
+<fullName>Ricin</fullName>
+</recommendedName>
+<component>
+<recommendedName>
+<fullName>Ricin A chain</fullName>
+<ecNumber>3.2.2.22</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>rRNA N-glycosidase</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Linker peptide</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Ricin B chain</fullName>
+</recommendedName>
+</component>
+</protein>
+<organism>
+<name type="scientific">Ricinus communis</name>
+<name type="common">Castor bean</name>
+<dbReference type="NCBI Taxonomy" id="3988"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>eudicotyledons</taxon>
+<taxon>Gunneridae</taxon>
+<taxon>Pentapetalae</taxon>
+<taxon>rosids</taxon>
+<taxon>fabids</taxon>
+<taxon>Malpighiales</taxon>
+<taxon>Euphorbiaceae</taxon>
+<taxon>Acalyphoideae</taxon>
+<taxon>Acalypheae</taxon>
+<taxon>Ricinus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="Nucleic Acids Res." volume="13" first="8019" last="8033">
+<title>Genomic cloning and characterization of a ricin gene from Ricinus communis.</title>
+<authorList>
+<person name="Halling K.C."/>
+<person name="Halling A.C."/>
+<person name="Murray E.E."/>
+<person name="Ladin B.F."/>
+<person name="Houston L.L."/>
+<person name="Weaver R.F."/>
+</authorList>
+<dbReference type="PubMed" id="2999712"/>
+<dbReference type="DOI" id="10.1093/nar/13.22.8019"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="Plant Mol. Biol." volume="18" first="515" last="525">
+<title>The lectin gene family of Ricinus communis: cloning of a functional ricin gene and three lectin pseudogenes.</title>
+<authorList>
+<person name="Tregear J.W."/>
+<person name="Roberts L.M."/>
+</authorList>
+<dbReference type="PubMed" id="1371405"/>
+<dbReference type="DOI" id="10.1007/BF00040667"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1985" name="Eur. J. Biochem." volume="148" first="265" last="270">
+<title>Nucleotide sequence of cloned cDNA coding for preproricin.</title>
+<authorList>
+<person name="Lamb A."/>
+<person name="Roberts L.M."/>
+<person name="Lord J.M."/>
+</authorList>
+<dbReference type="PubMed" id="3838723"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1985.tb08834.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 12-576</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1978" name="Agric. Biol. Chem." volume="42" first="1267" last="1274">
+<title>Isolation and sequences of peptic peptides, and the complete sequence of Ile chain of ricin-D.</title>
+<authorList>
+<person name="Yoshitake S."/>
+<person name="Funatsu G."/>
+<person name="Funatsu M."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 36-302</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1979" name="Agric. Biol. Chem." volume="43" first="2221" last="2224">
+<title>Primary structure of Ala chain of ricin D.</title>
+<authorList>
+<person name="Funatsu G."/>
+<person name="Kimura M."/>
+<person name="Funatsu M."/>
+</authorList>
+<dbReference type="AGRICOLA" id="IND80011393"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 315-576</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="Agric. Biol. Chem." volume="54" first="157" last="162">
+<title>Structural analyses of sugar chains from ricin A-chain variant.</title>
+<authorList>
+<person name="Kimura Y."/>
+<person name="Kusuoku H."/>
+<person name="Tada M."/>
+<person name="Takagi S."/>
+<person name="Funatsu G."/>
+</authorList>
+<dbReference type="PubMed" id="1368517"/>
+</citation>
+<scope>GLYCOSYLATION AT ASN-45 AND ASN-271</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2001" name="Toxicon" volume="39" first="1723" last="1728">
+<title>Ricin.</title>
+<authorList>
+<person name="Olsnes S."/>
+<person name="Kozlov J.V."/>
+</authorList>
+<dbReference type="PubMed" id="11595634"/>
+<dbReference type="DOI" id="10.1016/S0041-0101(01)00158-1"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1987" name="J. Biol. Chem." volume="262" first="5398" last="5403">
+<title>The three-dimensional structure of ricin at 2.8 A.</title>
+<authorList>
+<person name="Monfort W."/>
+<person name="Villafranca J.E."/>
+<person name="Monzingo A.F."/>
+<person name="Ernst S.R."/>
+<person name="Katzin B."/>
+<person name="Rutenber E."/>
+<person name="Xuong N.H."/>
+<person name="Hamlin R."/>
+<person name="Robertus J.D."/>
+</authorList>
+<dbReference type="PubMed" id="3558397"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1991" name="Proteins" volume="10" first="251" last="259">
+<title>Structure of ricin A-chain at 2.5 A.</title>
+<authorList>
+<person name="Katzin B.J."/>
+<person name="Collins E.J."/>
+<person name="Robertus J.D."/>
+</authorList>
+<dbReference type="PubMed" id="1881881"/>
+<dbReference type="DOI" id="10.1002/prot.340100309"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF A-CHAIN</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1991" name="Proteins" volume="10" first="260" last="269">
+<title>Structure of ricin B-chain at 2.5-A resolution.</title>
+<authorList>
+<person name="Rutenber E."/>
+<person name="Robertus J.D."/>
+</authorList>
+<dbReference type="PubMed" id="1881882"/>
+<dbReference type="DOI" id="10.1002/prot.340100310"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF B-CHAIN</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1994" name="J. Mol. Biol." volume="244" first="410" last="422">
+<title>X-ray structure of recombinant ricin A-chain at 1.8-A resolution.</title>
+<authorList>
+<person name="Weston S.A."/>
+<person name="Tucker A.D."/>
+<person name="Thatcher D.R."/>
+<person name="Derbyshire D.J."/>
+<person name="Pauptit R.A."/>
+</authorList>
+<dbReference type="PubMed" id="7990130"/>
+<dbReference type="DOI" id="10.1006/jmbi.1994.1739"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF A-CHAIN</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1996" name="Biochemistry" volume="35" first="11098" last="11103">
+<title>Structure and activity of an active site substitution of ricin A chain.</title>
+<authorList>
+<person name="Day P.J."/>
+<person name="Ernst S.R."/>
+<person name="Frankel A.E."/>
+<person name="Monzingo A.F."/>
+<person name="Pascal J.M."/>
+<person name="Molina-Svinth M.C."/>
+<person name="Robertus J.D."/>
+</authorList>
+<dbReference type="PubMed" id="8780513"/>
+<dbReference type="DOI" id="10.1021/bi960880n"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF MUTANT HIS-215</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1997" name="J. Mol. Biol." volume="266" first="1043" last="1049">
+<title>Structure-based identification of a ricin inhibitor.</title>
+<authorList>
+<person name="Yan X."/>
+<person name="Hollis T."/>
+<person name="Svinth M."/>
+<person name="Day P."/>
+<person name="Monzingo A.F."/>
+<person name="Milne G.W."/>
+<person name="Robertus J.D."/>
+</authorList>
+<dbReference type="PubMed" id="9086280"/>
+<dbReference type="DOI" id="10.1006/jmbi.1996.0865"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF A-CHAIN</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1992" name="Protein Eng." volume="5" first="775" last="779">
+<title>Analysis of several key active site residues of ricin A chain by mutagenesis and X-ray crystallography.</title>
+<authorList>
+<person name="Kin Y."/>
+<person name="Robertus J.D."/>
+</authorList>
+<dbReference type="PubMed" id="1287657"/>
+<dbReference type="DOI" id="10.1093/protein/5.8.775"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2003" name="Nat. Biotechnol." volume="21" first="387" last="391">
+<title>Genetic engineering of an immunotoxin to eliminate pulmonary vascular leak in mice.</title>
+<authorList>
+<person name="Smallshaw J.E."/>
+<person name="Ghetie V."/>
+<person name="Rizo J."/>
+<person name="Fulmer J.R."/>
+<person name="Trahan L.L."/>
+<person name="Ghetie M.-A."/>
+<person name="Vitetta E.S."/>
+</authorList>
+<dbReference type="PubMed" id="12627168"/>
+<dbReference type="DOI" id="10.1038/nbt800"/>
+</citation>
+<scope>MUTAGENESIS OF ARG-83; LEU-109; ASP-110; VAL-111 AND ASN-132</scope>
+</reference>
+<comment type="function">
+<text>Ricin is highly toxic to animal cells and to a lesser extent to plant cells. The A chain acts as a glycosidase that removes a specific adenine residue from an exposed loop of the 28S rRNA (A4324 in mammals), leading to rRNA breakage. As this loop is involved in elongation factor binding, modified ribosomes are catalytically inactive and unable to support protein synthesis. The A chain can inactivate a few thousand ribosomes per minute, faster than the cell can make new ones. Therefore a single A chain molecule can kill an animal cell. The B chain binds to beta-D-galactopyranoside moieties on cell surface glycoproteins and glycolipids and facilitates the entry into the cell of the A chain; B chains are also responsible for cell agglutination (Lectin activity).</text>
+</comment>
+<comment type="catalytic activity">
+<text>Endohydrolysis of the N-glycosidic bond at one specific adenosine on the 28S rRNA.</text>
+</comment>
+<comment type="subunit">
+<text>Disulfide-linked dimer of A and B chains.</text>
+</comment>
+<comment type="domain">
+<text>The B chain is composed of two domains, each domain consists of 3 homologous subdomains (alpha, beta, gamma).</text>
+</comment>
+<comment type="biotechnology">
+<text>A deglycosylated A chain may be linked to monoclonal antibodies to produce immunotoxins exploited in cancer treatment. However, a point mutation should be introduced to eliminate vascular leak syndrome, a side effect resulting from endothelial damage.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">In the N-terminal section; belongs to the ribosome-inactivating protein family. Type 2 RIP subfamily.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Contains 2 ricin B-type lectin domains.</text>
+</comment>
+<comment type="sequence caution" evidence="7">
+<conflict type="miscellaneous discrepancy" ref="4"/>
+<text>High number of conflicts with the sequence translated from DNA.</text>
+</comment>
+<comment type="sequence caution" evidence="7">
+<conflict type="miscellaneous discrepancy" ref="5"/>
+<text>High number of conflicts with the sequence translated from DNA.</text>
+</comment>
+<comment type="online information" name="Protein Spotlight">
+<link uri="http://web.expasy.org/spotlight/back_issues/031"/>
+<text>Baneful beans - Issue 31 of February 2003</text>
+</comment>
+<dbReference type="EC" id="3.2.2.22"/>
+<dbReference type="EMBL" id="X03179">
+<property type="protein sequence ID" value="CAA26939.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X52908">
+<property type="protein sequence ID" value="CAA37095.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X02388">
+<property type="protein sequence ID" value="CAA26230.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="A24041">
+<property type="entry name" value="RLCSD"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_002534649.1">
+<property type="nucleotide sequence ID" value="XM_002534603.1"/>
+</dbReference>
+<dbReference type="PDB" id="1BR5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1BR6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1IFS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=38-298"/>
+</dbReference>
+<dbReference type="PDB" id="1IFT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=38-298"/>
+</dbReference>
+<dbReference type="PDB" id="1IFU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=38-298"/>
+</dbReference>
+<dbReference type="PDB" id="1IL3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1IL4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1IL5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1IL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1J1M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1OBS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1OBT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1RTC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="1UQ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=40-302"/>
+</dbReference>
+<dbReference type="PDB" id="1UQ5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=40-302"/>
+</dbReference>
+<dbReference type="PDB" id="2AAI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=36-302, B=315-576"/>
+</dbReference>
+<dbReference type="PDB" id="2P8N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="2PJO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="2R2X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="2R3D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.09"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="2VC3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="2VC4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.39"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="3BJG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.14"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="3EJ5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="X=40-296"/>
+</dbReference>
+<dbReference type="PDB" id="3HIO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="3LC9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.28"/>
+<property type="chains" value="A=36-233"/>
+</dbReference>
+<dbReference type="PDB" id="3MK9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.08"/>
+<property type="chains" value="A=36-233"/>
+</dbReference>
+<dbReference type="PDB" id="3PX8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.29"/>
+<property type="chains" value="X=39-296"/>
+</dbReference>
+<dbReference type="PDB" id="3PX9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="X=39-296"/>
+</dbReference>
+<dbReference type="PDB" id="3RTI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=36-302, B=315-576"/>
+</dbReference>
+<dbReference type="PDB" id="3RTJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=36-302, B=315-576"/>
+</dbReference>
+<dbReference type="PDB" id="3SRP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.14"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4ESI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4HUO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.52"/>
+<property type="chains" value="X=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4HUP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="X=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4HV3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4HV7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="X=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4IMV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A=36-233"/>
+</dbReference>
+<dbReference type="PDB" id="4KUC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.79"/>
+<property type="chains" value="A/I=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4LGP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/C=36-296"/>
+</dbReference>
+<dbReference type="PDB" id="4LGR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=40-294"/>
+</dbReference>
+<dbReference type="PDB" id="4LGS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=39-301"/>
+</dbReference>
+<dbReference type="PDB" id="4LHJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=39-297"/>
+</dbReference>
+<dbReference type="PDB" id="4LHQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/C=39-298"/>
+</dbReference>
+<dbReference type="PDB" id="4MX1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.59"/>
+<property type="chains" value="A=36-302"/>
+</dbReference>
+<dbReference type="PDB" id="4MX5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.52"/>
+<property type="chains" value="X=36-302"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BR5"/>
+<dbReference type="PDBsum" id="1BR6"/>
+<dbReference type="PDBsum" id="1IFS"/>
+<dbReference type="PDBsum" id="1IFT"/>
+<dbReference type="PDBsum" id="1IFU"/>
+<dbReference type="PDBsum" id="1IL3"/>
+<dbReference type="PDBsum" id="1IL4"/>
+<dbReference type="PDBsum" id="1IL5"/>
+<dbReference type="PDBsum" id="1IL9"/>
+<dbReference type="PDBsum" id="1J1M"/>
+<dbReference type="PDBsum" id="1OBS"/>
+<dbReference type="PDBsum" id="1OBT"/>
+<dbReference type="PDBsum" id="1RTC"/>
+<dbReference type="PDBsum" id="1UQ4"/>
+<dbReference type="PDBsum" id="1UQ5"/>
+<dbReference type="PDBsum" id="2AAI"/>
+<dbReference type="PDBsum" id="2P8N"/>
+<dbReference type="PDBsum" id="2PJO"/>
+<dbReference type="PDBsum" id="2R2X"/>
+<dbReference type="PDBsum" id="2R3D"/>
+<dbReference type="PDBsum" id="2VC3"/>
+<dbReference type="PDBsum" id="2VC4"/>
+<dbReference type="PDBsum" id="3BJG"/>
+<dbReference type="PDBsum" id="3EJ5"/>
+<dbReference type="PDBsum" id="3HIO"/>
+<dbReference type="PDBsum" id="3LC9"/>
+<dbReference type="PDBsum" id="3MK9"/>
+<dbReference type="PDBsum" id="3PX8"/>
+<dbReference type="PDBsum" id="3PX9"/>
+<dbReference type="PDBsum" id="3RTI"/>
+<dbReference type="PDBsum" id="3RTJ"/>
+<dbReference type="PDBsum" id="3SRP"/>
+<dbReference type="PDBsum" id="4ESI"/>
+<dbReference type="PDBsum" id="4HUO"/>
+<dbReference type="PDBsum" id="4HUP"/>
+<dbReference type="PDBsum" id="4HV3"/>
+<dbReference type="PDBsum" id="4HV7"/>
+<dbReference type="PDBsum" id="4IMV"/>
+<dbReference type="PDBsum" id="4KUC"/>
+<dbReference type="PDBsum" id="4LGP"/>
+<dbReference type="PDBsum" id="4LGR"/>
+<dbReference type="PDBsum" id="4LGS"/>
+<dbReference type="PDBsum" id="4LHJ"/>
+<dbReference type="PDBsum" id="4LHQ"/>
+<dbReference type="PDBsum" id="4MX1"/>
+<dbReference type="PDBsum" id="4MX5"/>
+<dbReference type="ProteinModelPortal" id="P02879"/>
+<dbReference type="SMR" id="P02879">
+<property type="residue range" value="36-302, 315-576"/>
+</dbReference>
+<dbReference type="BioGrid" id="1022023">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-46421N"/>
+<dbReference type="IntAct" id="P02879">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-8391414"/>
+<dbReference type="BindingDB" id="P02879"/>
+<dbReference type="ChEMBL" id="CHEMBL4756"/>
+<dbReference type="Allergome" id="2803">
+<property type="allergen name" value="Ric c RIP"/>
+</dbReference>
+<dbReference type="CAZy" id="CBM13">
+<property type="family name" value="Carbohydrate-Binding Module Family 13"/>
+</dbReference>
+<dbReference type="UniCarbKB" id="P02879"/>
+<dbReference type="GeneID" id="8287993"/>
+<dbReference type="KEGG" id="rcu:RCOM_2159910"/>
+<dbReference type="BRENDA" id="3.2.2.22">
+<property type="organism ID" value="1204"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P02879"/>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030246">
+<property type="term" value="F:carbohydrate binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000166">
+<property type="term" value="F:nucleotide binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030598">
+<property type="term" value="F:rRNA N-glycosylase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006952">
+<property type="term" value="P:defense response"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017148">
+<property type="term" value="P:negative regulation of translation"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.420.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.470.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001574">
+<property type="entry name" value="Ribosome_inactivat_prot"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017988">
+<property type="entry name" value="Ribosome_inactivat_prot_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016138">
+<property type="entry name" value="Ribosome_inactivat_prot_sub1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016139">
+<property type="entry name" value="Ribosome_inactivat_prot_sub2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017989">
+<property type="entry name" value="Ribosome_inactivat_prot_subgr"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000772">
+<property type="entry name" value="Ricin_B_lectin"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00652">
+<property type="entry name" value="Ricin_B_lectin"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00161">
+<property type="entry name" value="RIP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00396">
+<property type="entry name" value="SHIGARICIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00458">
+<property type="entry name" value="RICIN"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50370">
+<property type="entry name" value="SSF50370"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56371">
+<property type="entry name" value="SSF56371"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50231">
+<property type="entry name" value="RICIN_B_LECTIN"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00275">
+<property type="entry name" value="SHIGA_RICIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0430">Lectin</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0611">Plant defense</keyword>
+<keyword id="KW-0652">Protein synthesis inhibitor</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0800">Toxin</keyword>
+<feature type="signal peptide" evidence="5">
+<location>
+<begin position="1"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="chain" description="Ricin A chain" id="PRO_0000030741">
+<location>
+<begin position="36"/>
+<end position="302"/>
+</location>
+</feature>
+<feature type="peptide" description="Linker peptide" id="PRO_0000030742" evidence="6">
+<location>
+<begin position="303"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="chain" description="Ricin B chain" id="PRO_0000030743">
+<location>
+<begin position="315"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="domain" description="Ricin B-type lectin 1" evidence="2">
+<location>
+<begin position="321"/>
+<end position="448"/>
+</location>
+</feature>
+<feature type="repeat" description="1-alpha">
+<location>
+<begin position="331"/>
+<end position="373"/>
+</location>
+</feature>
+<feature type="repeat" description="1-beta">
+<location>
+<begin position="374"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="repeat" description="1-gamma">
+<location>
+<begin position="417"/>
+<end position="449"/>
+</location>
+</feature>
+<feature type="domain" description="Ricin B-type lectin 2" evidence="2">
+<location>
+<begin position="451"/>
+<end position="575"/>
+</location>
+</feature>
+<feature type="repeat" description="2-alpha">
+<location>
+<begin position="462"/>
+<end position="497"/>
+</location>
+</feature>
+<feature type="repeat" description="2-beta">
+<location>
+<begin position="501"/>
+<end position="540"/>
+</location>
+</feature>
+<feature type="repeat" description="2-gamma">
+<location>
+<begin position="543"/>
+<end position="570"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="AMP">
+<location>
+<begin position="115"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="AMP">
+<location>
+<begin position="156"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="region of interest" description="Carbohydrate binding" evidence="1">
+<location>
+<begin position="43"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="region of interest" description="Carbohydrate binding">
+<location>
+<begin position="176"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="region of interest" description="Carbohydrate binding">
+<location>
+<begin position="230"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="region of interest" description="Carbohydrate binding">
+<location>
+<begin position="336"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="region of interest" description="Carbohydrate binding">
+<location>
+<begin position="548"/>
+<end position="551"/>
+</location>
+</feature>
+<feature type="region of interest" description="Carbohydrate binding">
+<location>
+<begin position="565"/>
+<end position="569"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate; via amide nitrogen">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate; via amide nitrogen">
+<location>
+<position position="85"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate; via carbonyl oxygen" evidence="1">
+<location>
+<position position="324"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate">
+<location>
+<position position="349"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate">
+<location>
+<position position="354"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate">
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate" evidence="1">
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="binding site" description="Carbohydrate" evidence="1">
+<location>
+<position position="449"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" id="CAR_000080" evidence="4">
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...); partial" id="CAR_000081" evidence="4">
+<location>
+<position position="271"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="449"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain (between A and B chains)">
+<location>
+<begin position="294"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="334"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="377"/>
+<end position="394"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="465"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="504"/>
+<end position="521"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on the toxic activity but suppresses the vascular leak syndrome." evidence="3">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on the toxic activity or the vascular leak syndrome." evidence="3">
+<original>L</original>
+<variation>A</variation>
+<variation>M</variation>
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Suppresses the toxic activity." evidence="3">
+<original>D</original>
+<variation>A</variation>
+<variation>E</variation>
+<variation>N</variation>
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on the toxic activity or the vascular leak syndrome." evidence="3">
+<original>V</original>
+<variation>A</variation>
+<variation>M</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on the toxic activity but Suppresses the vascular leak syndrome." evidence="3">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="132"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAA26230." ref="3" evidence="7">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAA26230." ref="3" evidence="7">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="551"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="43"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="53"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="72"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="77"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="83"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="88"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="91"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="100"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="104"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="111"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="116"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="124"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="133"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="140"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="147"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="158"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="166"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="169"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="176"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="189"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="196"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="217"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="237"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="260"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="270"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="274"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="280"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="284"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="298"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="330"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="334"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="338"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="347"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="359"/>
+<end position="361"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="363"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="369"/>
+<end position="373"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="376"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="388"/>
+<end position="393"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="394"/>
+<end position="396"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="399"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="412"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="415"/>
+<end position="418"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="419"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="433"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="441"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="454"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="461"/>
+<end position="463"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="465"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="472"/>
+<end position="476"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="480"/>
+<end position="483"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="487"/>
+<end position="489"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="495"/>
+<end position="497"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="503"/>
+<end position="507"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="516"/>
+<end position="521"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="526"/>
+<end position="528"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="541"/>
+<end position="543"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="546"/>
+<end position="549"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="550"/>
+<end position="552"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="554"/>
+<end position="556"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="559"/>
+<end position="562"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="568"/>
+<end position="570"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="573"/>
+<end position="575"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00174"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12627168"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1368517"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source ref="5"/>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="576" mass="64091" checksum="C14C4B77A8B5470D" modified="1987-08-13" version="1" precursor="true">
+MKPGGNTIVIWMYAVATWLCFGSTSGWSFTLEDNNIFPKQYPIINFTTAGATVQSYTNFI
+RAVRGRLTTGADVRHEIPVLPNRVGLPINQRFILVELSNHAELSVTLALDVTNAYVVGYR
+AGNSAYFFHPDNQEDAEAITHLFTDVQNRYTFAFGGNYDRLEQLAGNLRENIELGNGPLE
+EAISALYYYSTGGTQLPTLARSFIICIQMISEAARFQYIEGEMRTRIRYNRRSAPDPSVI
+TLENSWGRLSTAIQESNQGAFASPIQLQRRNGSKFSVYDVSILIPIIALMVYRCAPPPSS
+QFSLLIRPVVPNFNADVCMDPEPIVRIVGRNGLCVDVRDGRFHNGNAIQLWPCKSNTDAN
+QLWTLKRDNTIRSNGKCLTTYGYSPGVYVMIYDCNTAATDATRWQIWDNGTIINPRSSLV
+LAATSGNSGTTLTVQTNIYAVSQGWLPTNNTQPFVTTIVGLYGLCLQANSGQVWIEDCSS
+EKAEQQWALYADGSIRPQQNRDNCLTSDSNIRETVVKILSCGPASSGQRWMFKNDGTILN
+LYSGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

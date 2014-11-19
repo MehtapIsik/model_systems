@@ -1,0 +1,5477 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2008-06-10" modified="2014-10-29" version="68">
+<accession>P0C6X7</accession>
+<accession>P59641</accession>
+<accession>Q6WGN0</accession>
+<accession>Q7T697</accession>
+<accession>Q808C0</accession>
+<accession>Q80BV7</accession>
+<accession>Q80BV8</accession>
+<accession>Q80E51</accession>
+<name>R1AB_CVHSA</name>
+<protein>
+<recommendedName>
+<fullName>Replicase polyprotein 1ab</fullName>
+<shortName>pp1ab</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>ORF1ab polyprotein</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Host translation inhibitor nsp1</fullName>
+<shortName>nsp1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Leader protein</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Non-structural protein 2</fullName>
+<shortName>nsp2</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>p65 homolog</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Papain-like proteinase</fullName>
+<shortName>PL-PRO</shortName>
+<ecNumber>3.4.19.12</ecNumber>
+<ecNumber>3.4.22.69</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Non-structural protein 3</fullName>
+<shortName>nsp3</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>PL2-PRO</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>SARS coronavirus main proteinase</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Non-structural protein 4</fullName>
+<shortName>nsp4</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>3C-like proteinase</fullName>
+<shortName>3CL-PRO</shortName>
+<shortName>3CLp</shortName>
+<ecNumber>3.4.22.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>nsp5</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Non-structural protein 6</fullName>
+<shortName>nsp6</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Non-structural protein 7</fullName>
+<shortName>nsp7</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Non-structural protein 8</fullName>
+<shortName>nsp8</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Non-structural protein 9</fullName>
+<shortName>nsp9</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Non-structural protein 10</fullName>
+<shortName>nsp10</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Growth factor-like peptide</fullName>
+<shortName>GFL</shortName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>RNA-directed RNA polymerase</fullName>
+<shortName>Pol</shortName>
+<shortName>RdRp</shortName>
+<ecNumber>2.7.7.48</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>nsp12</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Helicase</fullName>
+<shortName>Hel</shortName>
+<ecNumber>3.6.4.12</ecNumber>
+<ecNumber>3.6.4.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>nsp13</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Guanine-N7 methyltransferase</fullName>
+<shortName>ExoN</shortName>
+<ecNumber>2.1.1.-</ecNumber>
+<ecNumber>3.1.13.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>nsp14</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Uridylate-specific endoribonuclease</fullName>
+<ecNumber>3.1.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>NendoU</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>nsp15</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>2'-O-methyltransferase</fullName>
+<ecNumber>2.1.1.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>nsp16</fullName>
+</alternativeName>
+</component>
+</protein>
+<gene>
+<name type="primary">rep</name>
+<name type="ORF">1a-1b</name>
+</gene>
+<organism>
+<name type="scientific">Human SARS coronavirus</name>
+<name type="common">SARS-CoV</name>
+<name type="synonym">Severe acute respiratory syndrome coronavirus</name>
+<dbReference type="NCBI Taxonomy" id="227859"/>
+<lineage>
+<taxon>Viruses</taxon>
+<taxon>ssRNA positive-strand viruses, no DNA stage</taxon>
+<taxon>Nidovirales</taxon>
+<taxon>Coronaviridae</taxon>
+<taxon>Coronavirinae</taxon>
+<taxon>Betacoronavirus</taxon>
+</lineage>
+</organism>
+<organismHost>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+</organismHost>
+<organismHost>
+<name type="scientific">Paguma larvata</name>
+<name type="common">Masked palm civet</name>
+<dbReference type="NCBI Taxonomy" id="9675"/>
+</organismHost>
+<reference key="1">
+<citation type="journal article" date="2003" name="Science" volume="300" first="1394" last="1399">
+<title>Characterization of a novel coronavirus associated with severe acute respiratory syndrome.</title>
+<authorList>
+<person name="Rota P.A."/>
+<person name="Oberste M.S."/>
+<person name="Monroe S.S."/>
+<person name="Nix W.A."/>
+<person name="Campagnoli R."/>
+<person name="Icenogle J.P."/>
+<person name="Penaranda S."/>
+<person name="Bankamp B."/>
+<person name="Maher K."/>
+<person name="Chen M.-H."/>
+<person name="Tong S."/>
+<person name="Tamin A."/>
+<person name="Lowe L."/>
+<person name="Frace M."/>
+<person name="DeRisi J.L."/>
+<person name="Chen Q."/>
+<person name="Wang D."/>
+<person name="Erdman D.D."/>
+<person name="Peret T.C.T."/>
+<person name="Burns C."/>
+<person name="Ksiazek T.G."/>
+<person name="Rollin P.E."/>
+<person name="Sanchez A."/>
+<person name="Liffick S."/>
+<person name="Holloway B."/>
+<person name="Limor J."/>
+<person name="McCaustland K."/>
+<person name="Olsen-Rasmussen M."/>
+<person name="Fouchier R."/>
+<person name="Guenther S."/>
+<person name="Osterhaus A.D.M.E."/>
+<person name="Drosten C."/>
+<person name="Pallansch M.A."/>
+<person name="Anderson L.J."/>
+<person name="Bellini W.J."/>
+</authorList>
+<dbReference type="PubMed" id="12730500"/>
+<dbReference type="DOI" id="10.1126/science.1085952"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate Urbani</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Science" volume="300" first="1399" last="1404">
+<title>The genome sequence of the SARS-associated coronavirus.</title>
+<authorList>
+<person name="Marra M.A."/>
+<person name="Jones S.J.M."/>
+<person name="Astell C.R."/>
+<person name="Holt R.A."/>
+<person name="Brooks-Wilson A."/>
+<person name="Butterfield Y.S.N."/>
+<person name="Khattra J."/>
+<person name="Asano J.K."/>
+<person name="Barber S.A."/>
+<person name="Chan S.Y."/>
+<person name="Cloutier A."/>
+<person name="Coughlin S.M."/>
+<person name="Freeman D."/>
+<person name="Girn N."/>
+<person name="Griffith O.L."/>
+<person name="Leach S.R."/>
+<person name="Mayo M."/>
+<person name="McDonald H."/>
+<person name="Montgomery S.B."/>
+<person name="Pandoh P.K."/>
+<person name="Petrescu A.S."/>
+<person name="Robertson A.G."/>
+<person name="Schein J.E."/>
+<person name="Siddiqui A."/>
+<person name="Smailus D.E."/>
+<person name="Stott J.M."/>
+<person name="Yang G.S."/>
+<person name="Plummer F."/>
+<person name="Andonov A."/>
+<person name="Artsob H."/>
+<person name="Bastien N."/>
+<person name="Bernard K."/>
+<person name="Booth T.F."/>
+<person name="Bowness D."/>
+<person name="Czub M."/>
+<person name="Drebot M."/>
+<person name="Fernando L."/>
+<person name="Flick R."/>
+<person name="Garbutt M."/>
+<person name="Gray M."/>
+<person name="Grolla A."/>
+<person name="Jones S."/>
+<person name="Feldmann H."/>
+<person name="Meyers A."/>
+<person name="Kabani A."/>
+<person name="Li Y."/>
+<person name="Normand S."/>
+<person name="Stroher U."/>
+<person name="Tipples G.A."/>
+<person name="Tyler S."/>
+<person name="Vogrig R."/>
+<person name="Ward D."/>
+<person name="Watson B."/>
+<person name="Brunham R.C."/>
+<person name="Krajden M."/>
+<person name="Petric M."/>
+<person name="Skowronski D.M."/>
+<person name="Upton C."/>
+<person name="Roper R.L."/>
+</authorList>
+<dbReference type="PubMed" id="12730501"/>
+<dbReference type="DOI" id="10.1126/science.1085953"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate Tor2</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="N. Engl. J. Med." volume="349" first="187" last="188">
+<title>Coronavirus genomic-sequence variations and the epidemiology of the severe acute respiratory syndrome.</title>
+<authorList>
+<person name="Tsui S.K.W."/>
+<person name="Chim S.S.C."/>
+<person name="Lo Y.M.D."/>
+</authorList>
+<dbReference type="PubMed" id="12853594"/>
+<dbReference type="DOI" id="10.1056/NEJM200307103490216"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate CUHK-Su10</strain>
+<strain>Isolate CUHK-W1</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Science" volume="302" first="276" last="278">
+<title>Isolation and characterization of viruses related to the SARS coronavirus from animals in southern China.</title>
+<authorList>
+<person name="Guan Y."/>
+<person name="Zheng B.J."/>
+<person name="He Y.Q."/>
+<person name="Liu X.L."/>
+<person name="Zhuang Z.X."/>
+<person name="Cheung C.L."/>
+<person name="Luo S.W."/>
+<person name="Li P.H."/>
+<person name="Zhang L.J."/>
+<person name="Guan Y.J."/>
+<person name="Butt K.M."/>
+<person name="Wong K.L."/>
+<person name="Chan K.W."/>
+<person name="Lim W."/>
+<person name="Shortridge K.F."/>
+<person name="Yuen K.Y."/>
+<person name="Peiris J.S.M."/>
+<person name="Poon L.L.M."/>
+</authorList>
+<dbReference type="PubMed" id="12958366"/>
+<dbReference type="DOI" id="10.1126/science.1087139"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate GZ50</strain>
+<strain>Isolate SZ16</strain>
+<strain>Isolate SZ3</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Exp. Biol. Med." volume="228" first="866" last="873">
+<title>The complete genome sequence of severe acute respiratory syndrome coronavirus strain HKU-39849 (HK-39).</title>
+<authorList>
+<person name="Zeng F.Y."/>
+<person name="Chan C.W."/>
+<person name="Chan M.N."/>
+<person name="Chen J.D."/>
+<person name="Chow K.Y.C."/>
+<person name="Hon C.C.C."/>
+<person name="Hui R.K.H."/>
+<person name="Li J."/>
+<person name="Li V.Y.Y."/>
+<person name="Wang C.Y."/>
+<person name="Wang P.Y."/>
+<person name="Guan Y."/>
+<person name="Zheng B."/>
+<person name="Poon L.L.M."/>
+<person name="Chan K.H."/>
+<person name="Yuen K.Y."/>
+<person name="Peiris J.S.M."/>
+<person name="Leung F.C."/>
+</authorList>
+<dbReference type="PubMed" id="12876307"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate HKU-39849</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="Lancet" volume="361" first="1779" last="1785">
+<title>Comparative full-length genome sequence analysis of 14 SARS coronavirus isolates and common mutations associated with putative origins of infection.</title>
+<authorList>
+<person name="Ruan Y."/>
+<person name="Wei C.L."/>
+<person name="Ling A.E."/>
+<person name="Vega V.B."/>
+<person name="Thoreau H."/>
+<person name="Se Thoe S.Y."/>
+<person name="Chia J.-M."/>
+<person name="Ng P."/>
+<person name="Chiu K.P."/>
+<person name="Lim L."/>
+<person name="Zhang T."/>
+<person name="Chan K.P."/>
+<person name="Oon L.E.L."/>
+<person name="Ng M.L."/>
+<person name="Leo S.Y."/>
+<person name="Ng L.F.P."/>
+<person name="Ren E.C."/>
+<person name="Stanton L.W."/>
+<person name="Long P.M."/>
+<person name="Liu E.T."/>
+</authorList>
+<dbReference type="PubMed" id="12781537"/>
+<dbReference type="DOI" id="10.1016/S0140-6736(03)13414-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate Sin2500</strain>
+<strain>Isolate Sin2677</strain>
+<strain>Isolate Sin2679</strain>
+<strain>Isolate Sin2748</strain>
+<strain>Isolate sin2774</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Lancet" volume="361" first="1832" last="1832">
+<authorList>
+<person name="Ruan Y."/>
+<person name="Wei C.L."/>
+<person name="Ling A.E."/>
+<person name="Vega V.B."/>
+<person name="Thoreau H."/>
+<person name="Se Thoe S.Y."/>
+<person name="Chia J.-M."/>
+<person name="Ng P."/>
+<person name="Chiu K.P."/>
+<person name="Lim L."/>
+<person name="Zhang T."/>
+<person name="Chan K.P."/>
+<person name="Oon L.E.L."/>
+<person name="Ng M.L."/>
+<person name="Leo S.Y."/>
+<person name="Ng L.F.P."/>
+<person name="Ren E.C."/>
+<person name="Stanton L.W."/>
+<person name="Long P.M."/>
+<person name="Liu E.T."/>
+</authorList>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Chin. Med. J." volume="116" first="1288" last="1292">
+<title>Severe acute respiratory syndrome-associated coronavirus genotype and its characterization.</title>
+<authorList>
+<person name="Li L."/>
+<person name="Wang Z."/>
+<person name="Lu Y."/>
+<person name="Bao Q."/>
+<person name="Chen S."/>
+<person name="Wu N."/>
+<person name="Cheng S."/>
+<person name="Weng J."/>
+<person name="Zhang Y."/>
+<person name="Yan J."/>
+<person name="Mei L."/>
+<person name="Wang X."/>
+<person name="Zhu H."/>
+<person name="Yu Y."/>
+<person name="Zhang M."/>
+<person name="Li M."/>
+<person name="Yao J."/>
+<person name="Lu Q."/>
+<person name="Yao P."/>
+<person name="Bo X."/>
+<person name="Wo J."/>
+<person name="Wang S."/>
+<person name="Hu S."/>
+</authorList>
+<dbReference type="PubMed" id="14527350"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate ZJ01</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="submission" date="2003-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Qin E."/>
+<person name="Zhu Q."/>
+<person name="Yu M."/>
+<person name="Fan B."/>
+<person name="Chang G."/>
+<person name="Si B."/>
+<person name="Yang B."/>
+<person name="Peng W."/>
+<person name="Jiang T."/>
+<person name="Liu B."/>
+<person name="Deng Y."/>
+<person name="Liu H."/>
+<person name="Zhang Y."/>
+<person name="Wang C."/>
+<person name="Li Y."/>
+<person name="Gan Y."/>
+<person name="Li X."/>
+<person name="Lu F."/>
+<person name="Tan G."/>
+<person name="Yang R."/>
+<person name="Cao W.S."/>
+<person name="Wang J."/>
+<person name="Chen W."/>
+<person name="Cong L."/>
+<person name="Deng Y."/>
+<person name="Dong W."/>
+<person name="Han Y."/>
+<person name="Hu W."/>
+<person name="Lei M."/>
+<person name="Li C."/>
+<person name="Li G."/>
+<person name="Li G."/>
+<person name="Li H."/>
+<person name="Li S."/>
+<person name="Li S."/>
+<person name="Li W."/>
+<person name="Li W."/>
+<person name="Lin W."/>
+<person name="Liu J."/>
+<person name="Liu Z."/>
+<person name="Lu H."/>
+<person name="Ni P."/>
+<person name="Qi Q."/>
+<person name="Sun Y."/>
+<person name="Tang L."/>
+<person name="Tong Z."/>
+<person name="Wang J."/>
+<person name="Wang X."/>
+<person name="Wu Q."/>
+<person name="Xi Y."/>
+<person name="Xu Z."/>
+<person name="Yang L."/>
+<person name="Ye C."/>
+<person name="Ye J."/>
+<person name="Zhang B."/>
+<person name="Zhang F."/>
+<person name="Zhang J."/>
+<person name="Zhang X."/>
+<person name="Zhou J."/>
+<person name="Yang H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate BJ01</strain>
+<strain>Isolate BJ02</strain>
+<strain>Isolate BJ03</strain>
+<strain>Isolate BJ04</strain>
+<strain>Isolate GD01</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>The complete genome of SARS coronavirus clone TW1.</title>
+<authorList>
+<person name="Yeh S.-H."/>
+<person name="Kao C.-L."/>
+<person name="Tsai C.-Y."/>
+<person name="Liu C.-J."/>
+<person name="Chen D.-S."/>
+<person name="Chen P.-J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate TW1</strain>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2003" name="Science" volume="302" first="1504" last="1505">
+<title>Phylogeny of the SARS coronavirus.</title>
+<authorList>
+<person name="Eickmann M."/>
+<person name="Becker S."/>
+<person name="Klenk H.-D."/>
+<person name="Doerr H.W."/>
+<person name="Stadler K."/>
+<person name="Censini S."/>
+<person name="Guidotti S."/>
+<person name="Masignani V."/>
+<person name="Scarselli M."/>
+<person name="Mora M."/>
+<person name="Donati C."/>
+<person name="Han J.H."/>
+<person name="Song H.C."/>
+<person name="Abrignani S."/>
+<person name="Covacci A."/>
+<person name="Rappuoli R."/>
+</authorList>
+<dbReference type="PubMed" id="14645828"/>
+<dbReference type="DOI" id="10.1126/science.302.5650.1504b"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate FRA</strain>
+</source>
+</reference>
+<reference key="12">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Thiel V."/>
+<person name="Hertzig T."/>
+<person name="Putics A."/>
+<person name="Ivanov K.A."/>
+<person name="Schelle B."/>
+<person name="Bayer S."/>
+<person name="Scheiner B."/>
+<person name="Weinand H."/>
+<person name="Weissbrich B."/>
+<person name="Ziebuhr J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate Frankfurt-1</strain>
+</source>
+</reference>
+<reference key="13">
+<citation type="submission" date="2003-06" db="EMBL/GenBank/DDBJ databases">
+<title>Genomic sequence of SARS isolate from the first fatal case in Taiwan.</title>
+<authorList>
+<person name="Yang J.-Y."/>
+<person name="Lin J.-H."/>
+<person name="Chiu S.-C."/>
+<person name="Wang S.-F."/>
+<person name="Lee S.C."/>
+<person name="Lin Y.-C."/>
+<person name="Hsu C.-K."/>
+<person name="Chen H.-Y."/>
+<person name="Chang J.G."/>
+<person name="Chen P.-J."/>
+<person name="Su I.-J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate TWC</strain>
+</source>
+</reference>
+<reference key="14">
+<citation type="submission" date="2003-06" db="EMBL/GenBank/DDBJ databases">
+<title>Analysis of SARS coronavirus genome in Shanghai isolates.</title>
+<authorList>
+<person name="Yuan Z."/>
+<person name="Zhang X."/>
+<person name="Hu Y."/>
+<person name="Lan S."/>
+<person name="Wang H."/>
+<person name="Zhou Z."/>
+<person name="Wen Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate Shanghai QXC1</strain>
+</source>
+</reference>
+<reference key="15">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Canducci F."/>
+<person name="Clementi M."/>
+<person name="Poli G."/>
+<person name="Vicenzi E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate HSR 1</strain>
+</source>
+</reference>
+<reference key="16">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Chang J.-G.C."/>
+<person name="Lin T.-H."/>
+<person name="Chen C.-M."/>
+<person name="Lin C.-S."/>
+<person name="Chan W.-L."/>
+<person name="Shih M.-C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate Taiwan TC1</strain>
+<strain>Isolate Taiwan TC2</strain>
+<strain>Isolate Taiwan TC3</strain>
+</source>
+</reference>
+<reference key="17">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Shu H.Y."/>
+<person name="Wu K.M."/>
+<person name="Tsai S.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate TWH</strain>
+<strain>Isolate TWJ</strain>
+<strain>Isolate TWK</strain>
+<strain>Isolate TWS</strain>
+<strain>Isolate TWY</strain>
+</source>
+</reference>
+<reference key="18">
+<citation type="submission" date="2003-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Balotta C."/>
+<person name="Corvasce S."/>
+<person name="Violin M."/>
+<person name="Galli M."/>
+<person name="Moroni M."/>
+<person name="Vigevani G.M."/>
+<person name="Ruan Y.J."/>
+<person name="Salemi M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate AS</strain>
+</source>
+</reference>
+<reference key="19">
+<citation type="submission" date="2003-11" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Wang Z."/>
+<person name="Cheng S."/>
+<person name="Zhang Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+<source>
+<strain>Isolate ZJ01</strain>
+</source>
+</reference>
+<reference key="20">
+<citation type="submission" date="2003-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Yuan Z."/>
+<person name="Zhang X."/>
+<person name="Hu Y."/>
+<person name="Lan S."/>
+<person name="Wang H."/>
+<person name="Zhou Z."/>
+<person name="Wen Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA] OF 1-507; 1655-5170 AND 6903-7073</scope>
+<source>
+<strain>Isolate Shanghai LY</strain>
+</source>
+</reference>
+<reference key="21">
+<citation type="submission" date="2003-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Emery S."/>
+<person name="Erdman D.D."/>
+<person name="Peret T.C.T."/>
+<person name="Ksiazek T.G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA] OF 4993-5127</scope>
+<source>
+<strain>Isolate Vietnam</strain>
+</source>
+</reference>
+<reference key="22">
+<citation type="submission" date="2003-04" db="EMBL/GenBank/DDBJ databases">
+<title>Detection of a novel human coronavirus in a severe acute respiratory syndrome patient in Taiwan.</title>
+<authorList>
+<person name="Lin J.-H."/>
+<person name="Chiu S.-C."/>
+<person name="Yang J.-Y."/>
+<person name="Wang S.-F."/>
+<person name="Chen H.-Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA] OF 4993-5136</scope>
+<source>
+<strain>Isolate Taiwan</strain>
+</source>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="39578" last="39582">
+<title>The severe acute respiratory syndrome (SARS) coronavirus NTPase/helicase belongs to a distinct class of 5' to 3' viral helicases.</title>
+<authorList>
+<person name="Tanner J.A."/>
+<person name="Watt R.M."/>
+<person name="Chai Y.-B."/>
+<person name="Lu L.-Y."/>
+<person name="Lin M.C."/>
+<person name="Peiris J.S."/>
+<person name="Poon L.L.M."/>
+<person name="Kung H.-F."/>
+<person name="Huang J.-D."/>
+</authorList>
+<dbReference type="PubMed" id="12917423"/>
+<dbReference type="DOI" id="10.1074/jbc.C300328200"/>
+</citation>
+<scope>FUNCTION (HELICASE)</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2003" name="J. Gen. Virol." volume="84" first="2305" last="2315">
+<title>Mechanisms and enzymes involved in SARS coronavirus genome expression.</title>
+<authorList>
+<person name="Thiel V."/>
+<person name="Ivanov K.A."/>
+<person name="Putics A."/>
+<person name="Hertzig T."/>
+<person name="Schelle B."/>
+<person name="Bayer S."/>
+<person name="Weissbrich B."/>
+<person name="Snijder E.J."/>
+<person name="Rabenau H."/>
+<person name="Doerr H.W."/>
+<person name="Gorbalenya A.E."/>
+<person name="Ziebuhr J."/>
+</authorList>
+<dbReference type="PubMed" id="12917450"/>
+<dbReference type="DOI" id="10.1099/vir.0.19424-0"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING (REPLICASE POLYPROTEIN 1AB)</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="1637" last="1642">
+<title>Biosynthesis, purification, and substrate specificity of severe acute respiratory syndrome coronavirus 3C-like proteinase.</title>
+<authorList>
+<person name="Fan K."/>
+<person name="Wei P."/>
+<person name="Feng Q."/>
+<person name="Chen S."/>
+<person name="Huang C."/>
+<person name="Ma L."/>
+<person name="Lai B."/>
+<person name="Pei J."/>
+<person name="Liu Y."/>
+<person name="Chen J."/>
+<person name="Lai L."/>
+</authorList>
+<dbReference type="PubMed" id="14561748"/>
+<dbReference type="DOI" id="10.1074/jbc.M310875200"/>
+</citation>
+<scope>CATALYTIC ACTIVITY (3C-LIKE PROTEINASE)</scope>
+<scope>SUBUNIT (3C-LIKE PROTEINASE)</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES (3C-LIKE PROTEINASE)</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2004" name="J. Virol." volume="78" first="9977" last="9986">
+<title>Identification and characterization of severe acute respiratory syndrome coronavirus replicase proteins.</title>
+<authorList>
+<person name="Prentice E."/>
+<person name="McAuliffe J."/>
+<person name="Lu X."/>
+<person name="Subbarao K."/>
+<person name="Denison M.R."/>
+</authorList>
+<dbReference type="PubMed" id="15331731"/>
+<dbReference type="DOI" id="10.1128/JVI.78.18.9977-9986.2004"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING (REPLICASE POLYPROTEIN 1AB)</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2004" name="J. Virol." volume="78" first="13600" last="13612">
+<title>Identification of severe acute respiratory syndrome coronavirus replicase products and characterization of papain-like protease activity.</title>
+<authorList>
+<person name="Harcourt B.H."/>
+<person name="Jukneliene D."/>
+<person name="Kanjanahaluethai A."/>
+<person name="Bechill J."/>
+<person name="Severson K.M."/>
+<person name="Smith C.M."/>
+<person name="Rota P.A."/>
+<person name="Baker S.C."/>
+</authorList>
+<dbReference type="PubMed" id="15564471"/>
+<dbReference type="DOI" id="10.1128/JVI.78.24.13600-13612.2004"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING (REPLICASE POLYPROTEIN 1AB)</scope>
+<source>
+<strain>Isolate Urbani</strain>
+</source>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="5108" last="5113">
+<title>Discovery of an RNA virus 3'->5' exoribonuclease that is critically involved in coronavirus RNA synthesis.</title>
+<authorList>
+<person name="Minskaia E."/>
+<person name="Hertzig T."/>
+<person name="Gorbalenya A.E."/>
+<person name="Campanacci V."/>
+<person name="Cambillau C."/>
+<person name="Canard B."/>
+<person name="Ziebuhr J."/>
+</authorList>
+<dbReference type="PubMed" id="16549795"/>
+<dbReference type="DOI" id="10.1073/pnas.0508200103"/>
+</citation>
+<scope>FUNCTION (GUANINE-N7 METHYLTRANSFERASE)</scope>
+<source>
+<strain>Isolate Frankfurt-1</strain>
+</source>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="11892" last="11897">
+<title>Crystal structure and mechanistic determinants of SARS coronavirus nonstructural protein 15 define an endoribonuclease family.</title>
+<authorList>
+<person name="Ricagno S."/>
+<person name="Egloff M.-P."/>
+<person name="Ulferts R."/>
+<person name="Coutard B."/>
+<person name="Nurizzo D."/>
+<person name="Campanacci V."/>
+<person name="Cambillau C."/>
+<person name="Ziebuhr J."/>
+<person name="Canard B."/>
+</authorList>
+<dbReference type="PubMed" id="16882730"/>
+<dbReference type="DOI" id="10.1073/pnas.0601708103"/>
+</citation>
+<scope>CHARACTERIZATION (URIDYLATE-SPECIFIC ENDORIBONUCLEASE)</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2006" name="EMBO J." volume="25" first="4933" last="4942">
+<title>A second, non-canonical RNA-dependent RNA polymerase in SARS coronavirus.</title>
+<authorList>
+<person name="Imbert I."/>
+<person name="Guillemot J.-C."/>
+<person name="Bourhis J.-M."/>
+<person name="Bussetta C."/>
+<person name="Coutard B."/>
+<person name="Egloff M.-P."/>
+<person name="Ferron F."/>
+<person name="Gorbalenya A.E."/>
+<person name="Canard B."/>
+</authorList>
+<dbReference type="PubMed" id="17024178"/>
+<dbReference type="DOI" id="10.1038/sj.emboj.7601368"/>
+</citation>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 8)</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2007" name="Arch. Biochem. Biophys." volume="466" first="8" last="14">
+<title>Selectivity in ISG15 and ubiquitin recognition by the SARS coronavirus papain-like protease.</title>
+<authorList>
+<person name="Lindner H.A."/>
+<person name="Lytvyn V."/>
+<person name="Qi H."/>
+<person name="Lachance P."/>
+<person name="Ziomek E."/>
+<person name="Menard R."/>
+</authorList>
+<dbReference type="PubMed" id="17692280"/>
+<dbReference type="DOI" id="10.1016/j.abb.2007.07.006"/>
+</citation>
+<scope>FUNCTION (PAPAIN-LIKE PROTEINASE)</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2007" name="J. Virol." volume="81" first="12323" last="12336">
+<title>Localization and membrane topology of coronavirus nonstructural protein 4: involvement of the early secretory pathway in replication.</title>
+<authorList>
+<person name="Oostra M."/>
+<person name="te Lintelo E.G."/>
+<person name="Deijs M."/>
+<person name="Verheije M.H."/>
+<person name="Rottier P.J."/>
+<person name="de Haan C.A."/>
+</authorList>
+<dbReference type="PubMed" id="17855519"/>
+<dbReference type="DOI" id="10.1128/JVI.01506-07"/>
+</citation>
+<scope>SUBCELLULAR LOCATION (NON-STRUCTURAL PROTEIN 4)</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2008" name="J. Virol." volume="82" first="8071" last="8084">
+<title>Coronavirus nonstructural protein 16 is a cap-0 binding enzyme possessing (nucleoside-2'O)-methyltransferase activity.</title>
+<authorList>
+<person name="Decroly E."/>
+<person name="Imbert I."/>
+<person name="Coutard B."/>
+<person name="Bouvet M."/>
+<person name="Selisko B."/>
+<person name="Alvarez K."/>
+<person name="Gorbalenya A.E."/>
+<person name="Snijder E.J."/>
+<person name="Canard B."/>
+</authorList>
+<dbReference type="PubMed" id="18417574"/>
+<dbReference type="DOI" id="10.1128/JVI.00407-08"/>
+</citation>
+<scope>FUNCTION (2'-O-METHYLTRANSFERASE)</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2008" name="PLoS ONE" volume="3" first="E3299" last="E3299">
+<title>Genome-wide analysis of protein-protein interactions and involvement of viral proteins in SARS-CoV replication.</title>
+<authorList>
+<person name="Pan J."/>
+<person name="Peng X."/>
+<person name="Gao Y."/>
+<person name="Li Z."/>
+<person name="Lu X."/>
+<person name="Chen Y."/>
+<person name="Ishaq M."/>
+<person name="Liu D."/>
+<person name="Dediego M.L."/>
+<person name="Enjuanes L."/>
+<person name="Guo D."/>
+</authorList>
+<dbReference type="PubMed" id="18827877"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0003299"/>
+</citation>
+<scope>INTERACTION OF NSP10 WITH NSP14 AND NSP16</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2009" name="J. Virol." volume="83" first="6689" last="6705">
+<title>Severe acute respiratory syndrome coronavirus papain-like protease ubiquitin-like domain and catalytic domain regulate antagonism of IRF3 and NF-kappaB signaling.</title>
+<authorList>
+<person name="Frieman M."/>
+<person name="Ratia K."/>
+<person name="Johnston R.E."/>
+<person name="Mesecar A.D."/>
+<person name="Baric R.S."/>
+</authorList>
+<dbReference type="PubMed" id="19369340"/>
+<dbReference type="DOI" id="10.1128/JVI.02220-08"/>
+</citation>
+<scope>FUNCTION (PAPAIN-LIKE PROTEINASE)</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2009" name="J. Virol." volume="83" first="10314" last="10318">
+<title>Severe acute respiratory syndrome coronavirus nonstructural protein 2 interacts with a host protein complex involved in mitochondrial biogenesis and intracellular signaling.</title>
+<authorList>
+<person name="Cornillez-Ty C.T."/>
+<person name="Liao L."/>
+<person name="Yates J.R."/>
+<person name="Kuhn P."/>
+<person name="Buchmeier M.J."/>
+</authorList>
+<dbReference type="PubMed" id="19640993"/>
+<dbReference type="DOI" id="10.1128/JVI.00842-09"/>
+</citation>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 2)</scope>
+<scope>INTERACTION WITH HOST PHB AND PHB2</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2009" name="J. Virol." volume="83" first="3007" last="3018">
+<title>Severe acute respiratory syndrome coronavirus nsp9 dimerization is essential for efficient viral growth.</title>
+<authorList>
+<person name="Miknis Z.J."/>
+<person name="Donaldson E.F."/>
+<person name="Umland T.C."/>
+<person name="Rimmer R.A."/>
+<person name="Baric R.S."/>
+<person name="Schultz L.W."/>
+</authorList>
+<dbReference type="PubMed" id="19153232"/>
+<dbReference type="DOI" id="10.1128/JVI.01505-08"/>
+</citation>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 9)</scope>
+<scope>MUTAGENESIS OF GLY-4217 AND GLY-4221</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2010" name="J. Virol." volume="84" first="8571" last="8583">
+<title>The cellular RNA helicase DDX1 interacts with coronavirus nonstructural protein 14 and enhances viral replication.</title>
+<authorList>
+<person name="Xu L."/>
+<person name="Khadijah S."/>
+<person name="Fang S."/>
+<person name="Wang L."/>
+<person name="Tay F.P."/>
+<person name="Liu D.X."/>
+</authorList>
+<dbReference type="PubMed" id="20573827"/>
+<dbReference type="DOI" id="10.1128/JVI.00392-10"/>
+</citation>
+<scope>INTERACTION OF NSP14 WITH DDX1</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2010" name="PLoS Pathog." volume="6" first="E1000863" last="E1000863">
+<title>In vitro reconstitution of SARS-coronavirus mRNA cap methylation.</title>
+<authorList>
+<person name="Bouvet M."/>
+<person name="Debarnot C."/>
+<person name="Imbert I."/>
+<person name="Selisko B."/>
+<person name="Snijder E.J."/>
+<person name="Canard B."/>
+<person name="Decroly E."/>
+</authorList>
+<dbReference type="PubMed" id="20421945"/>
+<dbReference type="DOI" id="10.1371/journal.ppat.1000863"/>
+</citation>
+<scope>FUNCTION (GUANINE-N7 METHYLTRANSFERASE)</scope>
+<scope>FUNCTION (2'-O-METHYLTRANSFERASE)</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2011" name="PLoS Pathog." volume="7" first="E1002433" last="E1002433">
+<title>SARS coronavirus nsp1 protein induces template-dependent endonucleolytic cleavage of mRNAs: viral mRNAs are resistant to nsp1-induced RNA cleavage.</title>
+<authorList>
+<person name="Huang C."/>
+<person name="Lokugamage K.G."/>
+<person name="Rozovics J.M."/>
+<person name="Narayanan K."/>
+<person name="Semler B.L."/>
+<person name="Makino S."/>
+</authorList>
+<dbReference type="PubMed" id="22174690"/>
+<dbReference type="DOI" id="10.1371/journal.ppat.1002433"/>
+</citation>
+<scope>FUNCTION (HOST TRANSLATION INHIBITOR NSP1)</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2011" name="J. Virol." volume="85" first="4572" last="4577">
+<title>Mobility and interactions of coronavirus nonstructural protein 4.</title>
+<authorList>
+<person name="Hagemeijer M.C."/>
+<person name="Ulasli M."/>
+<person name="Vonk A.M."/>
+<person name="Reggiori F."/>
+<person name="Rottier P.J."/>
+<person name="de Haan C.A."/>
+</authorList>
+<dbReference type="PubMed" id="21345958"/>
+<dbReference type="DOI" id="10.1128/JVI.00042-11"/>
+</citation>
+<scope>INTERACTION OF NSP4 WITH PL-PRO AND NSP6</scope>
+<scope>SUBCELLULAR LOCATION (NON-STRUCTURAL PROTEIN 4)</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2012" name="Nucleic Acids Res." volume="40" first="1737" last="1747">
+<title>The SARS-coronavirus nsp7+nsp8 complex is a unique multimeric RNA polymerase capable of both de novo initiation and primer extension.</title>
+<authorList>
+<person name="te Velthuis A.J."/>
+<person name="van den Worm S.H."/>
+<person name="Snijder E.J."/>
+</authorList>
+<dbReference type="PubMed" id="22039154"/>
+<dbReference type="DOI" id="10.1093/nar/gkr893"/>
+</citation>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 7)</scope>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 8)</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2012" name="J. Virol." volume="86" first="13598" last="13608">
+<title>Severe acute respiratory syndrome coronavirus protein nsp1 is a novel eukaryotic translation inhibitor that represses multiple steps of translation initiation.</title>
+<authorList>
+<person name="Lokugamage K.G."/>
+<person name="Narayanan K."/>
+<person name="Huang C."/>
+<person name="Makino S."/>
+</authorList>
+<dbReference type="PubMed" id="23035226"/>
+<dbReference type="DOI" id="10.1128/JVI.01958-12"/>
+</citation>
+<scope>FUNCTION (HOST TRANSLATION INHIBITOR NSP1)</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2012" name="PLoS ONE" volume="7" first="E36521" last="E36521">
+<title>Mechanism of nucleic acid unwinding by SARS-CoV helicase.</title>
+<authorList>
+<person name="Adedeji A.O."/>
+<person name="Marchand B."/>
+<person name="Te Velthuis A.J."/>
+<person name="Snijder E.J."/>
+<person name="Weiss S."/>
+<person name="Eoff R.L."/>
+<person name="Singh K."/>
+<person name="Sarafianos S.G."/>
+</authorList>
+<dbReference type="PubMed" id="22615777"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0036521"/>
+</citation>
+<scope>FUNCTION (HELICASE)</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2012" name="Arch. Virol." volume="157" first="2095" last="2104">
+<title>Biochemical characterization of a recombinant SARS coronavirus nsp12 RNA-dependent RNA polymerase capable of copying viral RNA templates.</title>
+<authorList>
+<person name="Ahn D.G."/>
+<person name="Choi J.K."/>
+<person name="Taylor D.R."/>
+<person name="Oh J.W."/>
+</authorList>
+<dbReference type="PubMed" id="22791111"/>
+<dbReference type="DOI" id="10.1007/s00705-012-1404-x"/>
+</citation>
+<scope>FUNCTION (RNA-DIRECTED RNA POLYMERASE)</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="9372" last="9377">
+<title>RNA 3'-end mismatch excision by the severe acute respiratory syndrome coronavirus nonstructural protein nsp10/nsp14 exoribonuclease complex.</title>
+<authorList>
+<person name="Bouvet M."/>
+<person name="Imbert I."/>
+<person name="Subissi L."/>
+<person name="Gluais L."/>
+<person name="Canard B."/>
+<person name="Decroly E."/>
+</authorList>
+<dbReference type="PubMed" id="22635272"/>
+<dbReference type="DOI" id="10.1073/pnas.1201130109"/>
+</citation>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 10)</scope>
+<scope>FUNCTION (GUANINE-N7 METHYLTRANSFERASE)</scope>
+<scope>INTERACTION OF NSP10 AND NSP14</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2013" name="MBio" volume="4">
+<title>Severe acute respiratory syndrome coronavirus nonstructural proteins 3, 4, and 6 induce double-membrane vesicles.</title>
+<authorList>
+<person name="Angelini M.M."/>
+<person name="Akhlaghpour M."/>
+<person name="Neuman B.W."/>
+<person name="Buchmeier M.J."/>
+</authorList>
+<dbReference type="PubMed" id="23943763"/>
+<dbReference type="DOI" id="10.1128/mBio.00524-13"/>
+</citation>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 4)</scope>
+<scope>SUBCELLULAR LOCATION (NON-STRUCTURAL PROTEIN 4)</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2014" name="Autophagy" volume="10" first="1426" last="1441">
+<title>Coronavirus NSP6 restricts autophagosome expansion.</title>
+<authorList>
+<person name="Cottam E.M."/>
+<person name="Whelband M.C."/>
+<person name="Wileman T."/>
+</authorList>
+<dbReference type="PubMed" id="24991833"/>
+<dbReference type="DOI" id="10.4161/auto.29309"/>
+</citation>
+<scope>FUNCTION (NON-STRUCTURAL PROTEIN 6)</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2003" name="Science" volume="300" first="1763" last="1767">
+<title>Coronavirus main proteinase (3CLpro) structure: basis for design of anti-SARS drugs.</title>
+<authorList>
+<person name="Anand K."/>
+<person name="Ziebuhr J."/>
+<person name="Wadhwani P."/>
+<person name="Mesters J.R."/>
+<person name="Hilgenfeld R."/>
+</authorList>
+<dbReference type="PubMed" id="12746549"/>
+<dbReference type="DOI" id="10.1126/science.1085658"/>
+</citation>
+<scope>3D-STRUCTURE MODELING OF 3241-3540</scope>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2003" name="Acta Crystallogr. D" volume="59" first="1628" last="1631">
+<title>Structural genomics of the SARS coronavirus: cloning, expression, crystallization and preliminary crystallographic study of the Nsp9 protein.</title>
+<authorList>
+<person name="Campanacci V."/>
+<person name="Egloff M.-P."/>
+<person name="Longhi S."/>
+<person name="Ferron F."/>
+<person name="Rancurel C."/>
+<person name="Salomoni A."/>
+<person name="Durousseau C."/>
+<person name="Tocque F."/>
+<person name="Bremond N."/>
+<person name="Dobbe J.C."/>
+<person name="Snijder E.J."/>
+<person name="Canard B."/>
+<person name="Cambillau C."/>
+</authorList>
+<dbReference type="PubMed" id="12925794"/>
+<dbReference type="DOI" id="10.1107/S0907444903016779"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 4118-4230 (NSP9)</scope>
+<source>
+<strain>Isolate Frankfurt-1</strain>
+</source>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="3792" last="3796">
+<title>The severe acute respiratory syndrome-coronavirus replicative protein nsp9 is a single-stranded RNA-binding subunit unique in the RNA virus world.</title>
+<authorList>
+<person name="Egloff M.-P."/>
+<person name="Ferron F."/>
+<person name="Campanacci V."/>
+<person name="Longhi S."/>
+<person name="Rancurel C."/>
+<person name="Dutartre H."/>
+<person name="Snijder E.J."/>
+<person name="Gorbalenya A.E."/>
+<person name="Cambillau C."/>
+<person name="Canard B."/>
+</authorList>
+<dbReference type="PubMed" id="15007178"/>
+<dbReference type="DOI" id="10.1073/pnas.0307877101"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 4118-4230</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2004" name="Structure" volume="12" first="341" last="353">
+<title>The nsp9 replicase protein of SARS-coronavirus, structure and functional insights.</title>
+<authorList>
+<person name="Sutton G."/>
+<person name="Fry E."/>
+<person name="Carter L."/>
+<person name="Sainsbury S."/>
+<person name="Walter T."/>
+<person name="Nettleship J."/>
+<person name="Berrow N."/>
+<person name="Owens R."/>
+<person name="Gilbert R."/>
+<person name="Davidson A."/>
+<person name="Siddell S."/>
+<person name="Poon L.L.M."/>
+<person name="Diprose J."/>
+<person name="Alderton D."/>
+<person name="Walsh M."/>
+<person name="Grimes J.M."/>
+<person name="Stuart D.I."/>
+</authorList>
+<dbReference type="PubMed" id="14962394"/>
+<dbReference type="DOI" id="10.1016/j.str.2004.01.016"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 4107-4230</scope>
+<scope>INTERACTION OF NSP8 WITH NSP9</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="2005" name="Nat. Struct. Mol. Biol." volume="12" first="980" last="986">
+<title>Insights into SARS-CoV transcription and replication from the structure of the nsp7-nsp8 hexadecamer.</title>
+<authorList>
+<person name="Zhai Y."/>
+<person name="Sun F."/>
+<person name="Li X."/>
+<person name="Pang H."/>
+<person name="Xu X."/>
+<person name="Bartlam M."/>
+<person name="Rao Z."/>
+</authorList>
+<dbReference type="PubMed" id="16228002"/>
+<dbReference type="DOI" id="10.1038/nsmb999"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 3837-4117 AND 3920-4117</scope>
+<scope>INTERACTION OF NSP7 WITH NSP8</scope>
+</reference>
+<reference key="54">
+<citation type="journal article" date="2005" name="Structure" volume="13" first="1665" last="1675">
+<title>Structural basis of severe acute respiratory syndrome coronavirus ADP-ribose-1''-phosphate dephosphorylation by a conserved domain of nsP3.</title>
+<authorList>
+<person name="Saikatendu K.S."/>
+<person name="Joseph J.S."/>
+<person name="Subramanian V."/>
+<person name="Clayton T."/>
+<person name="Griffith M."/>
+<person name="Moy K."/>
+<person name="Velasquez J."/>
+<person name="Neuman B.W."/>
+<person name="Buchmeier M.J."/>
+<person name="Stevens R.C."/>
+<person name="Kuhn P."/>
+</authorList>
+<dbReference type="PubMed" id="16271890"/>
+<dbReference type="DOI" id="10.1016/j.str.2005.07.022"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) OF 1002-1176</scope>
+<scope>FUNCTION (3C-LIKE PROTEINASE)</scope>
+</reference>
+<reference key="55">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="5717" last="5722">
+<title>Severe acute respiratory syndrome coronavirus papain-like protease: structure of a viral deubiquitinating enzyme.</title>
+<authorList>
+<person name="Ratia K."/>
+<person name="Saikatendu K.S."/>
+<person name="Santarsiero B.D."/>
+<person name="Barretto N."/>
+<person name="Baker S.C."/>
+<person name="Stevens R.C."/>
+<person name="Mesecar A.D."/>
+</authorList>
+<dbReference type="PubMed" id="16581910"/>
+<dbReference type="DOI" id="10.1073/pnas.0510851103"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 1541-1854</scope>
+</reference>
+<reference key="56">
+<citation type="journal article" date="2006" name="J. Virol." volume="80" first="7894" last="7901">
+<title>Crystal structure of nonstructural protein 10 from the severe acute respiratory syndrome coronavirus reveals a novel fold with two zinc-binding motifs.</title>
+<authorList>
+<person name="Joseph J.S."/>
+<person name="Saikatendu K.S."/>
+<person name="Subramanian V."/>
+<person name="Neuman B.W."/>
+<person name="Brooun A."/>
+<person name="Griffith M."/>
+<person name="Moy K."/>
+<person name="Yadav M.K."/>
+<person name="Velasquez J."/>
+<person name="Buchmeier M.J."/>
+<person name="Stevens R.C."/>
+<person name="Kuhn P."/>
+</authorList>
+<dbReference type="PubMed" id="16873246"/>
+<dbReference type="DOI" id="10.1128/JVI.00467-06"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 4240-4362</scope>
+<source>
+<strain>Isolate Tor2</strain>
+</source>
+</reference>
+<reference key="57">
+<citation type="journal article" date="2006" name="J. Virol." volume="80" first="7902" last="7908">
+<title>Dodecamer structure of severe acute respiratory syndrome coronavirus nonstructural protein nsp10.</title>
+<authorList>
+<person name="Su D."/>
+<person name="Lou Z."/>
+<person name="Sun F."/>
+<person name="Zhai Y."/>
+<person name="Yang H."/>
+<person name="Zhang R."/>
+<person name="Joachimiak A."/>
+<person name="Zhang X.C."/>
+<person name="Bartlam M."/>
+<person name="Rao Z."/>
+</authorList>
+<dbReference type="PubMed" id="16873247"/>
+<dbReference type="DOI" id="10.1128/JVI.00483-06"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 4231-4378</scope>
+<scope>SUBUNIT (NON-STRUCTURAL PROTEIN 10)</scope>
+</reference>
+<reference key="58">
+<citation type="journal article" date="2007" name="J. Virol." volume="81" first="3151" last="3161">
+<title>Novel beta-barrel fold in the nuclear magnetic resonance structure of the replicase nonstructural protein 1 from the severe acute respiratory syndrome coronavirus.</title>
+<authorList>
+<person name="Almeida M.S."/>
+<person name="Johnson M.A."/>
+<person name="Herrmann T."/>
+<person name="Geralt M."/>
+<person name="Wuthrich K."/>
+</authorList>
+<dbReference type="PubMed" id="17202208"/>
+<dbReference type="DOI" id="10.1128/JVI.01939-06"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 13-127</scope>
+</reference>
+<reference key="59">
+<citation type="submission" date="2007-07" db="PDB data bank">
+<title>Crystal structure of Sars coronavirus main proteinase(3CLPRO).</title>
+<authorList>
+<consortium name="RIKEN structural genomics initiative (RSGI)"/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 3241-3546</scope>
+</reference>
+<comment type="function">
+<text>Replicase polyprotein 1ab: Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.</text>
+</comment>
+<comment type="function">
+<text evidence="27">Host translation inhibitor nsp1: Inhibits host translation by interacting with the 40S ribosomal subunit. The nsp1-40S ribosome complex further induces an endonucleolytic cleavage near the 5'UTR of host mRNAs, targeting them for degradation. Viral mRNAs are not susceptible to nsp1-mediated endonucleolytic RNA cleavage thanks to the presence of a 5'-end leader sequence and are therefore protected from degradation. By suppressing host gene expression, nsp1 facilitates efficient viral gene expression in infected cells and evasion from host immune response.</text>
+</comment>
+<comment type="function">
+<text evidence="19">Non-structural protein 2: May play a role in the modulation of host cell survival signaling pathway by interacting with host PHB and PHB2. Indeed, these two proteins play a role in maintaining the functional integrity of the mitochondria and protecting cells from various stresses.</text>
+</comment>
+<comment type="function">
+<text evidence="13 18">Papain-like proteinase: Responsible for the cleavages located at the N-terminus of the replicase polyprotein. In addition, PL-PRO possesses a deubiquitinating/deISGylating activity and processes both 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains from cellular substrates. Participates together with nsp4 in the assembly of virally-induced cytoplasmic double-membrane vesicles necessary for viral replication. Antagonizes innate immune induction of type I interferon by blocking the phosphorylation, dimerization and subsequent nuclear translocation of host IRF3. Prevents also host NF-kappa-B signaling.</text>
+</comment>
+<comment type="function">
+<text evidence="28">Non-structural protein 4: Participates in the assembly of virally-induced cytoplasmic double-membrane vesicles necessary for viral replication.</text>
+</comment>
+<comment type="function">
+<text evidence="6 10">Proteinase 3CL-PRO: Ccleaves the C-terminus of replicase polyprotein at 11 sites. Recognizes substrates containing the core sequence [ILMVF]-Q-|-[SGACN]. Also able to bind an ADP-ribose-1''-phosphate (ADRP).</text>
+</comment>
+<comment type="function">
+<text evidence="29">Non-structural protein 6: Plays a role in the initial induction of autophagosomes from host reticulum endoplasmic. Later, limits the expansion of these phagosomes that are no longer able to deliver viral components to lysosomes.</text>
+</comment>
+<comment type="function">
+<text evidence="23">Non-structural protein 7: Forms an hexadecamer with nsp8 (8 subunits of each) that may participate in viral replication by acting as a primase. Alternatively, may synthesize substantially longer products than oligonucleotide primers.</text>
+</comment>
+<comment type="function">
+<text evidence="23">Non-structural protein 8: Forms an hexadecamer with nsp7 (8 subunits of each) that may participate in viral replication by acting as a primase. Alternatively, may synthesize substantially longer products than oligonucleotide primers.</text>
+</comment>
+<comment type="function">
+<text evidence="17">Non-structural protein 9: May participate in viral replication by acting as a ssRNA-binding protein.</text>
+</comment>
+<comment type="function">
+<text evidence="25">Non-structural protein 10: Plays a pivotal role in viral transcription by stimulating both nsp14 3'-5' exoribonuclease and nsp16 2'-O-methyltransferase activities. Therefore plays an essential role in viral mRNAs cap methylation.</text>
+</comment>
+<comment type="function">
+<text evidence="26">RNA-directed RNA polymerase: Responsible for replication and transcription of the viral RNA genome.</text>
+</comment>
+<comment type="function">
+<text evidence="7 24">Helicase: Multi-functional protein with a zinc-binding domain in N-terminus displaying RNA and DNA duplex-unwinding activities with 5' to 3' polarity. Activity of helicase is dependent on magnesium.</text>
+</comment>
+<comment type="function">
+<text evidence="11 20 25">Guanine-N7 methyltransferase: Enzyme possessing two different activities: an exoribonuclease activity acting on both ssRNA and dsRNA in a 3' to 5' direction and a N7-guanine methyltransferase activity.</text>
+</comment>
+<comment type="function">
+<text>Uridylate-specific endoribonuclease: Mn(2+)-dependent, uridylate-specific enzyme, which leaves 2'-3'-cyclic phosphates 5' to the cleaved bond.</text>
+</comment>
+<comment type="function">
+<text evidence="15 20 30">2'-O-methyltransferase: Methyltransferase that mediates mRNA cap 2'-O-ribose methylation to the 5'-cap structure of viral mRNAs. N7-methyl guanosine cap is a prerequisite for binding of nsp16. Therefore plays an essential role in viral mRNAs cap methylation which is essential to evade immune system.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="5 8">Nucleoside triphosphate + RNA(n) = diphosphate + RNA(n+1).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="8">ATP + H(2)O = ADP + phosphate.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="8">TSAVLQ-|-SGFRK-NH(2) and SGVTFQ-|-GKFKK the two peptides corresponding to the two self-cleavage sites of the SARS 3C-like proteinase are the two most reactive peptide substrates. The enzyme exhibits a strong preference for substrates containing Gln at P1 position and Leu at P2 position.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="8">Thiol-dependent hydrolysis of ester, thioester, amide, peptide and isopeptide bonds formed by the C-terminal Gly of ubiquitin (a 76-residue protein attached to proteins as an intracellular targeting signal).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="8">1.15 mM for peptide TSAVLQ/SGFRK-NH(2)</KM>
+<KM evidence="8">0.58 mM for peptide SGVTFQ/GKFKK</KM>
+<KM evidence="8">1.44 mM for peptide ATVRLQ/AGNAT</KM>
+<text>The kinetic parameters are studied for the 3C-like proteinase domain. The cleavage takes place at the /.</text>
+</kinetics>
+<phDependence evidence="8">Optimum pH is 7.0 for 3C-like proteinase activity.</phDependence>
+</comment>
+<comment type="subunit">
+<text evidence="8 9 12 16 19 21 22 25">Nsp2 interacts with host PHB and PHB2. 3CL-PRO exists as monomer and homodimer. Nsp4 interacts with PL-PRO and nsp6. Only the homodimer shows catalytic activity. Eight copies of nsp7 and eight copies of nsp8 assemble to form a heterohexadecamer dsRNA-encircling ring structure. Nsp9 is a dimer. Nsp10 forms a dodecamer and interacts with nsp14 and nsp16; these interactions enhance nsp14 and nsp16 enzymatic activities. Nsp14 interacts (via N-terminus) with DDX1.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Papain-like proteinase</molecule>
+<subcellularLocation>
+<location>Host membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="28">Host cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Non-structural protein 4</molecule>
+<subcellularLocation>
+<location>Host membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location>Host cytoplasm</location>
+</subcellularLocation>
+<text evidence="14 22 28">Localizes in virally-induced cytoplasmic double-membrane vesicles.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Non-structural protein 6</molecule>
+<subcellularLocation>
+<location evidence="30">Host membrane</location>
+<topology evidence="30">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Non-structural protein 7</molecule>
+<subcellularLocation>
+<location evidence="1">Host cytoplasm</location>
+<location evidence="1">Host perinuclear region</location>
+</subcellularLocation>
+<text evidence="1">nsp7, nsp8, nsp9 and nsp10 are localized in cytoplasmic foci, largely perinuclear. Late in infection, they merge into confluent complexes (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Non-structural protein 8</molecule>
+<subcellularLocation>
+<location evidence="1">Host cytoplasm</location>
+<location evidence="1">Host perinuclear region</location>
+</subcellularLocation>
+<text evidence="1">nsp7, nsp8, nsp9 and nsp10 are localized in cytoplasmic foci, largely perinuclear. Late in infection, they merge into confluent complexes (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Non-structural protein 9</molecule>
+<subcellularLocation>
+<location evidence="1">Host cytoplasm</location>
+<location evidence="1">Host perinuclear region</location>
+</subcellularLocation>
+<text evidence="1">nsp7, nsp8, nsp9 and nsp10 are localized in cytoplasmic foci, largely perinuclear. Late in infection, they merge into confluent complexes (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Non-structural protein 10</molecule>
+<subcellularLocation>
+<location evidence="1">Host cytoplasm</location>
+<location evidence="1">Host perinuclear region</location>
+</subcellularLocation>
+<text evidence="1">nsp7, nsp8, nsp9 and nsp10 are localized in cytoplasmic foci, largely perinuclear. Late in infection, they merge into confluent complexes (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Helicase</molecule>
+<subcellularLocation>
+<location evidence="30">Host endoplasmic reticulum-Golgi intermediate compartment</location>
+</subcellularLocation>
+<text evidence="1">The helicase interacts with the N protein in membranous complexes and colocalizes with sites of synthesis of new viral RNA.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Uridylate-specific endoribonuclease</molecule>
+<subcellularLocation>
+<location evidence="1">Host cytoplasm</location>
+<location evidence="1">Host perinuclear region</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="ribosomal frameshifting"/>
+<isoform>
+<id>P0C6X7-1</id>
+<name>Replicase polyprotein 1ab</name>
+<name>pp1ab</name>
+<sequence type="displayed"/>
+<note>Produced by -1 ribosomal frameshifting at the 1a-1b genes boundary.</note>
+</isoform>
+<isoform>
+<id>P0C6U8-1</id>
+<name>Replicase polyprotein 1a</name>
+<name>pp1a</name>
+<name>ORF1a polyprotein</name>
+<sequence type="external"/>
+<note>Produced by conventional translation.</note>
+</isoform>
+</comment>
+<comment type="domain">
+<text>The hydrophobic domains (HD) could mediate the membrane association of the replication complex and thereby alter the architecture of the host cell membrane.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Specific enzymatic cleavages in vivo by its own proteases yield mature proteins. 3CL-PRO and PL-PRO proteinases are autocatalytically processed (By similarity).</text>
+</comment>
+<comment type="similarity">
+<text evidence="30">Belongs to the coronaviruses polyprotein 1ab family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="30">Contains 1 (+)RNA virus helicase ATP-binding domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="30">Contains 1 (+)RNA virus helicase C-terminal domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="30">Contains 1 CV MBD (coronavirus metal-binding) domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Contains 1 Macro domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Contains 1 peptidase C16 domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Contains 1 peptidase C30 domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Contains 1 RdRp catalytic domain.</text>
+</comment>
+<comment type="caution">
+<text evidence="30">Isolates SZ3 and SZ16 have been isolated from Paguma larvata and are described as SARS-like in literature.</text>
+</comment>
+<comment type="sequence caution" evidence="30">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="AAP13440" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="30">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="AAP41036" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="30">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="AAP82975" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="30">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="AAP97881" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="30">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="AAQ01596" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="30">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="AAQ01608" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="3.4.19.12"/>
+<dbReference type="EC" id="3.4.22.69"/>
+<dbReference type="EC" id="3.4.22.-"/>
+<dbReference type="EC" id="2.7.7.48"/>
+<dbReference type="EC" id="3.6.4.12"/>
+<dbReference type="EC" id="3.6.4.13"/>
+<dbReference type="EC" id="2.1.1.-"/>
+<dbReference type="EC" id="3.1.13.-"/>
+<dbReference type="EC" id="3.1.-.-"/>
+<dbReference type="EMBL" id="AY278741">
+<property type="protein sequence ID" value="AAP13442.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY278741">
+<property type="protein sequence ID" value="AAP13440.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY274119">
+<property type="protein sequence ID" value="AAP41036.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY278554">
+<property type="protein sequence ID" value="AAP13566.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY282752">
+<property type="protein sequence ID" value="AAP30711.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY304495">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY304486">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY304488">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY278491">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY283794">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY283795">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY283796">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY283797">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY283798">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY286320">
+<property type="protein sequence ID" value="AAP49011.4"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY278488">
+<property type="protein sequence ID" value="AAP30028.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY278489">
+<property type="protein sequence ID" value="AAP51225.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY278490">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY279354">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY291451">
+<property type="protein sequence ID" value="AAP37015.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY310120">
+<property type="protein sequence ID" value="AAP50483.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY291315">
+<property type="protein sequence ID" value="AAP33696.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY323977">
+<property type="protein sequence ID" value="AAP72973.2"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY321118">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY338174">
+<property type="protein sequence ID" value="AAQ01594.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY338174">
+<property type="protein sequence ID" value="AAQ01596.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY338175">
+<property type="protein sequence ID" value="AAQ01606.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY338175">
+<property type="protein sequence ID" value="AAQ01608.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY348314">
+<property type="protein sequence ID" value="AAP97879.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY348314">
+<property type="protein sequence ID" value="AAP97881.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP006557">
+<property type="protein sequence ID" value="BAC81346.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP006558">
+<property type="protein sequence ID" value="BAC81360.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP006559">
+<property type="protein sequence ID" value="BAC81374.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP006560">
+<property type="protein sequence ID" value="BAC81388.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP006561">
+<property type="protein sequence ID" value="BAC81402.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY427439">
+<property type="protein sequence ID" value="AAQ94058.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY322205">
+<property type="protein sequence ID" value="AAP82966.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY322206">
+<property type="protein sequence ID" value="AAP82975.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY322207">
+<property type="protein sequence ID" value="AAP82967.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY463059">
+<property type="protein sequence ID" value="AAP82978.2"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY269391">
+<property type="protein sequence ID" value="AAP04003.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY268049">
+<property type="protein sequence ID" value="AAP04587.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_828849.2">
+<molecule id="P0C6X7-1"/>
+<property type="nucleotide sequence ID" value="NC_004718.3"/>
+</dbReference>
+<dbReference type="PDB" id="1O5S">
+<property type="method" value="Model"/>
+<property type="chains" value="A=4745-5301"/>
+</dbReference>
+<dbReference type="PDB" id="1P76">
+<property type="method" value="Model"/>
+<property type="chains" value="A=3241-3541, B=4225-4231"/>
+</dbReference>
+<dbReference type="PDB" id="1P9T">
+<property type="method" value="Model"/>
+<property type="chains" value="A=3241-3544"/>
+</dbReference>
+<dbReference type="PDB" id="1PA5">
+<property type="method" value="Model"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="1PUK">
+<property type="method" value="Model"/>
+<property type="chains" value="A=3241-3550"/>
+</dbReference>
+<dbReference type="PDB" id="1Q1X">
+<property type="method" value="Model"/>
+<property type="chains" value="A=3241-3542"/>
+</dbReference>
+<dbReference type="PDB" id="1Q2W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A/B=3241-3544"/>
+</dbReference>
+<dbReference type="PDB" id="1QZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=4118-4230"/>
+</dbReference>
+<dbReference type="PDB" id="1SXF">
+<property type="method" value="Model"/>
+<property type="chains" value="A=4765-5244"/>
+</dbReference>
+<dbReference type="PDB" id="1UJ1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="1UK2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="1UK3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="1UK4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="1UW7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=4118-4230"/>
+</dbReference>
+<dbReference type="PDB" id="1WOF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="1YSY">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=3837-3919"/>
+</dbReference>
+<dbReference type="PDB" id="1Z1I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="1Z1J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2A5A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.08"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2A5I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.88"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2A5K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2ACF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B/C/D=1002-1176"/>
+</dbReference>
+<dbReference type="PDB" id="2AHM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D=3837-3919, E/F/G/H=3920-4117"/>
+</dbReference>
+<dbReference type="PDB" id="2AJ5">
+<property type="method" value="Model"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2ALV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=3241-3543"/>
+</dbReference>
+<dbReference type="PDB" id="2AMD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2AMQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2BX3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2BX4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.79"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2C3S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2D2D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2DUC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2FAV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B/C=1000-1173"/>
+</dbReference>
+<dbReference type="PDB" id="2FE8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B/C=1541-1854"/>
+</dbReference>
+<dbReference type="PDB" id="2FYG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=4240-4362"/>
+</dbReference>
+<dbReference type="PDB" id="2G1F">
+<property type="method" value="Model"/>
+<property type="chains" value="A/B=5302-5877"/>
+</dbReference>
+<dbReference type="PDB" id="2G9T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X=4231-4378"/>
+</dbReference>
+<dbReference type="PDB" id="2GA6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X=4231-4378"/>
+</dbReference>
+<dbReference type="PDB" id="2GDT">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=13-127"/>
+</dbReference>
+<dbReference type="PDB" id="2GRI">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=819-930"/>
+</dbReference>
+<dbReference type="PDB" id="2GT7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.82"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2GT8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2GTB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2GX4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.93"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2GZ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2GZ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2GZ9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.17"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2H2Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2H85">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=6429-6774"/>
+</dbReference>
+<dbReference type="PDB" id="2HOB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2HSX">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=13-127"/>
+</dbReference>
+<dbReference type="PDB" id="2IDY">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=819-930"/>
+</dbReference>
+<dbReference type="PDB" id="2JZD">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1345-1469"/>
+</dbReference>
+<dbReference type="PDB" id="2JZE">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1345-1469"/>
+</dbReference>
+<dbReference type="PDB" id="2JZF">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1331-1469"/>
+</dbReference>
+<dbReference type="PDB" id="2K87">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1884-1998"/>
+</dbReference>
+<dbReference type="PDB" id="2OP9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=3241-3541"/>
+</dbReference>
+<dbReference type="PDB" id="2OZK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B/C/D=6430-6775"/>
+</dbReference>
+<dbReference type="PDB" id="2PWX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Q6G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2QC2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2QCY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2QIQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=3242-3541"/>
+</dbReference>
+<dbReference type="PDB" id="2RHB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D/E/F=6430-6775"/>
+</dbReference>
+<dbReference type="PDB" id="2RNK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1331-1469"/>
+</dbReference>
+<dbReference type="PDB" id="2V6N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2VJ1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=3242-3544"/>
+</dbReference>
+<dbReference type="PDB" id="2XYQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=6776-7065, B=4240-4361"/>
+</dbReference>
+<dbReference type="PDB" id="2XYR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=6776-7067, B=4240-4361"/>
+</dbReference>
+<dbReference type="PDB" id="2XYV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.06"/>
+<property type="chains" value="A=6776-7067, B=4240-4361"/>
+</dbReference>
+<dbReference type="PDB" id="2YY4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=3241-3556"/>
+</dbReference>
+<dbReference type="PDB" id="2Z3C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.79"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Z3D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Z3E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.32"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Z94">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Z9G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Z9J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Z9K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="2Z9L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=3241-3546"/>
+</dbReference>
+<dbReference type="PDB" id="3D62">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=3243-3541"/>
+</dbReference>
+<dbReference type="PDB" id="3E9S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1541-1855"/>
+</dbReference>
+<dbReference type="PDB" id="3EBN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D=3429-3546"/>
+</dbReference>
+<dbReference type="PDB" id="3R24">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=6776-7073, B=4240-4382"/>
+</dbReference>
+<dbReference type="PDBsum" id="1O5S"/>
+<dbReference type="PDBsum" id="1P76"/>
+<dbReference type="PDBsum" id="1P9T"/>
+<dbReference type="PDBsum" id="1PA5"/>
+<dbReference type="PDBsum" id="1PUK"/>
+<dbReference type="PDBsum" id="1Q1X"/>
+<dbReference type="PDBsum" id="1Q2W"/>
+<dbReference type="PDBsum" id="1QZ8"/>
+<dbReference type="PDBsum" id="1SXF"/>
+<dbReference type="PDBsum" id="1UJ1"/>
+<dbReference type="PDBsum" id="1UK2"/>
+<dbReference type="PDBsum" id="1UK3"/>
+<dbReference type="PDBsum" id="1UK4"/>
+<dbReference type="PDBsum" id="1UW7"/>
+<dbReference type="PDBsum" id="1WOF"/>
+<dbReference type="PDBsum" id="1YSY"/>
+<dbReference type="PDBsum" id="1Z1I"/>
+<dbReference type="PDBsum" id="1Z1J"/>
+<dbReference type="PDBsum" id="2A5A"/>
+<dbReference type="PDBsum" id="2A5I"/>
+<dbReference type="PDBsum" id="2A5K"/>
+<dbReference type="PDBsum" id="2ACF"/>
+<dbReference type="PDBsum" id="2AHM"/>
+<dbReference type="PDBsum" id="2AJ5"/>
+<dbReference type="PDBsum" id="2ALV"/>
+<dbReference type="PDBsum" id="2AMD"/>
+<dbReference type="PDBsum" id="2AMQ"/>
+<dbReference type="PDBsum" id="2BX3"/>
+<dbReference type="PDBsum" id="2BX4"/>
+<dbReference type="PDBsum" id="2C3S"/>
+<dbReference type="PDBsum" id="2D2D"/>
+<dbReference type="PDBsum" id="2DUC"/>
+<dbReference type="PDBsum" id="2FAV"/>
+<dbReference type="PDBsum" id="2FE8"/>
+<dbReference type="PDBsum" id="2FYG"/>
+<dbReference type="PDBsum" id="2G1F"/>
+<dbReference type="PDBsum" id="2G9T"/>
+<dbReference type="PDBsum" id="2GA6"/>
+<dbReference type="PDBsum" id="2GDT"/>
+<dbReference type="PDBsum" id="2GRI"/>
+<dbReference type="PDBsum" id="2GT7"/>
+<dbReference type="PDBsum" id="2GT8"/>
+<dbReference type="PDBsum" id="2GTB"/>
+<dbReference type="PDBsum" id="2GX4"/>
+<dbReference type="PDBsum" id="2GZ7"/>
+<dbReference type="PDBsum" id="2GZ8"/>
+<dbReference type="PDBsum" id="2GZ9"/>
+<dbReference type="PDBsum" id="2H2Z"/>
+<dbReference type="PDBsum" id="2H85"/>
+<dbReference type="PDBsum" id="2HOB"/>
+<dbReference type="PDBsum" id="2HSX"/>
+<dbReference type="PDBsum" id="2IDY"/>
+<dbReference type="PDBsum" id="2JZD"/>
+<dbReference type="PDBsum" id="2JZE"/>
+<dbReference type="PDBsum" id="2JZF"/>
+<dbReference type="PDBsum" id="2K87"/>
+<dbReference type="PDBsum" id="2OP9"/>
+<dbReference type="PDBsum" id="2OZK"/>
+<dbReference type="PDBsum" id="2PWX"/>
+<dbReference type="PDBsum" id="2Q6G"/>
+<dbReference type="PDBsum" id="2QC2"/>
+<dbReference type="PDBsum" id="2QCY"/>
+<dbReference type="PDBsum" id="2QIQ"/>
+<dbReference type="PDBsum" id="2RHB"/>
+<dbReference type="PDBsum" id="2RNK"/>
+<dbReference type="PDBsum" id="2V6N"/>
+<dbReference type="PDBsum" id="2VJ1"/>
+<dbReference type="PDBsum" id="2XYQ"/>
+<dbReference type="PDBsum" id="2XYR"/>
+<dbReference type="PDBsum" id="2XYV"/>
+<dbReference type="PDBsum" id="2YY4"/>
+<dbReference type="PDBsum" id="2Z3C"/>
+<dbReference type="PDBsum" id="2Z3D"/>
+<dbReference type="PDBsum" id="2Z3E"/>
+<dbReference type="PDBsum" id="2Z94"/>
+<dbReference type="PDBsum" id="2Z9G"/>
+<dbReference type="PDBsum" id="2Z9J"/>
+<dbReference type="PDBsum" id="2Z9K"/>
+<dbReference type="PDBsum" id="2Z9L"/>
+<dbReference type="PDBsum" id="3D62"/>
+<dbReference type="PDBsum" id="3E9S"/>
+<dbReference type="PDBsum" id="3EBN"/>
+<dbReference type="PDBsum" id="3R24"/>
+<dbReference type="ProteinModelPortal" id="P0C6X7"/>
+<dbReference type="SMR" id="P0C6X7">
+<property type="residue range" value="13-127, 819-930, 1002-1176, 1331-1469, 1541-1854, 3241-3546, 3837-3910, 3921-4111, 4118-4230, 4240-4362, 6430-6773"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1487760"/>
+<dbReference type="BindingDB" id="P0C6X7"/>
+<dbReference type="ChEMBL" id="CHEMBL5118"/>
+<dbReference type="PRIDE" id="P0C6X7"/>
+<dbReference type="GeneID" id="1489680"/>
+<dbReference type="EvolutionaryTrace" id="P0C6X7"/>
+<dbReference type="GO" id="GO:0030430">
+<property type="term" value="C:host cell cytoplasm"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033644">
+<property type="term" value="C:host cell membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000175">
+<property type="term" value="F:3'-5'-exoribonuclease activity"/>
+<property type="evidence" value="IDA:CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004197">
+<property type="term" value="F:cysteine-type endopeptidase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004519">
+<property type="term" value="F:endonuclease activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004386">
+<property type="term" value="F:helicase activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990380">
+<property type="term" value="F:Lys48-specific deubiquitinase activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008168">
+<property type="term" value="F:methyltransferase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004482">
+<property type="term" value="F:mRNA (guanine-N7-)-methyltransferase activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004483">
+<property type="term" value="F:mRNA (nucleoside-2'-O-)-methyltransferase activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008242">
+<property type="term" value="F:omega peptidase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003968">
+<property type="term" value="F:RNA-directed RNA polymerase activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003727">
+<property type="term" value="F:single-stranded RNA binding"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006370">
+<property type="term" value="P:7-methylguanosine mRNA capping"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039595">
+<property type="term" value="P:induction by virus of catabolism of host mRNA"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039520">
+<property type="term" value="P:induction by virus of host autophagy"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008152">
+<property type="term" value="P:metabolic process"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039519">
+<property type="term" value="P:modulation by virus of host autophagy"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039648">
+<property type="term" value="P:modulation by virus of host protein ubiquitination"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080009">
+<property type="term" value="P:mRNA methylation"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000158">
+<property type="term" value="P:positive regulation of ubiquitin-specific protease activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071108">
+<property type="term" value="P:protein K48-linked deubiquitination"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036265">
+<property type="term" value="P:RNA (guanine-N7)-methylation"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090503">
+<property type="term" value="P:RNA phosphodiester bond hydrolysis, exonucleolytic"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039657">
+<property type="term" value="P:suppression by virus of host gene expression"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039549">
+<property type="term" value="P:suppression by virus of host IRF3 activity by inhibition of IRF3 phosphorylation"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039579">
+<property type="term" value="P:suppression by virus of host ISG15 activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039644">
+<property type="term" value="P:suppression by virus of host NF-kappaB transcription factor activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039604">
+<property type="term" value="P:suppression by virus of host translation"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039502">
+<property type="term" value="P:suppression by virus of host type I interferon-mediated signaling pathway"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001172">
+<property type="term" value="P:transcription, RNA-templated"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019082">
+<property type="term" value="P:viral protein processing"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039694">
+<property type="term" value="P:viral RNA genome replication"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019083">
+<property type="term" value="P:viral transcription"/>
+<property type="evidence" value="IMP:CACAO"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.300">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027351">
+<property type="entry name" value="(+)RNA_virus_helicase_core_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009461">
+<property type="entry name" value="Coronavirus_NSP16"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027352">
+<property type="entry name" value="CV_MBD_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002589">
+<property type="entry name" value="Macro_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021590">
+<property type="entry name" value="NSP1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009466">
+<property type="entry name" value="NSP11"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024375">
+<property type="entry name" value="Nsp3_coronavir"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014828">
+<property type="entry name" value="NSP7"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014829">
+<property type="entry name" value="NSP8"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014822">
+<property type="entry name" value="NSP9"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008740">
+<property type="entry name" value="Peptidase_C30"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013016">
+<property type="entry name" value="Peptidase_C30/C16"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001205">
+<property type="entry name" value="RNA-dir_pol_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007094">
+<property type="entry name" value="RNA-dir_pol_PSvirus"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009469">
+<property type="entry name" value="RNA_pol_N_coronovir"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018995">
+<property type="entry name" value="RNA_synth_NSP10_coronavirus"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029063">
+<property type="entry name" value="SAM-dependent_MTases-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024358">
+<property type="entry name" value="SARS-CoV_Nsp3_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022733">
+<property type="entry name" value="SARS_polyprot_cleavage"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009003">
+<property type="entry name" value="Trypsin-like_Pept_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014827">
+<property type="entry name" value="Viral_protease"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06478">
+<property type="entry name" value="Corona_RPol_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12379">
+<property type="entry name" value="DUF3655"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01661">
+<property type="entry name" value="Macro"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11501">
+<property type="entry name" value="Nsp1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09401">
+<property type="entry name" value="NSP10"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06471">
+<property type="entry name" value="NSP11"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06460">
+<property type="entry name" value="NSP13"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12124">
+<property type="entry name" value="Nsp3_PL2pro"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08716">
+<property type="entry name" value="nsp7"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08717">
+<property type="entry name" value="nsp8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08710">
+<property type="entry name" value="nsp9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05409">
+<property type="entry name" value="Peptidase_C30"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00680">
+<property type="entry name" value="RdRP_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11633">
+<property type="entry name" value="SUD-M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01443">
+<property type="entry name" value="Viral_helicase1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08715">
+<property type="entry name" value="Viral_protease"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF101816">
+<property type="entry name" value="SSF101816"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF144246">
+<property type="entry name" value="SSF144246"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50494">
+<property type="entry name" value="SSF50494"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53335">
+<property type="entry name" value="SSF53335"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51653">
+<property type="entry name" value="CV_MBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51442">
+<property type="entry name" value="M_PRO"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51154">
+<property type="entry name" value="MACRO"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51124">
+<property type="entry name" value="PEPTIDASE_C16"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51657">
+<property type="entry name" value="PSRV_HELICASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50507">
+<property type="entry name" value="RDRP_SSRNA_POS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-1072">Activation of host autophagy by virus</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1132">Decay of host mRNAs by virus</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-1262">Eukaryotic host gene expression shutoff by virus</keyword>
+<keyword id="KW-1193">Eukaryotic host translation shutoff by virus</keyword>
+<keyword id="KW-0269">Exonuclease</keyword>
+<keyword id="KW-0347">Helicase</keyword>
+<keyword id="KW-1035">Host cytoplasm</keyword>
+<keyword id="KW-1190">Host gene expression shutoff by virus</keyword>
+<keyword id="KW-1043">Host membrane</keyword>
+<keyword id="KW-1192">Host mRNA suppression by virus</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1090">Inhibition of host innate immune response by virus</keyword>
+<keyword id="KW-1114">Inhibition of host interferon signaling pathway by virus</keyword>
+<keyword id="KW-1095">Inhibition of host ISG15 by virus</keyword>
+<keyword id="KW-1100">Inhibition of host NF-kappa-B by virus</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1127">Modulation of host ubiquitin pathway by viral deubiquitinase</keyword>
+<keyword id="KW-1130">Modulation of host ubiquitin pathway by virus</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0688">Ribosomal frameshifting</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0696">RNA-directed RNA polymerase</keyword>
+<keyword id="KW-0788">Thiol protease</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0833">Ubl conjugation pathway</keyword>
+<keyword id="KW-0899">Viral immunoevasion</keyword>
+<keyword id="KW-0693">Viral RNA replication</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="Host translation inhibitor nsp1" id="PRO_0000037309" evidence="1">
+<location>
+<begin position="1"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="chain" description="Non-structural protein 2" id="PRO_0000037310" evidence="1">
+<location>
+<begin position="181"/>
+<end position="818"/>
+</location>
+</feature>
+<feature type="chain" description="Papain-like proteinase" id="PRO_0000037311" evidence="1">
+<location>
+<begin position="819"/>
+<end position="2740"/>
+</location>
+</feature>
+<feature type="chain" description="Non-structural protein 4" id="PRO_0000283841" evidence="2">
+<location>
+<begin position="2741"/>
+<end position="3240"/>
+</location>
+</feature>
+<feature type="chain" description="3C-like proteinase" id="PRO_0000037312" evidence="1">
+<location>
+<begin position="3241"/>
+<end position="3546"/>
+</location>
+</feature>
+<feature type="chain" description="Non-structural protein 6" id="PRO_0000037313" evidence="1">
+<location>
+<begin position="3547"/>
+<end position="3836"/>
+</location>
+</feature>
+<feature type="chain" description="Non-structural protein 7" id="PRO_0000037314" evidence="1">
+<location>
+<begin position="3837"/>
+<end position="3919"/>
+</location>
+</feature>
+<feature type="chain" description="Non-structural protein 8" id="PRO_0000037315" evidence="1">
+<location>
+<begin position="3920"/>
+<end position="4117"/>
+</location>
+</feature>
+<feature type="chain" description="Non-structural protein 9" id="PRO_0000037316" evidence="1">
+<location>
+<begin position="4118"/>
+<end position="4230"/>
+</location>
+</feature>
+<feature type="chain" description="Non-structural protein 10" id="PRO_0000037317" evidence="1">
+<location>
+<begin position="4231"/>
+<end position="4369"/>
+</location>
+</feature>
+<feature type="chain" description="RNA-directed RNA polymerase" id="PRO_0000037318" evidence="1">
+<location>
+<begin position="4370"/>
+<end position="5301"/>
+</location>
+</feature>
+<feature type="chain" description="Helicase" id="PRO_0000037319" evidence="1">
+<location>
+<begin position="5302"/>
+<end position="5902"/>
+</location>
+</feature>
+<feature type="chain" description="Guanine-N7 methyltransferase" id="PRO_0000037320" evidence="1">
+<location>
+<begin position="5903"/>
+<end position="6429"/>
+</location>
+</feature>
+<feature type="chain" description="Uridylate-specific endoribonuclease" id="PRO_0000037321" evidence="1">
+<location>
+<begin position="6430"/>
+<end position="6775"/>
+</location>
+</feature>
+<feature type="chain" description="2'-O-methyltransferase" id="PRO_0000037322" evidence="1">
+<location>
+<begin position="6776"/>
+<end position="7073"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2092"/>
+<end position="2112"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2203"/>
+<end position="2223"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2304"/>
+<end position="2324"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2326"/>
+<end position="2346"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2351"/>
+<end position="2371"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2755"/>
+<end position="2775"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2830"/>
+<end position="2850"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2879"/>
+<end position="2899"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="2992"/>
+<end position="3012"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3022"/>
+<end position="3042"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3054"/>
+<end position="3074"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3077"/>
+<end position="3097"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3105"/>
+<end position="3125"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3142"/>
+<end position="3162"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3564"/>
+<end position="3584"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3586"/>
+<end position="3606"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3612"/>
+<end position="3632"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3658"/>
+<end position="3678"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3707"/>
+<end position="3727"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3728"/>
+<end position="3748"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="3756"/>
+<end position="3776"/>
+</location>
+</feature>
+<feature type="domain" description="Macro" evidence="4">
+<location>
+<begin position="1003"/>
+<end position="1169"/>
+</location>
+</feature>
+<feature type="domain" description="Peptidase C16" evidence="3">
+<location>
+<begin position="1611"/>
+<end position="1875"/>
+</location>
+</feature>
+<feature type="domain" description="Peptidase C30" evidence="6">
+<location>
+<begin position="3241"/>
+<end position="3546"/>
+</location>
+</feature>
+<feature type="domain" description="RdRp catalytic" evidence="5">
+<location>
+<begin position="4981"/>
+<end position="5143"/>
+</location>
+</feature>
+<feature type="domain" description="CV MBD">
+<location>
+<begin position="5302"/>
+<end position="5385"/>
+</location>
+</feature>
+<feature type="domain" description="(+)RNA virus helicase ATP-binding">
+<location>
+<begin position="5558"/>
+<end position="5739"/>
+</location>
+</feature>
+<feature type="domain" description="(+)RNA virus helicase C-terminal">
+<location>
+<begin position="5740"/>
+<end position="5909"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C4-type" evidence="3">
+<location>
+<begin position="1729"/>
+<end position="1766"/>
+</location>
+</feature>
+<feature type="zinc finger region">
+<location>
+<begin position="4304"/>
+<end position="4320"/>
+</location>
+</feature>
+<feature type="zinc finger region">
+<location>
+<begin position="4347"/>
+<end position="4360"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1">
+<location>
+<begin position="5583"/>
+<end position="5590"/>
+</location>
+</feature>
+<feature type="region of interest" description="HD1">
+<location>
+<begin position="2092"/>
+<end position="2371"/>
+</location>
+</feature>
+<feature type="region of interest" description="HD2">
+<location>
+<begin position="2755"/>
+<end position="3162"/>
+</location>
+</feature>
+<feature type="region of interest" description="HD3">
+<location>
+<begin position="3564"/>
+<end position="3776"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Glu-rich">
+<location>
+<begin position="930"/>
+<end position="1001"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Leu">
+<location>
+<begin position="2210"/>
+<end position="2213"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Cys">
+<location>
+<begin position="3766"/>
+<end position="3769"/>
+</location>
+</feature>
+<feature type="active site" description="For PL-PRO activity" evidence="3">
+<location>
+<position position="1651"/>
+</location>
+</feature>
+<feature type="active site" description="For PL-PRO activity" evidence="3">
+<location>
+<position position="1812"/>
+</location>
+</feature>
+<feature type="active site" description="For 3CL-PRO activity" evidence="6">
+<location>
+<position position="3281"/>
+</location>
+</feature>
+<feature type="active site" description="For 3CL-PRO activity" evidence="6">
+<location>
+<position position="3385"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="4304"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="4307"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="4313"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="4320"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="4347"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="4350"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="4358"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage" evidence="1">
+<location>
+<begin position="180"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by PL-PRO" evidence="1">
+<location>
+<begin position="818"/>
+<end position="819"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by PL-PRO" evidence="1">
+<location>
+<begin position="2740"/>
+<end position="2741"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="3240"/>
+<end position="3241"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="3546"/>
+<end position="3547"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="3836"/>
+<end position="3837"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="3919"/>
+<end position="3920"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="4117"/>
+<end position="4118"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="4230"/>
+<end position="4231"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="4369"/>
+<end position="4370"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="5301"/>
+<end position="5302"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="5902"/>
+<end position="5903"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="6429"/>
+<end position="6430"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by 3CL-PRO" evidence="1">
+<location>
+<begin position="6775"/>
+<end position="6776"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>G</original>
+<variation>C</variation>
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ16.">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai LY.">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="225"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai LY.">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="249"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ04.">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="306"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3.">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="549"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate FRA and Isolate Frankfurt-1.">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="765"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ16.">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="852"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ03.">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="1004"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3 and Isolate SZ16.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="1021"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="1023"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01, Isolate SZ3 and Isolate SZ16.">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="1121"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3 and Isolate SZ16.">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="1136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="1257"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="1319"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="1329"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="1361"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="1385"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="1538"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ02.">
+<original>M</original>
+<variation>K</variation>
+<location>
+<position position="1563"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3 and Isolate SZ16.">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="1663"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ03.">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="1762"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ03.">
+<original>QQ</original>
+<variation>PP</variation>
+<location>
+<begin position="1776"/>
+<end position="1777"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="1790"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ02.">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="1806"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ04.">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="1962"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01, Isolate SZ3 and Isolate SZ16.">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="2116"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01, Isolate SZ3 and Isolate SZ16.">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="2222"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3 and Isolate SZ16.">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="2269"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="2326"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>RNR</original>
+<variation>CNH</variation>
+<location>
+<begin position="2392"/>
+<end position="2394"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2480"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Urbani and Isolate Taiwan TC2.">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="2552"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate HKU-39849.">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="2556"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="2564"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>N</original>
+<variation>Y</variation>
+<location>
+<position position="2648"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate HKU-39849.">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="2708"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate HKU-39849.">
+<original>R</original>
+<variation>T</variation>
+<location>
+<position position="2718"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3 and Isolate SZ16.">
+<original>C</original>
+<variation>W</variation>
+<location>
+<position position="2746"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ01 and Isolate BJ02.">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="2770"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SIN2500, Isolate GD01 and Isolate GZ50.">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="2944"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01 and Isolate SZ16.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="2971"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="3020"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate CUHK-W1, Isolate GD01, Isolate SZ3, Isolate SZ16, Isolate BJ01, Isolate BJ02, Isolate BJ03 and Isolate Shanghai QXC1.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="3047"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate CUHK-W1, Isolate SZ3, Isolate SZ16 and Isolate GD01.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="3072"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ01, Isolate BJ02, Isolate BJ03, Isolate BJ04 and Isolate Shanghai QXC1.">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="3197"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ02.">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="3429"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ04.">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="3488"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="3717"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ04.">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="3818"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ03.">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="3903"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ02.">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="3904"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="3911"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai LY.">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="4001"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai LY.">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="4003"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate ZJ01.">
+<original>I</original>
+<variation>H</variation>
+<location>
+<position position="4085"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="4114"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="4202"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate ZJ01.">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="4240"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="4296"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>LN</original>
+<variation>FK</variation>
+<location>
+<begin position="4377"/>
+<end position="4378"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate HKU-39849.">
+<original>V</original>
+<variation>S</variation>
+<location>
+<position position="4411"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="4459"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate ZJ01.">
+<original>V</original>
+<variation>E</variation>
+<location>
+<position position="4592"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate ZJ01.">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="4910"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3.">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="5112"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Taiwan.">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="5131"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Taiwan.">
+<original>CY</original>
+<variation>VL</variation>
+<location>
+<begin position="5134"/>
+<end position="5135"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="5623"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GZ50 and Isolate SIN2500.">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="5720"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate ZJ01.">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="5744"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate CUHK-W1, Isolate BJ01, Isolate BJ02, Isolate BJ03, Isolate BJ04, Isolate SIN2500, Isolate GD01, Isolate GZ50, Isolate SZ3, Isolate SZ16 and Isolate Shanghai QXC1.">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="5767"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate FRA, Isolate Frankfurt-1 Isolate SIN2677, Isolate SIN2679 and Isolate SIN2748.">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="6274"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="6474"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ03.">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="6700"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate Shanghai QXC1.">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="6721"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="6729"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ02.">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="6840"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ04.">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="6862"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="6877"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate SZ3 and Isolate SZ16.">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="6910"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ03.">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="6937"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ04.">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="6992"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate GD01.">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="7008"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate BJ04.">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="7024"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of nsp9 dimerization." evidence="17">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="4217"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of nsp9 dimerization." evidence="17">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="4221"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="14"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="23"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="35"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="51"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="61"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="68"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="87"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="95"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="99"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="105"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="116"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="827"/>
+<end position="829"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="831"/>
+<end position="833"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="839"/>
+<end position="841"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="848"/>
+<end position="851"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="852"/>
+<end position="856"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="860"/>
+<end position="862"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="869"/>
+<end position="871"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="872"/>
+<end position="882"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="888"/>
+<end position="894"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="898"/>
+<end position="901"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="907"/>
+<end position="909"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="911"/>
+<end position="915"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="918"/>
+<end position="920"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="922"/>
+<end position="926"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1013"/>
+<end position="1021"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1023"/>
+<end position="1030"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1033"/>
+<end position="1038"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1048"/>
+<end position="1056"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1057"/>
+<end position="1059"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1060"/>
+<end position="1072"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1080"/>
+<end position="1084"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1086"/>
+<end position="1088"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1090"/>
+<end position="1095"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1100"/>
+<end position="1102"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1108"/>
+<end position="1114"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1115"/>
+<end position="1118"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1119"/>
+<end position="1124"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1130"/>
+<end position="1132"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1136"/>
+<end position="1146"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1149"/>
+<end position="1156"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1158"/>
+<end position="1168"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1345"/>
+<end position="1347"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1351"/>
+<end position="1361"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1364"/>
+<end position="1368"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1372"/>
+<end position="1381"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1389"/>
+<end position="1401"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1407"/>
+<end position="1417"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1421"/>
+<end position="1424"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1426"/>
+<end position="1428"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1429"/>
+<end position="1431"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1435"/>
+<end position="1442"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1449"/>
+<end position="1452"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1457"/>
+<end position="1467"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1544"/>
+<end position="1555"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1557"/>
+<end position="1562"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1567"/>
+<end position="1571"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1572"/>
+<end position="1576"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1588"/>
+<end position="1590"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1594"/>
+<end position="1597"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1602"/>
+<end position="1612"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1619"/>
+<end position="1630"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1651"/>
+<end position="1661"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1667"/>
+<end position="1669"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1670"/>
+<end position="1680"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1685"/>
+<end position="1694"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1705"/>
+<end position="1713"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1722"/>
+<end position="1728"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1730"/>
+<end position="1732"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1734"/>
+<end position="1740"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1742"/>
+<end position="1745"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1746"/>
+<end position="1749"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1753"/>
+<end position="1758"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1760"/>
+<end position="1763"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1765"/>
+<end position="1785"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1790"/>
+<end position="1793"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1799"/>
+<end position="1807"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1810"/>
+<end position="1826"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1829"/>
+<end position="1834"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1836"/>
+<end position="1846"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1904"/>
+<end position="1911"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1912"/>
+<end position="1921"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1929"/>
+<end position="1936"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1942"/>
+<end position="1948"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1949"/>
+<end position="1951"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1954"/>
+<end position="1956"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1963"/>
+<end position="1966"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1969"/>
+<end position="1971"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1977"/>
+<end position="1990"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3251"/>
+<end position="3254"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3257"/>
+<end position="3262"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3265"/>
+<end position="3272"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3275"/>
+<end position="3279"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3280"/>
+<end position="3283"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3288"/>
+<end position="3290"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3294"/>
+<end position="3299"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3303"/>
+<end position="3305"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3306"/>
+<end position="3310"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3313"/>
+<end position="3315"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3317"/>
+<end position="3323"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3326"/>
+<end position="3333"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3340"/>
+<end position="3343"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3351"/>
+<end position="3358"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3361"/>
+<end position="3369"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3379"/>
+<end position="3381"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3388"/>
+<end position="3393"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3396"/>
+<end position="3406"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="3408"/>
+<end position="3410"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3412"/>
+<end position="3415"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3421"/>
+<end position="3424"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3427"/>
+<end position="3430"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3441"/>
+<end position="3453"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="3458"/>
+<end position="3460"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3467"/>
+<end position="3476"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3477"/>
+<end position="3479"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3484"/>
+<end position="3489"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3491"/>
+<end position="3497"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3501"/>
+<end position="3514"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3516"/>
+<end position="3518"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3521"/>
+<end position="3523"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3524"/>
+<end position="3526"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3533"/>
+<end position="3539"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="3540"/>
+<end position="3542"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3837"/>
+<end position="3855"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3862"/>
+<end position="3876"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3878"/>
+<end position="3880"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3881"/>
+<end position="3905"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3906"/>
+<end position="3909"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="3910"/>
+<end position="3912"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3913"/>
+<end position="3916"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="3959"/>
+<end position="3963"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="3970"/>
+<end position="3972"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3973"/>
+<end position="3987"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3996"/>
+<end position="4017"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4020"/>
+<end position="4030"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4034"/>
+<end position="4037"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4046"/>
+<end position="4051"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4054"/>
+<end position="4060"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4065"/>
+<end position="4068"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4071"/>
+<end position="4079"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4088"/>
+<end position="4090"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="4093"/>
+<end position="4095"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4096"/>
+<end position="4098"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4103"/>
+<end position="4109"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4120"/>
+<end position="4125"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4127"/>
+<end position="4131"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4134"/>
+<end position="4137"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4145"/>
+<end position="4150"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4153"/>
+<end position="4155"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4157"/>
+<end position="4164"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4170"/>
+<end position="4174"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4181"/>
+<end position="4186"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4191"/>
+<end position="4194"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4201"/>
+<end position="4208"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4213"/>
+<end position="4222"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4224"/>
+<end position="4227"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4243"/>
+<end position="4248"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4250"/>
+<end position="4252"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4253"/>
+<end position="4262"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4284"/>
+<end position="4288"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4295"/>
+<end position="4300"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4301"/>
+<end position="4303"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4305"/>
+<end position="4308"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4314"/>
+<end position="4318"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="4325"/>
+<end position="4330"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4331"/>
+<end position="4333"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4337"/>
+<end position="4343"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="4348"/>
+<end position="4350"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="4354"/>
+<end position="4357"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6431"/>
+<end position="6441"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6453"/>
+<end position="6456"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6459"/>
+<end position="6464"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6467"/>
+<end position="6473"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6476"/>
+<end position="6478"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6480"/>
+<end position="6488"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6493"/>
+<end position="6495"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6498"/>
+<end position="6503"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6508"/>
+<end position="6513"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="6517"/>
+<end position="6520"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6521"/>
+<end position="6530"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="6532"/>
+<end position="6534"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6535"/>
+<end position="6539"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6543"/>
+<end position="6545"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6550"/>
+<end position="6553"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6559"/>
+<end position="6565"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6567"/>
+<end position="6575"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6589"/>
+<end position="6591"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6594"/>
+<end position="6596"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6599"/>
+<end position="6601"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6606"/>
+<end position="6611"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6614"/>
+<end position="6616"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6629"/>
+<end position="6631"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6637"/>
+<end position="6644"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6647"/>
+<end position="6653"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6661"/>
+<end position="6664"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6670"/>
+<end position="6673"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6677"/>
+<end position="6679"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6680"/>
+<end position="6689"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6692"/>
+<end position="6698"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6703"/>
+<end position="6711"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="6712"/>
+<end position="6714"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6717"/>
+<end position="6724"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6728"/>
+<end position="6736"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6741"/>
+<end position="6751"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6754"/>
+<end position="6763"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6766"/>
+<end position="6772"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6777"/>
+<end position="6780"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6781"/>
+<end position="6785"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6788"/>
+<end position="6791"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6817"/>
+<end position="6829"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6841"/>
+<end position="6846"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6855"/>
+<end position="6863"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6869"/>
+<end position="6876"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6881"/>
+<end position="6888"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6890"/>
+<end position="6892"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6893"/>
+<end position="6897"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6899"/>
+<end position="6904"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6924"/>
+<end position="6935"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6936"/>
+<end position="6946"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6948"/>
+<end position="6950"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6953"/>
+<end position="6959"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6962"/>
+<end position="6970"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6971"/>
+<end position="6973"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6979"/>
+<end position="6986"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="6996"/>
+<end position="7009"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="7017"/>
+<end position="7020"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="7033"/>
+<end position="7035"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="7039"/>
+<end position="7041"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="7044"/>
+<end position="7051"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="7055"/>
+<end position="7057"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="7065"/>
+<end position="7067"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00444"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00490"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00539"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00772"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12917423"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14561748"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16228002"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16271890"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16549795"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16873247"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17692280"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17855519"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18417574"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18827877"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19153232"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19369340"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19640993"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20421945"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20573827"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21345958"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22039154"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22615777"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22635272"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22791111"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23035226"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23943763"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24991833"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000305"/>
+<sequence length="7073" mass="790248" checksum="E6504CAFDC36BC09" modified="2008-06-10" version="1">
+MESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDSVEEALSEAREHLKNGTCGLVELEKGV
+LPQLEQPYVFIKRSDALSTNHGHKVVELVAEMDGIQYGRSGITLGVLVPHVGETPIAYRN
+VLLRKNGNKGAGGHSYGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGALRELTRELNGG
+AVTRYVDNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDYIESKRGVYCCRDHEHEIAW
+FTERSDKSYEHQTPFEIKSAKKFDTFKGECPKFVFPLNSKVKVIQPRVEKKKTEGFMGRI
+RSVYPVASPQECNNMHLSTLMKCNHCDEVSWQTCDFLKATCEHCGTENLVIEGPTTCGYL
+PTNAVVKMPCPACQDPEIGPEHSVADYHNHSNIETRLRKGGRTRCFGGCVFAYVGCYNKR
+AYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRERVNINIVGDFHLNEEVAIILASF
+SASTSAFIDTIKSLDYKSFKTIVESCGNYKVTKGKPVKGAWNIGQQRSVLTPLCGFPSQA
+AGVIRSIFARTLDAANHSIPDLQRAAVTILDGISEQSLRLVDAMVYTSDLLTNSVIIMAY
+VTGGLVQQTSQWLSNLLGTTVEKLRPIFEWIEAKLSAGVEFLKDAWEILKFLITGVFDIV
+KGQIQVASDNIKDCVKCFIDVVNKALEMCIDQVTIAGAKLRSLNLGEVFIAQSKGLYRQC
+IRGKEQLQLLMPLKAPKEVTFLEGDSHDTVLTSEEVVLKNGELEALETPVDSFTNGAIVG
+TPVCVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPIKGVTFGEDTVWEVQGYKNV
+RITFELDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPVSDLLTNMGIDLDE
+WSVATFYLFDDAGEENFSSRMYCSFYPPDEEEEDDAECEEEEIDETCEHEYGTEDDYQGL
+PLEFGASAETVRVEEEEEEDWLDDTTEQSEIEPEPEPTPEEPVNQFTGYLKLTDNVAIKC
+VDIVKEAQSANPMVIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGS
+CLLSGHNLAKKCLHVVGPNLNAGEDIQLLKAAYENFNSQDILLAPLLSAGIFGAKPLQSL
+QVCVQTVRTQVYIAVNDKALYEQVVMDYLDNLKPRVEAPKQEEPPNTEDSKTEEKSVVQK
+PVDVKPKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYHDSQNMLRGEDMSFLEKDAP
+YMVGDVITSGDITCVVIPSKKAGGTTEMLSRALKKVPVDEYITTYPGQGCAGYTLEEAKT
+ALKKCKSAFYVLPSEAPNAKEEILGTVSWNLREMLAHAEETRKLMPICMDVRAIMATIQR
+KYKGIKIQEGIVDYGVRFFFYTSKEPVASIITKLNSLNEPLVTMPIGYVTHGFNLEEAAR
+CMRSLKAPAVVSVSSPDAVTTYNGYLTSSSKTSEEHFVETVSLAGSYRDWSYSGQRTELG
+VEFLKRGDKIVYHTLESPVEFHLDGEVLSLDKLKSLLSLREVKTIKVFTTVDNTNLHTQL
+VDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVLPSDDTLRSEAFEYYHTLDESFL
+GRYMSALNHTKKWKFPQVGGLTSIKWADNNCYLSSVLLALQQLEVKFNAPALQEAYYRAR
+AGDAANFCALILAYSNKTVGELGDVRETMTHLLQHANLESAKRVLNVVCKHCGQKTTTLT
+GVEAVMYMGTLSYDNLKTGVSIPCVCGRDATQYLVQQESSFVMMSAPPAEYKLQQGTFLC
+ANEYTGNYQCGHYTHITAKETLYRIDGAHLTKMSEYKGPVTDVFYKETSYTTTIKPVSYK
+LDGVTYTEIEPKLDGYYKKDNAYYTEQPIDLVPTQPLPNASFDNFKLTCSNTKFADDLNQ
+MTGFTKPASRELSVTFFPDLNGDVVAIDYRHYSASFKKGAKLLHKPIVWHINQATTKTTF
+KPNTWCLRCLWSTKPVDTSNSFEVLAVEDTQGMDNLACESQQPTSEEVVENPTIQKEVIE
+CDVKTTEVVGNVILKPSDEGVKVTQELGHEDLMAAYVENTSITIKKPNELSLALGLKTIA
+THGIAAINSVPWSKILAYVKPFLGQAAITTSNCAKRLAQRVFNNYMPYVFTLLFQLCTFT
+KSTNSRIRASLPTTIAKNSVKSVAKLCLDAGINYVKSPKFSKLFTIAMWLLLLSICLGSL
+ICVTAAFGVLLSNFGAPSYCNGVRELYLNSSNVTTMDFCEGSFPCSICLSGLDSLDSYPA
+LETIQVTISSYKLDLTILGLAAEWVLAYMLFTKFFYLLGLSAIMQVFFGYFASHFISNSW
+LMWFIISIVQMAPVSAMVRMYIFFASFYYIWKSYVHIMDGCTSSTCMMCYKRNRATRVEC
+TTIVNGMKRSFYVYANGGRGFCKTHNWNCLNCDTFCTGSTFISDEVARDLSLQFKRPINP
+TDQSSYIVDSVAVKNGALHLYFDKAGQKTYERHPLSHFVNLDNLRANNTKGSLPINVIVF
+DGKSKCDESASKSASVYYSQLMCQPILLLDQALVSDVGDSTEVSVKMFDAYVDTFSATFS
+VPMEKLKALVATAHSELAKGVALDGVLSTFVSAARQGVVDTDVDTKDVIECLKLSHHSDL
+EVTGDSCNNFMLTYNKVENMTPRDLGACIDCNARHINAQVAKSHNVSLIWNVKDYMSLSE
+QLRKQIRSAAKKNNIPFRLTCATTRQVVNVITTKISLKGGKIVSTCFKLMLKATLLCVLA
+ALVCYIVMPVHTLSIHDGYTNEIIGYKAIQDGVTRDIISTDDCFANKHAGFDAWFSQRGG
+SYKNDKSCPVVAAIITREIGFIVPGLPGTVLRAINGDFLHFLPRVFSAVGNICYTPSKLI
+EYSDFATSACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISYSELRPDTRYVLMDGSIIQ
+FPNTYLEGSVRVVTTFDAEYCRHGTCERSEVGICLSTSGRWVLNNEHYRALSGVFCGVDA
+MNLIANIFTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFMKFRRVFGEYNHVVAANAL
+LFLMSFTILCLVPAYSFLPGVYSVFYLYLTFYFTNDVSFLAHLQWFAMFSPIVPFWITAI
+YVFCISLKHCHWFFNNYLRKRVMFNGVTFSTFEEAALCTFLLNKEMYLKLRSETLLPLTQ
+YNRYLALYNKYKYFSGALDTTSYREAACCHLAKALNDFSNSGADVLYQPPQTSITSAVLQ
+SGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDTVYCPRHVICTAEDMLNPNYEDLLIR
+KSNHSFLVQAGNVQLRVIGHSMQNCLLRLKVDTSNPKTPKYKFVRIQPGQTFSVLACYNG
+SPSGVYQCAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGK
+FYGPFVDRQTAQAAGTDTTITLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYE
+PLTQDHVDILGPLSAQTGIAVLDMCAALKELLQNGMNGRTILGSTILEDEFTPFDVVRQC
+SGVTFQGKFKKIVKGTHHWMLLTFLTSLLILVQSTQWSLFFFVYENAFLPFTLGIMAIAA
+CAMLLVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLELADTSLSGYRLKDCV
+MYASALVLLILMTARTVYDDAARRVWTLMNVITLVYKVYYGNALDQAISMWALVISVTSN
+YSGVVTTIMFLARAIVFVCVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRY
+FRLTLGVYDYLVSTQEFRYMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMS
+DVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAKDTTEAFEKMVSLLSVLLSMQG
+AVDINRLCEEMLDNRATLQAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKS
+LNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDND
+ALNNIINNARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNTFTYASALWEIQQVVD
+ADSKIVQLSEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTAC
+TDDNALAYYNNSKGGRFVLALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGP
+KVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAVDPAKAYKDY
+LASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFC
+DLKGKYVQIPTTCANDPVGFTLRNTVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNRV
+CGVSAARLTPCGTGTSTDVVYRAFDIYNEKVAGFAKFLKTNCCRFQEKDEEGNLLDSYFV
+VKRHTMSNYQHEETIYNLVKDCPAVAVHDFFKFRVDGDMVPHISRQRLTKYTMADLVYAL
+RHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYDFVENPDILRVYANLGERVRQSLLKTVQ
+FCDAMRDAGIVGVLTLDNQDLNGNWYDFGDFVQVAPGCGVPIVDSYYSLLMPILTLTRAL
+AAESHMDADLAKPLIKWDLLKYDFTEERLCLFDRYFKYWDQTYHPNCINCLDDRCILHCA
+NFNVLFSTVFPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSRLSFKEL
+LVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDFYDFAVSKGFFKE
+GSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYFDCYDGGCINAN
+QVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQMNLKYAISAK
+NRARTVAGVSICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVET
+PHLMGWDYPKCDRAMPNMLRIMASLVLARKHNTCCNLSHRFYRLANECAQVLSEMVMCGG
+SLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECL
+YRNRDVDHEFVDEFYAYLRKHFSMMILSDDAVVCYNSNYAAQGLVASIKNFKAVLYYQNN
+VFMSEAKCWTETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTD
+GTLMIERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDELTGHMLDMYSVMLTNDN
+TSRYWEPEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVISTSH
+KLVLSVNPYVCNAPGCDVTDVTQLYLGGMSYYCKSHKPPISFPLCANGQVFGLYKNTCVG
+SDNVTDFNAIATCDWTNAGDYILANTCTERLKLFAAETLKATEETFKLSYGIATVREVLS
+DRELHLSWEVGKPRPPLNRNYVFTGYRVTKNSKVQIGEYTFEKGDYGDAVVYRGTTTYKL
+NVGDYFVLTSHTVMPLSAPTLVPQEHYVRITGLYPTLNISDEFSSNVANYQKVGMQKYST
+LQGPPGTGKSHFAIGLALYYPSARIVYTACSHAAVDALCEKALKYLPIDKCSRIIPARAR
+VECFDKFKVNSTLEQYVFCTVNALPETTADIVVFDEISMATNYDLSVVNARLRAKHYVYI
+GDPAQLPAPRTLLTKGTLEPEYFNSVCRLMKTIGPDMFLGTCRRCPAEIVDTVSALVYDN
+KLKAHKDKSAQCFKMFYKGVITHDVSSAINRPQIGVVREFLTRNPAWRKAVFISPYNSQN
+AVASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKIGILCIMSDR
+DLYDKLQFTSLEIPRRNVATLQAENVTGLFKDCSKIITGLHPTQAPTHLSVDIKFKTEGL
+CVDIPGIPKDMTYRRLISMMGFKMNYQVNGYPNMFITREEAIRHVRAWIGFDVEGCHATR
+DAVGTNLPLQLGFSTGVNLVAVPTGYVDTENNTEFTRVNAKPPPGDQFKHLIPLMYKGLP
+WNVVRIKIVQMLSDTLKGLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCLCDKRATCFS
+TSSDTYACWNHSVGFDYVYNPFMIDVQQWGFTGNLQSNHDQHCQVHGNAHVASCDAIMTR
+CLAVHECFVKRVDWSVEYPIIGDELRVNSACRKVQHMVVKSALLADKFPVLHDIGNPKAI
+KCVPQAEVEWKFYDAQPCSDKAYKIEELFYSYATHHDKFTDGVCLFWNCNVDRYPANAIV
+CRFDTRVLSNLNLPGCDGGSLYVNKHAFHTPAFDKSAFTNLKQLPFFYYSDSPCESHGKQ
+VVSDIDYVPLKSATCITRCNLGGAVCRHHANEYRQYLDAYNMMISAGFSLWIYKQFDTYN
+LWNTFTRLQSLENVAYNVVNKGHFDGHAGEAPVSIINNAVYTKVDGIDVEIFENKTTLPV
+NVAFELWAKRNIKPVPEIKILNNLGVDIAANTVIWDYKREAPAHVSTIGVCTMTDIAKKP
+TESACSSLTVLFDGRVEGQVDLFRNARNGVLITEGSVKGLTPSKGPAQASVNGVTLIGES
+VKTQFNYFKKVDGIIQQLPETYFTQSRDLEDFKPRSQMETDFLELAMDEFIQRYKLEGYA
+FEHIVYGDFSHGQLGGLHLMIGLAKRSQDSPLKLEDFIPMDSTVKNYFITDAQTGSSKCV
+CSVIDLLLDDFVEIIKSQDLSVISKVVKVTIDYAEISFMLWCKDGHVETFYPKLQASQAW
+QPGVAMPNLYKMQRMLLEKCDLQNYGENAVIPKGIMMNVAKYTQLCQYLNTLTLAVPYNM
+RVIHFGAGSDKGVAPGTAVLRQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHTANKWD
+LIISDMYDPRTKHVTKENDSKEGFFTYLCGFIKQKLALGGSIAVKITEHSWNADLYKLMG
+HFSWWTAFVTNVNASSSEAFLIGANYLGKPKEQIDGYTMHANYIFWRNTNPIQLSSYSLF
+DMSKFPLKLRGTAVMSLKENQINDMIYSLLEKGRLIIRENNRVVVSSDILVNN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

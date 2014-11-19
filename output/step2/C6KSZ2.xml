@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2009-09-01" modified="2014-10-29" version="46">
+<accession>C6KSZ2</accession>
+<name>C6KSZ2_PLAF7</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Enoyl-acyl carrier reductase</fullName>
+<ecNumber evidence="1">1.3.1.9</ecNumber>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">PfENR</name>
+<name type="ORF" evidence="1">PFF0730c</name>
+</gene>
+<organism evidence="1 5">
+<name type="scientific">Plasmodium falciparum (isolate 3D7)</name>
+<dbReference type="NCBI Taxonomy" id="36329"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Laverania)</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="5">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="498" last="511">
+<title>Genome sequence of the human malaria parasite Plasmodium falciparum.</title>
+<authorList>
+<person name="Gardner M.J."/>
+<person name="Hall N."/>
+<person name="Fung E."/>
+<person name="White O."/>
+<person name="Berriman M."/>
+<person name="Hyman R.W."/>
+<person name="Carlton J.M."/>
+<person name="Pain A."/>
+<person name="Nelson K.E."/>
+<person name="Bowman S."/>
+<person name="Paulsen I.T."/>
+<person name="James K."/>
+<person name="Eisen J.A."/>
+<person name="Rutherford K."/>
+<person name="Salzberg S.L."/>
+<person name="Craig A."/>
+<person name="Kyes S."/>
+<person name="Chan M.-S."/>
+<person name="Nene V."/>
+<person name="Shallom S.J."/>
+<person name="Suh B."/>
+<person name="Peterson J."/>
+<person name="Angiuoli S."/>
+<person name="Pertea M."/>
+<person name="Allen J."/>
+<person name="Selengut J."/>
+<person name="Haft D."/>
+<person name="Mather M.W."/>
+<person name="Vaidya A.B."/>
+<person name="Martin D.M.A."/>
+<person name="Fairlamb A.H."/>
+<person name="Fraunholz M.J."/>
+<person name="Roos D.S."/>
+<person name="Ralph S.A."/>
+<person name="McFadden G.I."/>
+<person name="Cummings L.M."/>
+<person name="Subramanian G.M."/>
+<person name="Mungall C."/>
+<person name="Venter J.C."/>
+<person name="Carucci D.J."/>
+<person name="Hoffman S.L."/>
+<person name="Newbold C."/>
+<person name="Davis R.W."/>
+<person name="Fraser C.M."/>
+<person name="Barrell B."/>
+</authorList>
+<dbReference type="PubMed" id="12368864"/>
+<dbReference type="DOI" id="10.1038/nature01097"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="2" evidence="1 5">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="527" last="531">
+<title>Sequence of Plasmodium falciparum chromosomes 1, 3-9 and 13.</title>
+<authorList>
+<person name="Hall N."/>
+<person name="Pain A."/>
+<person name="Berriman M."/>
+<person name="Churcher C.M."/>
+<person name="Harris B."/>
+<person name="Harris D."/>
+<person name="Mungall K.L."/>
+<person name="Bowman S."/>
+<person name="Atkin R."/>
+<person name="Baker S."/>
+<person name="Barron A."/>
+<person name="Brooks K."/>
+<person name="Buckee C.O."/>
+<person name="Burrows C."/>
+<person name="Cherevach I."/>
+<person name="Chillingworth C."/>
+<person name="Chillingworth T."/>
+<person name="Christodoulou Z."/>
+<person name="Clark L."/>
+<person name="Clark R."/>
+<person name="Corton C."/>
+<person name="Cronin A."/>
+<person name="Davies R.M."/>
+<person name="Davis P."/>
+<person name="Dear P."/>
+<person name="Dearden F."/>
+<person name="Doggett J."/>
+<person name="Feltwell T."/>
+<person name="Goble A."/>
+<person name="Goodhead I."/>
+<person name="Gwilliam R."/>
+<person name="Hamlin N."/>
+<person name="Hance Z."/>
+<person name="Harper D."/>
+<person name="Hauser H."/>
+<person name="Hornsby T."/>
+<person name="Holroyd S."/>
+<person name="Horrocks P."/>
+<person name="Humphray S."/>
+<person name="Jagels K."/>
+<person name="James K.D."/>
+<person name="Johnson D."/>
+<person name="Kerhornou A."/>
+<person name="Knights A."/>
+<person name="Konfortov B."/>
+<person name="Kyes S."/>
+<person name="Larke N."/>
+<person name="Lawson D."/>
+<person name="Lennard N."/>
+<person name="Line A."/>
+<person name="Maddison M."/>
+<person name="Mclean J."/>
+<person name="Mooney P."/>
+<person name="Moule S."/>
+<person name="Murphy L."/>
+<person name="Oliver K."/>
+<person name="Ormond D."/>
+<person name="Price C."/>
+<person name="Quail M.A."/>
+<person name="Rabbinowitsch E."/>
+<person name="Rajandream M.A."/>
+<person name="Rutter S."/>
+<person name="Rutherford K.M."/>
+<person name="Sanders M."/>
+<person name="Simmonds M."/>
+<person name="Seeger K."/>
+<person name="Sharp S."/>
+<person name="Smith R."/>
+<person name="Squares R."/>
+<person name="Squares S."/>
+<person name="Stevens K."/>
+<person name="Taylor K."/>
+<person name="Tivey A."/>
+<person name="Unwin L."/>
+<person name="Whitehead S."/>
+<person name="Woodward J.R."/>
+<person name="Sulston J.E."/>
+<person name="Craig A."/>
+<person name="Newbold C."/>
+<person name="Barrell B.G."/>
+</authorList>
+<dbReference type="PubMed" id="12368867"/>
+<dbReference type="DOI" id="10.1038/nature01095"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5">Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="3" evidence="2">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="25436" last="25444">
+<title>X-ray structural analysis of Plasmodium falciparum enoyl acyl carrier protein reductase as a pathway toward the optimization of triclosan antimalarial efficacy.</title>
+<authorList>
+<person name="Freundlich J.S."/>
+<person name="Wang F."/>
+<person name="Tsai H.C."/>
+<person name="Kuo M."/>
+<person name="Shieh H.M."/>
+<person name="Anderson J.W."/>
+<person name="Nkrumah L.J."/>
+<person name="Valderramos J.C."/>
+<person name="Yu M."/>
+<person name="Kumar T.R."/>
+<person name="Valderramos S.G."/>
+<person name="Jacobs W.R."/>
+<person name="Schiehser G.A."/>
+<person name="Jacobus D.P."/>
+<person name="Fidock D.A."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="17567585"/>
+<dbReference type="DOI" id="10.1074/jbc.M701813200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 97-365 AND 366-425 IN COMPLEX WITH NAD</scope>
+</reference>
+<reference key="4" evidence="3 4">
+<citation type="journal article" date="2013" name="J. Med. Chem." volume="56" first="7516" last="7526">
+<title>Design, synthesis, and biological and crystallographic evaluation of novel inhibitors of Plasmodium falciparum enoyl-ACP-reductase (PfFabI).</title>
+<authorList>
+<person name="Belluti F."/>
+<person name="Perozzo R."/>
+<person name="Lauciello L."/>
+<person name="Colizzi F."/>
+<person name="Kostrewa D."/>
+<person name="Bisi A."/>
+<person name="Gobbi S."/>
+<person name="Rampa A."/>
+<person name="Bolognesi M.L."/>
+<person name="Recanatini M."/>
+<person name="Brun R."/>
+<person name="Scapozza L."/>
+<person name="Cavalli A."/>
+</authorList>
+<dbReference type="PubMed" id="24063369"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) OF 96-432 IN COMPLEX WITH NAD</scope>
+</reference>
+<dbReference type="EC" id="1.3.1.9" evidence="1"/>
+<dbReference type="EMBL" id="AL844505">
+<property type="protein sequence ID" value="CAG25389.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_966137.1">
+<property type="nucleotide sequence ID" value="XM_961044.1"/>
+</dbReference>
+<dbReference type="PDB" id="2FOI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=97-365, C/D=366-425"/>
+</dbReference>
+<dbReference type="PDB" id="4IGE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=96-432"/>
+</dbReference>
+<dbReference type="PDB" id="4IGF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=96-432"/>
+</dbReference>
+<dbReference type="PDBsum" id="2FOI"/>
+<dbReference type="PDBsum" id="4IGE"/>
+<dbReference type="PDBsum" id="4IGF"/>
+<dbReference type="ProteinModelPortal" id="C6KSZ2"/>
+<dbReference type="SMR" id="C6KSZ2">
+<property type="residue range" value="96-429"/>
+</dbReference>
+<dbReference type="IntAct" id="C6KSZ2">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="5833.PFF0730c-1"/>
+<dbReference type="BindingDB" id="C6KSZ2"/>
+<dbReference type="EnsemblProtists" id="PFF0730c:mRNA">
+<property type="protein sequence ID" value="PFF0730c:pep"/>
+<property type="gene ID" value="PFF0730c"/>
+</dbReference>
+<dbReference type="GeneID" id="3885811"/>
+<dbReference type="KEGG" id="pfa:PFF0730c"/>
+<dbReference type="EuPathDB" id="PlasmoDB:PF3D7_0615100"/>
+<dbReference type="InParanoid" id="C6KSZ2"/>
+<dbReference type="KO" id="K00208"/>
+<dbReference type="OMA" id="ANAKEVQ"/>
+<dbReference type="PhylomeDB" id="C6KSZ2"/>
+<dbReference type="EvolutionaryTrace" id="C6KSZ2"/>
+<dbReference type="GO" id="GO:0020011">
+<property type="term" value="C:apicoplast"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004318">
+<property type="term" value="F:enoyl-[acyl-carrier-protein] reductase (NADH) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016631">
+<property type="term" value="F:enoyl-[acyl-carrier-protein] reductase activity"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000166">
+<property type="term" value="F:nucleotide binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006633">
+<property type="term" value="P:fatty acid biosynthetic process"/>
+<property type="evidence" value="ISS:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.720">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016040">
+<property type="entry name" value="NAD(P)-bd_dom"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="2 3">3D-structure</keyword>
+<keyword id="KW-0181" evidence="5">Complete proteome</keyword>
+<keyword id="KW-0520" evidence="2 3">NAD</keyword>
+<keyword id="KW-0547" evidence="2 3">Nucleotide-binding</keyword>
+<keyword id="KW-0560" evidence="1">Oxidoreductase</keyword>
+<keyword id="KW-1185" evidence="5">Reference proteome</keyword>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="2 3">
+<location>
+<begin position="168"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="2 3">
+<location>
+<begin position="216"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="2 3">
+<location>
+<begin position="315"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD; via amide nitrogen" evidence="2 3">
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD; via amide nitrogen" evidence="2 3">
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD" evidence="2 3">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD" evidence="2 3">
+<location>
+<position position="285"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAG25389.1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2FOI"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="4IGE"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="4IGF"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000001450"/>
+</source>
+</evidence>
+<sequence length="432" mass="49762" checksum="42883581D554DD18" modified="2009-09-01" version="1">
+MNKISQRLLFLFLHFYTIVCFIQNNTQKTFHNVLQNEQIRGKEKAFYRKEKRENIFIGNK
+MKHLNNMNNTHNNNHYMEKEEQDASNINKIKEENKNEDICFIAGIGDTNGYGWGIAKELS
+KRNVKIIFGIWPPVYNIFMKNYKNGKFDNDMIIDKDKKMNILDMLPFDASFDTANDIDEE
+TKNNKRYNMLQNYTIEDVANLIHQKYGKINMLVHSLANAKEVQKDLLNTSRKGYLDALSK
+SSYSLISLCKYFVNIMKPQSSIISLTYHASQKVVPGYGGGMSSAKAALESDTRVLAYHLG
+RNYNIRINTISAGPLKSRAATAINKLNNTYENNTNQNKNRNSHDVHNIMNNSGEKEEKKN
+SASQNYTFIDYAIEYSEKYAPLRQKLLSTDIGSVASFLLSRESRAITGQTIYVDNGLNIM
+FLPDDIYRNENE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

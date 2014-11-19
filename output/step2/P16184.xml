@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2014-10-29" version="95">
+<accession>P16184</accession>
+<name>DYR_PNECA</name>
+<protein>
+<recommendedName>
+<fullName>Dihydrofolate reductase</fullName>
+<ecNumber>1.5.1.3</ecNumber>
+</recommendedName>
+</protein>
+<organism>
+<name type="scientific">Pneumocystis carinii</name>
+<dbReference type="NCBI Taxonomy" id="4754"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Fungi</taxon>
+<taxon>Dikarya</taxon>
+<taxon>Ascomycota</taxon>
+<taxon>Taphrinomycotina</taxon>
+<taxon>Pneumocystidomycetes</taxon>
+<taxon>Pneumocystidaceae</taxon>
+<taxon>Pneumocystis</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Proc. Natl. Acad. Sci. U.S.A." volume="86" first="8625" last="8629">
+<title>Isolation and expression of the Pneumocystis carinii dihydrofolate reductase gene.</title>
+<authorList>
+<person name="Edman J.C."/>
+<person name="Edman U."/>
+<person name="Cao M."/>
+<person name="Lundgren B."/>
+<person name="Kovacs J."/>
+<person name="Santi D.V."/>
+</authorList>
+<dbReference type="PubMed" id="2682653"/>
+<dbReference type="DOI" id="10.1073/pnas.86.22.8625"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Structure" volume="2" first="915" last="924">
+<title>The structure of Pneumocystis carinii dihydrofolate reductase to 1.9-A resolution.</title>
+<authorList>
+<person name="Champness J.N."/>
+<person name="Achari A."/>
+<person name="Ballantine S.P."/>
+<person name="Bryant P.K."/>
+<person name="Delves C.J."/>
+<person name="Stammers D.K."/>
+</authorList>
+<dbReference type="PubMed" id="7866743"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(94)00093-X"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.86 ANGSTROMS)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="4303" last="4312">
+<title>Ligand-induced conformational changes in the crystal structures of Pneumocystis carinii dihydrofolate reductase complexes with folate and NADP+.</title>
+<authorList>
+<person name="Cody V."/>
+<person name="Galitsky N."/>
+<person name="Rak D."/>
+<person name="Luft J.R."/>
+<person name="Pangborn W."/>
+<person name="Queener S.F."/>
+</authorList>
+<dbReference type="PubMed" id="10194348"/>
+<dbReference type="DOI" id="10.1021/bi982728m"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEX WITH FOLATE AND NADP</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="Biochemistry" volume="39" first="3556" last="3564">
+<title>Structural studies on bioactive compounds. 30. Crystal structure and molecular modeling studies on the Pneumocystis carinii dihydrofolate reductase cofactor complex with TAB, a highly selective antifolate.</title>
+<authorList>
+<person name="Cody V."/>
+<person name="Chan D."/>
+<person name="Galitsky N."/>
+<person name="Rak D."/>
+<person name="Luft J.R."/>
+<person name="Pangborn W."/>
+<person name="Queener S.F."/>
+<person name="Laughton C.A."/>
+<person name="Stevens M.F."/>
+</authorList>
+<dbReference type="PubMed" id="10736154"/>
+<dbReference type="DOI" id="10.1021/bi9924563"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) IN COMPLEX WITH NADP AND THE SYNTHETIC INHIBITOR TAB</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2002" name="Acta Crystallogr. D" volume="58" first="946" last="954">
+<title>Structure-based enzyme inhibitor design: modeling studies and crystal structure analysis of Pneumocystis carinii dihydrofolate reductase ternary complex with PT653 and NADPH.</title>
+<authorList>
+<person name="Cody V."/>
+<person name="Galitsky N."/>
+<person name="Luft J.R."/>
+<person name="Pangborn W."/>
+<person name="Rosowsky A."/>
+<person name="Queener S.F."/>
+</authorList>
+<dbReference type="PubMed" id="12037296"/>
+<dbReference type="DOI" id="10.1107/S090744490200505X"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH PT653 AND NADPH</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="Acta Crystallogr. D" volume="58" first="1393" last="1399">
+<title>Analysis of quinazoline and pyrido[2,3-d]pyrimidine N9-C10 reversed-bridge antifolates in complex with NADP+ and Pneumocystis carinii dihydrofolate reductase.</title>
+<authorList>
+<person name="Cody V."/>
+<person name="Galitsky N."/>
+<person name="Luft J.R."/>
+<person name="Pangborn W."/>
+<person name="Queener S.F."/>
+<person name="Gangjee A."/>
+</authorList>
+<dbReference type="PubMed" id="12198294"/>
+<dbReference type="DOI" id="10.1107/S0907444902010442"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH INHIBITOR AND NADPH</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Acta Crystallogr. D" volume="60" first="646" last="655">
+<title>Structure determination of tetrahydroquinazoline antifolates in complex with human and Pneumocystis carinii dihydrofolate reductase: correlations between enzyme selectivity and stereochemistry.</title>
+<authorList>
+<person name="Cody V."/>
+<person name="Luft J.R."/>
+<person name="Pangborn W."/>
+<person name="Gangjee A."/>
+<person name="Queener S.F."/>
+</authorList>
+<dbReference type="PubMed" id="15039552"/>
+<dbReference type="DOI" id="10.1107/S0907444904002094"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) IN COMPLEX WITH SYNTHETIC INHIBITOR</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="Proteins" volume="65" first="959" last="969">
+<title>New insights into DHFR interactions: analysis of Pneumocystis carinii and mouse DHFR complexes with NADPH and two highly potent 5-(omega-carboxy(alkyloxy) trimethoprim derivatives reveals conformational correlations with activity and novel parallel ring stacking interactions.</title>
+<authorList>
+<person name="Cody V."/>
+<person name="Pace J."/>
+<person name="Chisum K."/>
+<person name="Rosowsky A."/>
+</authorList>
+<dbReference type="PubMed" id="17019704"/>
+<dbReference type="DOI" id="10.1002/prot.21131"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.60 ANGSTROMS) IN COMPLEX WITH INHIBITOR AND NADPH</scope>
+</reference>
+<comment type="function">
+<text>Key enzyme in folate metabolism. Catalyzes an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">5,6,7,8-tetrahydrofolate + NADP(+) = 7,8-dihydrofolate + NADPH.</text>
+</comment>
+<comment type="pathway">
+<text>Cofactor biosynthesis; tetrahydrofolate biosynthesis; 5,6,7,8-tetrahydrofolate from 7,8-dihydrofolate: step 1/1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the dihydrofolate reductase family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Contains 1 DHFR (dihydrofolate reductase) domain.</text>
+</comment>
+<dbReference type="EC" id="1.5.1.3"/>
+<dbReference type="EMBL" id="M26495">
+<property type="protein sequence ID" value="AAA33787.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M26496">
+<property type="protein sequence ID" value="AAA33788.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="A36177">
+<property type="entry name" value="A36177"/>
+</dbReference>
+<dbReference type="PDB" id="1CD2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1DAJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1DYR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1E26">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1KLK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1LY3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1LY4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1S3Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="1VJ3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=2-206"/>
+</dbReference>
+<dbReference type="PDB" id="2CD2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="2FZH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="2FZI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="3CD2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="3NZ6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="X=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="3NZ9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="X=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="3NZA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="X=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="3NZB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="X=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="3NZC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="X=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="3TD8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="4CD2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="4G8Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="X=3-206"/>
+</dbReference>
+<dbReference type="PDB" id="4IXE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="D=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="4IXF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="X=1-206"/>
+</dbReference>
+<dbReference type="PDB" id="4IXG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="X=1-206"/>
+</dbReference>
+<dbReference type="PDBsum" id="1CD2"/>
+<dbReference type="PDBsum" id="1DAJ"/>
+<dbReference type="PDBsum" id="1DYR"/>
+<dbReference type="PDBsum" id="1E26"/>
+<dbReference type="PDBsum" id="1KLK"/>
+<dbReference type="PDBsum" id="1LY3"/>
+<dbReference type="PDBsum" id="1LY4"/>
+<dbReference type="PDBsum" id="1S3Y"/>
+<dbReference type="PDBsum" id="1VJ3"/>
+<dbReference type="PDBsum" id="2CD2"/>
+<dbReference type="PDBsum" id="2FZH"/>
+<dbReference type="PDBsum" id="2FZI"/>
+<dbReference type="PDBsum" id="3CD2"/>
+<dbReference type="PDBsum" id="3NZ6"/>
+<dbReference type="PDBsum" id="3NZ9"/>
+<dbReference type="PDBsum" id="3NZA"/>
+<dbReference type="PDBsum" id="3NZB"/>
+<dbReference type="PDBsum" id="3NZC"/>
+<dbReference type="PDBsum" id="3TD8"/>
+<dbReference type="PDBsum" id="4CD2"/>
+<dbReference type="PDBsum" id="4G8Z"/>
+<dbReference type="PDBsum" id="4IXE"/>
+<dbReference type="PDBsum" id="4IXF"/>
+<dbReference type="PDBsum" id="4IXG"/>
+<dbReference type="ProteinModelPortal" id="P16184"/>
+<dbReference type="SMR" id="P16184">
+<property type="residue range" value="1-206"/>
+</dbReference>
+<dbReference type="BindingDB" id="P16184"/>
+<dbReference type="ChEMBL" id="CHEMBL2097173"/>
+<dbReference type="SABIO-RK" id="P16184"/>
+<dbReference type="UniPathway" id="UPA00077">
+<property type="reaction ID" value="UER00158"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P16184"/>
+<dbReference type="GO" id="GO:0004146">
+<property type="term" value="F:dihydrofolate reductase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050661">
+<property type="term" value="F:NADP binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006545">
+<property type="term" value="P:glycine biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009165">
+<property type="term" value="P:nucleotide biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006730">
+<property type="term" value="P:one-carbon metabolic process"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046654">
+<property type="term" value="P:tetrahydrofolate biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.430.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012259">
+<property type="entry name" value="DHFR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024072">
+<property type="entry name" value="DHFR-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017925">
+<property type="entry name" value="DHFR_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001796">
+<property type="entry name" value="DHFR_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00186">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00070">
+<property type="entry name" value="DHFR"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53597">
+<property type="entry name" value="SSF53597"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00075">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51330">
+<property type="entry name" value="DHFR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0554">One-carbon metabolism</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<feature type="chain" description="Dihydrofolate reductase" id="PRO_0000186376">
+<location>
+<begin position="1"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="domain" description="DHFR" evidence="1">
+<location>
+<begin position="6"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="2 3 4 5 6">
+<location>
+<begin position="18"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="2 3 4 5 6">
+<location>
+<begin position="59"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="2 3 4 5 6">
+<location>
+<begin position="81"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="2 3 4 5 6">
+<location>
+<begin position="124"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="32"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via amide nitrogen and carbonyl oxygen" evidence="2 3 4 5 6">
+<location>
+<position position="12"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="3"/>
+<end position="5"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="7"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="18"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="30"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="47"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="51"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="59"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="67"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="75"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="89"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="93"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="98"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="111"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="126"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="138"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="153"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="163"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="166"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="169"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="174"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="190"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="195"/>
+<end position="203"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00660"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10194348"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10736154"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12037296"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12198294"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17019704"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="206" mass="23884" checksum="6BA64A7019911508" modified="1990-04-01" version="1">
+MNQQKSLTLIVALTTSYGIGRSNSLPWKLKKEISYFKRVTSFVPTFDSFESMNVVLMGRK
+TWESIPLQFRPLKGRINVVITRNESLDLGNGIHSAKSLDHALELLYRTYGSESSVQINRI
+FVIGGAQLYKAAMDHPKLDRIMATIIYKDIHCDVFFPLKFRDKEWSSVWKKEKHSDLESW
+VGTKVPHGKINEDGFDYEFEMWTRDL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

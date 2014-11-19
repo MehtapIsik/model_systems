@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2003-03-01" modified="2014-10-29" version="96">
+<accession>Q8IJH3</accession>
+<name>Q8IJH3_PLAF7</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Orotidine 5'-phosphate decarboxylase</fullName>
+<ecNumber evidence="1">4.1.1.23</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="ORF" evidence="2">PF10_0225</name>
+</gene>
+<organism evidence="2 13">
+<name type="scientific">Plasmodium falciparum (isolate 3D7)</name>
+<dbReference type="NCBI Taxonomy" id="36329"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Laverania)</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2 13">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="498" last="511">
+<title>Genome sequence of the human malaria parasite Plasmodium falciparum.</title>
+<authorList>
+<person name="Gardner M.J."/>
+<person name="Hall N."/>
+<person name="Fung E."/>
+<person name="White O."/>
+<person name="Berriman M."/>
+<person name="Hyman R.W."/>
+<person name="Carlton J.M."/>
+<person name="Pain A."/>
+<person name="Nelson K.E."/>
+<person name="Bowman S."/>
+<person name="Paulsen I.T."/>
+<person name="James K."/>
+<person name="Eisen J.A."/>
+<person name="Rutherford K."/>
+<person name="Salzberg S.L."/>
+<person name="Craig A."/>
+<person name="Kyes S."/>
+<person name="Chan M.-S."/>
+<person name="Nene V."/>
+<person name="Shallom S.J."/>
+<person name="Suh B."/>
+<person name="Peterson J."/>
+<person name="Angiuoli S."/>
+<person name="Pertea M."/>
+<person name="Allen J."/>
+<person name="Selengut J."/>
+<person name="Haft D."/>
+<person name="Mather M.W."/>
+<person name="Vaidya A.B."/>
+<person name="Martin D.M.A."/>
+<person name="Fairlamb A.H."/>
+<person name="Fraunholz M.J."/>
+<person name="Roos D.S."/>
+<person name="Ralph S.A."/>
+<person name="McFadden G.I."/>
+<person name="Cummings L.M."/>
+<person name="Subramanian G.M."/>
+<person name="Mungall C."/>
+<person name="Venter J.C."/>
+<person name="Carucci D.J."/>
+<person name="Hoffman S.L."/>
+<person name="Newbold C."/>
+<person name="Davis R.W."/>
+<person name="Fraser C.M."/>
+<person name="Barrell B."/>
+</authorList>
+<dbReference type="PubMed" id="12368864"/>
+<dbReference type="DOI" id="10.1038/nature01097"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="13">Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="2" evidence="3">
+<citation type="submission" date="2005-12" db="PDB data bank">
+<title>Crystal Structure of an orotidine-5'-monophosphate decarboxylase homolog from Plasmodium falciparum.</title>
+<authorList>
+<person name="Caruthers J.M."/>
+<person name="Robein M."/>
+<person name="Zucker F."/>
+<person name="Mehlin C."/>
+<person name="Luft J."/>
+<person name="Boni E."/>
+<person name="Lauricella A."/>
+<person name="Merritt E.A."/>
+<person name="Hol W.G.J."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS)</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="submission" date="2007-06" db="PDB data bank">
+<title>Crystal structure of orotidine 5'-phosphate decarboxylase from Plasmodium falciparum.</title>
+<authorList>
+<person name="Liu Y."/>
+<person name="Lau W."/>
+<person name="Lew J."/>
+<person name="Amani M."/>
+<person name="Hui R."/>
+<person name="Pai E.F."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS)</scope>
+</reference>
+<reference key="4" evidence="7">
+<citation type="submission" date="2007-12" db="PDB data bank">
+<title>Crystal Structure of P. falciparum Orotidine 5'-monophosphate Decarboxylase Complexed with XMP.</title>
+<authorList>
+<person name="Liu Y."/>
+<person name="Lau W."/>
+<person name="Pai E.F."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS)</scope>
+</reference>
+<reference key="5" evidence="5 6">
+<citation type="journal article" date="2008" name="J. Med. Chem." volume="51" first="439" last="448">
+<title>Structure-activity relationships of C6-uridine derivatives targeting plasmodia orotidine monophosphate decarboxylase.</title>
+<authorList>
+<person name="Bello A.M."/>
+<person name="Poduch E."/>
+<person name="Liu Y."/>
+<person name="Wei L."/>
+<person name="Crandall I."/>
+<person name="Wang X."/>
+<person name="Dyanand C."/>
+<person name="Kain K.C."/>
+<person name="Pai E.F."/>
+<person name="Kotra L.P."/>
+</authorList>
+<dbReference type="PubMed" id="18189347"/>
+<dbReference type="DOI" id="10.1021/jm7010673"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS)</scope>
+</reference>
+<reference key="6" evidence="12">
+<citation type="journal article" date="2009" name="J. Med. Chem." volume="52" first="1648" last="1658">
+<title>Structure-activity relationships of orotidine-5'-monophosphate decarboxylase inhibitors as anticancer agents.</title>
+<authorList>
+<person name="Bello A.M."/>
+<person name="Konforte D."/>
+<person name="Poduch E."/>
+<person name="Furlonger C."/>
+<person name="Wei L."/>
+<person name="Liu Y."/>
+<person name="Lewis M."/>
+<person name="Pai E.F."/>
+<person name="Paige C.J."/>
+<person name="Kotra L.P."/>
+</authorList>
+<dbReference type="PubMed" id="19260677"/>
+<dbReference type="DOI" id="10.1021/jm801224t"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS)</scope>
+</reference>
+<reference key="7" evidence="10">
+<citation type="submission" date="2010-05" db="PDB data bank">
+<title>Crystal structure of Plasmodium falciparum orotidine 5'-monophosphate decarboxylase complexed with 5-fluoro-6-amino-UMP, produced from 5-fluoro-6-azido-UMP.</title>
+<authorList>
+<person name="Liu Y."/>
+<person name="Kotra L.P."/>
+<person name="Pai E.F."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS)</scope>
+</reference>
+<reference key="8" evidence="9">
+<citation type="submission" date="2010-05" db="PDB data bank">
+<title>Crystal structure of Plasmodium falciparum orotidine 5'-monophosphate decarboxylase complexed with 5-fluoro-6-amino-UMP.</title>
+<authorList>
+<person name="Liu Y."/>
+<person name="Kotra L.P."/>
+<person name="Pai E.F."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS)</scope>
+</reference>
+<reference key="9" evidence="11">
+<citation type="submission" date="2010-05" db="PDB data bank">
+<title>Crystal structure of Plasmodium falciparum orotidine 5'-monophosphate decarboxylase complexed with 6-amino-UMP.</title>
+<authorList>
+<person name="Liu Y."/>
+<person name="Kotra L.P."/>
+<person name="Pai E.F."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.47 ANGSTROMS) OF 1-322</scope>
+</reference>
+<reference key="10" evidence="8">
+<citation type="submission" date="2010-05" db="PDB data bank">
+<title>Crystal structure of Plasmodium falciparum orotidine 5'-monophosphate decarboxylase covalently modified by 2-prime-fluoro-6-iodo-UMP.</title>
+<authorList>
+<person name="Liu Y."/>
+<person name="Kotra L.P."/>
+<person name="Pai E.F."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS)</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="1">Orotidine 5'-phosphate = UMP + CO(2).</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Pyrimidine metabolism; UMP biosynthesis via de novo pathway; UMP from orotate: step 2/2.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the OMP decarboxylase family.</text>
+</comment>
+<dbReference type="EC" id="4.1.1.23" evidence="1"/>
+<dbReference type="EMBL" id="AE014832">
+<property type="protein sequence ID" value="AAN35422.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_001347509.1">
+<property type="nucleotide sequence ID" value="XM_001347473.1"/>
+</dbReference>
+<dbReference type="PDB" id="2F84">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="2Q8L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="2Q8Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="2QAF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="3BAR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="3BPW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="3MWA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="3N2M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="3N34">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=1-323"/>
+</dbReference>
+<dbReference type="PDB" id="3N3M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.47"/>
+<property type="chains" value="A/B=1-322"/>
+</dbReference>
+<dbReference type="PDB" id="3S9Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B/C/D=1-323"/>
+</dbReference>
+<dbReference type="PDBsum" id="2F84"/>
+<dbReference type="PDBsum" id="2Q8L"/>
+<dbReference type="PDBsum" id="2Q8Z"/>
+<dbReference type="PDBsum" id="2QAF"/>
+<dbReference type="PDBsum" id="3BAR"/>
+<dbReference type="PDBsum" id="3BPW"/>
+<dbReference type="PDBsum" id="3MWA"/>
+<dbReference type="PDBsum" id="3N2M"/>
+<dbReference type="PDBsum" id="3N34"/>
+<dbReference type="PDBsum" id="3N3M"/>
+<dbReference type="PDBsum" id="3S9Y"/>
+<dbReference type="ProteinModelPortal" id="Q8IJH3"/>
+<dbReference type="SMR" id="Q8IJH3">
+<property type="residue range" value="1-321"/>
+</dbReference>
+<dbReference type="STRING" id="5833.PF10_0225-1"/>
+<dbReference type="BindingDB" id="Q8IJH3"/>
+<dbReference type="EnsemblProtists" id="PF10_0225:mRNA">
+<property type="protein sequence ID" value="PF10_0225:pep"/>
+<property type="gene ID" value="PF10_0225"/>
+</dbReference>
+<dbReference type="GeneID" id="810382"/>
+<dbReference type="KEGG" id="pfa:PF10_0225"/>
+<dbReference type="EuPathDB" id="PlasmoDB:PF3D7_1023200"/>
+<dbReference type="HOGENOM" id="HOG000245747"/>
+<dbReference type="InParanoid" id="Q8IJH3"/>
+<dbReference type="KO" id="K01591"/>
+<dbReference type="OMA" id="ADEWSST"/>
+<dbReference type="PhylomeDB" id="Q8IJH3"/>
+<dbReference type="UniPathway" id="UPA00070">
+<property type="reaction ID" value="UER00120"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q8IJH3"/>
+<dbReference type="GO" id="GO:0004590">
+<property type="term" value="F:orotidine-5'-phosphate decarboxylase activity"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006207">
+<property type="term" value="P:'de novo' pyrimidine nucleobase biosynthetic process"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044205">
+<property type="term" value="P:'de novo' UMP biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.70">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013785">
+<property type="entry name" value="Aldolase_TIM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018089">
+<property type="entry name" value="OMPdecase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011995">
+<property type="entry name" value="OMPdecase_type-2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001754">
+<property type="entry name" value="OMPdeCOase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011060">
+<property type="entry name" value="RibuloseP-bd_barrel"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00215">
+<property type="entry name" value="OMPdecase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00934">
+<property type="entry name" value="OMPdecase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51366">
+<property type="entry name" value="SSF51366"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02127">
+<property type="entry name" value="pyrF_sub2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00156">
+<property type="entry name" value="OMPDECASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="3 4">3D-structure</keyword>
+<keyword id="KW-0181" evidence="13">Complete proteome</keyword>
+<keyword id="KW-0210" evidence="1">Decarboxylase</keyword>
+<keyword id="KW-0456" evidence="1">Lyase</keyword>
+<keyword id="KW-0665" evidence="1">Pyrimidine biosynthesis</keyword>
+<keyword id="KW-1185" evidence="13">Reference proteome</keyword>
+<feature type="region of interest" description="Phosphate 1 binding" evidence="7 8">
+<location>
+<begin position="147"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="region of interest" description="Phosphate 1 binding" evidence="7 8">
+<location>
+<begin position="179"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="region of interest" description="Phosphate 2 binding" evidence="3">
+<location>
+<begin position="293"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="region of interest" description="Phosphate 3 binding">
+<location>
+<begin position="293"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 2; via carbonyl oxygen" evidence="3">
+<location>
+<position position="266"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 3; via carbonyl oxygen">
+<location>
+<position position="267"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000512"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAN35422.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2F84"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2Q8L"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2Q8Z"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2QAF"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3BPW"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3MWA"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3N2M"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3N34"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3N3M"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3S9Y"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000001450"/>
+</source>
+</evidence>
+<sequence length="323" mass="37824" checksum="ABA29B49A71A674D" modified="2003-03-01" version="1">
+MGFKVKLEKRRNAINTCLCIGLDPDEKDIENFMKNEKENNYNNIKKNLKEKYINNVSIKK
+DILLKAPDNIIREEKSEEFFYFFNHFCFYIINETNKYALTFKMNFAFYIPYGSVGIDVLK
+NVFDYLYELNIPTILDMKINDIGNTVKNYRKFIFEYLKSDSCTVNIYMGTNMLKDICYDE
+EKNKYYSAFVLVKTTNPDSAIFQKNLSLDNKQAYVIMAQEALNMSSYLNLEQNNEFIGFV
+VGANSYDEMNYIRTYFPNCYILSPGIGAQNGDLHKTLTNGYHKSYEKILINIGRAITKNP
+YPQKAAQMYYDQINAILKQNMES
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

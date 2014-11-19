@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2003-03-01" modified="2014-10-29" version="77">
+<accession>Q8II92</accession>
+<name>Q8II92_PLAF7</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Deoxyuridine 5'-triphosphate nucleotidohydrolase, putative</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ORF" evidence="1">PF11_0282</name>
+</gene>
+<organism evidence="1 8">
+<name type="scientific">Plasmodium falciparum (isolate 3D7)</name>
+<dbReference type="NCBI Taxonomy" id="36329"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Laverania)</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1 8">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="498" last="511">
+<title>Genome sequence of the human malaria parasite Plasmodium falciparum.</title>
+<authorList>
+<person name="Gardner M.J."/>
+<person name="Hall N."/>
+<person name="Fung E."/>
+<person name="White O."/>
+<person name="Berriman M."/>
+<person name="Hyman R.W."/>
+<person name="Carlton J.M."/>
+<person name="Pain A."/>
+<person name="Nelson K.E."/>
+<person name="Bowman S."/>
+<person name="Paulsen I.T."/>
+<person name="James K."/>
+<person name="Eisen J.A."/>
+<person name="Rutherford K."/>
+<person name="Salzberg S.L."/>
+<person name="Craig A."/>
+<person name="Kyes S."/>
+<person name="Chan M.-S."/>
+<person name="Nene V."/>
+<person name="Shallom S.J."/>
+<person name="Suh B."/>
+<person name="Peterson J."/>
+<person name="Angiuoli S."/>
+<person name="Pertea M."/>
+<person name="Allen J."/>
+<person name="Selengut J."/>
+<person name="Haft D."/>
+<person name="Mather M.W."/>
+<person name="Vaidya A.B."/>
+<person name="Martin D.M.A."/>
+<person name="Fairlamb A.H."/>
+<person name="Fraunholz M.J."/>
+<person name="Roos D.S."/>
+<person name="Ralph S.A."/>
+<person name="McFadden G.I."/>
+<person name="Cummings L.M."/>
+<person name="Subramanian G.M."/>
+<person name="Mungall C."/>
+<person name="Venter J.C."/>
+<person name="Carucci D.J."/>
+<person name="Hoffman S.L."/>
+<person name="Newbold C."/>
+<person name="Davis R.W."/>
+<person name="Fraser C.M."/>
+<person name="Barrell B."/>
+</authorList>
+<dbReference type="PubMed" id="12368864"/>
+<dbReference type="DOI" id="10.1038/nature01097"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="8">Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="2" evidence="2">
+<citation type="journal article" date="2005" name="Structure" volume="13" first="329" last="338">
+<title>dUTPase as a platform for antimalarial drug design: structural basis for the selectivity of a class of nucleoside inhibitors.</title>
+<authorList>
+<person name="Whittingham J.L."/>
+<person name="Leal I."/>
+<person name="Nguyen C."/>
+<person name="Kasinathan G."/>
+<person name="Bell E."/>
+<person name="Jones A.F."/>
+<person name="Berry C."/>
+<person name="Benito A."/>
+<person name="Turkenburg J.P."/>
+<person name="Dodson E.J."/>
+<person name="Ruiz Perez L.M."/>
+<person name="Wilkinson A.J."/>
+<person name="Johansson N.G."/>
+<person name="Brun R."/>
+<person name="Gilbert I.H."/>
+<person name="Gonzalez Pacanowska D."/>
+<person name="Wilson K.S."/>
+</authorList>
+<dbReference type="PubMed" id="15698576"/>
+<dbReference type="DOI" id="10.1016/j.str.2004.11.015"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS)</scope>
+</reference>
+<reference key="3" evidence="3">
+<citation type="journal article" date="2011" name="Bioorg. Med. Chem." volume="19" first="2378" last="2391">
+<title>?-Branched acyclic nucleoside analogues as inhibitors of Plasmodium falciparum dUTPase.</title>
+<authorList>
+<person name="Baragana B."/>
+<person name="McCarthy O."/>
+<person name="Sanchez P."/>
+<person name="Bosch-Navarrete C."/>
+<person name="Kaiser M."/>
+<person name="Brun R."/>
+<person name="Whittingham J.L."/>
+<person name="Roberts S.M."/>
+<person name="Zhou X.X."/>
+<person name="Wilson K.S."/>
+<person name="Johansson N.G."/>
+<person name="Gonzalez-Pacanowska D."/>
+<person name="Gilbert I.H."/>
+</authorList>
+<dbReference type="PubMed" id="21411327"/>
+<dbReference type="DOI" id="10.1016/j.bmc.2011.02.012"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS)</scope>
+</reference>
+<reference key="4" evidence="4 5">
+<citation type="journal article" date="2011" name="ChemMedChem" volume="6" first="1816" last="1831">
+<title>Design, synthesis, and evaluation of 5'-diphenyl nucleoside analogues as inhibitors of the Plasmodium falciparum dUTPase.</title>
+<authorList>
+<person name="Hampton S.E."/>
+<person name="Baragana B."/>
+<person name="Schipani A."/>
+<person name="Bosch-Navarrete C."/>
+<person name="Musso-Buendia J.A."/>
+<person name="Recio E."/>
+<person name="Kaiser M."/>
+<person name="Whittingham J.L."/>
+<person name="Roberts S.M."/>
+<person name="Shevtsov M."/>
+<person name="Brannigan J.A."/>
+<person name="Kahnberg P."/>
+<person name="Brun R."/>
+<person name="Wilson K.S."/>
+<person name="Gonzalez-Pacanowska D."/>
+<person name="Johansson N.G."/>
+<person name="Gilbert I.H."/>
+</authorList>
+<dbReference type="PubMed" id="22049550"/>
+<dbReference type="DOI" id="10.1002/cmdc.201100255"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS)</scope>
+</reference>
+<dbReference type="EMBL" id="AE014840">
+<property type="protein sequence ID" value="AAN35866.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_001347953.1">
+<property type="nucleotide sequence ID" value="XM_001347917.1"/>
+</dbReference>
+<dbReference type="PDB" id="1VYQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C=1-173"/>
+</dbReference>
+<dbReference type="PDB" id="2Y8C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C=1-173"/>
+</dbReference>
+<dbReference type="PDB" id="3T60">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C=1-173"/>
+</dbReference>
+<dbReference type="PDB" id="3T64">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B/C=1-173"/>
+</dbReference>
+<dbReference type="PDB" id="3T6Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C=1-173"/>
+</dbReference>
+<dbReference type="PDB" id="3T70">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B/C=1-173"/>
+</dbReference>
+<dbReference type="PDBsum" id="1VYQ"/>
+<dbReference type="PDBsum" id="2Y8C"/>
+<dbReference type="PDBsum" id="3T60"/>
+<dbReference type="PDBsum" id="3T64"/>
+<dbReference type="PDBsum" id="3T6Y"/>
+<dbReference type="PDBsum" id="3T70"/>
+<dbReference type="ProteinModelPortal" id="Q8II92"/>
+<dbReference type="SMR" id="Q8II92">
+<property type="residue range" value="1-167"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-48435N"/>
+<dbReference type="STRING" id="5833.PF11_0282-1"/>
+<dbReference type="ChEMBL" id="CHEMBL4222"/>
+<dbReference type="EnsemblProtists" id="PF11_0282:mRNA">
+<property type="protein sequence ID" value="PF11_0282:pep"/>
+<property type="gene ID" value="PF11_0282"/>
+</dbReference>
+<dbReference type="GeneID" id="810829"/>
+<dbReference type="KEGG" id="pfa:PF11_0282"/>
+<dbReference type="EuPathDB" id="PlasmoDB:PF3D7_1127100"/>
+<dbReference type="HOGENOM" id="HOG000028966"/>
+<dbReference type="InParanoid" id="Q8II92"/>
+<dbReference type="KO" id="K01520"/>
+<dbReference type="OMA" id="CEKSENK"/>
+<dbReference type="PhylomeDB" id="Q8II92"/>
+<dbReference type="EvolutionaryTrace" id="Q8II92"/>
+<dbReference type="GO" id="GO:0004170">
+<property type="term" value="F:dUTP diphosphatase activity"/>
+<property type="evidence" value="ISS:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006260">
+<property type="term" value="P:DNA replication"/>
+<property type="evidence" value="ISS:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046080">
+<property type="term" value="P:dUTP metabolic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006399">
+<property type="term" value="P:tRNA metabolic process"/>
+<property type="evidence" value="ISS:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.70.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029054">
+<property type="entry name" value="dUTPase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008180">
+<property type="entry name" value="dUTPase/dCTP_deaminase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00692">
+<property type="entry name" value="dUTPase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51283">
+<property type="entry name" value="SSF51283"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="2 3">3D-structure</keyword>
+<keyword id="KW-0181" evidence="8">Complete proteome</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-1185" evidence="8">Reference proteome</keyword>
+<feature type="region of interest" description="Sulfate 4 binding" evidence="3 5">
+<location>
+<begin position="111"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sulfate 5 binding" evidence="7">
+<location>
+<begin position="126"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 2" evidence="3 5">
+<location>
+<position position="92"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 3">
+<location>
+<position position="92"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 1; via amide nitrogen" evidence="6">
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 6" evidence="7">
+<location>
+<position position="132"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 2" evidence="3 5">
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 3">
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 1" evidence="6">
+<location>
+<position position="160"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate 4" evidence="3 5">
+<location>
+<position position="160"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAN35866.1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="1VYQ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2Y8C"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3T60"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3T64"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3T6Y"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3T70"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000001450"/>
+</source>
+</evidence>
+<sequence length="173" mass="19573" checksum="477D8A513AB0ACBF" modified="2003-03-01" version="1">
+MHLKIVCLSDEVREMYKNHKTHHEGDSGLDLFIVKDEVLKPKSTTFVKLGIKAIALQYKS
+NYYYKCEKSENKKKDDDKSNIVNTSFLLFPRSSISKTPLRLANSIGLIDAGYRGEIIAAL
+DNTSDQEYHIKKNDKLVQLVSFTGEPLSFELVEELDETSRGEGGFGSTSNNKY
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

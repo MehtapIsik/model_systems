@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="1998-01-01" modified="2014-10-29" version="75">
+<accession>O38723</accession>
+<name>O38723_9HIV1</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Protease</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">pol</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Human immunodeficiency virus 1</name>
+<dbReference type="NCBI Taxonomy" id="11676"/>
+<lineage>
+<taxon>Viruses</taxon>
+<taxon>Retro-transcribing viruses</taxon>
+<taxon>Retroviridae</taxon>
+<taxon>Orthoretrovirinae</taxon>
+<taxon>Lentivirus</taxon>
+<taxon>Primate lentivirus group</taxon>
+</lineage>
+</organism>
+<organismHost>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+</organismHost>
+<reference key="1" evidence="3">
+<citation type="journal article" date="1997" name="J. Virol." volume="71" first="6662" last="6670">
+<title>Drug resistance during indinavir therapy is caused by mutations in the protease gene and in its Gag substrate cleavage sites.</title>
+<authorList>
+<person name="Zhang Y.M."/>
+<person name="Imamichi H."/>
+<person name="Imamichi T."/>
+<person name="Lane H.C."/>
+<person name="Falloon J."/>
+<person name="Vasudevachari M.B."/>
+<person name="Salzman N.P."/>
+</authorList>
+<dbReference type="PubMed" id="9261388"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="4">
+<citation type="journal article" date="2006" name="J. Med. Chem." volume="49" first="7342" last="7356">
+<title>Discovery of HIV-1 protease inhibitors with picomolar affinities incorporating N-aryl-oxazolidinone-5-carboxamides as novel P2 ligands.</title>
+<authorList>
+<person name="Ali A."/>
+<person name="Reddy G.S."/>
+<person name="Cao H."/>
+<person name="Anjum S.G."/>
+<person name="Nalam M.N."/>
+<person name="Schiffer C.A."/>
+<person name="Rana T.M."/>
+</authorList>
+<dbReference type="PubMed" id="17149864"/>
+<dbReference type="DOI" id="10.1021/jm060666p"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.80 ANGSTROMS)</scope>
+</reference>
+<reference key="3" evidence="5">
+<citation type="journal article" date="2007" name="Chem. Biol. Drug Des." volume="69" first="298" last="313">
+<title>Design of mutation-resistant HIV protease inhibitors with the substrate envelope hypothesis.</title>
+<authorList>
+<person name="Chellappan S."/>
+<person name="Kiran Kumar Reddy G.S."/>
+<person name="Ali A."/>
+<person name="Nalam M.N."/>
+<person name="Anjum S.G."/>
+<person name="Cao H."/>
+<person name="Kairys V."/>
+<person name="Fernandes M.X."/>
+<person name="Altman M.D."/>
+<person name="Tidor B."/>
+<person name="Rana T.M."/>
+<person name="Schiffer C.A."/>
+<person name="Gilson M.K."/>
+</authorList>
+<dbReference type="PubMed" id="17539822"/>
+<dbReference type="DOI" id="10.1111/j.1747-0285.2007.00514.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.93 ANGSTROMS)</scope>
+</reference>
+<comment type="similarity">
+<text evidence="2">Contains peptidase A2 domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Contains peptidase Adomain.</text>
+</comment>
+<dbReference type="EMBL" id="AF024898">
+<property type="protein sequence ID" value="AAB83400.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="PDB" id="2I0A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2PSU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.93"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDBsum" id="2I0A"/>
+<dbReference type="PDBsum" id="2PSU"/>
+<dbReference type="ProteinModelPortal" id="O38723"/>
+<dbReference type="GO" id="GO:0004190">
+<property type="term" value="F:aspartic-type endopeptidase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.70.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001969">
+<property type="entry name" value="Aspartic_peptidase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018061">
+<property type="entry name" value="Pept_A2A_retrovirus_sg"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001995">
+<property type="entry name" value="Peptidase_A2_cat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021109">
+<property type="entry name" value="Peptidase_aspartic_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00077">
+<property type="entry name" value="RVP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50630">
+<property type="entry name" value="SSF50630"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50175">
+<property type="entry name" value="ASP_PROT_RETROV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00141">
+<property type="entry name" value="ASP_PROTEASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="4 5">3D-structure</keyword>
+<keyword id="KW-0064" evidence="1">Aspartyl protease</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0645" evidence="1">Protease</keyword>
+<feature type="region of interest" description="Phosphate 2 binding" evidence="5">
+<location>
+<begin position="14"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 1" evidence="4 5">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 4; via amide nitrogen" evidence="4 5">
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 5" evidence="4 5">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="99"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000453"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00156356"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAB83400.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2I0A"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2PSU"/>
+</source>
+</evidence>
+<sequence length="99" mass="10804" checksum="99165F743CCCFB3A" modified="1998-01-01" version="1" fragment="single">
+PQITLWQRPLVTIRIGGQLKEALLDTGADDTVLEEMNLPGKWKPKMIGGIGGFIKVRQYD
+QIPIEICGHKAIGTVLVGPTPVNIIGRNLLTQIGCTLNF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

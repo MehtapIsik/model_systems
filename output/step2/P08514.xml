@@ -1,0 +1,3178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1988-08-01" modified="2014-10-29" version="191">
+<accession>P08514</accession>
+<accession>B2RCY8</accession>
+<accession>O95366</accession>
+<accession>Q14443</accession>
+<accession>Q17R67</accession>
+<name>ITA2B_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Integrin alpha-IIb</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>GPalpha IIb</fullName>
+<shortName>GPIIb</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Platelet membrane glycoprotein IIb</fullName>
+</alternativeName>
+<cdAntigenName>CD41</cdAntigenName>
+<component>
+<recommendedName>
+<fullName>Integrin alpha-IIb heavy chain</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Integrin alpha-IIb light chain, form 1</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Integrin alpha-IIb light chain, form 2</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">ITGA2B</name>
+<name type="synonym">GP2B</name>
+<name type="synonym">ITGAB</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="J. Biol. Chem." volume="262" first="8476" last="8482">
+<title>Structure of the platelet membrane glycoprotein IIb. Homology to the alpha subunits of the vitronectin and fibronectin membrane receptors.</title>
+<authorList>
+<person name="Poncz M."/>
+<person name="Eisman R."/>
+<person name="Heidenreich R."/>
+<person name="Silver S.M."/>
+<person name="Vilaire G."/>
+<person name="Surrey S."/>
+<person name="Schwartz E."/>
+<person name="Bennett J.S."/>
+</authorList>
+<dbReference type="PubMed" id="2439501"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT ALA-313</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1990" name="Mol. Biol. Rep." volume="14" first="27" last="33">
+<title>GPIIb and GPIIIa amino acid sequences deduced from human megakaryocyte cDNAs.</title>
+<authorList>
+<person name="Frachet P."/>
+<person name="Uzan G."/>
+<person name="Thevenon D."/>
+<person name="Denarier E."/>
+<person name="Prandini M.H."/>
+<person name="Marguerie G."/>
+</authorList>
+<dbReference type="PubMed" id="2345548"/>
+<dbReference type="DOI" id="10.1007/BF00422712"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT ALA-313</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1990" name="Biochemistry" volume="29" first="1232" last="1244">
+<title>Organization of the gene for platelet glycoprotein IIb.</title>
+<authorList>
+<person name="Heidenreich R."/>
+<person name="Eisman R."/>
+<person name="Surrey S."/>
+<person name="Delgrosso K."/>
+<person name="Bennett J.S."/>
+<person name="Schwartz E."/>
+<person name="Poncz M."/>
+</authorList>
+<dbReference type="PubMed" id="2322558"/>
+<dbReference type="DOI" id="10.1021/bi00457a020"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.-K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="9587" last="9590">
+<title>Human platelets and megakaryocytes contain alternately spliced glycoprotein IIb mRNAs.</title>
+<authorList>
+<person name="Bray P.F."/>
+<person name="Leung C.S.-I."/>
+<person name="Shuman M.A."/>
+</authorList>
+<dbReference type="PubMed" id="2351656"/>
+</citation>
+<scope>PARTIAL NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 1 AND 2)</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1988" name="Eur. J. Biochem." volume="171" first="87" last="93">
+<title>cDNA clones for human platelet GPIIb corresponding to mRNA from megakaryocytes and HEL cells. Evidence for an extensive homology to other Arg-Gly-Asp adhesion receptors.</title>
+<authorList>
+<person name="Uzan G."/>
+<person name="Frachet P."/>
+<person name="Lajmanovich A."/>
+<person name="Prandini M.-H."/>
+<person name="Denarier E."/>
+<person name="Duperray A."/>
+<person name="Loftus J."/>
+<person name="Ginsberg M."/>
+<person name="Plow E."/>
+<person name="Marguerie G."/>
+</authorList>
+<dbReference type="PubMed" id="3422188"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1988.tb13762.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 392-1039 (ISOFORM 1)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1987" name="J. Clin. Invest." volume="80" first="1812" last="1817">
+<title>Platelet glycoprotein IIb. Chromosomal localization and tissue expression.</title>
+<authorList>
+<person name="Bray P.F."/>
+<person name="Rosa J.P."/>
+<person name="Johnston G.I."/>
+<person name="Shiu D.T."/>
+<person name="Cook R.G."/>
+<person name="Lau C."/>
+<person name="Kan Y.W."/>
+<person name="McEver R.P."/>
+<person name="Shuman M.A."/>
+</authorList>
+<dbReference type="PubMed" id="3479442"/>
+<dbReference type="DOI" id="10.1172/JCI113277"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 868-1039 (ISOFORM 1)</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1988" name="Biochem. Biophys. Res. Commun." volume="156" first="595" last="601">
+<title>Isolation of the human platelet glycoprotein IIb gene and characterization of the 5' flanking region.</title>
+<authorList>
+<person name="Prandini M.H."/>
+<person name="Denarier E."/>
+<person name="Frachet P."/>
+<person name="Uzan G."/>
+<person name="Marguerie G."/>
+</authorList>
+<dbReference type="PubMed" id="2845986"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(88)80884-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-62 AND 1021-1039</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1986" name="Proc. Natl. Acad. Sci. U.S.A." volume="83" first="8351" last="8355">
+<title>Platelet glycoproteins IIb and IIIa: evidence for a family of immunologically and structurally related glycoproteins in mammalian cells.</title>
+<authorList>
+<person name="Charo I.F."/>
+<person name="Fitzgerald L.A."/>
+<person name="Steiner B."/>
+<person name="Rall S.C."/>
+<person name="Bekeart L.S."/>
+<person name="Phillips D.R."/>
+</authorList>
+<dbReference type="PubMed" id="3534886"/>
+<dbReference type="DOI" id="10.1073/pnas.83.21.8351"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 32-56 AND 903-917</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1991" name="Biochem. J." volume="279" first="419" last="425">
+<title>Separation of important new platelet glycoproteins (GPIa, GPIc, GPIc*, GPIIa and GMP-140) by F.P.L.C. Characterization by monoclonal antibodies and gas-phase sequencing.</title>
+<authorList>
+<person name="Catimel B."/>
+<person name="Parmentier S."/>
+<person name="Leung L.L."/>
+<person name="McGregor J.L."/>
+</authorList>
+<dbReference type="PubMed" id="1953640"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 32-42</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1996" name="Eur. J. Biochem." volume="237" first="205" last="211">
+<title>Thermal stability of individual domains in platelet glycoprotein IIbIIIa.</title>
+<authorList>
+<person name="Makogonenko E.M."/>
+<person name="Yakubenko V.P."/>
+<person name="Ingham K.C."/>
+<person name="Medved L.V."/>
+</authorList>
+<dbReference type="PubMed" id="8620874"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1996.0205n.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 32 AND 872</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1987" name="Blood" volume="69" first="560" last="564">
+<title>Purification and partial amino acid sequence of human platelet membrane glycoproteins IIb and IIIa.</title>
+<authorList>
+<person name="Hiraiwa A."/>
+<person name="Matsukage A."/>
+<person name="Shiku H."/>
+<person name="Takahashi T."/>
+<person name="Naito K."/>
+<person name="Yamada K."/>
+</authorList>
+<dbReference type="PubMed" id="3801670"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 487-501 AND 1026-1038</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1989" name="Biochem. J." volume="261" first="551" last="560">
+<title>Interchain and intrachain disulphide bonds in human platelet glycoprotein IIb. Localization of the epitopes for several monoclonal antibodies.</title>
+<authorList>
+<person name="Calvete J.J."/>
+<person name="Alvarez M.V."/>
+<person name="Rivas G."/>
+<person name="Hew C.L."/>
+<person name="Henschen A."/>
+<person name="Gonzalez-Rodriguez J."/>
+</authorList>
+<dbReference type="PubMed" id="2476117"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 903-922 AND 934-939</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1989" name="Biochem. J." volume="261" first="561" last="568">
+<title>Complete localization of the intrachain disulphide bonds and the N-glycosylation points in the alpha-subunit of human platelet glycoprotein IIb.</title>
+<authorList>
+<person name="Calvete J.J."/>
+<person name="Henschen A."/>
+<person name="Gonzalez-Rodriguez J."/>
+</authorList>
+<dbReference type="PubMed" id="2775232"/>
+</citation>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>GLYCOSYLATION AT ASN-46; ASN-280; ASN-601 AND ASN-711</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1993" name="FEBS Lett." volume="328" first="30" last="34">
+<title>Localization of an O-glycosylation site in the alpha-subunit of the human platelet integrin GPIIb/IIIa involved in Baka (HPA-3a) alloantigen expression.</title>
+<authorList>
+<person name="Calvete J.J."/>
+<person name="Muniz-Diaz E."/>
+</authorList>
+<dbReference type="PubMed" id="7688323"/>
+<dbReference type="DOI" id="10.1016/0014-5793(93)80959-X"/>
+</citation>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<scope>GLYCOSYLATION AT SER-878</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1998" name="Cancer Res." volume="58" first="4771" last="4775">
+<title>Identification of a novel truncated alphaIIb integrin.</title>
+<authorList>
+<person name="Trikha M."/>
+<person name="Cai Y."/>
+<person name="Grignon D."/>
+<person name="Honn K.V."/>
+</authorList>
+<dbReference type="PubMed" id="9809974"/>
+</citation>
+<scope>PARTIAL NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 3)</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1990" name="FEBS Lett." volume="272" first="37" last="40">
+<title>Characterization of the beta-chain N-terminus heterogeneity and the alpha-chain C-terminus of human platelet GPIIb. Posttranslational cleavage sites.</title>
+<authorList>
+<person name="Calvete J.J."/>
+<person name="Schafer W."/>
+<person name="Henschen A."/>
+<person name="Gonzalez-Rodriguez J."/>
+</authorList>
+<dbReference type="PubMed" id="2226834"/>
+<dbReference type="DOI" id="10.1016/0014-5793(90)80443-M"/>
+</citation>
+<scope>PROTEOLYTIC CLEAVAGE</scope>
+<scope>PYROGLUTAMATE FORMATION AT GLN-891</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="4651" last="4654">
+<title>Identification of a novel calcium-binding protein that interacts with the integrin alphaIIb cytoplasmic domain.</title>
+<authorList>
+<person name="Naik U.P."/>
+<person name="Patel P.M."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="9030514"/>
+<dbReference type="DOI" id="10.1074/jbc.272.8.4651"/>
+</citation>
+<scope>INTERACTION WITH CIB1</scope>
+<source>
+<tissue>Fetal liver</tissue>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1999" name="Biochem. J." volume="342" first="729" last="735">
+<title>Calcium-dependent properties of CIB binding to the integrin alphaIIb cytoplasmic domain and translocation to the platelet cytoskeleton.</title>
+<authorList>
+<person name="Shock D.D."/>
+<person name="Naik U.P."/>
+<person name="Brittain J.E."/>
+<person name="Alahari S.K."/>
+<person name="Sondek J."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="10477286"/>
+<dbReference type="DOI" id="10.1042/0264-6021:3420729"/>
+</citation>
+<scope>INTERACTION WITH CIB1</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="12945" last="12949">
+<title>Bidirectional transmembrane modulation of integrin alphaIIbbeta3 conformations.</title>
+<authorList>
+<person name="Leisner T.M."/>
+<person name="Wencel-Drake J.D."/>
+<person name="Wang W."/>
+<person name="Lam S.C."/>
+</authorList>
+<dbReference type="PubMed" id="10212286"/>
+<dbReference type="DOI" id="10.1074/jbc.274.18.12945"/>
+</citation>
+<scope>MUTAGENESIS OF 1029-PRO-PRO-1030</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2005" name="J. Proteome Res." volume="4" first="2070" last="2080">
+<title>Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.</title>
+<authorList>
+<person name="Liu T."/>
+<person name="Qian W.-J."/>
+<person name="Gritsenko M.A."/>
+<person name="Camp D.G. II"/>
+<person name="Monroe M.E."/>
+<person name="Moore R.J."/>
+<person name="Smith R.D."/>
+</authorList>
+<dbReference type="PubMed" id="16335952"/>
+<dbReference type="DOI" id="10.1021/pr0502065"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-601</scope>
+<source>
+<tissue>Plasma</tissue>
+</source>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2008" name="Biochem. Biophys. Res. Commun." volume="369" first="1088" last="1093">
+<title>RN181, a novel ubiquitin E3 ligase that interacts with the KVGFFKR motif of platelet integrin alpha(IIb)beta3.</title>
+<authorList>
+<person name="Brophy T.M."/>
+<person name="Raab M."/>
+<person name="Daxecker H."/>
+<person name="Culligan K.G."/>
+<person name="Lehmann I."/>
+<person name="Chubb A.J."/>
+<person name="Treumann A."/>
+<person name="Moran N."/>
+</authorList>
+<dbReference type="PubMed" id="18331836"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2008.02.142"/>
+</citation>
+<scope>INTERACTION WITH RNF181</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="17181" last="17192">
+<title>Solution structures of Ca2+-CIB1 and Mg2+-CIB1 and their interactions with the platelet integrin alphaIIb cytoplasmic domain.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Ishida H."/>
+<person name="Yamniuk A.P."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="21388953"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.179028"/>
+</citation>
+<scope>INTERACTION WITH CIB1</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2012" name="Biochem. Cell Biol." volume="90" first="646" last="656">
+<title>Biophysical and structural studies of the human calcium- and integrin-binding protein family: understanding their functional similarities and differences.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Bogstie J.N."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="22779914"/>
+<dbReference type="DOI" id="10.1139/o2012-021"/>
+</citation>
+<scope>INTERACTION WITH CIB1; CIB2; CIB3 AND CIB4</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2012" name="J. Am. Chem. Soc." volume="134" first="3864" last="3872">
+<title>Structural basis for the activation of platelet integrin alphaIIbbeta3 by calcium- and integrin-binding protein 1.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="22283712"/>
+<dbReference type="DOI" id="10.1021/ja2111306"/>
+</citation>
+<scope>INTERACTION WITH CIB1</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="1994" name="Thromb. Haemost." volume="72" first="492" last="502">
+<title>Inherited diseases of platelet glycoproteins: considerations for rapid molecular characterization.</title>
+<authorList>
+<person name="Bray P.F."/>
+</authorList>
+<dbReference type="PubMed" id="7878622"/>
+</citation>
+<scope>REVIEW ON GT VARIANTS</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="1990" name="Blood" volume="75" first="2343" last="2348">
+<title>Polymorphism of human platelet membrane glycoprotein IIb associated with the Baka/Bakb alloantigen system.</title>
+<authorList>
+<person name="Lyman S."/>
+<person name="Aster R.H."/>
+<person name="Visentin G.P."/>
+<person name="Newman P.J."/>
+</authorList>
+<dbReference type="PubMed" id="2350579"/>
+</citation>
+<scope>VARIANT HPA-3 (BAK)</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="1994" name="J. Clin. Invest." volume="93" first="172" last="179">
+<title>Glanzmann thrombasthenia secondary to a Gly273-->Asp mutation adjacent to the first calcium-binding domain of platelet glycoprotein IIb.</title>
+<authorList>
+<person name="Poncz M."/>
+<person name="Rifat S."/>
+<person name="Coller B.S."/>
+<person name="Newman P.J."/>
+<person name="Shattil S.J."/>
+<person name="Parrella T."/>
+<person name="Fortina P."/>
+<person name="Bennett J.S."/>
+</authorList>
+<dbReference type="PubMed" id="8282784"/>
+<dbReference type="DOI" id="10.1172/JCI116942"/>
+</citation>
+<scope>VARIANT GT ASP-273</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="4450" last="4457">
+<title>A single amino acid substitution flanking the fourth calcium binding domain of alpha IIb prevents maturation of the alpha IIb beta 3 integrin complex.</title>
+<authorList>
+<person name="Wilcox D.A."/>
+<person name="Wautier J.-L."/>
+<person name="Pidard D."/>
+<person name="Newman P.J."/>
+</authorList>
+<dbReference type="PubMed" id="7508443"/>
+</citation>
+<scope>VARIANT GT ASP-449</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="1995" name="J. Clin. Invest." volume="95" first="1553" last="1560">
+<title>Glanzmann thrombasthenia resulting from a single amino acid substitution between the second and third calcium-binding domains of GPIIb. Role of the GPIIb amino terminus in integrin subunit association.</title>
+<authorList>
+<person name="Wilcox D.A."/>
+<person name="Paddock C.M."/>
+<person name="Lyman S."/>
+<person name="Gill J.C."/>
+<person name="Newman P.J."/>
+</authorList>
+<dbReference type="PubMed" id="7706461"/>
+<dbReference type="DOI" id="10.1172/JCI117828"/>
+</citation>
+<scope>VARIANT GT HIS-358</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="1996" name="Blood" volume="88" first="167" last="173">
+<title>Glanzmann thrombasthenia due to a two amino acid deletion in the fourth calcium-binding domain of alpha IIb: demonstration of the importance of calcium-binding domains in the conformation of alpha IIb beta 3.</title>
+<authorList>
+<person name="Basani R.B."/>
+<person name="Vilaire G."/>
+<person name="Shattil S.J."/>
+<person name="Kolodziej M.A."/>
+<person name="Bennett J.S."/>
+<person name="Poncz M."/>
+</authorList>
+<dbReference type="PubMed" id="8704171"/>
+</citation>
+<scope>VARIANT GT VAL-456-457-ASP DEL</scope>
+<scope>CHARACTERIZATION OF VARIANT GT VAL-456-457-ASP DEL</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1997" name="Blood Cells Mol. Dis." volume="23" first="39" last="51">
+<title>Hematologically important mutations: Glanzmann thrombasthenia.</title>
+<authorList>
+<person name="French D.L."/>
+<person name="Coller B.S."/>
+</authorList>
+<dbReference type="PubMed" id="9215749"/>
+<dbReference type="DOI" id="10.1006/bcmd.1997.0117"/>
+</citation>
+<scope>VARIANTS GT ILE-207; THR-596 AND GLN-1026</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1998" name="Blood" volume="91" first="1562" last="1571">
+<title>Glycoprotein IIb Leu214Pro mutation produces Glanzmann thrombasthenia with both quantitative and qualitative abnormalities in GPIIb/IIIa.</title>
+<authorList>
+<person name="Grimaldi C.M."/>
+<person name="Chen F."/>
+<person name="Wu C."/>
+<person name="Weiss H.J."/>
+<person name="Coller B.S."/>
+<person name="French D.L."/>
+</authorList>
+<dbReference type="PubMed" id="9473221"/>
+</citation>
+<scope>VARIANT GT PRO-214</scope>
+<scope>CHARACTERIZATION OF VARIANT GT PRO-214</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1998" name="Blood" volume="92" first="2750" last="2758">
+<title>A Gln747-->Pro substitution in the IIb subunit is responsible for a moderate IIbbeta3 deficiency in Glanzmann thrombasthenia.</title>
+<authorList>
+<person name="Tadokoro S."/>
+<person name="Tomiyama Y."/>
+<person name="Honda S."/>
+<person name="Arai M."/>
+<person name="Yamamoto N."/>
+<person name="Shiraga M."/>
+<person name="Kosugi S."/>
+<person name="Kanakura Y."/>
+<person name="Kurata Y."/>
+<person name="Matsuzawa Y."/>
+</authorList>
+<dbReference type="PubMed" id="9763559"/>
+</citation>
+<scope>VARIANT GT PRO-778</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="1998" name="Blood" volume="92" first="4178" last="4187">
+<title>R to Q amino acid substitution in the GFFKR sequence of the cytoplasmic domain of the integrin IIb subunit in a patient with a Glanzmann's thrombasthenia-like syndrome.</title>
+<authorList>
+<person name="Peyruchaud O."/>
+<person name="Nurden A.T."/>
+<person name="Milet S."/>
+<person name="Macchi L."/>
+<person name="Pannochia A."/>
+<person name="Bray P.F."/>
+<person name="Kieffer N."/>
+<person name="Bourre F."/>
+</authorList>
+<dbReference type="PubMed" id="9834222"/>
+</citation>
+<scope>VARIANT BDPLT16 GLN-1026</scope>
+<scope>CHARACTERIZATION OF VARIANT BDPLT16 GLN-1026</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="1998" name="Br. J. Haematol." volume="102" first="829" last="840">
+<title>Novel point mutations in the alphaIIb subunit (Phe289-->Ser, Glu324-->Lys and Gln747-->Pro) causing thrombasthenic phenotypes in four Japanese patients.</title>
+<authorList>
+<person name="Ambo H."/>
+<person name="Kamata T."/>
+<person name="Handa M."/>
+<person name="Kawai Y."/>
+<person name="Oda A."/>
+<person name="Murata M."/>
+<person name="Takada Y."/>
+<person name="Ikeda Y."/>
+</authorList>
+<dbReference type="PubMed" id="9722314"/>
+<dbReference type="DOI" id="10.1046/j.1365-2141.1998.00824.x"/>
+</citation>
+<scope>VARIANTS GT SER-320; LYS-355 AND PRO-778</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="1998" name="Br. J. Haematol." volume="102" first="918" last="925">
+<title>Double heterozygosity of the GPIIb gene in a Swiss patient with Glanzmann's thrombasthenia.</title>
+<authorList>
+<person name="Ruan J."/>
+<person name="Peyruchaud O."/>
+<person name="Alberio L."/>
+<person name="Valles G."/>
+<person name="Clemetson K."/>
+<person name="Bourre F."/>
+<person name="Nurden A.T."/>
+</authorList>
+<dbReference type="PubMed" id="9734640"/>
+<dbReference type="DOI" id="10.1046/j.1365-2141.1998.00852.x"/>
+</citation>
+<scope>VARIANTS GT LYS-355 AND THR-596</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="1999" name="Nat. Genet." volume="22" first="231" last="238">
+<title>Characterization of single-nucleotide polymorphisms in coding regions of human genes.</title>
+<authorList>
+<person name="Cargill M."/>
+<person name="Altshuler D."/>
+<person name="Ireland J."/>
+<person name="Sklar P."/>
+<person name="Ardlie K."/>
+<person name="Patil N."/>
+<person name="Shaw N."/>
+<person name="Lane C.R."/>
+<person name="Lim E.P."/>
+<person name="Kalyanaraman N."/>
+<person name="Nemesh J."/>
+<person name="Ziaugra L."/>
+<person name="Friedland L."/>
+<person name="Rolfe A."/>
+<person name="Warrington J."/>
+<person name="Lipshutz R."/>
+<person name="Daley G.Q."/>
+<person name="Lander E.S."/>
+</authorList>
+<dbReference type="PubMed" id="10391209"/>
+<dbReference type="DOI" id="10.1038/10290"/>
+</citation>
+<scope>VARIANTS ILE-40; SER-874 AND ASN-968</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="1999" name="Blood" volume="93" first="866" last="875">
+<title>Molecular genetic analysis of a compound heterozygote for the glycoprotein (GP) IIb gene associated with Glanzmann's thrombasthenia: disruption of the 674-687 disulfide bridge in GPIIb prevents surface exposure of GPIIb-IIIa complexes.</title>
+<authorList>
+<person name="Gonzalez-Manchon C."/>
+<person name="Fernandez-Pinel M."/>
+<person name="Arias-Salgado E.G."/>
+<person name="Ferrer M."/>
+<person name="Alvarez M.-V."/>
+<person name="Garcia-Munoz S."/>
+<person name="Ayuso M.S."/>
+<person name="Parrilla R."/>
+</authorList>
+<dbReference type="PubMed" id="9920835"/>
+</citation>
+<scope>VARIANT GT ARG-705</scope>
+<scope>CHARACTERIZATION OF VARIANT GT ARG-705</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="1999" name="Nat. Genet." volume="23" first="373" last="373">
+<authorList>
+<person name="Cargill M."/>
+<person name="Altshuler D."/>
+<person name="Ireland J."/>
+<person name="Sklar P."/>
+<person name="Ardlie K."/>
+<person name="Patil N."/>
+<person name="Shaw N."/>
+<person name="Lane C.R."/>
+<person name="Lim E.P."/>
+<person name="Kalyanaraman N."/>
+<person name="Nemesh J."/>
+<person name="Ziaugra L."/>
+<person name="Friedland L."/>
+<person name="Rolfe A."/>
+<person name="Warrington J."/>
+<person name="Lipshutz R."/>
+<person name="Daley G.Q."/>
+<person name="Lander E.S."/>
+</authorList>
+</citation>
+<scope>ERRATUM</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2000" name="Blood" volume="95" first="180" last="188">
+<title>A naturally occurring mutation near the amino terminus of alphaIIb defines a new region involved in ligand binding to alphaIIbbeta3.</title>
+<authorList>
+<person name="Basani R.B."/>
+<person name="French D.L."/>
+<person name="Vilaire G."/>
+<person name="Brown D.L."/>
+<person name="Chen F."/>
+<person name="Coller B.S."/>
+<person name="Derrick J.M."/>
+<person name="Gartner T.K."/>
+<person name="Bennett J.S."/>
+<person name="Poncz M."/>
+</authorList>
+<dbReference type="PubMed" id="10607701"/>
+</citation>
+<scope>VARIANTS GT ALA-176 AND LEU-176</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2001" name="Platelets" volume="12" first="486" last="495">
+<title>Description of 10 new mutations in platelet glycoprotein IIb (alphaIIb) and glycoprotein IIIa (beta3) genes.</title>
+<authorList>
+<person name="Vinciguerra C."/>
+<person name="Bordet J.C."/>
+<person name="Beaune G."/>
+<person name="Grenier C."/>
+<person name="Dechavanne M."/>
+<person name="Negrier C."/>
+</authorList>
+<dbReference type="PubMed" id="11798398"/>
+<dbReference type="DOI" id="10.1080/095371001317126383"/>
+</citation>
+<scope>VARIANTS GT TRP-161; LEU-222; ARG-412 AND PRO-847</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2002" name="Br. J. Haematol." volume="118" first="833" last="835">
+<title>A Leu55 to Pro substitution in the integrin alphaIIb is responsible for a case of Glanzmann's thrombasthenia.</title>
+<authorList>
+<person name="Tanaka S."/>
+<person name="Hayashi T."/>
+<person name="Hori Y."/>
+<person name="Terada C."/>
+<person name="Han K.S."/>
+<person name="Ahn H.S."/>
+<person name="Bourre F."/>
+<person name="Tani Y."/>
+</authorList>
+<dbReference type="PubMed" id="12181054"/>
+<dbReference type="DOI" id="10.1046/j.1365-2141.2002.03678.x"/>
+</citation>
+<scope>VARIANT GT PRO-86</scope>
+<scope>CHARACTERIZATION OF VARIANT GT PRO-86</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2002" name="Thromb. Haemost." volume="87" first="1034" last="1042">
+<title>Glanzmann's thrombasthenia: identification of 19 new mutations in 30 patients.</title>
+<authorList>
+<person name="D'Andrea G."/>
+<person name="Colaizzo D."/>
+<person name="Vecchione G."/>
+<person name="Grandone E."/>
+<person name="Di Minno G."/>
+<person name="Margaglione M."/>
+</authorList>
+<dbReference type="PubMed" id="12083483"/>
+</citation>
+<scope>VARIANTS GT VAL-139; ALA-176; GLU-267; ASP-380; THR-405; ASP-581; ARG-705; VAL-752 AND PRO-755</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2003" name="Blood" volume="101" first="2268" last="2276">
+<title>Two novel mutations in the alpha IIb calcium-binding domains identify hydrophobic regions essential for alpha IIbbeta 3 biogenesis.</title>
+<authorList>
+<person name="Mitchell W.B."/>
+<person name="Li J.H."/>
+<person name="Singh F."/>
+<person name="Michelson A.D."/>
+<person name="Bussel J."/>
+<person name="Coller B.S."/>
+<person name="French D.L."/>
+</authorList>
+<dbReference type="PubMed" id="12424194"/>
+<dbReference type="DOI" id="10.1182/blood-2002-07-2266"/>
+</citation>
+<scope>VARIANTS GT PHE-329 AND THR-405</scope>
+<scope>CHARACTERIZATION OF VARIANTS GT PHE-329 AND THR-405</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2003" name="Blood" volume="101" first="3485" last="3491">
+<title>A naturally occurring Tyr143His alpha IIb mutation abolishes alpha IIb beta 3 function for soluble ligands but retains its ability for mediating cell adhesion and clot retraction: comparison with other mutations causing ligand-binding defects.</title>
+<authorList>
+<person name="Kiyoi T."/>
+<person name="Tomiyama Y."/>
+<person name="Honda S."/>
+<person name="Tadokoro S."/>
+<person name="Arai M."/>
+<person name="Kashiwagi H."/>
+<person name="Kosugi S."/>
+<person name="Kato H."/>
+<person name="Kurata Y."/>
+<person name="Matsuzawa Y."/>
+</authorList>
+<dbReference type="PubMed" id="12506038"/>
+<dbReference type="DOI" id="10.1182/blood-2002-07-2144"/>
+</citation>
+<scope>VARIANT GT HIS-174</scope>
+<scope>CHARACTERIZATION OF VARIANT GT HIS-174</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2004" name="J. Thromb. Haemost." volume="2" first="813" last="819">
+<title>Triple heterozygosity in the integrin alphaIIb subunit in a patient with Glanzmann's thrombasthenia.</title>
+<authorList>
+<person name="Nurden A.T."/>
+<person name="Breillat C."/>
+<person name="Jacquelin B."/>
+<person name="Combrie R."/>
+<person name="Freedman J."/>
+<person name="Blanchette V.S."/>
+<person name="Schmugge M."/>
+<person name="Rand M.L."/>
+</authorList>
+<dbReference type="PubMed" id="15099289"/>
+<dbReference type="DOI" id="10.1046/j.1538-7836.2004.00711.x"/>
+</citation>
+<scope>VARIANT GT MET-982</scope>
+<scope>CHARACTERIZATION OF VARIANT GT MET-982</scope>
+<scope>VARIANT THR-989</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2004" name="J. Thromb. Haemost." volume="2" first="1167" last="1175">
+<title>A novel Phe171Cys mutation in integrin alpha causes Glanzmann thrombasthenia by abrogating alphaIIbbeta3 complex formation.</title>
+<authorList>
+<person name="Rosenberg N."/>
+<person name="Landau M."/>
+<person name="Luboshitz J."/>
+<person name="Rechavi G."/>
+<person name="Seligsohn U."/>
+</authorList>
+<dbReference type="PubMed" id="15219201"/>
+<dbReference type="DOI" id="10.1111/j.1538-7836.2004.00758.x"/>
+</citation>
+<scope>VARIANT GT CYS-202</scope>
+<scope>CHARACTERIZATION OF VARIANT GT CYS-202</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2006" name="Haematologica" volume="91" first="1352" last="1359">
+<title>Type II Glanzmann thrombasthenia in a compound heterozygote for the alpha IIb gene. A novel missense mutation in exon 27.</title>
+<authorList>
+<person name="Jayo A."/>
+<person name="Pabon D."/>
+<person name="Lastres P."/>
+<person name="Jimenez-Yuste V."/>
+<person name="Gonzalez-Manchon C."/>
+</authorList>
+<dbReference type="PubMed" id="17018384"/>
+</citation>
+<scope>VARIANT GT LEU-943</scope>
+<scope>CHARACTERIZATION OF VARIANT GT LEU-943</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2010" name="Hum. Mutat." volume="31" first="237" last="246">
+<title>AlphaIIbbeta3 integrin: new allelic variants in Glanzmann thrombasthenia, effects on ITGA2B and ITGB3 mRNA splicing, expression, and structure-function.</title>
+<authorList>
+<person name="Jallu V."/>
+<person name="Dusseaux M."/>
+<person name="Panzer S."/>
+<person name="Torchet M.F."/>
+<person name="Hezard N."/>
+<person name="Goudemand J."/>
+<person name="de Brevern A.G."/>
+<person name="Kaplan C."/>
+</authorList>
+<dbReference type="PubMed" id="20020534"/>
+<dbReference type="DOI" id="10.1002/humu.21179"/>
+</citation>
+<scope>VARIANTS GT THR-405; THR-596; ARG-705; PRO-778; PHE-934; LEU-957; MET-982 AND THR-989</scope>
+<scope>CHARACTERIZATION OF VARIANTS GT PHE-934 AND LEU-957</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="2011" name="Blood" volume="117" first="5479" last="5484">
+<title>Heterozygous ITGA2B R995W mutation inducing constitutive activation of the alphaIIbbeta3 receptor affects proplatelet formation and causes congenital macrothrombocytopenia.</title>
+<authorList>
+<person name="Kunishima S."/>
+<person name="Kashiwagi H."/>
+<person name="Otsu M."/>
+<person name="Takayama N."/>
+<person name="Eto K."/>
+<person name="Onodera M."/>
+<person name="Miyajima Y."/>
+<person name="Takamatsu Y."/>
+<person name="Suzumiya J."/>
+<person name="Matsubara K."/>
+<person name="Tomiyama Y."/>
+<person name="Saito H."/>
+</authorList>
+<dbReference type="PubMed" id="21454453"/>
+<dbReference type="DOI" id="10.1182/blood-2010-12-323691"/>
+</citation>
+<scope>VARIANT BDPLT16 TRP-1026</scope>
+<scope>CHARACTERIZATION OF VARIANT BDPLT16 TRP-1026</scope>
+</reference>
+<comment type="function">
+<text>Integrin alpha-IIb/beta-3 is a receptor for fibronectin, fibrinogen, plasminogen, prothrombin, thrombospondin and vitronectin. It recognizes the sequence R-G-D in a wide array of ligands. It recognizes the sequence H-H-L-G-G-G-A-K-Q-A-G-D-V in fibrinogen gamma chain. Following activation integrin alpha-IIb/beta-3 brings about platelet/platelet interaction through binding of soluble fibrinogen. This step leads to rapid platelet aggregation which physically plugs ruptured endothelial cell surface.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 15 18 21 22 33">Heterodimer of an alpha and a beta subunit. The alpha subunit is composed of a heavy and a light chain linked by a disulfide bond. Alpha-IIb associates with beta-3. Directly interacts with RNF181. Interacts (via C-terminus cytoplasmic tail region) with CIB1; the interaction is direct and calcium-dependent. Interacts (via C-terminus cytoplasmic tail region) with CIB2, CIB3 and CIB4; the interactions are stabilized/increased in a calcium and magnesium-dependent manner.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-702693"/>
+<interactant intactId="EBI-702693"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-702693"/>
+<interactant intactId="EBI-702847">
+<id>P05106</id>
+<label>ITGB3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Membrane</location>
+<topology>Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P08514-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P08514-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_002737"/>
+</isoform>
+<isoform>
+<id>P08514-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_002736"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>Isoform 1 and isoform 2 were identified in platelets and megakaryocytes, but not in reticulocytes or in Jurkat and U-937 white blood cell line. Isoform 3 is expressed by leukemia, prostate adenocarcinoma and melanoma cells but not by platelets or normal prostate or breast epithelial cells.</text>
+</comment>
+<comment type="polymorphism">
+<text>Position 874 is associated with platelet-specific alloantigen HPA-3/BAK/LEK. HPA-3A/BAK(A)/LEK(A) has Ile-874 and HPA-3B/BAK(B)/LEK(B) has Ser-874. HPA-3B is involved in neonatal alloimmune thrombocytopenia (NAIT or NATP).</text>
+</comment>
+<comment type="disease" evidence="5 6 7 8 9 10 11 12 14 17 27 29 30 32 34 35 36 37 38 40">
+<disease id="DI-01664">
+<name>Glanzmann thrombasthenia</name>
+<acronym>GT</acronym>
+<description>A common inherited disease of platelet aggregation. It is characterized by mucocutaneous bleeding of mild-to-moderate severity. GT has been classified clinically into types I and II. In type I, platelets show absence of the glycoprotein IIb-IIIa complexes at their surface and lack fibrinogen and clot retraction capability. In type II, the platelets express the GPIIb-IIIa complex at reduced levels, have detectable amounts of fibrinogen, and have low or moderate clot retraction capability.</description>
+<dbReference type="MIM" id="273800"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="19 39">
+<disease id="DI-03752">
+<name>Bleeding disorder, platelet-type 16</name>
+<acronym>BDPLT16</acronym>
+<description>An autosomal dominant form of congenital macrothrombocytopenia associated with platelet anisocytosis. It is a disorder of platelet production. Affected individuals may have no or only mildly increased bleeding tendency. In vitro studies show mild platelet functional abnormalities.</description>
+<dbReference type="MIM" id="187800"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="41">Belongs to the integrin alpha chain family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="41">Contains 7 FG-GAP repeats.</text>
+</comment>
+<dbReference type="EMBL" id="J02764">
+<property type="protein sequence ID" value="AAA60114.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M34480">
+<property type="protein sequence ID" value="AAA35926.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M34344">
+<property type="protein sequence ID" value="AAA53150.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M33319">
+<property type="protein sequence ID" value="AAA53150.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M33320">
+<property type="protein sequence ID" value="AAA53150.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M54799">
+<property type="protein sequence ID" value="AAA52599.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X06831">
+<property type="protein sequence ID" value="CAA29987.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M18085">
+<property type="protein sequence ID" value="AAA52597.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M22568">
+<property type="protein sequence ID" value="AAA52587.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M22569">
+<property type="protein sequence ID" value="AAA52588.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF098114">
+<property type="protein sequence ID" value="AAC98507.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK315335">
+<property type="protein sequence ID" value="BAG37735.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC003043">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC117443">
+<property type="protein sequence ID" value="AAI17444.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC126442">
+<property type="protein sequence ID" value="AAI26443.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS32665.1">
+<molecule id="P08514-1"/>
+</dbReference>
+<dbReference type="PIR" id="A34269">
+<property type="entry name" value="A34269"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000410.2">
+<molecule id="P08514-1"/>
+<property type="nucleotide sequence ID" value="NM_000419.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.411312"/>
+<dbReference type="PDB" id="1DPK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1020-1039"/>
+</dbReference>
+<dbReference type="PDB" id="1DPQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1020-1039"/>
+</dbReference>
+<dbReference type="PDB" id="1JX5">
+<property type="method" value="Model"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="1KUP">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1018-1028"/>
+</dbReference>
+<dbReference type="PDB" id="1KUZ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1018-1028"/>
+</dbReference>
+<dbReference type="PDB" id="1M8O">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1020-1039"/>
+</dbReference>
+<dbReference type="PDB" id="1RN0">
+<property type="method" value="Model"/>
+<property type="chains" value="A=32-482"/>
+</dbReference>
+<dbReference type="PDB" id="1S4W">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1020-1039"/>
+</dbReference>
+<dbReference type="PDB" id="1TYE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/C/E=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="1UV9">
+<property type="method" value="Model"/>
+<property type="chains" value="A=32-973"/>
+</dbReference>
+<dbReference type="PDB" id="2K1A">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=989-1029"/>
+</dbReference>
+<dbReference type="PDB" id="2K9J">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=989-1029"/>
+</dbReference>
+<dbReference type="PDB" id="2KNC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=991-1039"/>
+</dbReference>
+<dbReference type="PDB" id="2VC2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.51"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.59"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="2VDR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=32-483"/>
+</dbReference>
+<dbReference type="PDB" id="3FCS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="A/C=32-989"/>
+</dbReference>
+<dbReference type="PDB" id="3FCU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/C/E=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3NID">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3NIF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3NIG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3T3M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3T3P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3ZDX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3ZDY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3ZDZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3ZE0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3ZE1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="3ZE2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/C=32-488"/>
+</dbReference>
+<dbReference type="PDB" id="4CAK">
+<property type="method" value="EM"/>
+<property type="resolution" value="20.50"/>
+<property type="chains" value="A=32-989"/>
+</dbReference>
+<dbReference type="PDBsum" id="1DPK"/>
+<dbReference type="PDBsum" id="1DPQ"/>
+<dbReference type="PDBsum" id="1JX5"/>
+<dbReference type="PDBsum" id="1KUP"/>
+<dbReference type="PDBsum" id="1KUZ"/>
+<dbReference type="PDBsum" id="1M8O"/>
+<dbReference type="PDBsum" id="1RN0"/>
+<dbReference type="PDBsum" id="1S4W"/>
+<dbReference type="PDBsum" id="1TYE"/>
+<dbReference type="PDBsum" id="1UV9"/>
+<dbReference type="PDBsum" id="2K1A"/>
+<dbReference type="PDBsum" id="2K9J"/>
+<dbReference type="PDBsum" id="2KNC"/>
+<dbReference type="PDBsum" id="2VC2"/>
+<dbReference type="PDBsum" id="2VDK"/>
+<dbReference type="PDBsum" id="2VDL"/>
+<dbReference type="PDBsum" id="2VDM"/>
+<dbReference type="PDBsum" id="2VDN"/>
+<dbReference type="PDBsum" id="2VDO"/>
+<dbReference type="PDBsum" id="2VDP"/>
+<dbReference type="PDBsum" id="2VDQ"/>
+<dbReference type="PDBsum" id="2VDR"/>
+<dbReference type="PDBsum" id="3FCS"/>
+<dbReference type="PDBsum" id="3FCU"/>
+<dbReference type="PDBsum" id="3NID"/>
+<dbReference type="PDBsum" id="3NIF"/>
+<dbReference type="PDBsum" id="3NIG"/>
+<dbReference type="PDBsum" id="3T3M"/>
+<dbReference type="PDBsum" id="3T3P"/>
+<dbReference type="PDBsum" id="3ZDX"/>
+<dbReference type="PDBsum" id="3ZDY"/>
+<dbReference type="PDBsum" id="3ZDZ"/>
+<dbReference type="PDBsum" id="3ZE0"/>
+<dbReference type="PDBsum" id="3ZE1"/>
+<dbReference type="PDBsum" id="3ZE2"/>
+<dbReference type="PDBsum" id="4CAK"/>
+<dbReference type="ProteinModelPortal" id="P08514"/>
+<dbReference type="SMR" id="P08514">
+<property type="residue range" value="32-989, 991-1039"/>
+</dbReference>
+<dbReference type="BioGrid" id="109881">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-68N"/>
+<dbReference type="IntAct" id="P08514">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000262407"/>
+<dbReference type="BindingDB" id="P08514"/>
+<dbReference type="ChEMBL" id="CHEMBL2111443"/>
+<dbReference type="DrugBank" id="DB00054">
+<property type="generic name" value="Abciximab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00775">
+<property type="generic name" value="Tirofiban"/>
+</dbReference>
+<dbReference type="PhosphoSite" id="P08514"/>
+<dbReference type="DMDM" id="226694183"/>
+<dbReference type="OGP" id="P08514"/>
+<dbReference type="PaxDb" id="P08514"/>
+<dbReference type="PRIDE" id="P08514"/>
+<dbReference type="Ensembl" id="ENST00000262407">
+<molecule id="P08514-1"/>
+<property type="protein sequence ID" value="ENSP00000262407"/>
+<property type="gene ID" value="ENSG00000005961"/>
+</dbReference>
+<dbReference type="GeneID" id="3674"/>
+<dbReference type="KEGG" id="hsa:3674"/>
+<dbReference type="UCSC" id="uc002igt.1">
+<molecule id="P08514-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="3674"/>
+<dbReference type="GeneCards" id="GC17M042460"/>
+<dbReference type="HGNC" id="HGNC:6138">
+<property type="gene designation" value="ITGA2B"/>
+</dbReference>
+<dbReference type="HPA" id="CAB018611"/>
+<dbReference type="HPA" id="HPA031168"/>
+<dbReference type="HPA" id="HPA031169"/>
+<dbReference type="HPA" id="HPA031170"/>
+<dbReference type="HPA" id="HPA031171"/>
+<dbReference type="MIM" id="187800">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="273800">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="607759">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P08514"/>
+<dbReference type="Orphanet" id="140957">
+<property type="disease" value="Autosomal dominant macrothrombocytopenia"/>
+</dbReference>
+<dbReference type="Orphanet" id="853">
+<property type="disease" value="Fetal and neonatal alloimmune thrombocytopenia"/>
+</dbReference>
+<dbReference type="Orphanet" id="849">
+<property type="disease" value="Glanzmann thrombasthenia"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA29938"/>
+<dbReference type="eggNOG" id="NOG26407"/>
+<dbReference type="GeneTree" id="ENSGT00760000118782"/>
+<dbReference type="HOGENOM" id="HOG000231603"/>
+<dbReference type="HOVERGEN" id="HBG006186"/>
+<dbReference type="InParanoid" id="P08514"/>
+<dbReference type="KO" id="K06476"/>
+<dbReference type="OMA" id="CFNIQMC"/>
+<dbReference type="OrthoDB" id="EOG7TMZQZ"/>
+<dbReference type="PhylomeDB" id="P08514"/>
+<dbReference type="TreeFam" id="TF105391"/>
+<dbReference type="Reactome" id="REACT_13552">
+<property type="pathway name" value="Integrin cell surface interactions"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_15381">
+<property type="pathway name" value="p130Cas linkage to MAPK signaling for integrins"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_15523">
+<property type="pathway name" value="Integrin alphaIIb beta3 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_163906">
+<property type="pathway name" value="ECM proteoglycans"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_22272">
+<property type="pathway name" value="Signal transduction by L1"/>
+</dbReference>
+<dbReference type="SignaLink" id="P08514"/>
+<dbReference type="EvolutionaryTrace" id="P08514"/>
+<dbReference type="GeneWiki" id="ITGA2B"/>
+<dbReference type="GenomeRNAi" id="3674"/>
+<dbReference type="NextBio" id="14381"/>
+<dbReference type="PMAP-CutDB" id="Q17R67"/>
+<dbReference type="PRO" id="PR:P08514"/>
+<dbReference type="Bgee" id="P08514"/>
+<dbReference type="CleanEx" id="HS_ITGA2B"/>
+<dbReference type="ExpressionAtlas" id="P08514">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="P08514"/>
+<dbReference type="GO" id="GO:0072562">
+<property type="term" value="C:blood microparticle"/>
+<property type="evidence" value="IDA:UniProt"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009897">
+<property type="term" value="C:external side of plasma membrane"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular vesicular exosome"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005925">
+<property type="term" value="C:focal adhesion"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008305">
+<property type="term" value="C:integrin complex"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031092">
+<property type="term" value="C:platelet alpha granule membrane"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050840">
+<property type="term" value="F:extracellular matrix binding"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="IPI:IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007411">
+<property type="term" value="P:axon guidance"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007155">
+<property type="term" value="P:cell adhesion"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007160">
+<property type="term" value="P:cell-matrix adhesion"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030198">
+<property type="term" value="P:extracellular matrix organization"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007229">
+<property type="term" value="P:integrin-mediated signaling pathway"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030168">
+<property type="term" value="P:platelet activation"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070527">
+<property type="term" value="P:platelet aggregation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002576">
+<property type="term" value="P:platelet degranulation"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002687">
+<property type="term" value="P:positive regulation of leukocyte migration"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013517">
+<property type="entry name" value="FG-GAP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013519">
+<property type="entry name" value="Int_alpha_beta-p"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000413">
+<property type="entry name" value="Integrin_alpha"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013649">
+<property type="entry name" value="Integrin_alpha-2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018184">
+<property type="entry name" value="Integrin_alpha_C_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01839">
+<property type="entry name" value="FG-GAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00357">
+<property type="entry name" value="Integrin_alpha"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08441">
+<property type="entry name" value="Integrin_alpha2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01185">
+<property type="entry name" value="INTEGRINA"/>
+</dbReference>
+<dbReference type="SMART" id="SM00191">
+<property type="entry name" value="Int_alpha"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51470">
+<property type="entry name" value="FG_GAP"/>
+<property type="match status" value="7"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00242">
+<property type="entry name" value="INTEGRIN_ALPHA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0130">Cell adhesion</keyword>
+<keyword id="KW-0165">Cleavage on pair of basic residues</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0401">Integrin</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0873">Pyrrolidone carboxylic acid</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="16 26 31">
+<location>
+<begin position="1"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="chain" description="Integrin alpha-IIb" id="PRO_0000016275">
+<location>
+<begin position="32"/>
+<end position="1039"/>
+</location>
+</feature>
+<feature type="chain" description="Integrin alpha-IIb heavy chain" id="PRO_0000016276">
+<location>
+<begin position="32"/>
+<end position="887"/>
+</location>
+</feature>
+<feature type="chain" description="Integrin alpha-IIb light chain, form 1" id="PRO_0000292348">
+<location>
+<begin position="891"/>
+<end position="1039"/>
+</location>
+</feature>
+<feature type="chain" description="Integrin alpha-IIb light chain, form 2" id="PRO_0000016277">
+<location>
+<begin position="903"/>
+<end position="1039"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="1">
+<location>
+<begin position="32"/>
+<end position="993"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="994"/>
+<end position="1019"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="1020"/>
+<end position="1039"/>
+</location>
+</feature>
+<feature type="repeat" description="FG-GAP 1">
+<location>
+<begin position="35"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="repeat" description="FG-GAP 2">
+<location>
+<begin position="110"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="repeat" description="FG-GAP 3">
+<location>
+<begin position="186"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="repeat" description="FG-GAP 4">
+<location>
+<begin position="251"/>
+<end position="310"/>
+</location>
+</feature>
+<feature type="repeat" description="FG-GAP 5">
+<location>
+<begin position="311"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="repeat" description="FG-GAP 6">
+<location>
+<begin position="373"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="repeat" description="FG-GAP 7">
+<location>
+<begin position="434"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="calcium-binding region" evidence="1">
+<location>
+<begin position="274"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="calcium-binding region" evidence="1">
+<location>
+<begin position="328"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="calcium-binding region" evidence="1">
+<location>
+<begin position="396"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="calcium-binding region" evidence="1">
+<location>
+<begin position="457"/>
+<end position="465"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="GFFKR motif">
+<location>
+<begin position="1022"/>
+<end position="1026"/>
+</location>
+</feature>
+<feature type="modified residue" description="Pyrrolidone carboxylic acid; in light chain form 1" evidence="20">
+<location>
+<position position="891"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="25">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="25">
+<location>
+<position position="280"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="13 25">
+<location>
+<position position="601"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="25">
+<location>
+<position position="711"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...); in alloantigen HPA-3B">
+<location>
+<position position="874"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...)" evidence="28">
+<location>
+<position position="878"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="962"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="87"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="138"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="177"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="504"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="521"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="633"/>
+<end position="639"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="705"/>
+<end position="718"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain (between heavy and light chains)" evidence="25">
+<location>
+<begin position="857"/>
+<end position="911"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="25">
+<location>
+<begin position="916"/>
+<end position="921"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_002736" evidence="41">
+<original>SCDSAPCTVVQCDLQEMARGQRAMVTVLAFLWLPSLYQRPLDQFVLQSHAWFNVSSLPYAVPPLSLPRGEAQVWTQLLRALEERAIPIWWVLVGVLGGLLLLTILVLAMWKVGFFKRNRPPLEEDDEEGE</original>
+<variation>VSRLSGLWPGLPGTHGAEGMGGGRGVRVCCGPLWATLGPWEHFK</variation>
+<location>
+<begin position="910"/>
+<end position="1039"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_002737" evidence="41">
+<location>
+<begin position="948"/>
+<end position="981"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs5915." id="VAR_014176" evidence="3">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; cells co-transfected with mutated alpha-IIb and wild-type beta-3 scarcely expressed the alpha-IIb/beta-3 complex." id="VAR_030445" evidence="8">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030446" evidence="7">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030447" evidence="6">
+<original>C</original>
+<variation>W</variation>
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; abolishes the binding function of alpha-IIb/beta-3 for soluble ligands without disturbing alpha-IIb/beta-3 expression; functional defect is likely caused by its allosteric effect rather than by a defect in the ligand-binding site itself." id="VAR_030448" evidence="10">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="174"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; impairs surface expression of alpha-IIb/beta-3 and abrogates ligand binding to the activated integrin." id="VAR_009885" evidence="5 7">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; impairs surface expression of alpha-IIb/beta-3." id="VAR_009886" evidence="5">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; associated with abrogation of alpha-IIb/beta-3 complex formation." id="VAR_030449" evidence="12">
+<original>F</original>
+<variation>C</variation>
+<location>
+<position position="202"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030450" evidence="34">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="207"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; disrupts the structural conformation and the ligand binding properties of the heterodimeric complex; in addition the mutation appears to confer susceptibility to proteolysis." id="VAR_030451" evidence="35">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="214"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030452" evidence="6">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030453" evidence="7">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; alters the heterodimer conformation thus impairing their intracellular transport." id="VAR_003979" evidence="30">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="273"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1126554." id="VAR_054820" evidence="23 24">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; type I; impairs surface expression of alpha-IIb/beta-3." id="VAR_009887" evidence="36">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="320"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; expression of mutant subunit alpha-IIb/bet-3 is 28% of control; mutant pro-alpha-IIb subunit is retained in the endoplasmic reticulum." id="VAR_030454" evidence="9">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="329"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; type I; impairs surface expression of alpha-IIb/beta-3." id="VAR_009888" evidence="36 37">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; type II." id="VAR_003980" evidence="29">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030455" evidence="7">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="380"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; expression of mutant subunit alpha-IIb/bet-3 is 11% of control; mutant pro-alpha-IIb subunit is retained in the endoplasmic reticulum." id="VAR_030456" evidence="7 9 17">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030457" evidence="6">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="412"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; type I." id="VAR_003981" evidence="27">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="449"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; alteres the conformation of heterodimers such that they were neither recognized by the heterodimer-specific antibody A2A9 nor able to undergo further intracellular processing or transport to the cell surface." id="VAR_030458">
+<location>
+<begin position="456"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030459" evidence="7">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="581"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; type I." id="VAR_030460" evidence="17 34 37">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="596"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7207402." id="VAR_054821">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="649"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; type II; the rate of subunit maturation and the surface exposure of ghlycoprotein IIb/beta-3 are strongly reduced." id="VAR_030461" evidence="7 17 40">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="705"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030462" evidence="7">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="752"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030463" evidence="7">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="755"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; type II." id="VAR_003982" evidence="17 36 38">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="778"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT." id="VAR_030464" evidence="6">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="847"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Alloantigen HPA-3B; dbSNP:rs5911." id="VAR_003983" evidence="3">
+<original>I</original>
+<variation>S</variation>
+<location>
+<position position="874"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; the mutation prevented normal ITGA2B/ITGB3 complex expression on the cell surface consistent with a severe type 1 phenotype." id="VAR_069917" evidence="17">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="934"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; marked reduction in the rate of surface expression." id="VAR_030465" evidence="14">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="943"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; the mutation prevented normal ITGA2B/ITGB3 complex expression on the cell surface consistent with a severe type 1 phenotype; the mutation may interfere with correct folding of the protein." id="VAR_069918" evidence="17">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="957"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs5914." id="VAR_014177" evidence="3">
+<original>Y</original>
+<variation>N</variation>
+<location>
+<position position="968"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT; much reduced surface expression of alpha-IIb/beta-3 and a block in the maturation of pro-alpha-IIb." id="VAR_030466" evidence="11 17">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="982"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs78165611." id="VAR_030467" evidence="11 17">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="989"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In GT and BDPLT16; results in low surface expression of the mutant protein." id="VAR_030468" evidence="34 39">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="1026"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BDPLT16; results in abnormal membrane ruffling and cytoplasmic protrusions as well as defective proplatelet formation." id="VAR_069919" evidence="19">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="1026"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Imparts constitutive activity (ligand-binding) to alpha-IIb/beta-3." evidence="2">
+<original>PP</original>
+<variation>AA</variation>
+<location>
+<begin position="1029"/>
+<end position="1030"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA35926." ref="2" evidence="41">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; BAG37735." ref="4" evidence="41">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="120"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA53150." ref="3" evidence="41">
+<original>GA</original>
+<variation>VP</variation>
+<location>
+<begin position="287"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA35926." ref="2" evidence="41">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="346"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA35926." ref="2" evidence="41">
+<original>N</original>
+<variation>D</variation>
+<location>
+<position position="565"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; CAA29987." ref="8" evidence="41">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="566"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA60114." ref="1" evidence="41">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="633"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 8; CAA29987." ref="8" evidence="41">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="729"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA53150." ref="3" evidence="41">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="971"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA35926 and 10; AAA52588." ref="2 10" evidence="41">
+<original>P</original>
+<variation>H</variation>
+<location>
+<position position="1029"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 10; AAA52588." ref="10" evidence="41">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="1030"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="36"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="40"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="52"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="60"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="64"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="78"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="82"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="93"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="107"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="113"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="126"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="134"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="143"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="151"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="160"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="166"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="171"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="183"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="189"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="202"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="211"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="219"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="225"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="231"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="259"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="268"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="279"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="283"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="291"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="297"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="307"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="324"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="330"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="336"/>
+<end position="341"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="345"/>
+<end position="348"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="349"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="352"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="358"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="366"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="375"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="391"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="400"/>
+<end position="402"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="404"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="413"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="419"/>
+<end position="423"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="427"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="435"/>
+<end position="439"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="450"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="458"/>
+<end position="463"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="465"/>
+<end position="470"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="471"/>
+<end position="473"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="475"/>
+<end position="479"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="484"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="507"/>
+<end position="509"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="512"/>
+<end position="525"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="534"/>
+<end position="541"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="542"/>
+<end position="544"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="547"/>
+<end position="549"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="551"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="555"/>
+<end position="557"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="559"/>
+<end position="567"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="575"/>
+<end position="583"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="586"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="596"/>
+<end position="603"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="616"/>
+<end position="619"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="622"/>
+<end position="627"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="634"/>
+<end position="637"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="643"/>
+<end position="651"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="653"/>
+<end position="655"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="662"/>
+<end position="670"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="678"/>
+<end position="683"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="688"/>
+<end position="695"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="705"/>
+<end position="708"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="710"/>
+<end position="713"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="715"/>
+<end position="721"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="728"/>
+<end position="738"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="746"/>
+<end position="755"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="759"/>
+<end position="761"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="767"/>
+<end position="774"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="779"/>
+<end position="792"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="810"/>
+<end position="819"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="821"/>
+<end position="823"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="825"/>
+<end position="836"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="842"/>
+<end position="854"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="856"/>
+<end position="861"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="906"/>
+<end position="909"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="911"/>
+<end position="913"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="916"/>
+<end position="926"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="931"/>
+<end position="940"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="942"/>
+<end position="945"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="952"/>
+<end position="965"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="967"/>
+<end position="969"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="977"/>
+<end position="988"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="991"/>
+<end position="994"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="997"/>
+<end position="1020"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1022"/>
+<end position="1024"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1025"/>
+<end position="1027"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1028"/>
+<end position="1031"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1035"/>
+<end position="1038"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10212286"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10391209"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10477286"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10607701"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11798398"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12083483"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12181054"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12424194"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12506038"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15099289"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15219201"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16335952"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17018384"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18331836"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1953640"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20020534"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21388953"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21454453"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2226834"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22283712"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22779914"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2345548"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2439501"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2775232"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3534886"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7508443"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7688323"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7706461"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8282784"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8620874"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8704171"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9030514"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9215749"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9473221"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9722314"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9734640"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9763559"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9834222"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9920835"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000305"/>
+<sequence length="1039" mass="113377" checksum="063EE298E026F116" modified="2009-04-14" version="3" precursor="true">
+MARALCPLQALWLLEWVLLLLGPCAAPPAWALNLDPVQLTFYAGPNGSQFGFSLDFHKDS
+HGRVAIVVGAPRTLGPSQEETGGVFLCPWRAEGGQCPSLLFDLRDETRNVGSQTLQTFKA
+RQGLGASVVSWSDVIVACAPWQHWNVLEKTEEAEKTPVGSCFLAQPESGRRAEYSPCRGN
+TLSRIYVENDFSWDKRYCEAGFSSVVTQAGELVLGAPGGYYFLGLLAQAPVADIFSSYRP
+GILLWHVSSQSLSFDSSNPEYFDGYWGYSVAVGEFDGDLNTTEYVVGAPTWSWTLGAVEI
+LDSYYQRLHRLRGEQMASYFGHSVAVTDVNGDGRHDLLVGAPLYMESRADRKLAEVGRVY
+LFLQPRGPHALGAPSLLLTGTQLYGRFGSAIAPLGDLDRDGYNDIAVAAPYGGPSGRGQV
+LVFLGQSEGLRSRPSQVLDSPFPTGSAFGFSLRGAVDIDDNGYPDLIVGAYGANQVAVYR
+AQPVVKASVQLLVQDSLNPAVKSCVLPQTKTPVSCFNIQMCVGATGHNIPQKLSLNAELQ
+LDRQKPRQGRRVLLLGSQQAGTTLNLDLGGKHSPICHTTMAFLRDEADFRDKLSPIVLSL
+NVSLPPTEAGMAPAVVLHGDTHVQEQTRIVLDCGEDDVCVPQLQLTASVTGSPLLVGADN
+VLELQMDAANEGEGAYEAELAVHLPQGAHYMRALSNVEGFERLICNQKKENETRVVLCEL
+GNPMKKNAQIGIAMLVSVGNLEEAGESVSFQLQIRSKNSQNPNSKIVLLDVPVRAEAQVE
+LRGNSFPASLVVAAEEGEREQNSLDSWGPKVEHTYELHNNGPGTVNGLHLSIHLPGQSQP
+SDLLYILDIQPQGGLQCFPQPPVNPLKVDWGLPIPSPSPIHPAHHKRDRRQIFLPEPEQP
+SRLQDPVLVSCDSAPCTVVQCDLQEMARGQRAMVTVLAFLWLPSLYQRPLDQFVLQSHAW
+FNVSSLPYAVPPLSLPRGEAQVWTQLLRALEERAIPIWWVLVGVLGGLLLLTILVLAMWK
+VGFFKRNRPPLEEDDEEGE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

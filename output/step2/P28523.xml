@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1992-12-01" modified="2014-10-29" version="105">
+<accession>P28523</accession>
+<name>CSK2A_MAIZE</name>
+<protein>
+<recommendedName>
+<fullName>Casein kinase II subunit alpha</fullName>
+<ecNumber>2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>CK II</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>CK2-alpha</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ACK2</name>
+</gene>
+<organism>
+<name type="scientific">Zea mays</name>
+<name type="common">Maize</name>
+<dbReference type="NCBI Taxonomy" id="4577"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>Liliopsida</taxon>
+<taxon>Poales</taxon>
+<taxon>Poaceae</taxon>
+<taxon>PACMAD clade</taxon>
+<taxon>Panicoideae</taxon>
+<taxon>Andropogoneae</taxon>
+<taxon>Zea</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Biochim. Biophys. Acta" volume="1129" first="139" last="140">
+<title>Cloning and sequencing of the casein kinase 2 alpha subunit from Zea mays.</title>
+<authorList>
+<person name="Dobrowolska G."/>
+<person name="Boldyreff B."/>
+<person name="Issinger O.-G."/>
+</authorList>
+<dbReference type="PubMed" id="1756176"/>
+<dbReference type="DOI" id="10.1016/0167-4781(91)90230-J"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<strain>cv. B73 Inbred</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="EMBO J." volume="17" first="2451" last="2462">
+<title>Crystal structure of the catalytic subunit of protein kinase CK2 from Zea mays at 2.1-A resolution.</title>
+<authorList>
+<person name="Niefind K."/>
+<person name="Guerra B."/>
+<person name="Pinna L.A."/>
+<person name="Issinger O.G."/>
+<person name="Schomburg D."/>
+</authorList>
+<dbReference type="PubMed" id="9564028"/>
+<dbReference type="DOI" id="10.1093/emboj/17.9.2451"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>Casein kinases are operationally defined by their preferential utilization of acidic proteins such as caseins as substrates. The alpha chain contains the catalytic site.</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="subunit">
+<text>Tetramer of two alpha and two beta chains (possible).</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CK2 subfamily.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Contains 1 protein kinase domain.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1"/>
+<dbReference type="EMBL" id="X61387">
+<property type="protein sequence ID" value="CAA43659.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S19726">
+<property type="entry name" value="S19726"/>
+</dbReference>
+<dbReference type="UniGene" id="Zm.569"/>
+<dbReference type="PDB" id="1DAW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="1DAY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="1DS5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.16"/>
+<property type="chains" value="A/B/C/D=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1F0Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.63"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1J91">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.22"/>
+<property type="chains" value="A/B=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1JAM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.18"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1LP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1LPU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1LR4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1M2P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-326"/>
+</dbReference>
+<dbReference type="PDB" id="1M2Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.79"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="1M2R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="1OM1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.68"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1ZOE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.77"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1ZOG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="1ZOH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2OXD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2OXX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2OXY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2PVH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2PVJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2PVK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2PVL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2PVM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2PVN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="2QC6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="3BE9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="3FL5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="3KXG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="3KXH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="3KXM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="3KXN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=2-328"/>
+</dbReference>
+<dbReference type="PDB" id="3PVG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=2-332"/>
+</dbReference>
+<dbReference type="PDB" id="3PWD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="3PZH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.92"/>
+<property type="chains" value="A=1-332"/>
+</dbReference>
+<dbReference type="PDB" id="4ANM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=2-332"/>
+</dbReference>
+<dbReference type="PDB" id="4DGM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=2-327"/>
+</dbReference>
+<dbReference type="PDB" id="4DGN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=2-327"/>
+</dbReference>
+<dbReference type="PDB" id="4DGO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A=2-326"/>
+</dbReference>
+<dbReference type="PDBsum" id="1DAW"/>
+<dbReference type="PDBsum" id="1DAY"/>
+<dbReference type="PDBsum" id="1DS5"/>
+<dbReference type="PDBsum" id="1F0Q"/>
+<dbReference type="PDBsum" id="1J91"/>
+<dbReference type="PDBsum" id="1JAM"/>
+<dbReference type="PDBsum" id="1LP4"/>
+<dbReference type="PDBsum" id="1LPU"/>
+<dbReference type="PDBsum" id="1LR4"/>
+<dbReference type="PDBsum" id="1M2P"/>
+<dbReference type="PDBsum" id="1M2Q"/>
+<dbReference type="PDBsum" id="1M2R"/>
+<dbReference type="PDBsum" id="1OM1"/>
+<dbReference type="PDBsum" id="1ZOE"/>
+<dbReference type="PDBsum" id="1ZOG"/>
+<dbReference type="PDBsum" id="1ZOH"/>
+<dbReference type="PDBsum" id="2OXD"/>
+<dbReference type="PDBsum" id="2OXX"/>
+<dbReference type="PDBsum" id="2OXY"/>
+<dbReference type="PDBsum" id="2PVH"/>
+<dbReference type="PDBsum" id="2PVJ"/>
+<dbReference type="PDBsum" id="2PVK"/>
+<dbReference type="PDBsum" id="2PVL"/>
+<dbReference type="PDBsum" id="2PVM"/>
+<dbReference type="PDBsum" id="2PVN"/>
+<dbReference type="PDBsum" id="2QC6"/>
+<dbReference type="PDBsum" id="3BE9"/>
+<dbReference type="PDBsum" id="3FL5"/>
+<dbReference type="PDBsum" id="3KXG"/>
+<dbReference type="PDBsum" id="3KXH"/>
+<dbReference type="PDBsum" id="3KXM"/>
+<dbReference type="PDBsum" id="3KXN"/>
+<dbReference type="PDBsum" id="3PVG"/>
+<dbReference type="PDBsum" id="3PWD"/>
+<dbReference type="PDBsum" id="3PZH"/>
+<dbReference type="PDBsum" id="4ANM"/>
+<dbReference type="PDBsum" id="4DGM"/>
+<dbReference type="PDBsum" id="4DGN"/>
+<dbReference type="PDBsum" id="4DGO"/>
+<dbReference type="ProteinModelPortal" id="P28523"/>
+<dbReference type="SMR" id="P28523">
+<property type="residue range" value="1-329"/>
+</dbReference>
+<dbReference type="IntAct" id="P28523">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="BindingDB" id="P28523"/>
+<dbReference type="ChEMBL" id="CHEMBL4514"/>
+<dbReference type="PRIDE" id="P28523"/>
+<dbReference type="Gramene" id="P28523"/>
+<dbReference type="MaizeGDB" id="30032"/>
+<dbReference type="HOGENOM" id="HOG000233021"/>
+<dbReference type="BRENDA" id="2.7.11.1">
+<property type="organism ID" value="6752"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P28523"/>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002290">
+<property type="entry name" value="Ser/Thr_dual-sp_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Casein kinase II subunit alpha" id="PRO_0000085901">
+<location>
+<begin position="1"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="1">
+<location>
+<begin position="34"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP">
+<location>
+<begin position="40"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor">
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP">
+<location>
+<position position="63"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="5"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="10"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="16"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="21"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="31"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="34"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="44"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="59"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="70"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="92"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="99"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="104"/>
+<end position="109"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="116"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="120"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="125"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="154"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="157"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="161"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="165"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="171"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="190"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="195"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="207"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="225"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="233"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="246"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="262"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="276"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="282"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="290"/>
+<end position="299"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="304"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="310"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="317"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="320"/>
+<end position="327"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<sequence length="332" mass="39230" checksum="85513A5A5C77235A" modified="1992-12-01" version="1">
+MSKARVYADVNVLRPKEYWDYEALTVQWGEQDDYEVVRKVGRGKYSEVFEGINVNNNEKC
+IIKILKPVKKKKIKREIKILQNLCGGPNIVKLLDIVRDQHSKTPSLIFEYVNNTDFKVLY
+PTLTDYDIRYYIYELLKALDYCHSQGIMHRDVKPHNVMIDHELRKLRLIDWGLAEFYHPG
+KEYNVRVASRYFKGPELLVDLQDYDYSLDMWSLGCMFAGMIFRKEPFFYGHDNHDQLVKI
+AKVLGTDGLNVYLNKYRIELDPQLEALVGRHSRKPWLKFMNADNQHLVSPEAIDFLDKLL
+RYDHQERLTALEAMTHPYFQQVRAAENSRTRA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2014-10-29" version="100">
+<accession>O64411</accession>
+<name>PAO_MAIZE</name>
+<protein>
+<recommendedName>
+<fullName>Polyamine oxidase</fullName>
+<ecNumber>1.5.3.14</ecNumber>
+<ecNumber>1.5.3.15</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">PAO</name>
+</gene>
+<organism>
+<name type="scientific">Zea mays</name>
+<name type="common">Maize</name>
+<dbReference type="NCBI Taxonomy" id="4577"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Viridiplantae</taxon>
+<taxon>Streptophyta</taxon>
+<taxon>Embryophyta</taxon>
+<taxon>Tracheophyta</taxon>
+<taxon>Spermatophyta</taxon>
+<taxon>Magnoliophyta</taxon>
+<taxon>Liliopsida</taxon>
+<taxon>Poales</taxon>
+<taxon>Poaceae</taxon>
+<taxon>PACMAD clade</taxon>
+<taxon>Panicoideae</taxon>
+<taxon>Andropogoneae</taxon>
+<taxon>Zea</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="FEBS Lett." volume="426" first="62" last="66">
+<title>Maize polyamine oxidase: primary structure from protein and cDNA sequencing.</title>
+<authorList>
+<person name="Tavladoraki P."/>
+<person name="Schinina M.E."/>
+<person name="Cecconi F."/>
+<person name="Di Agostino S."/>
+<person name="Manera F."/>
+<person name="Rea G."/>
+<person name="Mariottini P."/>
+<person name="Federico R."/>
+<person name="Angelini R."/>
+</authorList>
+<dbReference type="PubMed" id="9598979"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(98)00311-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>PROTEIN SEQUENCE OF 29-93; 97-111; 115-147; 150-152; 154-162; 164-225; 227-241; 254-266; 270-278; 292-314; 317-323; 329-332; 343-352; 355-383; 385-394; 404-459; 461-471; 477-487 AND 493-496</scope>
+<source>
+<strain>cv. Paolo</strain>
+<tissue>Etiolated seedling</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1989" name="Phytochemistry" volume="28" first="45" last="46">
+<title>Properties of the polyamine oxidase from the cell wall of maize seedlings.</title>
+<authorList>
+<person name="Federico R."/>
+<person name="Alisi C."/>
+<person name="Forlani F."/>
+</authorList>
+</citation>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>SUBUNIT</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="Phytochemistry" volume="43" first="339" last="341">
+<title>Oxidation of acetylpolyamines by maize polyamine oxidase.</title>
+<authorList>
+<person name="Federico R."/>
+<person name="Ercolini L."/>
+<person name="Laurenzi M."/>
+<person name="Angelini R."/>
+</authorList>
+</citation>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Biochemistry" volume="44" first="16108" last="16120">
+<title>Lys300 plays a major role in the catalytic mechanism of maize polyamine oxidase.</title>
+<authorList>
+<person name="Polticelli F."/>
+<person name="Basran J."/>
+<person name="Faso C."/>
+<person name="Cona A."/>
+<person name="Minervini G."/>
+<person name="Angelini R."/>
+<person name="Federico R."/>
+<person name="Scrutton N.S."/>
+<person name="Tavladoraki P."/>
+</authorList>
+<dbReference type="PubMed" id="16331971"/>
+<dbReference type="DOI" id="10.1021/bi050983i"/>
+</citation>
+<scope>REACTION MECHANISM</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="Acta Crystallogr. D" volume="54" first="1429" last="1431">
+<title>Crystallization and preliminary X-ray analysis of polyamine oxidase from Zea mays L.</title>
+<authorList>
+<person name="Binda C."/>
+<person name="Coda A."/>
+<person name="Angelini R."/>
+<person name="Federico R."/>
+<person name="Ascenzi P."/>
+<person name="Mattevi A."/>
+</authorList>
+<dbReference type="PubMed" id="10089528"/>
+<dbReference type="DOI" id="10.1107/S0907444998005836"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS)</scope>
+<scope>CRYSTALLIZATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="Structure" volume="7" first="265" last="276">
+<title>A 30-A-long U-shaped catalytic tunnel in the crystal structure of polyamine oxidase.</title>
+<authorList>
+<person name="Binda C."/>
+<person name="Coda A."/>
+<person name="Angelini R."/>
+<person name="Federico R."/>
+<person name="Ascenzi P."/>
+<person name="Mattevi A."/>
+</authorList>
+<dbReference type="PubMed" id="10368296"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(99)80037-9"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 29-500 IN COMPLEXES WITH FAD AND SYNTHETIC INHIBITOR</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2001" name="Biochemistry" volume="40" first="2766" last="2776">
+<title>Structural bases for inhibitor binding and catalysis in polyamine oxidase.</title>
+<authorList>
+<person name="Binda C."/>
+<person name="Angelini R."/>
+<person name="Federico R."/>
+<person name="Ascenzi P."/>
+<person name="Mattevi A."/>
+</authorList>
+<dbReference type="PubMed" id="11258887"/>
+<dbReference type="DOI" id="10.1021/bi002751j"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 29-500 IN COMPLEXES WITH FAD AND SYNTHETIC INHIBITORS</scope>
+</reference>
+<comment type="function">
+<text>Catalyzes the oxidation of the secondary amino group of polyamines (spermine, spermidine and their acetyl derivatives). Plays an important role in the regulation of polyamine intracellular concentration.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Spermidine + O(2) + H(2)O = propane-1,3-diamine + 4-aminobutanal +H(2)O(2).</text>
+</comment>
+<comment type="catalytic activity">
+<text>N(8)-acetylspermidine + O(2) + H(2)O = propane-1,3-diamine + 4-acetamidobutanal + H(2)O(2).</text>
+</comment>
+<comment type="catalytic activity">
+<text>Spermine + O(2) + H(2)O = N-(3-aminopropyl)-4-aminobutanal + trimethylenediamine + H(2)O(2).</text>
+</comment>
+<comment type="catalytic activity">
+<text>N(1)-acetylspermine + O(2) + H(2)O = N-(3-acetamidopropyl)-4-aminobutanal + trimethylenediamine + H(2)O(2).</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 1 FAD per subunit.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="2 3">38 uM for spermine</KM>
+<KM evidence="2 3">40 uM for spermidine</KM>
+<KM evidence="2 3">62 uM for N(1)-acetylspermine</KM>
+<KM evidence="2 3">274 uM for N(1)-acetylspermidine</KM>
+<KM evidence="2 3">100 uM for dioxygen</KM>
+<Vmax evidence="2 3">6 umol/min/ug enzyme with spermine as substrate</Vmax>
+<Vmax evidence="2 3">70 umol/min/ug enzyme with spermidine as substrate</Vmax>
+<Vmax evidence="2 3">21 umol/min/ug enzyme with N(1)-acetylspermine as substrate</Vmax>
+<Vmax evidence="2 3">2.5 umol/min/ug enzyme with N(1)-acetylspermidine as substrate</Vmax>
+</kinetics>
+<phDependence evidence="2 3">Optimum pH is 6.5.</phDependence>
+</comment>
+<comment type="subunit">
+<text evidence="2">Monomer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the flavin monoamine oxidase family.</text>
+</comment>
+<dbReference type="EC" id="1.5.3.14"/>
+<dbReference type="EC" id="1.5.3.15"/>
+<dbReference type="EMBL" id="AJ002204">
+<property type="protein sequence ID" value="CAA05249.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="T03387">
+<property type="entry name" value="T03387"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001105106.1">
+<property type="nucleotide sequence ID" value="NM_001111636.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Zm.300"/>
+<dbReference type="PDB" id="1B37">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="1B5Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="1H81">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="1H82">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="1H83">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="1H84">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B/C=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="1H86">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B/C=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="3KPF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="3KU9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B=29-500"/>
+</dbReference>
+<dbReference type="PDB" id="3L1R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B=29-500"/>
+</dbReference>
+<dbReference type="PDBsum" id="1B37"/>
+<dbReference type="PDBsum" id="1B5Q"/>
+<dbReference type="PDBsum" id="1H81"/>
+<dbReference type="PDBsum" id="1H82"/>
+<dbReference type="PDBsum" id="1H83"/>
+<dbReference type="PDBsum" id="1H84"/>
+<dbReference type="PDBsum" id="1H86"/>
+<dbReference type="PDBsum" id="3KPF"/>
+<dbReference type="PDBsum" id="3KU9"/>
+<dbReference type="PDBsum" id="3L1R"/>
+<dbReference type="ProteinModelPortal" id="O64411"/>
+<dbReference type="SMR" id="O64411">
+<property type="residue range" value="33-494"/>
+</dbReference>
+<dbReference type="BindingDB" id="O64411"/>
+<dbReference type="ChEMBL" id="CHEMBL6108"/>
+<dbReference type="Allergome" id="955">
+<property type="allergen name" value="Zea m PAO"/>
+</dbReference>
+<dbReference type="PRIDE" id="O64411"/>
+<dbReference type="GeneID" id="541983"/>
+<dbReference type="KEGG" id="zma:541983"/>
+<dbReference type="Gramene" id="O64411"/>
+<dbReference type="HOGENOM" id="HOG000174927"/>
+<dbReference type="KO" id="K13366"/>
+<dbReference type="BioCyc" id="MetaCyc:MONOMER-9461"/>
+<dbReference type="SABIO-RK" id="O64411"/>
+<dbReference type="EvolutionaryTrace" id="O64411"/>
+<dbReference type="GO" id="GO:0052898">
+<property type="term" value="F:N1-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052893">
+<property type="term" value="F:N1-acetylspermine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052897">
+<property type="term" value="F:N8-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052896">
+<property type="term" value="F:spermidine oxidase (propane-1,3-diamine-forming) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0052900">
+<property type="term" value="F:spermine oxidase (propane-1,3-diamine-forming) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.720">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002937">
+<property type="entry name" value="Amino_oxidase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001613">
+<property type="entry name" value="Flavin_amine_oxidase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016040">
+<property type="entry name" value="NAD(P)-bd_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01593">
+<property type="entry name" value="Amino_oxidase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00757">
+<property type="entry name" value="AMINEOXDASEF"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0274">FAD</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="1">
+<location>
+<begin position="1"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="chain" description="Polyamine oxidase" id="PRO_0000001712">
+<location>
+<begin position="29"/>
+<end position="500"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD">
+<location>
+<begin position="42"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD">
+<location>
+<begin position="87"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD">
+<location>
+<begin position="467"/>
+<end position="468"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD">
+<location>
+<position position="63"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD; via amide nitrogen">
+<location>
+<position position="71"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD; via amide nitrogen and carbonyl oxygen">
+<location>
+<position position="265"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD">
+<location>
+<position position="427"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD; via amide nitrogen">
+<location>
+<position position="458"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)">
+<location>
+<position position="105"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="485"/>
+<end position="491"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="35"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="42"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="59"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="64"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="74"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="80"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="88"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="100"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="112"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="120"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="124"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="127"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="134"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="168"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="178"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="185"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="196"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="203"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="209"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="215"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="222"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="235"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="249"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="259"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="265"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="275"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="284"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="296"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="303"/>
+<end position="308"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="312"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="321"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="326"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="345"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="352"/>
+<end position="357"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="359"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="364"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="367"/>
+<end position="369"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="372"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="379"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="390"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="406"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="414"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="421"/>
+<end position="423"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="425"/>
+<end position="427"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="428"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="440"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="453"/>
+<end position="455"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="458"/>
+<end position="460"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="462"/>
+<end position="466"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="468"/>
+<end position="488"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9598979"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source ref="2"/>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="500" mass="56344" checksum="00BB4BAF7A2E41CB" modified="1998-08-01" version="1" precursor="true">
+MSSSPSFGLLAVAALLLALSLAQHGSLAATVGPRVIVVGAGMSGISAAKRLSEAGITDLL
+ILEATDHIGGRMHKTNFAGINVELGANWVEGVNGGKMNPIWPIVNSTLKLRNFRSDFDYL
+AQNVYKEDGGVYDEDYVQKRIELADSVEEMGEKLSATLHASGRDDMSILAMQRLNEHQPN
+GPATPVDMVVDYYKFDYEFAEPPRVTSLQNTVPLATFSDFGDDVYFVADQRGYEAVVYYL
+AGQYLKTDDKSGKIVDPRLQLNKVVREIKYSPGGVTVKTEDNSVYSADYVMVSASLGVLQ
+SDLIQFKPKLPTWKVRAIYQFDMAVYTKIFLKFPRKFWPEGKGREFFLYASSRRGYYGVW
+QEFEKQYPDANVLLVTVTDEESRRIEQQSDEQTKAEIMQVLRKMFPGKDVPDATDILVPR
+WWSDRFYKGTFSNWPVGVNRYEYDQLRAPVGRVYFTGEHTSEHYNGYVHGAYLSGIDSAE
+ILINCAQKKMCKYHVQGKYD
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2014-04-16" modified="2014-10-29" version="7">
+<accession>P9WMC1</accession>
+<accession>L0TDZ6</accession>
+<accession>P96222</accession>
+<accession>Q7D4Q7</accession>
+<name>ETHR_MYCTU</name>
+<protein>
+<recommendedName>
+<fullName>HTH-type transcriptional regulator EthR</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">ethR</name>
+<name type="synonym">etaR</name>
+<name type="ordered locus">Rv3855</name>
+</gene>
+<organism>
+<name type="scientific">Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)</name>
+<dbReference type="NCBI Taxonomy" id="83332"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Actinobacteridae</taxon>
+<taxon>Actinomycetales</taxon>
+<taxon>Corynebacterineae</taxon>
+<taxon>Mycobacteriaceae</taxon>
+<taxon>Mycobacterium</taxon>
+<taxon>Mycobacterium tuberculosis complex</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="Nature" volume="393" first="537" last="544">
+<title>Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence.</title>
+<authorList>
+<person name="Cole S.T."/>
+<person name="Brosch R."/>
+<person name="Parkhill J."/>
+<person name="Garnier T."/>
+<person name="Churcher C.M."/>
+<person name="Harris D.E."/>
+<person name="Gordon S.V."/>
+<person name="Eiglmeier K."/>
+<person name="Gas S."/>
+<person name="Barry C.E. III"/>
+<person name="Tekaia F."/>
+<person name="Badcock K."/>
+<person name="Basham D."/>
+<person name="Brown D."/>
+<person name="Chillingworth T."/>
+<person name="Connor R."/>
+<person name="Davies R.M."/>
+<person name="Devlin K."/>
+<person name="Feltwell T."/>
+<person name="Gentles S."/>
+<person name="Hamlin N."/>
+<person name="Holroyd S."/>
+<person name="Hornsby T."/>
+<person name="Jagels K."/>
+<person name="Krogh A."/>
+<person name="McLean J."/>
+<person name="Moule S."/>
+<person name="Murphy L.D."/>
+<person name="Oliver S."/>
+<person name="Osborne J."/>
+<person name="Quail M.A."/>
+<person name="Rajandream M.A."/>
+<person name="Rogers J."/>
+<person name="Rutter S."/>
+<person name="Seeger K."/>
+<person name="Skelton S."/>
+<person name="Squares S."/>
+<person name="Squares R."/>
+<person name="Sulston J.E."/>
+<person name="Taylor K."/>
+<person name="Whitehead S."/>
+<person name="Barrell B.G."/>
+</authorList>
+<dbReference type="PubMed" id="9634230"/>
+<dbReference type="DOI" id="10.1038/31159"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="28326" last="28331">
+<title>Activation of the pro-drug ethionamide is regulated in mycobacteria.</title>
+<authorList>
+<person name="Baulard A.R."/>
+<person name="Betts J.C."/>
+<person name="Engohang-Ndong J."/>
+<person name="Quan S."/>
+<person name="McAdam R.A."/>
+<person name="Brennan P.J."/>
+<person name="Locht C."/>
+<person name="Besra G.S."/>
+</authorList>
+<dbReference type="PubMed" id="10869356"/>
+<dbReference type="DOI" id="10.1074/jbc.M003744200"/>
+</citation>
+<scope>FUNCTION AS A REPRESSOR OF ETHA</scope>
+<scope>NOMENCLATURE</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="9677" last="9682">
+<title>Ethionamide activation and sensitivity in multidrug-resistant Mycobacterium tuberculosis.</title>
+<authorList>
+<person name="DeBarber A.E."/>
+<person name="Mdluli K."/>
+<person name="Bosman M."/>
+<person name="Bekker L.G."/>
+<person name="Barry C.E. III"/>
+</authorList>
+<dbReference type="PubMed" id="10944230"/>
+<dbReference type="DOI" id="10.1073/pnas.97.17.9677"/>
+</citation>
+<scope>FUNCTION IN ETH RESISTANCE</scope>
+<scope>NOMENCLATURE</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2011" name="Mol. Cell. Proteomics" volume="10" first="M111.011627" last="M111.011627">
+<title>Proteogenomic analysis of Mycobacterium tuberculosis by high resolution mass spectrometry.</title>
+<authorList>
+<person name="Kelkar D.S."/>
+<person name="Kumar D."/>
+<person name="Kumar P."/>
+<person name="Balakrishnan L."/>
+<person name="Muthusamy B."/>
+<person name="Yadav A.K."/>
+<person name="Shrivastava P."/>
+<person name="Marimuthu A."/>
+<person name="Anand S."/>
+<person name="Sundaram H."/>
+<person name="Kingsbury R."/>
+<person name="Harsha H.C."/>
+<person name="Nair B."/>
+<person name="Prasad T.S."/>
+<person name="Chauhan D.S."/>
+<person name="Katoch K."/>
+<person name="Katoch V.M."/>
+<person name="Kumar P."/>
+<person name="Chaerkady R."/>
+<person name="Ramachandran S."/>
+<person name="Dash D."/>
+<person name="Pandey A."/>
+</authorList>
+<dbReference type="PubMed" id="21969609"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.011627"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="340" first="1095" last="1105">
+<title>Crystal structure of the TetR/CamR family repressor Mycobacterium tuberculosis EthR implicated in ethionamide resistance.</title>
+<authorList>
+<person name="Dover L.G."/>
+<person name="Corsino P.E."/>
+<person name="Daniels I.R."/>
+<person name="Cocklin S.L."/>
+<person name="Tatituri V."/>
+<person name="Besra G.S."/>
+<person name="Futterer K."/>
+</authorList>
+<dbReference type="PubMed" id="15236969"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.06.003"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS)</scope>
+<scope>SUBUNIT</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Nat. Med." volume="15" first="537" last="544">
+<title>Synthetic EthR inhibitors boost antituberculous activity of ethionamide.</title>
+<authorList>
+<person name="Willand N."/>
+<person name="Dirie B."/>
+<person name="Carette X."/>
+<person name="Bifani P."/>
+<person name="Singhal A."/>
+<person name="Desroses M."/>
+<person name="Leroux F."/>
+<person name="Willery E."/>
+<person name="Mathys V."/>
+<person name="Deprez-Poulain R."/>
+<person name="Delcroix G."/>
+<person name="Frenois F."/>
+<person name="Aumercier M."/>
+<person name="Locht C."/>
+<person name="Villeret V."/>
+<person name="Deprez B."/>
+<person name="Baulard A.R."/>
+</authorList>
+<dbReference type="PubMed" id="19412174"/>
+<dbReference type="DOI" id="10.1038/nm.1950"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) IN COMPLEX WITH SUBSTRATE ANALOG</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 3">Involved in the repression of the monooxygenase EthA which is responsible of the formation of the active metabolite of ethionamide (ETH).</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="5">Inhibited by tert-butyl 4-(3-thiophen-2-yl-1,2,4-oxadiazol-5-yl) piperidine-1-carboxylate (RF1) and 1-(thiophen-2-ylacetyl)-4-(3-thiophen-2-yl-1,2,4-oxadiazol-5-yl)piperidine (RF3).</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 5">Homodimer.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="5">Cells lacking this gene leads to ETH hypersentivity.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Binding of inhibitors to EthR induces a conformational change in this repressor, which is then unable to bind its DNA operator, consequently allowing for increased transcription of EthA and bioactivation of ethionamide (ETH).</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Contains 1 HTH tetR-type DNA-binding domain.</text>
+</comment>
+<dbReference type="EMBL" id="AL123456">
+<property type="protein sequence ID" value="CCP46684.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="D70655">
+<property type="entry name" value="D70655"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_218372.1">
+<property type="nucleotide sequence ID" value="NC_000962.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_006517354.1">
+<property type="nucleotide sequence ID" value="NC_018143.2"/>
+</dbReference>
+<dbReference type="PDB" id="1T56">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="1U9N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=2-216"/>
+</dbReference>
+<dbReference type="PDB" id="1U9O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="A/B=2-216"/>
+</dbReference>
+<dbReference type="PDB" id="3G1L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3G1M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3G1O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O8G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3O8H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3Q0U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3Q0V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3Q0W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3Q3S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3QPL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3SDG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3SFI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.31"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3TP0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="3TP3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.86"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="4DW6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="4M3B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="4M3D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="4M3E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.11"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDB" id="4M3G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-216"/>
+</dbReference>
+<dbReference type="PDBsum" id="1T56"/>
+<dbReference type="PDBsum" id="1U9N"/>
+<dbReference type="PDBsum" id="1U9O"/>
+<dbReference type="PDBsum" id="3G1L"/>
+<dbReference type="PDBsum" id="3G1M"/>
+<dbReference type="PDBsum" id="3G1O"/>
+<dbReference type="PDBsum" id="3O8G"/>
+<dbReference type="PDBsum" id="3O8H"/>
+<dbReference type="PDBsum" id="3Q0U"/>
+<dbReference type="PDBsum" id="3Q0V"/>
+<dbReference type="PDBsum" id="3Q0W"/>
+<dbReference type="PDBsum" id="3Q3S"/>
+<dbReference type="PDBsum" id="3QPL"/>
+<dbReference type="PDBsum" id="3SDG"/>
+<dbReference type="PDBsum" id="3SFI"/>
+<dbReference type="PDBsum" id="3TP0"/>
+<dbReference type="PDBsum" id="3TP3"/>
+<dbReference type="PDBsum" id="4DW6"/>
+<dbReference type="PDBsum" id="4M3B"/>
+<dbReference type="PDBsum" id="4M3D"/>
+<dbReference type="PDBsum" id="4M3E"/>
+<dbReference type="PDBsum" id="4M3G"/>
+<dbReference type="ProteinModelPortal" id="P9WMC1"/>
+<dbReference type="SMR" id="P9WMC1">
+<property type="residue range" value="22-214"/>
+</dbReference>
+<dbReference type="ChEMBL" id="CHEMBL1772929"/>
+<dbReference type="GeneID" id="13317481"/>
+<dbReference type="GeneID" id="886189"/>
+<dbReference type="KEGG" id="mtu:Rv3855"/>
+<dbReference type="KEGG" id="mtv:RVBD_3855"/>
+<dbReference type="TubercuList" id="Rv3855"/>
+<dbReference type="PhylomeDB" id="P9WMC1"/>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="IPI:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051260">
+<property type="term" value="P:protein homooligomerization"/>
+<property type="evidence" value="IPI:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="IEP:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.60">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.357.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeodomain-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001647">
+<property type="entry name" value="HTH_TetR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015893">
+<property type="entry name" value="Tet_transcr_reg_TetR-like_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011075">
+<property type="entry name" value="Tet_transcr_reg_TetR-rel_C"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00440">
+<property type="entry name" value="TetR_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00455">
+<property type="entry name" value="HTHTETR"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48498">
+<property type="entry name" value="SSF48498"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50977">
+<property type="entry name" value="HTH_TETR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="HTH-type transcriptional regulator EthR" id="PRO_0000398578">
+<location>
+<begin position="1"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="domain" description="HTH tetR-type" evidence="1">
+<location>
+<begin position="23"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="H-T-H motif" evidence="1">
+<location>
+<begin position="46"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="site" description="Inhibitor-binding">
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="site" description="Inhibitor-binding">
+<location>
+<position position="179"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="23"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="42"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="47"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="58"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="68"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="99"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="118"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="128"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="132"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="168"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="196"/>
+<end position="212"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00335"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10869356"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10944230"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15236969"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19412174"/>
+</source>
+</evidence>
+<sequence length="216" mass="23757" checksum="129DEAB3320514B6" modified="2014-04-16" version="1">
+MTTSAASQASLPRGRRTARPSGDDRELAILATAENLLEDRPLADISVDDLAKGAGISRPT
+FYFYFPSKEAVLLTLLDRVVNQADMALQTLAENPADTDRENMWRTGINVFFETFGSHKAV
+TRAGQAARATSVEVAELWSTFMQKWIAYTAAVIDAERDRGAAPRTLPAHELATALNLMNE
+RTLFASFAGEQPSVPEARVLDTLVHIWVTSIYGENR
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

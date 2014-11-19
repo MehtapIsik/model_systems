@@ -1,0 +1,827 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1995-02-01" modified="2014-10-29" version="107">
+<accession>Q08210</accession>
+<accession>Q6LFN3</accession>
+<name>PYRD_PLAF7</name>
+<protein>
+<recommendedName>
+<fullName>Dihydroorotate dehydrogenase (quinone), mitochondrial</fullName>
+<shortName>DHOdehase</shortName>
+<ecNumber>1.3.5.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Dihydroorotate oxidase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="ORF">PFF0160c</name>
+</gene>
+<organism>
+<name type="scientific">Plasmodium falciparum (isolate 3D7)</name>
+<dbReference type="NCBI Taxonomy" id="36329"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Laverania)</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Mol. Biochem. Parasitol." volume="60" first="349" last="352">
+<title>The dihydroorotate dehydrogenase gene homologue of Plasmodium falciparum.</title>
+<authorList>
+<person name="Leblanc S.B."/>
+<person name="Wilson C.M."/>
+</authorList>
+<dbReference type="PubMed" id="8232427"/>
+<dbReference type="DOI" id="10.1016/0166-6851(93)90148-Q"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="498" last="511">
+<title>Genome sequence of the human malaria parasite Plasmodium falciparum.</title>
+<authorList>
+<person name="Gardner M.J."/>
+<person name="Hall N."/>
+<person name="Fung E."/>
+<person name="White O."/>
+<person name="Berriman M."/>
+<person name="Hyman R.W."/>
+<person name="Carlton J.M."/>
+<person name="Pain A."/>
+<person name="Nelson K.E."/>
+<person name="Bowman S."/>
+<person name="Paulsen I.T."/>
+<person name="James K.D."/>
+<person name="Eisen J.A."/>
+<person name="Rutherford K.M."/>
+<person name="Salzberg S.L."/>
+<person name="Craig A."/>
+<person name="Kyes S."/>
+<person name="Chan M.-S."/>
+<person name="Nene V."/>
+<person name="Shallom S.J."/>
+<person name="Suh B."/>
+<person name="Peterson J."/>
+<person name="Angiuoli S."/>
+<person name="Pertea M."/>
+<person name="Allen J."/>
+<person name="Selengut J."/>
+<person name="Haft D."/>
+<person name="Mather M.W."/>
+<person name="Vaidya A.B."/>
+<person name="Martin D.M.A."/>
+<person name="Fairlamb A.H."/>
+<person name="Fraunholz M.J."/>
+<person name="Roos D.S."/>
+<person name="Ralph S.A."/>
+<person name="McFadden G.I."/>
+<person name="Cummings L.M."/>
+<person name="Subramanian G.M."/>
+<person name="Mungall C."/>
+<person name="Venter J.C."/>
+<person name="Carucci D.J."/>
+<person name="Hoffman S.L."/>
+<person name="Newbold C."/>
+<person name="Davis R.W."/>
+<person name="Fraser C.M."/>
+<person name="Barrell B.G."/>
+</authorList>
+<dbReference type="PubMed" id="12368864"/>
+<dbReference type="DOI" id="10.1038/nature01097"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2002" name="Nature" volume="419" first="527" last="531">
+<title>Sequence of Plasmodium falciparum chromosomes 1, 3-9 and 13.</title>
+<authorList>
+<person name="Hall N."/>
+<person name="Pain A."/>
+<person name="Berriman M."/>
+<person name="Churcher C.M."/>
+<person name="Harris B."/>
+<person name="Harris D."/>
+<person name="Mungall K.L."/>
+<person name="Bowman S."/>
+<person name="Atkin R."/>
+<person name="Baker S."/>
+<person name="Barron A."/>
+<person name="Brooks K."/>
+<person name="Buckee C.O."/>
+<person name="Burrows C."/>
+<person name="Cherevach I."/>
+<person name="Chillingworth C."/>
+<person name="Chillingworth T."/>
+<person name="Christodoulou Z."/>
+<person name="Clark L."/>
+<person name="Clark R."/>
+<person name="Corton C."/>
+<person name="Cronin A."/>
+<person name="Davies R.M."/>
+<person name="Davis P."/>
+<person name="Dear P."/>
+<person name="Dearden F."/>
+<person name="Doggett J."/>
+<person name="Feltwell T."/>
+<person name="Goble A."/>
+<person name="Goodhead I."/>
+<person name="Gwilliam R."/>
+<person name="Hamlin N."/>
+<person name="Hance Z."/>
+<person name="Harper D."/>
+<person name="Hauser H."/>
+<person name="Hornsby T."/>
+<person name="Holroyd S."/>
+<person name="Horrocks P."/>
+<person name="Humphray S."/>
+<person name="Jagels K."/>
+<person name="James K.D."/>
+<person name="Johnson D."/>
+<person name="Kerhornou A."/>
+<person name="Knights A."/>
+<person name="Konfortov B."/>
+<person name="Kyes S."/>
+<person name="Larke N."/>
+<person name="Lawson D."/>
+<person name="Lennard N."/>
+<person name="Line A."/>
+<person name="Maddison M."/>
+<person name="Mclean J."/>
+<person name="Mooney P."/>
+<person name="Moule S."/>
+<person name="Murphy L."/>
+<person name="Oliver K."/>
+<person name="Ormond D."/>
+<person name="Price C."/>
+<person name="Quail M.A."/>
+<person name="Rabbinowitsch E."/>
+<person name="Rajandream M.A."/>
+<person name="Rutter S."/>
+<person name="Rutherford K.M."/>
+<person name="Sanders M."/>
+<person name="Simmonds M."/>
+<person name="Seeger K."/>
+<person name="Sharp S."/>
+<person name="Smith R."/>
+<person name="Squares R."/>
+<person name="Squares S."/>
+<person name="Stevens K."/>
+<person name="Taylor K."/>
+<person name="Tivey A."/>
+<person name="Unwin L."/>
+<person name="Whitehead S."/>
+<person name="Woodward J.R."/>
+<person name="Sulston J.E."/>
+<person name="Craig A."/>
+<person name="Newbold C."/>
+<person name="Barrell B.G."/>
+</authorList>
+<dbReference type="PubMed" id="12368867"/>
+<dbReference type="DOI" id="10.1038/nature01095"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>Isolate 3D7</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Acta Crystallogr. D" volume="62" first="312" last="323">
+<title>Structure of Plasmodium falciparum dihydroorotate dehydrogenase with a bound inhibitor.</title>
+<authorList>
+<person name="Hurt D.E."/>
+<person name="Widom J."/>
+<person name="Clardy J."/>
+</authorList>
+<dbReference type="PubMed" id="16510978"/>
+<dbReference type="DOI" id="10.1107/S0907444905042642"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 158-569 IN COMPLEX WITH FMN; OROTATE AND INHIBITOR</scope>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="26999" last="27009">
+<title>Structural plasticity of malaria dihydroorotate dehydrogenase allows selective binding of diverse chemical scaffolds.</title>
+<authorList>
+<person name="Deng X."/>
+<person name="Gujjar R."/>
+<person name="El Mazouni F."/>
+<person name="Kaminsky W."/>
+<person name="Malmquist N.A."/>
+<person name="Goldsmith E.J."/>
+<person name="Rathod P.K."/>
+<person name="Phillips M.A."/>
+</authorList>
+<dbReference type="PubMed" id="19640844"/>
+<dbReference type="DOI" id="10.1074/jbc.M109.028589"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 158-569 IN COMPLEXES WITH FMN; OROTATE AND INHIBITORS</scope>
+<scope>COFACTOR</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="33054" last="33064">
+<title>Novel inhibitors of Plasmodium falciparum dihydroorotate dehydrogenase with anti-malarial activity in the mouse model.</title>
+<authorList>
+<person name="Booker M.L."/>
+<person name="Bastos C.M."/>
+<person name="Kramer M.L."/>
+<person name="Barker R.H. Jr."/>
+<person name="Skerlj R."/>
+<person name="Sidhu A.B."/>
+<person name="Deng X."/>
+<person name="Celatka C."/>
+<person name="Cortese J.F."/>
+<person name="Guerrero Bravo J.E."/>
+<person name="Crespo Llado K.N."/>
+<person name="Serrano A.E."/>
+<person name="Angulo-Barturen I."/>
+<person name="Jimenez-Diaz M.B."/>
+<person name="Viera S."/>
+<person name="Garuti H."/>
+<person name="Wittlin S."/>
+<person name="Papastogiannidis P."/>
+<person name="Lin J.W."/>
+<person name="Janse C.J."/>
+<person name="Khan S.M."/>
+<person name="Duraisingh M."/>
+<person name="Coleman B."/>
+<person name="Goldsmith E.J."/>
+<person name="Phillips M.A."/>
+<person name="Munoz B."/>
+<person name="Wirth D.F."/>
+<person name="Klinger J.D."/>
+<person name="Wiegand R."/>
+<person name="Sybertz E."/>
+</authorList>
+<dbReference type="PubMed" id="20702404"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.162081"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 158-569 IN COMPLEX WITH FMN; OROTATE AND INHIBITOR</scope>
+<scope>COFACTOR</scope>
+</reference>
+<comment type="function">
+<text>Catalyzes the conversion of dihydroorotate to orotate with quinone as electron acceptor.</text>
+</comment>
+<comment type="catalytic activity">
+<text>(S)-dihydroorotate + a quinone = orotate + a quinol.</text>
+</comment>
+<comment type="cofactor">
+<text evidence="3 4 5">Binds 1 FMN per subunit.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="3">13.1 uM for 2,3-dimethoxy-5-methyl-6-(3-methyl-2-butenyl)-1,4-benzoquinone (CoQ(1))</KM>
+</kinetics>
+</comment>
+<comment type="pathway">
+<text>Pyrimidine metabolism; UMP biosynthesis via de novo pathway; orotate from (S)-dihydroorotate (quinone route): step 1/1.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Monomer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Mitochondrion inner membrane</location>
+<topology evidence="6">Single-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the dihydroorotate dehydrogenase family. Type 2 subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.3.5.2"/>
+<dbReference type="EMBL" id="L15446">
+<property type="protein sequence ID" value="AAC37170.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL844505">
+<property type="protein sequence ID" value="CAG25203.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_966023.1">
+<property type="nucleotide sequence ID" value="XM_960930.1"/>
+</dbReference>
+<dbReference type="PDB" id="1TV5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="3I65">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="3I68">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="3I6R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="3O8A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="3SFK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="A=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="4CQ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A/B=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="4CQ9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.72"/>
+<property type="chains" value="A/B=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="4CQA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.82"/>
+<property type="chains" value="A/B=158-569"/>
+</dbReference>
+<dbReference type="PDB" id="4ORM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.07"/>
+<property type="chains" value="A=158-569"/>
+</dbReference>
+<dbReference type="PDBsum" id="1TV5"/>
+<dbReference type="PDBsum" id="3I65"/>
+<dbReference type="PDBsum" id="3I68"/>
+<dbReference type="PDBsum" id="3I6R"/>
+<dbReference type="PDBsum" id="3O8A"/>
+<dbReference type="PDBsum" id="3SFK"/>
+<dbReference type="PDBsum" id="4CQ8"/>
+<dbReference type="PDBsum" id="4CQ9"/>
+<dbReference type="PDBsum" id="4CQA"/>
+<dbReference type="PDBsum" id="4ORM"/>
+<dbReference type="ProteinModelPortal" id="Q08210"/>
+<dbReference type="SMR" id="Q08210">
+<property type="residue range" value="159-566"/>
+</dbReference>
+<dbReference type="STRING" id="5833.PFF0160c-1"/>
+<dbReference type="BindingDB" id="Q08210"/>
+<dbReference type="DrugBank" id="DB01117">
+<property type="generic name" value="Atovaquone"/>
+</dbReference>
+<dbReference type="PRIDE" id="Q08210"/>
+<dbReference type="EnsemblProtists" id="PFF0160c:mRNA">
+<property type="protein sequence ID" value="PFF0160c:pep"/>
+<property type="gene ID" value="PFF0160c"/>
+</dbReference>
+<dbReference type="GeneID" id="3885966"/>
+<dbReference type="KEGG" id="pfa:PFF0160c"/>
+<dbReference type="EuPathDB" id="PlasmoDB:PF3D7_0603300"/>
+<dbReference type="HOGENOM" id="HOG000225103"/>
+<dbReference type="InParanoid" id="Q08210"/>
+<dbReference type="KO" id="K00254"/>
+<dbReference type="OMA" id="NIMNDES"/>
+<dbReference type="PhylomeDB" id="Q08210"/>
+<dbReference type="BRENDA" id="1.3.3.1">
+<property type="organism ID" value="4889"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00070">
+<property type="reaction ID" value="UER00946"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q08210"/>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004152">
+<property type="term" value="F:dihydroorotate dehydrogenase activity"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006207">
+<property type="term" value="P:'de novo' pyrimidine nucleobase biosynthetic process"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044205">
+<property type="term" value="P:'de novo' UMP biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042493">
+<property type="term" value="P:response to drug"/>
+<property type="evidence" value="IDA:GeneDB_Pfalciparum"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.20.20.70">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013785">
+<property type="entry name" value="Aldolase_TIM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012135">
+<property type="entry name" value="Dihydroorotate_DH_1_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001295">
+<property type="entry name" value="Dihydroorotate_DH_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01180">
+<property type="entry name" value="DHO_dh"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00911">
+<property type="entry name" value="DHODEHASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00912">
+<property type="entry name" value="DHODEHASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0288">FMN</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-0999">Mitochondrion inner membrane</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0665">Pyrimidine biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0809">Transit peptide</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="transit peptide" description="Mitochondrion" evidence="2">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" description="Dihydroorotate dehydrogenase (quinone), mitochondrial" id="PRO_0000029888">
+<location>
+<begin position="24"/>
+<end position="569"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="143"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="3 5">
+<location>
+<begin position="225"/>
+<end position="229"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="3 5">
+<location>
+<begin position="477"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="3 5">
+<location>
+<begin position="505"/>
+<end position="507"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FMN" evidence="3 5">
+<location>
+<begin position="528"/>
+<end position="529"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="274"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="458"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile" evidence="1">
+<location>
+<position position="345"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="229"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="3 5">
+<location>
+<position position="249"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="3 5">
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="binding site" description="FMN" evidence="3 5">
+<location>
+<position position="429"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="166"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="181"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="210"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="215"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="225"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="231"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="234"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="239"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="243"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="263"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="267"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="271"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="283"/>
+<end position="299"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="301"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="307"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="321"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="333"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="337"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="346"/>
+<end position="348"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="351"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="357"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="412"/>
+<end position="415"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="418"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="425"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="436"/>
+<end position="449"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="452"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="467"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="474"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="479"/>
+<end position="481"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="482"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="496"/>
+<end position="498"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="502"/>
+<end position="507"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="511"/>
+<end position="520"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="522"/>
+<end position="528"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="529"/>
+<end position="534"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="535"/>
+<end position="537"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="538"/>
+<end position="552"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="558"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="564"/>
+<end position="566"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16510978"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19640844"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20702404"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="569" mass="65558" checksum="88880384EBD52FE3" modified="1995-02-01" version="1" precursor="true">
+MISKLKPQFMFLPKKHILSYCRKDVLNLFEQKFYYTSKRKESNNMKNESLLRLINYNRYY
+NKIDSNNYYNGGKILSNDRQYIYSPLCEYKKKINDISSYVSVPFKINIRNLGTSNFVNNK
+KDVLDNDYIYENIKKEKSKHKKIIFLLFVSLFGLYGFFESYNPEFFLYDIFLKFCLKYID
+GEICHDLFLLLGKYNILPYDTSNDSIYACTNIKHLDFINPFGVAAGFDKNGVCIDSILKL
+GFSFIEIGTITPRGQTGNAKPRIFRDVESRSIINSCGFNNMGCDKVTENLILFRKRQEED
+KLLSKHIVGVSIGKNKDTVNIVDDLKYCINKIGRYADYIAINVSSPNTPGLRDNQEAGKL
+KNIILSVKEEIDNLEKNNIMNDESTYNEDNKIVEKKNNFNKNNSHMMKDAKDNFLWFNTT
+KKKPLVFVKLAPDLNQEQKKEIADVLLETNIDGMIISNTTTQINDIKSFENKKGGVSGAK
+LKDISTKFICEMYNYTNKQIPIIASGGIFSGLDALEKIEAGASVCQLYSCLVFNGMKSAV
+QIKRELNHLLYQRGYYNLKEAIGRKHSKS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

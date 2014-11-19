@@ -1,0 +1,839 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1992-05-01" modified="2014-10-01" version="106">
+<accession>P25779</accession>
+<name>CYSP_TRYCR</name>
+<protein>
+<recommendedName>
+<fullName>Cruzipain</fullName>
+<ecNumber>3.4.22.51</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Cruzaine</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Major cysteine proteinase</fullName>
+</alternativeName>
+</protein>
+<organism>
+<name type="scientific">Trypanosoma cruzi</name>
+<dbReference type="NCBI Taxonomy" id="5693"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Euglenozoa</taxon>
+<taxon>Kinetoplastida</taxon>
+<taxon>Trypanosomatidae</taxon>
+<taxon>Trypanosoma</taxon>
+<taxon>Schizotrypanum</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="7411" last="7420">
+<title>The sequence, organization, and expression of the major cysteine protease (cruzain) from Trypanosoma cruzi.</title>
+<authorList>
+<person name="Eakin A.E."/>
+<person name="Mills A.A."/>
+<person name="Harth G."/>
+<person name="McKerrow J.H."/>
+<person name="Craik C.S."/>
+</authorList>
+<dbReference type="PubMed" id="1559982"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain>Tulahuen</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="Mol. Biochem. Parasitol." volume="50" first="225" last="234">
+<title>The major cysteine proteinase (cruzipain) from Trypanosoma cruzi is encoded by multiple polymorphic tandemly organized genes located on different chromosomes.</title>
+<authorList>
+<person name="Campetella O."/>
+<person name="Henriksson J."/>
+<person name="Aaslund L."/>
+<person name="Frasch A.C.C."/>
+<person name="Pettersson U."/>
+<person name="Cazzulo J.J."/>
+</authorList>
+<dbReference type="PubMed" id="1311053"/>
+<dbReference type="DOI" id="10.1016/0166-6851(92)90219-A"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] (CLONES 1800-2 AND 1800-4)</scope>
+<source>
+<strain>Tulahuen 2</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1990" name="Mol. Biochem. Parasitol." volume="39" first="1" last="8">
+<title>Amplification and sequencing of genomic DNA fragments encoding cysteine proteases from protozoan parasites.</title>
+<authorList>
+<person name="Eakin A.E."/>
+<person name="Bouvier J."/>
+<person name="Sakanari J.A."/>
+<person name="Craik C.S."/>
+<person name="McKerrow J.H."/>
+</authorList>
+<dbReference type="PubMed" id="2406590"/>
+<dbReference type="DOI" id="10.1016/0166-6851(90)90002-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 141-306</scope>
+<source>
+<strain>RA</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1991" name="Mol. Biochem. Parasitol." volume="45" first="345" last="348">
+<title>The C-terminal extension of the major cysteine proteinase (cruzipain) from Trypanosoma cruzi.</title>
+<authorList>
+<person name="Aaslund L."/>
+<person name="Henriksson J."/>
+<person name="Campetella O."/>
+<person name="Frasch A.C.C."/>
+<person name="Pettersson U."/>
+<person name="Cazzulo J.J."/>
+</authorList>
+<dbReference type="PubMed" id="2038364"/>
+<dbReference type="DOI" id="10.1016/0166-6851(91)90103-D"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 295-467</scope>
+<source>
+<strain>Tulahuen 2</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="Mol. Biochem. Parasitol." volume="44" first="15" last="21">
+<title>Self-proteolysis of the cysteine proteinase, cruzipain, from Trypanosoma cruzi gives a major fragment corresponding to its carboxy-terminal domain.</title>
+<authorList>
+<person name="Hellman U."/>
+<person name="Wernstedt C."/>
+<person name="Cazzulo J.J."/>
+</authorList>
+<dbReference type="PubMed" id="2011151"/>
+<dbReference type="DOI" id="10.1016/0166-6851(91)90216-S"/>
+</citation>
+<scope>AUTOCATALYSIS OF C-TERMINAL</scope>
+<source>
+<strain>Tulahuen 2</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1990" name="Biochim. Biophys. Acta" volume="1037" first="186" last="191">
+<title>Some kinetic properties of a cysteine proteinase (cruzipain) from Trypanosoma cruzi.</title>
+<authorList>
+<person name="Cazzulo J.J."/>
+<person name="Cazzulo-Franke M.C."/>
+<person name="Martinez J."/>
+<person name="Franke de Cazzulo B.M."/>
+</authorList>
+<dbReference type="PubMed" id="2407295"/>
+<dbReference type="DOI" id="10.1016/0167-4838(90)90166-D"/>
+</citation>
+<scope>SPECIFICITY</scope>
+<source>
+<strain>Tulahuen 2</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1989" name="Mol. Biochem. Parasitol." volume="33" first="33" last="42">
+<title>Further characterization and partial amino acid sequence of a cysteine proteinase from Trypanosoma cruzi.</title>
+<authorList>
+<person name="Cazzulo J.J."/>
+<person name="Couso R."/>
+<person name="Raimondi A."/>
+<person name="Wernstedt C."/>
+<person name="Hellman U."/>
+</authorList>
+<dbReference type="PubMed" id="2651912"/>
+<dbReference type="DOI" id="10.1016/0166-6851(89)90039-X"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 123-146 AND 304-317</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Protein Sci." volume="6" first="1603" last="1611">
+<title>Structural determinants of specificity in the cysteine protease cruzain.</title>
+<authorList>
+<person name="Gillmor S.A."/>
+<person name="Craik C.S."/>
+<person name="Fletterick R.J."/>
+</authorList>
+<dbReference type="PubMed" id="9260273"/>
+<dbReference type="DOI" id="10.1002/pro.5560060801"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 123-337</scope>
+</reference>
+<comment type="function">
+<text>Hydrolyzes chromogenic peptides at the carboxyl Arg or Lys; requires at least one more amino acid, preferably Arg, Phe, Val or Leu, between the terminal Arg or Lys and the amino-blocking group.</text>
+</comment>
+<comment type="function">
+<text>The cysteine protease may play an important role in the development and differentiation of the parasites at several stages of their life cycle.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Broad endopeptidase specificity similar to that of cathepsin L.</text>
+</comment>
+<comment type="enzyme regulation">
+<text>Strongly inhibited by E-64 (L-trans-epoxysuccinylleucylamido(4-guanidino)butane), Leupeptin, and N-alpha-p-tosyl-L-lysine chloromethyl ketone.</text>
+</comment>
+<comment type="developmental stage">
+<text>Present in all developmental stages.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Purified cruzipain is able to degrade itself, yielding a complex mixture of small peptides, and a major 25 kDa fragment.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2 3 4">Belongs to the peptidase C1 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.22.51"/>
+<dbReference type="EMBL" id="M84342">
+<property type="protein sequence ID" value="AAA30181.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M69121">
+<property type="protein sequence ID" value="AAA30269.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M69121">
+<property type="protein sequence ID" value="AAA30270.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X54414">
+<property type="protein sequence ID" value="CAA38278.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M27305">
+<property type="protein sequence ID" value="AAA30180.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A60667">
+<property type="entry name" value="A60667"/>
+</dbReference>
+<dbReference type="PIR" id="S16162">
+<property type="entry name" value="S16162"/>
+</dbReference>
+<dbReference type="PDB" id="1AIM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1EWL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1EWM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1EWO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1EWP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1F29">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B/C=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1F2A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1F2B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1F2C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1ME3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1ME4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="1U9Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="X=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="2AIM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="2OZ2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/C=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="3HD3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="3I06">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.10"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="3IUT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="3KKU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.28"/>
+<property type="chains" value="A=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="3LXS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/C=123-337"/>
+</dbReference>
+<dbReference type="PDB" id="4KLB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.62"/>
+<property type="chains" value="A/B/C/D/E=123-337"/>
+</dbReference>
+<dbReference type="PDBsum" id="1AIM"/>
+<dbReference type="PDBsum" id="1EWL"/>
+<dbReference type="PDBsum" id="1EWM"/>
+<dbReference type="PDBsum" id="1EWO"/>
+<dbReference type="PDBsum" id="1EWP"/>
+<dbReference type="PDBsum" id="1F29"/>
+<dbReference type="PDBsum" id="1F2A"/>
+<dbReference type="PDBsum" id="1F2B"/>
+<dbReference type="PDBsum" id="1F2C"/>
+<dbReference type="PDBsum" id="1ME3"/>
+<dbReference type="PDBsum" id="1ME4"/>
+<dbReference type="PDBsum" id="1U9Q"/>
+<dbReference type="PDBsum" id="2AIM"/>
+<dbReference type="PDBsum" id="2OZ2"/>
+<dbReference type="PDBsum" id="3HD3"/>
+<dbReference type="PDBsum" id="3I06"/>
+<dbReference type="PDBsum" id="3IUT"/>
+<dbReference type="PDBsum" id="3KKU"/>
+<dbReference type="PDBsum" id="3LXS"/>
+<dbReference type="PDBsum" id="4KLB"/>
+<dbReference type="ProteinModelPortal" id="P25779"/>
+<dbReference type="SMR" id="P25779">
+<property type="residue range" value="123-337"/>
+</dbReference>
+<dbReference type="BindingDB" id="P25779"/>
+<dbReference type="ChEMBL" id="CHEMBL3563"/>
+<dbReference type="MEROPS" id="C01.075"/>
+<dbReference type="SABIO-RK" id="P25779"/>
+<dbReference type="EvolutionaryTrace" id="P25779"/>
+<dbReference type="GO" id="GO:0004197">
+<property type="term" value="F:cysteine-type endopeptidase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021981">
+<property type="entry name" value="DUF3586"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025661">
+<property type="entry name" value="Pept_asp_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000169">
+<property type="entry name" value="Pept_cys_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025660">
+<property type="entry name" value="Pept_his_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013128">
+<property type="entry name" value="Peptidase_C1A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000668">
+<property type="entry name" value="Peptidase_C1A_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013201">
+<property type="entry name" value="Prot_inhib_I29"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12411">
+<property type="entry name" value="PTHR12411"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12131">
+<property type="entry name" value="DUF3586"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08246">
+<property type="entry name" value="Inhibitor_I29"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00112">
+<property type="entry name" value="Peptidase_C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00705">
+<property type="entry name" value="PAPAIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00848">
+<property type="entry name" value="Inhibitor_I29"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00645">
+<property type="entry name" value="Pept_C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00640">
+<property type="entry name" value="THIOL_PROTEASE_ASN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00139">
+<property type="entry name" value="THIOL_PROTEASE_CYS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00639">
+<property type="entry name" value="THIOL_PROTEASE_HIS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0068">Autocatalytic cleavage</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0788">Thiol protease</keyword>
+<keyword id="KW-0865">Zymogen</keyword>
+<feature type="signal peptide" evidence="6">
+<location>
+<begin position="1"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="propeptide" description="Activation peptide" id="PRO_0000026372" evidence="7">
+<location>
+<begin position="19"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="chain" description="Cruzipain" id="PRO_0000026373">
+<location>
+<begin position="123"/>
+<end position="467"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="284"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="304"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by autolysis" evidence="5">
+<location>
+<begin position="337"/>
+<end position="338"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="292"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="1">
+<location>
+<position position="377"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="144"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="178"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="277"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-4.">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>A</original>
+<variation>R</variation>
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-4.">
+<original>N</original>
+<variation>G</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-4.">
+<original>Q</original>
+<variation>G</variation>
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: RA.">
+<original>EC</original>
+<variation>SG</variation>
+<location>
+<begin position="157"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clones 1800-2 and 1800-4.">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: RA.">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="204"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clones 1800-2 and 1800-4.">
+<original>WL</original>
+<variation>CV</variation>
+<location>
+<begin position="250"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: RA.">
+<original>VD</original>
+<variation>H</variation>
+<location>
+<begin position="261"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-4.">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="286"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: RA.">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="286"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="308"/>
+</location>
+</feature>
+<feature type="sequence variant">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="427"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="430"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="457"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In clone 1800-2.">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="461"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4." ref="4" evidence="6">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="357"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="125"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="129"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="143"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="147"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="172"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="180"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="184"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="190"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="204"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="208"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="216"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="225"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="230"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="244"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="257"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="266"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="271"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="284"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="299"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="307"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="315"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="324"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="329"/>
+<end position="336"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10088"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10089"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10090"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1559982"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<evidence key="7" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="2651912"/>
+</source>
+</evidence>
+<sequence length="467" mass="49836" checksum="B93EBA49B511363D" modified="1992-05-01" version="1" precursor="true">
+MSGWARALLLAAVLVVMACLVPAATASLHAEETLTSQFAEFKQKHGRVYESAAEEAFRLS
+VFRENLFLARLHAAANPHATFGVTPFSDLTREEFRSRYHNGAAHFAAAQERARVPVKVEV
+VGAPAAVDWRARGAVTAVKDQGQCGSCWAFSAIGNVECQWFLAGHPLTNLSEQMLVSCDK
+TDSGCSGGLMNNAFEWIVQENNGAVYTEDSYPYASGEGISPPCTTSGHTVGATITGHVEL
+PQDEAQIAAWLAVNGPVAVAVDASSWMTYTGGVMTSCVSEQLDHGVLLVGYNDSAAVPYW
+IIKNSWTTQWGEEGYIRIAKGSNQCLVKEEASSAVVGGPGPTPEPTTTTTTSAPGPSPSY
+FVQMSCTDAACIVGCENVTLPTGQCLLTTSGVSAIVTCGAETLTEEVFLTSTHCSGPSVR
+SSVPLNKCNRLLRGSVEFFCGSSSSGRLADVDRQRRHQPYHSRHRRL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

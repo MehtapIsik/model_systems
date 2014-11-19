@@ -1,0 +1,994 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2003-06-01" modified="2014-10-29" version="107">
+<accession>Q81R22</accession>
+<accession>E9R6R2</accession>
+<accession>E9R6R3</accession>
+<accession>E9R6R4</accession>
+<accession>Q68SA0</accession>
+<accession>Q6HZ92</accession>
+<accession>Q6KT86</accession>
+<name>Q81R22_BACAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Dihydrofolate reductase</fullName>
+<ecNumber evidence="1">1.5.1.3</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">dfrA</name>
+<name type="synonym" evidence="8">dfrD</name>
+<name type="ordered locus" evidence="3">BA_2237</name>
+<name type="ordered locus" evidence="6">BAS2083</name>
+<name type="ordered locus" evidence="4">GBAA_2237</name>
+<name type="ORF" evidence="11">DJ42_799</name>
+<name type="ORF" evidence="13">DJ43_1447</name>
+<name type="ORF" evidence="10">DJ44_442</name>
+<name type="ORF" evidence="9">DJ45_3684</name>
+<name type="ORF" evidence="8">DJ48_2031</name>
+<name type="ORF" evidence="12">DJ49_2771</name>
+<name type="ORF" evidence="7">HYU01_11160</name>
+</gene>
+<organism evidence="28">
+<name type="scientific">Bacillus anthracis</name>
+<dbReference type="NCBI Taxonomy" id="1392"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Bacillales</taxon>
+<taxon>Bacillaceae</taxon>
+<taxon>Bacillus</taxon>
+<taxon>Bacillus cereus group</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3 28">
+<citation type="journal article" date="2003" name="Nature" volume="423" first="81" last="86">
+<title>The genome sequence of Bacillus anthracis Ames and comparison to closely related bacteria.</title>
+<authorList>
+<person name="Read T.D."/>
+<person name="Peterson S.N."/>
+<person name="Tourasse N.J."/>
+<person name="Baillie L.W."/>
+<person name="Paulsen I.T."/>
+<person name="Nelson K.E."/>
+<person name="Tettelin H."/>
+<person name="Fouts D.E."/>
+<person name="Eisen J.A."/>
+<person name="Gill S.R."/>
+<person name="Holtzapple E.K."/>
+<person name="Okstad O.A."/>
+<person name="Helgason E."/>
+<person name="Rilstone J."/>
+<person name="Wu M."/>
+<person name="Kolonay J.F."/>
+<person name="Beanan M.J."/>
+<person name="Dodson R.J."/>
+<person name="Brinkac L.M."/>
+<person name="Gwinn M.L."/>
+<person name="DeBoy R.T."/>
+<person name="Madpu R."/>
+<person name="Daugherty S.C."/>
+<person name="Durkin A.S."/>
+<person name="Haft D.H."/>
+<person name="Nelson W.C."/>
+<person name="Peterson J.D."/>
+<person name="Pop M."/>
+<person name="Khouri H.M."/>
+<person name="Radune D."/>
+<person name="Benton J.L."/>
+<person name="Mahamoud Y."/>
+<person name="Jiang L."/>
+<person name="Hance I.R."/>
+<person name="Weidman J.F."/>
+<person name="Berry K.J."/>
+<person name="Plaut R.D."/>
+<person name="Wolf A.M."/>
+<person name="Watkins K.L."/>
+<person name="Nierman W.C."/>
+<person name="Hazen A."/>
+<person name="Cline R.T."/>
+<person name="Redmond C."/>
+<person name="Thwaite J.E."/>
+<person name="White O."/>
+<person name="Salzberg S.L."/>
+<person name="Thomason B."/>
+<person name="Friedlander A.M."/>
+<person name="Koehler T.M."/>
+<person name="Hanna P.C."/>
+<person name="Kolstoe A.-B."/>
+<person name="Fraser C.M."/>
+</authorList>
+<dbReference type="PubMed" id="12721629"/>
+<dbReference type="DOI" id="10.1038/nature01586"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="3">Ames</strain>
+<strain evidence="28">Ames / isolate Porton</strain>
+</source>
+</reference>
+<reference key="2" evidence="5">
+<citation type="journal article" date="2004" name="Antimicrob. Agents Chemother." volume="48" first="4643" last="4649">
+<title>Functional cloning of Bacillus anthracis dihydrofolate reductase and confirmation of natural resistance to trimethoprim.</title>
+<authorList>
+<person name="Barrow E.W."/>
+<person name="Bourne P.C."/>
+<person name="Barrow W.W."/>
+</authorList>
+<dbReference type="PubMed" id="15561838"/>
+<dbReference type="DOI" id="10.1128/AAC.48.12.4643-4649.2004"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="5">Sterne</strain>
+</source>
+</reference>
+<reference key="3" evidence="6 30">
+<citation type="submission" date="2004-01" db="EMBL/GenBank/DDBJ databases">
+<title>Complete genome sequence of Bacillus anthracis Sterne.</title>
+<authorList>
+<person name="Brettin T.S."/>
+<person name="Bruce D."/>
+<person name="Challacombe J.F."/>
+<person name="Gilna P."/>
+<person name="Han C."/>
+<person name="Hill K."/>
+<person name="Hitchcock P."/>
+<person name="Jackson P."/>
+<person name="Keim P."/>
+<person name="Longmire J."/>
+<person name="Lucas S."/>
+<person name="Okinaka R."/>
+<person name="Richardson P."/>
+<person name="Rubin E."/>
+<person name="Tice H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="6 30">Sterne</strain>
+</source>
+</reference>
+<reference key="4" evidence="15">
+<citation type="journal article" date="2007" name="J. Med. Chem." volume="50" first="4374" last="4381">
+<title>Crystal structure of the anthrax drug target, Bacillus anthracis dihydrofolate reductase.</title>
+<authorList>
+<person name="Bennett B.C."/>
+<person name="Xu H."/>
+<person name="Simmerman R.F."/>
+<person name="Lee R.E."/>
+<person name="Dealwis C.G."/>
+</authorList>
+<dbReference type="PubMed" id="17696333"/>
+<dbReference type="DOI" id="10.1021/jm070319v"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS)</scope>
+</reference>
+<reference key="5" evidence="17">
+<citation type="journal article" date="2008" name="J. Med. Chem." volume="51" first="7532" last="7540">
+<title>Synthetic and crystallographic studies of a new inhibitor series targeting Bacillus anthracis dihydrofolate reductase.</title>
+<authorList>
+<person name="Beierlein J.M."/>
+<person name="Frey K.M."/>
+<person name="Bolstad D.B."/>
+<person name="Pelphrey P.M."/>
+<person name="Joska T.M."/>
+<person name="Smith A.E."/>
+<person name="Priestley N.D."/>
+<person name="Wright D.L."/>
+<person name="Anderson A.C."/>
+</authorList>
+<dbReference type="PubMed" id="19007108"/>
+<dbReference type="DOI" id="10.1021/jm800776a"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="6" evidence="18 19">
+<citation type="journal article" date="2009" name="Antimicrob. Agents Chemother." volume="53" first="3065" last="3073">
+<title>Crystal structure of Bacillus anthracis dihydrofolate reductase with the dihydrophthalazine-based trimethoprim derivative RAB1 provides a structural explanation of potency and selectivity.</title>
+<authorList>
+<person name="Bourne C.R."/>
+<person name="Bunce R.A."/>
+<person name="Bourne P.C."/>
+<person name="Berlin K.D."/>
+<person name="Barrow E.W."/>
+<person name="Barrow W.W."/>
+</authorList>
+<dbReference type="PubMed" id="19364848"/>
+<dbReference type="DOI" id="10.1128/AAC.01666-08"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.29 ANGSTROMS) IN COMPLEX WITH CALCIUM</scope>
+</reference>
+<reference key="7" evidence="14">
+<citation type="journal article" date="2009" name="Biochemistry" volume="48" first="4100" last="4108">
+<title>The solution structure of Bacillus anthracis dihydrofolate reductase yields insight into the analysis of structure-activity relationships for novel inhibitors.</title>
+<authorList>
+<person name="Beierlein J.M."/>
+<person name="Deshmukh L."/>
+<person name="Frey K.M."/>
+<person name="Vinogradova O."/>
+<person name="Anderson A.C."/>
+</authorList>
+<dbReference type="PubMed" id="19323450"/>
+<dbReference type="DOI" id="10.1021/bi802319w"/>
+</citation>
+<scope>STRUCTURE BY NMR IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="8" evidence="4 29">
+<citation type="journal article" date="2009" name="J. Bacteriol." volume="191" first="445" last="446">
+<title>The complete genome sequence of Bacillus anthracis Ames 'Ancestor'.</title>
+<authorList>
+<person name="Ravel J."/>
+<person name="Jiang L."/>
+<person name="Stanley S.T."/>
+<person name="Wilson M.R."/>
+<person name="Decker R.S."/>
+<person name="Read T.D."/>
+<person name="Worsham P."/>
+<person name="Keim P.S."/>
+<person name="Salzberg S.L."/>
+<person name="Fraser-Liggett C.M."/>
+<person name="Rasko D.A."/>
+</authorList>
+<dbReference type="PubMed" id="18952800"/>
+<dbReference type="DOI" id="10.1128/JB.01347-08"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="4">Ames Ancestor</strain>
+<strain evidence="29">Ames ancestor</strain>
+</source>
+</reference>
+<reference key="9" evidence="16">
+<citation type="journal article" date="2009" name="J. Struct. Biol." volume="166" first="162" last="171">
+<title>X-ray structure of the ternary MTX.NADPH complex of the anthrax dihydrofolate reductase: a pharmacophore for dual-site inhibitor design.</title>
+<authorList>
+<person name="Bennett B.C."/>
+<person name="Wan Q."/>
+<person name="Ahmad M.F."/>
+<person name="Langan P."/>
+<person name="Dealwis C.G."/>
+</authorList>
+<dbReference type="PubMed" id="19374017"/>
+<dbReference type="DOI" id="10.1016/j.jsb.2009.01.001"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="10" evidence="20 21">
+<citation type="submission" date="2009-09" db="PDB data bank">
+<title>Mutational Studies into Trimethoprim Resistance in Bacillus anthracis Dihydrofolate Reductase.</title>
+<authorList>
+<person name="Beierlein J.M."/>
+<person name="Karri N.G."/>
+<person name="Anderson A.C."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.89 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="11" evidence="3">
+<citation type="submission" date="2009-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Joardar V."/>
+<person name="Shrivastava S."/>
+<person name="Brinkac L.M."/>
+<person name="Harkins D.M."/>
+<person name="Durkin A.S."/>
+<person name="Sutton G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="3">Ames</strain>
+</source>
+</reference>
+<reference key="12" evidence="25">
+<citation type="submission" date="2011-06" db="PDB data bank">
+<title>SAR studies of heterocyclic propargyl-linked TMP analogs targeting Bacillus dihydrofolate reductase.</title>
+<authorList>
+<person name="Anderson A.C."/>
+<person name="Beierlein J.M."/>
+<person name="Viswanathan K."/>
+<person name="Wright D.L."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="13" evidence="23 24">
+<citation type="submission" date="2011-06" db="PDB data bank">
+<title>SAR studies of heterocyclic propargyl-linked TMP analogs to Bacillus dihydrofolate reductase.</title>
+<authorList>
+<person name="Anderson A.C."/>
+<person name="Beierlein J.M."/>
+<person name="Viswanathan K."/>
+<person name="Wright D.L."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="14" evidence="22">
+<citation type="submission" date="2011-06" db="PDB data bank">
+<title>Structure-Activity Studies of Heterocyclic Propargyl-linked TMP Analogs Targeting Bacillus anthracis Dihydrofolate Reductase.</title>
+<authorList>
+<person name="Anderson A.C."/>
+<person name="Beierlein J.M."/>
+<person name="Viswanathan K."/>
+<person name="Wright D.L."/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) IN COMPLEX WITH NADP</scope>
+</reference>
+<reference key="15" evidence="26 27">
+<citation type="journal article" date="2013" name="Biochim. Biophys. Acta" volume="1834" first="46" last="52">
+<title>Structure-activity relationship for enantiomers of potent inhibitors of B. anthracis dihydrofolate reductase.</title>
+<authorList>
+<person name="Bourne C.R."/>
+<person name="Wakeham N."/>
+<person name="Nammalwar B."/>
+<person name="Tseitin V."/>
+<person name="Bourne P.C."/>
+<person name="Barrow E.W."/>
+<person name="Mylvaganam S."/>
+<person name="Ramnarayan K."/>
+<person name="Bunce R.A."/>
+<person name="Berlin K.D."/>
+<person name="Barrow W.W."/>
+</authorList>
+<dbReference type="PubMed" id="22999981"/>
+<dbReference type="DOI" id="10.1016/j.bbapap.2012.09.001"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS)</scope>
+</reference>
+<reference key="16" evidence="7">
+<citation type="journal article" date="2014" name="Genome Announc." volume="2" first="e00769" last="14">
+<title>Complete Genome Sequence of Bacillus anthracis HYU01, Isolated from Soil Samples in the Korean Peninsula.</title>
+<authorList>
+<person name="Kim S.K."/>
+<person name="Chung W.H."/>
+<person name="Kim S.H."/>
+<person name="Jung K.H."/>
+<person name="Kim N."/>
+<person name="Chai Y.G."/>
+</authorList>
+<dbReference type="PubMed" id="25103761"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="7">HYU01</strain>
+</source>
+</reference>
+<reference key="17" evidence="8">
+<citation type="submission" date="2014-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Bishop-Lilly K.A."/>
+<person name="Broomall S.M."/>
+<person name="Chain P.S."/>
+<person name="Chertkov O."/>
+<person name="Coyne S.R."/>
+<person name="Daligault H.E."/>
+<person name="Davenport K.W."/>
+<person name="Erkkila T."/>
+<person name="Frey K.G."/>
+<person name="Gibbons H.S."/>
+<person name="Gu W."/>
+<person name="Jaissle J."/>
+<person name="Johnson S.L."/>
+<person name="Koroleva G.I."/>
+<person name="Ladner J.T."/>
+<person name="Lo C.-C."/>
+<person name="Minogue T.D."/>
+<person name="Munk C."/>
+<person name="Palacios G.F."/>
+<person name="Redden C.L."/>
+<person name="Rosenzweig C.N."/>
+<person name="Scholz M.B."/>
+<person name="Teshima H."/>
+<person name="Xu Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="8">2000031021</strain>
+<strain evidence="12">A.Br.003</strain>
+<strain evidence="11">Smith 1013</strain>
+<strain evidence="13">Zimbabwe 89</strain>
+</source>
+</reference>
+<reference key="18" evidence="10">
+<citation type="submission" date="2014-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Bishop-Lilly K.A."/>
+<person name="Broomall S.M."/>
+<person name="Chain P.S."/>
+<person name="Chertkov O."/>
+<person name="Coyne S.R."/>
+<person name="Daligault H.E."/>
+<person name="Davenport K.W."/>
+<person name="Erkkila T."/>
+<person name="Frey K.G."/>
+<person name="Gibbons H.S."/>
+<person name="Gu W."/>
+<person name="Jaissle J."/>
+<person name="Johnson S.L."/>
+<person name="Koroleva G.I."/>
+<person name="Ladner J.T."/>
+<person name="Lo C.-C."/>
+<person name="Minogue T.D."/>
+<person name="Munk C."/>
+<person name="Palacios G.F."/>
+<person name="Redden C.L."/>
+<person name="Rosenzweig C.N."/>
+<person name="Scholz M.B."/>
+<person name="Teshima H."/>
+<person name="Xu Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="10">BFV</strain>
+</source>
+</reference>
+<reference key="19" evidence="9">
+<citation type="submission" date="2014-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Bishop-Lilly K.A."/>
+<person name="Broomall S.M."/>
+<person name="Chain P.S."/>
+<person name="Chertkov O."/>
+<person name="Coyne S.R."/>
+<person name="Daligault H.E."/>
+<person name="Davenport K.W."/>
+<person name="Erkkila T."/>
+<person name="Frey K.G."/>
+<person name="Gibbons H.S."/>
+<person name="Gu W."/>
+<person name="Jaissle J."/>
+<person name="Johnson S.L."/>
+<person name="Koroleva G.I."/>
+<person name="Ladner J.T."/>
+<person name="Lo C.-C."/>
+<person name="Minogue T.D."/>
+<person name="Munk C."/>
+<person name="Palacios G.F."/>
+<person name="Redden C.L."/>
+<person name="Rosenzweig C.N."/>
+<person name="Scholz M.B."/>
+<person name="Teshima H."/>
+<person name="Xu Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="9">Delta Sterne</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Key enzyme in folate metabolism. Catalyzes an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">5,6,7,8-tetrahydrofolate + NADP(+) = 7,8-dihydrofolate + NADPH.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Cofactor biosynthesis; tetrahydrofolate biosynthesis; 5,6,7,8-tetrahydrofolate from 7,8-dihydrofolate: step 1/1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1 2">Belongs to the dihydrofolate reductase family.</text>
+</comment>
+<dbReference type="EC" id="1.5.1.3" evidence="1"/>
+<dbReference type="EMBL" id="AE016879">
+<property type="protein sequence ID" value="AAP26114.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AE017334">
+<property type="protein sequence ID" value="AAT31357.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY569129">
+<property type="protein sequence ID" value="AAT40581.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AE017225">
+<property type="protein sequence ID" value="AAT54397.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP008846">
+<property type="protein sequence ID" value="AIF56465.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP007618">
+<property type="protein sequence ID" value="AIK33852.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP008752">
+<property type="protein sequence ID" value="AIK54032.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP007704">
+<property type="protein sequence ID" value="AIK57700.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="JNOD01000013">
+<property type="protein sequence ID" value="KFJ81276.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="JMPV01000008">
+<property type="protein sequence ID" value="KFL65433.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="JMPU01000016">
+<property type="protein sequence ID" value="KFL69605.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_844628.1">
+<property type="nucleotide sequence ID" value="NC_003997.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_018882.1">
+<property type="nucleotide sequence ID" value="NC_007530.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_028346.1">
+<property type="nucleotide sequence ID" value="NC_005945.1"/>
+</dbReference>
+<dbReference type="PDB" id="2KGK">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="2QK8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3DAT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3E0B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3FL8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3FL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3JVX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3JW3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.57"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3JW5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.89"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3JWC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.57"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3JWF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.57"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3JWK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.08"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3JWM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.57"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3S9U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3SA1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3SA2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="3SAI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="4ELB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="4ELE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="4ELF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="4ELG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-162"/>
+</dbReference>
+<dbReference type="PDB" id="4ELH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-162"/>
+</dbReference>
+<dbReference type="PDBsum" id="2KGK"/>
+<dbReference type="PDBsum" id="2QK8"/>
+<dbReference type="PDBsum" id="3DAT"/>
+<dbReference type="PDBsum" id="3E0B"/>
+<dbReference type="PDBsum" id="3FL8"/>
+<dbReference type="PDBsum" id="3FL9"/>
+<dbReference type="PDBsum" id="3JVX"/>
+<dbReference type="PDBsum" id="3JW3"/>
+<dbReference type="PDBsum" id="3JW5"/>
+<dbReference type="PDBsum" id="3JWC"/>
+<dbReference type="PDBsum" id="3JWF"/>
+<dbReference type="PDBsum" id="3JWK"/>
+<dbReference type="PDBsum" id="3JWM"/>
+<dbReference type="PDBsum" id="3S9U"/>
+<dbReference type="PDBsum" id="3SA1"/>
+<dbReference type="PDBsum" id="3SA2"/>
+<dbReference type="PDBsum" id="3SAI"/>
+<dbReference type="PDBsum" id="4ELB"/>
+<dbReference type="PDBsum" id="4ELE"/>
+<dbReference type="PDBsum" id="4ELF"/>
+<dbReference type="PDBsum" id="4ELG"/>
+<dbReference type="PDBsum" id="4ELH"/>
+<dbReference type="STRING" id="198094.BA_2237"/>
+<dbReference type="ChEMBL" id="CHEMBL5270"/>
+<dbReference type="DNASU" id="1085515"/>
+<dbReference type="EnsemblBacteria" id="AAP26114">
+<property type="protein sequence ID" value="AAP26114"/>
+<property type="gene ID" value="BA_2237"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="AAT31357">
+<property type="protein sequence ID" value="AAT31357"/>
+<property type="gene ID" value="GBAA_2237"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="AAT54397">
+<property type="protein sequence ID" value="AAT54397"/>
+<property type="gene ID" value="BAS2083"/>
+</dbReference>
+<dbReference type="GeneID" id="1085515"/>
+<dbReference type="GeneID" id="2814627"/>
+<dbReference type="GeneID" id="2849969"/>
+<dbReference type="KEGG" id="ban:BA_2237"/>
+<dbReference type="KEGG" id="bar:GBAA_2237"/>
+<dbReference type="KEGG" id="bat:BAS2083"/>
+<dbReference type="KO" id="K00287"/>
+<dbReference type="OMA" id="FKALTMG"/>
+<dbReference type="OrthoDB" id="EOG6KT2V2"/>
+<dbReference type="BioCyc" id="ANTHRA:DFRA-MONOMER"/>
+<dbReference type="BioCyc" id="BANT260799:GJAJ-2151-MONOMER"/>
+<dbReference type="BioCyc" id="BANT261594:GJ7F-2226-MONOMER"/>
+<dbReference type="UniPathway" id="UPA00077">
+<property type="reaction ID" value="UER00158"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q81R22"/>
+<dbReference type="GO" id="GO:0004146">
+<property type="term" value="F:dihydrofolate reductase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050661">
+<property type="term" value="F:NADP binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006545">
+<property type="term" value="P:glycine biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009165">
+<property type="term" value="P:nucleotide biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006730">
+<property type="term" value="P:one-carbon metabolic process"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046654">
+<property type="term" value="P:tetrahydrofolate biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.430.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012259">
+<property type="entry name" value="DHFR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024072">
+<property type="entry name" value="DHFR-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017925">
+<property type="entry name" value="DHFR_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001796">
+<property type="entry name" value="DHFR_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00186">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000194">
+<property type="entry name" value="DHFR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00070">
+<property type="entry name" value="DHFR"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53597">
+<property type="entry name" value="SSF53597"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00075">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51330">
+<property type="entry name" value="DHFR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="14 15">3D-structure</keyword>
+<keyword id="KW-0106" evidence="19">Calcium</keyword>
+<keyword id="KW-0181" evidence="29">Complete proteome</keyword>
+<keyword id="KW-0479" evidence="19">Metal-binding</keyword>
+<keyword id="KW-0521" evidence="1 14">NADP</keyword>
+<keyword id="KW-0547" evidence="14 16">Nucleotide-binding</keyword>
+<keyword id="KW-0554" evidence="1">One-carbon metabolism</keyword>
+<keyword id="KW-0560" evidence="1 3">Oxidoreductase</keyword>
+<keyword id="KW-1185" evidence="29">Reference proteome</keyword>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="16 17">
+<location>
+<begin position="19"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="16 17">
+<location>
+<begin position="45"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="16 17">
+<location>
+<begin position="63"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="16 17">
+<location>
+<begin position="98"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="region of interest" description="Trimethoprim 2 binding">
+<location>
+<begin position="6"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium; via carbonyl oxygen" evidence="19">
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium" evidence="19">
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium" evidence="19">
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via amide nitrogen and carbonyl oxygen" evidence="16 17">
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via carbonyl oxygen" evidence="16 17">
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP">
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="binding site" description="Trimethoprim 2">
+<location>
+<position position="96"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="PIRNR" id="PIRNR000194"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU004474"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAP26114.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAT31357.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAT40581.1"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAT54397.1"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AIF56465.1"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AIK33852.1"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AIK54032.1"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AIK57700.1"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="KFJ81276.1"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="KFL65433.1"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="KFL69605.1"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2KGK"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2QK8"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3DAT"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3E0B"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3FL8"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3FL9"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3JVX"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3JW3"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3S9U"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3SA1"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3SA2"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3SAI"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="4ELB"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="4ELE"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000000427"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000000594"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000005639"/>
+</source>
+</evidence>
+<sequence length="162" mass="19125" checksum="4259925DD9A1365A" modified="2003-06-01" version="1">
+MIVSFMVAMDENRVIGKDNNLPWRLPSELQYVKKTTMGHPLIMGRKNYEAIGRPLPGRRN
+IIVTRNEGYHVEGCEVAHSVEEVFELCKNEEEIFIFGGAQIYDLFLPYVDKLYITKIHHA
+FEGDTFFPEMDMTNWKEVFVEKGLTDEKNPYTYYYHVYEKQQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

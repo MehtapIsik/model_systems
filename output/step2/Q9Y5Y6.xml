@@ -1,0 +1,1190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2001-02-21" modified="2014-10-29" version="149">
+<accession>Q9Y5Y6</accession>
+<accession>Q9BS01</accession>
+<accession>Q9H3S0</accession>
+<accession>Q9HB36</accession>
+<accession>Q9HCA3</accession>
+<name>ST14_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Suppressor of tumorigenicity 14 protein</fullName>
+<ecNumber>3.4.21.109</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Matriptase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Membrane-type serine protease 1</fullName>
+<shortName>MT-SP1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Prostamin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Serine protease 14</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Serine protease TADG-15</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Tumor-associated differentially-expressed gene 15 protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">ST14</name>
+<name type="synonym">PRSS14</name>
+<name type="synonym">SNC19</name>
+<name type="synonym">TADG15</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="18231" last="18236">
+<title>Molecular cloning of cDNA for matriptase, a matrix-degrading serine protease with trypsin-like activity.</title>
+<authorList>
+<person name="Lin C.Y."/>
+<person name="Anders J."/>
+<person name="Johnson M."/>
+<person name="Sang Q.A."/>
+<person name="Dickson R.B."/>
+</authorList>
+<dbReference type="PubMed" id="10373424"/>
+<dbReference type="DOI" id="10.1074/jbc.274.26.18231"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="11054" last="11061">
+<title>Reverse biochemistry: use of macromolecular protease inhibitors to dissect complex biological processes and identify a membrane-type serine protease in epithelial cancer and normal tissue.</title>
+<authorList>
+<person name="Takeuchi T."/>
+<person name="Shuman M.A."/>
+<person name="Craik C.S."/>
+</authorList>
+<dbReference type="PubMed" id="10500122"/>
+<dbReference type="DOI" id="10.1073/pnas.96.20.11054"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1999-07" db="EMBL/GenBank/DDBJ databases">
+<title>Molecular cloning of a novel transmembrane serine protease expressed in human prostate.</title>
+<authorList>
+<person name="Yamaguchi N."/>
+<person name="Mitsui S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Prostate</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="1998-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Tanimoto H."/>
+<person name="Underwood L.J."/>
+<person name="Wang Y."/>
+<person name="Shigemasa K."/>
+<person name="Parmley T.H."/>
+<person name="O'Brien T.J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>VARIANT SER-381</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Blood</tissue>
+<tissue>Muscle</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="submission" date="2000-06" db="EMBL/GenBank/DDBJ databases">
+<title>Genomic analysis of a novel human serine protease SNC19.</title>
+<authorList>
+<person name="Cao J."/>
+<person name="Fan W."/>
+<person name="Zheng S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 340-664</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="18237" last="18242">
+<title>Purification and characterization of a complex containing matriptase and a Kunitz-type serine protease inhibitor from human milk.</title>
+<authorList>
+<person name="Lin C.Y."/>
+<person name="Anders J."/>
+<person name="Johnson M."/>
+<person name="Dickson R.B."/>
+</authorList>
+<dbReference type="PubMed" id="10373425"/>
+<dbReference type="DOI" id="10.1074/jbc.274.26.18237"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<source>
+<tissue>Milk</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Oncogene" volume="24" first="5333" last="5343">
+<title>Adhesion signaling by a novel mitotic substrate of src kinases.</title>
+<authorList>
+<person name="Bhatt A.S."/>
+<person name="Erdjument-Bromage H."/>
+<person name="Tempst P."/>
+<person name="Craik C.S."/>
+<person name="Moasser M.M."/>
+</authorList>
+<dbReference type="PubMed" id="16007225"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1208582"/>
+</citation>
+<scope>INTERACTION WITH CDCP1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="7406" last="7412">
+<title>Protein interaction analysis of ST14 domains and their point and deletion mutants.</title>
+<authorList>
+<person name="Ge W."/>
+<person name="Hu H."/>
+<person name="Ding K."/>
+<person name="Sun L."/>
+<person name="Zheng S."/>
+</authorList>
+<dbReference type="PubMed" id="16407223"/>
+<dbReference type="DOI" id="10.1074/jbc.M510687200"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF HIS-656; ASP-711 AND SER-805</scope>
+<scope>POSSIBLE INTERACTION WITH TMEFF1</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2009" name="J. Invest. Dermatol." volume="129" first="862" last="869">
+<title>Ichthyosis, follicular atrophoderma, and hypotrichosis caused by mutations in ST14 is associated with impaired profilaggrin processing.</title>
+<authorList>
+<person name="Alef T."/>
+<person name="Torres S."/>
+<person name="Hausser I."/>
+<person name="Metze D."/>
+<person name="Tursen U."/>
+<person name="Lestringant G.G."/>
+<person name="Hennies H.C."/>
+</authorList>
+<dbReference type="PubMed" id="18843291"/>
+<dbReference type="DOI" id="10.1038/jid.2008.311"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INVOLVEMENT IN ARCI11</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="2160" last="2168">
+<title>Catalytic domain structures of MT-SP1/matriptase, a matrix-degrading transmembrane serine proteinase.</title>
+<authorList>
+<person name="Friedrich R."/>
+<person name="Fuentes-Prior P."/>
+<person name="Ong E."/>
+<person name="Coombs G."/>
+<person name="Hunter M."/>
+<person name="Oehler R."/>
+<person name="Pierson D."/>
+<person name="Gonzalez R."/>
+<person name="Huber R."/>
+<person name="Bode W."/>
+<person name="Madison E.L."/>
+</authorList>
+<dbReference type="PubMed" id="11696548"/>
+<dbReference type="DOI" id="10.1074/jbc.M109830200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.3 ANGSTROMS) OF 615-855 IN COMPLEX WITH INHIBITORS</scope>
+<scope>DISULFIDE BONDS</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2007" name="Am. J. Hum. Genet." volume="80" first="467" last="477">
+<title>Autosomal recessive ichthyosis with hypotrichosis caused by a mutation in ST14, encoding type II transmembrane serine protease matriptase.</title>
+<authorList>
+<person name="Basel-Vanagaite L."/>
+<person name="Attia R."/>
+<person name="Ishida-Yamamoto A."/>
+<person name="Rainshtein L."/>
+<person name="Ben Amitai D."/>
+<person name="Lurie R."/>
+<person name="Pasmanik-Chor M."/>
+<person name="Indelman M."/>
+<person name="Zvulunov A."/>
+<person name="Saban S."/>
+<person name="Magal N."/>
+<person name="Sprecher E."/>
+<person name="Shohat M."/>
+</authorList>
+<dbReference type="PubMed" id="17273967"/>
+<dbReference type="DOI" id="10.1086/512487"/>
+</citation>
+<scope>VARIANT ARCI11 ARG-827</scope>
+</reference>
+<comment type="function">
+<text evidence="11">Degrades extracellular matrix. Proposed to play a role in breast cancer invasion and metastasis. Exhibits trypsin-like activity as defined by cleavage of synthetic substrates with Arg or Lys as the P1 site. Involved in the terminal differentiation of keratinocytes through prostasin (PRSS8) activation and filaggrin (FLG) processing.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="9">Cleaves various synthetic substrates with Arg or Lys at the P1 position and prefers small side-chain amino acids, such as Ala and Gly, at the P2 position.</text>
+</comment>
+<comment type="subunit">
+<text evidence="7 8">Interacts with CDCP1. May interact with TMEFF1.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="13">Membrane</location>
+<topology evidence="13">Single-pass type II membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="disease" evidence="10 11">
+<disease id="DI-04098">
+<name>Ichthyosis, congenital, autosomal recessive 11</name>
+<acronym>ARCI11</acronym>
+<description>A form of autosomal recessive congenital ichthyosis, a disorder of keratinization with abnormal differentiation and desquamation of the epidermis, resulting in abnormal skin scaling over the whole body. The main skin phenotypes are lamellar ichthyosis (LI) and non-bullous congenital ichthyosiform erythroderma (NCIE), although phenotypic overlap within the same patient or among patients from the same family can occur. Lamellar ichthyosis is a condition often associated with an embedment in a collodion-like membrane at birth; skin scales later develop, covering the entire body surface. Non-bullous congenital ichthyosiform erythroderma characterized by fine whitish scaling on an erythrodermal background; larger brownish scales are present on the buttocks, neck and legs.</description>
+<dbReference type="MIM" id="602400"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the peptidase S1 family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Contains 2 CUB domains.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Contains 4 LDL-receptor class A domains.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Contains 1 peptidase S1 domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Contains 1 SEA domain.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.109"/>
+<dbReference type="EMBL" id="AF118224">
+<property type="protein sequence ID" value="AAD42765.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF133086">
+<property type="protein sequence ID" value="AAF00109.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB030036">
+<property type="protein sequence ID" value="BAB20376.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF057145">
+<property type="protein sequence ID" value="AAG15395.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC005826">
+<property type="protein sequence ID" value="AAH05826.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC030532">
+<property type="protein sequence ID" value="AAH30532.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF283256">
+<property type="protein sequence ID" value="AAG13949.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS8487.1"/>
+<dbReference type="RefSeq" id="NP_068813.1">
+<property type="nucleotide sequence ID" value="NM_021978.3"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.504315"/>
+<dbReference type="PDB" id="1EAW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.93"/>
+<property type="chains" value="A/C=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="1EAX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="2FMV">
+<property type="method" value="Model"/>
+<property type="chains" value="A=214-447"/>
+</dbReference>
+<dbReference type="PDB" id="2GV6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="2GV7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="3BN9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.17"/>
+<property type="chains" value="A/B=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="3NCL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.19"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="3NPS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="3P8F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="3P8G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="3SO3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4IS5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.48"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4ISL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4ISN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4ISO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.01"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4JYT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4JZ1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4JZI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=615-855"/>
+</dbReference>
+<dbReference type="PDB" id="4O97">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=615-855, B=604-607"/>
+</dbReference>
+<dbReference type="PDB" id="4O9V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=615-855, B=604-607"/>
+</dbReference>
+<dbReference type="PDBsum" id="1EAW"/>
+<dbReference type="PDBsum" id="1EAX"/>
+<dbReference type="PDBsum" id="2FMV"/>
+<dbReference type="PDBsum" id="2GV6"/>
+<dbReference type="PDBsum" id="2GV7"/>
+<dbReference type="PDBsum" id="3BN9"/>
+<dbReference type="PDBsum" id="3NCL"/>
+<dbReference type="PDBsum" id="3NPS"/>
+<dbReference type="PDBsum" id="3P8F"/>
+<dbReference type="PDBsum" id="3P8G"/>
+<dbReference type="PDBsum" id="3SO3"/>
+<dbReference type="PDBsum" id="4IS5"/>
+<dbReference type="PDBsum" id="4ISL"/>
+<dbReference type="PDBsum" id="4ISN"/>
+<dbReference type="PDBsum" id="4ISO"/>
+<dbReference type="PDBsum" id="4JYT"/>
+<dbReference type="PDBsum" id="4JZ1"/>
+<dbReference type="PDBsum" id="4JZI"/>
+<dbReference type="PDBsum" id="4O97"/>
+<dbReference type="PDBsum" id="4O9V"/>
+<dbReference type="ProteinModelPortal" id="Q9Y5Y6"/>
+<dbReference type="SMR" id="Q9Y5Y6">
+<property type="residue range" value="228-855"/>
+</dbReference>
+<dbReference type="BioGrid" id="112645">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9Y5Y6">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-6784312"/>
+<dbReference type="STRING" id="9606.ENSP00000278742"/>
+<dbReference type="BindingDB" id="Q9Y5Y6"/>
+<dbReference type="ChEMBL" id="CHEMBL3018"/>
+<dbReference type="DrugBank" id="DB00013">
+<property type="generic name" value="Urokinase"/>
+</dbReference>
+<dbReference type="MEROPS" id="S01.302"/>
+<dbReference type="PhosphoSite" id="Q9Y5Y6"/>
+<dbReference type="DMDM" id="13124575"/>
+<dbReference type="MaxQB" id="Q9Y5Y6"/>
+<dbReference type="PaxDb" id="Q9Y5Y6"/>
+<dbReference type="PeptideAtlas" id="Q9Y5Y6"/>
+<dbReference type="PRIDE" id="Q9Y5Y6"/>
+<dbReference type="DNASU" id="6768"/>
+<dbReference type="Ensembl" id="ENST00000278742">
+<property type="protein sequence ID" value="ENSP00000278742"/>
+<property type="gene ID" value="ENSG00000149418"/>
+</dbReference>
+<dbReference type="GeneID" id="6768"/>
+<dbReference type="KEGG" id="hsa:6768"/>
+<dbReference type="UCSC" id="uc001qfw.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="6768"/>
+<dbReference type="GeneCards" id="GC11P130063"/>
+<dbReference type="HGNC" id="HGNC:11344">
+<property type="gene designation" value="ST14"/>
+</dbReference>
+<dbReference type="MIM" id="602400">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="606797">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9Y5Y6"/>
+<dbReference type="Orphanet" id="91132">
+<property type="disease" value="Ichthyosis-hypotrichosis syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA36168"/>
+<dbReference type="eggNOG" id="COG5640"/>
+<dbReference type="GeneTree" id="ENSGT00760000119008"/>
+<dbReference type="HOGENOM" id="HOG000136851"/>
+<dbReference type="HOVERGEN" id="HBG012556"/>
+<dbReference type="InParanoid" id="Q9Y5Y6"/>
+<dbReference type="KO" id="K08670"/>
+<dbReference type="OMA" id="DSSDPCP"/>
+<dbReference type="OrthoDB" id="EOG75B84T"/>
+<dbReference type="PhylomeDB" id="Q9Y5Y6"/>
+<dbReference type="TreeFam" id="TF330647"/>
+<dbReference type="BRENDA" id="3.4.21.109">
+<property type="organism ID" value="2681"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="ST14">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q9Y5Y6"/>
+<dbReference type="GenomeRNAi" id="6768"/>
+<dbReference type="NextBio" id="26412"/>
+<dbReference type="PMAP-CutDB" id="Q9Y5Y6"/>
+<dbReference type="PRO" id="PR:Q9Y5Y6"/>
+<dbReference type="Bgee" id="Q9Y5Y6"/>
+<dbReference type="CleanEx" id="HS_ST14"/>
+<dbReference type="ExpressionAtlas" id="Q9Y5Y6">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="Q9Y5Y6"/>
+<dbReference type="GO" id="GO:0016323">
+<property type="term" value="C:basolateral plasma membrane"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular vesicular exosome"/>
+<property type="evidence" value="IDA:UniProt"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019897">
+<property type="term" value="C:extrinsic component of plasma membrane"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008236">
+<property type="term" value="F:serine-type peptidase activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030216">
+<property type="term" value="P:keratinocyte differentiation"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.120.290">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.400.10">
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000859">
+<property type="entry name" value="CUB_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023415">
+<property type="entry name" value="LDLR_class-A_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002172">
+<property type="entry name" value="LDrepeatLR_classA_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001254">
+<property type="entry name" value="Peptidase_S1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018114">
+<property type="entry name" value="Peptidase_S1_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017051">
+<property type="entry name" value="Peptidase_S1A_matripase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000082">
+<property type="entry name" value="SEA_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009003">
+<property type="entry name" value="Trypsin-like_Pept_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00431">
+<property type="entry name" value="CUB"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00057">
+<property type="entry name" value="Ldl_recept_a"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01390">
+<property type="entry name" value="SEA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00089">
+<property type="entry name" value="Trypsin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF036370">
+<property type="entry name" value="ST14"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00261">
+<property type="entry name" value="LDLRECEPTOR"/>
+</dbReference>
+<dbReference type="SMART" id="SM00042">
+<property type="entry name" value="CUB"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00192">
+<property type="entry name" value="LDLa"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SMART" id="SM00020">
+<property type="entry name" value="Tryp_SPc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49854">
+<property type="entry name" value="SSF49854"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50494">
+<property type="entry name" value="SSF50494"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57424">
+<property type="entry name" value="SSF57424"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF82671">
+<property type="entry name" value="SSF82671"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01180">
+<property type="entry name" value="CUB"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01209">
+<property type="entry name" value="LDLRA_1"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50068">
+<property type="entry name" value="LDLRA_2"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50024">
+<property type="entry name" value="SEA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50240">
+<property type="entry name" value="TRYPSIN_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00134">
+<property type="entry name" value="TRYPSIN_HIS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00135">
+<property type="entry name" value="TRYPSIN_SER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-1063">Hypotrichosis</keyword>
+<keyword id="KW-0977">Ichthyosis</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0720">Serine protease</keyword>
+<keyword id="KW-0735">Signal-anchor</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Suppressor of tumorigenicity 14 protein" id="PRO_0000088712">
+<location>
+<begin position="1"/>
+<end position="855"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="1"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Signal-anchor for type II membrane protein" evidence="2">
+<location>
+<begin position="56"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="77"/>
+<end position="855"/>
+</location>
+</feature>
+<feature type="domain" description="SEA" evidence="5">
+<location>
+<begin position="86"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="domain" description="CUB 1" evidence="3">
+<location>
+<begin position="214"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="domain" description="CUB 2" evidence="3">
+<location>
+<begin position="340"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="domain" description="LDL-receptor class A 1" evidence="4">
+<location>
+<begin position="452"/>
+<end position="487"/>
+</location>
+</feature>
+<feature type="domain" description="LDL-receptor class A 2" evidence="4">
+<location>
+<begin position="487"/>
+<end position="524"/>
+</location>
+</feature>
+<feature type="domain" description="LDL-receptor class A 3" evidence="4">
+<location>
+<begin position="524"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="domain" description="LDL-receptor class A 4" evidence="4">
+<location>
+<begin position="566"/>
+<end position="603"/>
+</location>
+</feature>
+<feature type="domain" description="Peptidase S1" evidence="6">
+<location>
+<begin position="615"/>
+<end position="854"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system">
+<location>
+<position position="656"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system">
+<location>
+<position position="711"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system">
+<location>
+<position position="805"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="302"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="485"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="772"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="214"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="340"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="397"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="453"/>
+<end position="464"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="459"/>
+<end position="477"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="471"/>
+<end position="486"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="488"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="496"/>
+<end position="514"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="508"/>
+<end position="523"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="525"/>
+<end position="537"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="532"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="544"/>
+<end position="559"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="567"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="574"/>
+<end position="593"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="587"/>
+<end position="602"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="641"/>
+<end position="657"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="776"/>
+<end position="790"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="801"/>
+<end position="830"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7126904." id="VAR_032847">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="285"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17667603." id="VAR_032848" evidence="12">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="381"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ARCI11." id="VAR_032849" evidence="10">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="827"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes catalytic activity." evidence="9">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="656"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes catalytic activity." evidence="9">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="711"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes catalytic activity." evidence="9">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="805"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAB20376." ref="3" evidence="13">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="674"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="629"/>
+<end position="634"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="635"/>
+<end position="637"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="638"/>
+<end position="645"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="647"/>
+<end position="653"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="655"/>
+<end position="658"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="669"/>
+<end position="671"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="672"/>
+<end position="677"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="690"/>
+<end position="699"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="705"/>
+<end position="707"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="713"/>
+<end position="719"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="724"/>
+<end position="726"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="744"/>
+<end position="754"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="764"/>
+<end position="770"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="773"/>
+<end position="779"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="781"/>
+<end position="783"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="788"/>
+<end position="792"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="797"/>
+<end position="799"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="802"/>
+<end position="806"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="808"/>
+<end position="812"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="818"/>
+<end position="826"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="828"/>
+<end position="831"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="837"/>
+<end position="842"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="843"/>
+<end position="845"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="846"/>
+<end position="853"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00059"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00124"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00188"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00274"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11696548"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16007225"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16407223"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17273967"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18843291"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<sequence length="855" mass="94770" checksum="26143132C01F99C9" modified="2000-05-01" version="2">
+MGSDRARKGGGGPKDFGAGLKYNSRHEKVNGLEEGVEFLPVNNVKKVEKHGPGRWVVLAA
+VLIGLLLVLLGIGFLVWHLQYRDVRVQKVFNGYMRITNENFVDAYENSNSTEFVSLASKV
+KDALKLLYSGVPFLGPYHKESAVTAFSEGSVIAYYWSEFSIPQHLVEEAERVMAEERVVM
+LPPRARSLKSFVVTSVVAFPTDSKTVQRTQDNSCSFGLHARGVELMRFTTPGFPDSPYPA
+HARCQWALRGDADSVLSLTFRSFDLASCDERGSDLVTVYNTLSPMEPHALVQLCGTYPPS
+YNLTFHSSQNVLLITLITNTERRHPGFEATFFQLPRMSSCGGRLRKAQGTFNSPYYPGHY
+PPNIDCTWNIEVPNNQHVKVRFKFFYLLEPGVPAGTCPKDYVEINGEKYCGERSQFVVTS
+NSNKITVRFHSDQSYTDTGFLAEYLSYDSSDPCPGQFTCRTGRCIRKELRCDGWADCTDH
+SDELNCSCDAGHQFTCKNKFCKPLFWVCDSVNDCGDNSDEQGCSCPAQTFRCSNGKCLSK
+SQQCNGKDDCGDGSDEASCPKVNVVTCTKHTYRCLNGLCLSKGNPECDGKEDCSDGSDEK
+DCDCGLRSFTRQARVVGGTDADEGEWPWQVSLHALGQGHICGASLISPNWLVSAAHCYID
+DRGFRYSDPTQWTAFLGLHDQSQRSAPGVQERRLKRIISHPFFNDFTFDYDIALLELEKP
+AEYSSMVRPICLPDASHVFPAGKAIWVTGWGHTQYGGTGALILQKGEIRVINQTTCENLL
+PQQITPRMMCVGFLSGGVDSCQGDSGGPLSSVEADGRIFQAGVVSWGDGCAQRNKPGVYT
+RLPLFRDWIKENTGV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

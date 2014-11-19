@@ -1,0 +1,1150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2014-10-29" version="163">
+<accession>P15207</accession>
+<accession>Q63049</accession>
+<name>ANDR_RAT</name>
+<protein>
+<recommendedName>
+<fullName>Androgen receptor</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Dihydrotestosterone receptor</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Nuclear receptor subfamily 3 group C member 4</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">Ar</name>
+<name type="synonym">Nr3c4</name>
+</gene>
+<organism>
+<name type="scientific">Rattus norvegicus</name>
+<name type="common">Rat</name>
+<dbReference type="NCBI Taxonomy" id="10116"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Sciurognathi</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Rattus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="Mol. Endocrinol." volume="2" first="1276" last="1285">
+<title>The rat androgen receptor: primary structure, autoregulation of its messenger ribonucleic acid, and immunocytochemical localization of the receptor protein.</title>
+<authorList>
+<person name="Tan J."/>
+<person name="Joseph D.R."/>
+<person name="Quarmby V.E."/>
+<person name="Lubahn D.B."/>
+<person name="Sar M."/>
+<person name="French F.S."/>
+<person name="Wilson E.M."/>
+</authorList>
+<dbReference type="PubMed" id="3216867"/>
+<dbReference type="DOI" id="10.1210/mend-2-12-1276"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="Proc. Natl. Acad. Sci. U.S.A." volume="85" first="7211" last="7215">
+<title>Structural analysis of complementary DNA and amino acid sequences of human and rat androgen receptors.</title>
+<authorList>
+<person name="Chang C."/>
+<person name="Kokontis J."/>
+<person name="Liao S."/>
+</authorList>
+<dbReference type="PubMed" id="3174628"/>
+<dbReference type="DOI" id="10.1073/pnas.85.19.7211"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Prostate</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="8893" last="8900">
+<title>A single base mutation in the androgen receptor gene causes androgen insensitivity in the testicular feminized rat.</title>
+<authorList>
+<person name="Yarbrough W.G."/>
+<person name="Quarmby V.E."/>
+<person name="Simental J.A."/>
+<person name="Joseph D.R."/>
+<person name="Sar M."/>
+<person name="Lubahn D.B."/>
+<person name="Olsen K.L."/>
+<person name="French F.S."/>
+<person name="Wilson E.M."/>
+</authorList>
+<dbReference type="PubMed" id="2341409"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANT TFM GLN-735</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1998" name="Mol. Biol. Cell" volume="9" first="2527" last="2543">
+<title>Activation of androgen receptor function by a novel nuclear protein kinase.</title>
+<authorList>
+<person name="Moilanen A.-M."/>
+<person name="Karvonen U."/>
+<person name="Poukka H."/>
+<person name="Jaenne O.A."/>
+<person name="Palvimo J.J."/>
+</authorList>
+<dbReference type="PubMed" id="9725910"/>
+<dbReference type="DOI" id="10.1091/mbc.9.9.2527"/>
+</citation>
+<scope>INTERACTION WITH HIPK3</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Biochem. J." volume="369" first="163" last="171">
+<title>A novel steroid receptor co-activator protein (SRAP) as an alternative form of steroid receptor RNA-activator gene: expression in prostate cancer cells and enhancement of androgen receptor activity.</title>
+<authorList>
+<person name="Kawashima H."/>
+<person name="Takano H."/>
+<person name="Sugita S."/>
+<person name="Takahara Y."/>
+<person name="Sugimura K."/>
+<person name="Nakatani T."/>
+</authorList>
+<dbReference type="PubMed" id="12350225"/>
+<dbReference type="DOI" id="10.1042/BJ20020743"/>
+</citation>
+<scope>INTERACTION WITH SRA1</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="4904" last="4909">
+<title>Crystallographic structures of the ligand-binding domains of the androgen receptor and its T877A mutant complexed with the natural agonist dihydrotestosterone.</title>
+<authorList>
+<person name="Sack J.S."/>
+<person name="Kish K.F."/>
+<person name="Wang C."/>
+<person name="Attar R.M."/>
+<person name="Kiefer S.E."/>
+<person name="An Y."/>
+<person name="Wu G.Y."/>
+<person name="Scheffler J.E."/>
+<person name="Salvati M.E."/>
+<person name="Krystek S.R. Jr."/>
+<person name="Weinmann R."/>
+<person name="Einspahr H.M."/>
+</authorList>
+<dbReference type="PubMed" id="11320241"/>
+<dbReference type="DOI" id="10.1073/pnas.081565498"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 647-902 OF MUTANT ALA-860 IN COMPLEX WITH DIHYDROTESTOSTERONE</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="4758" last="4763">
+<title>Structural basis of androgen receptor binding to selective androgen response elements.</title>
+<authorList>
+<person name="Shaffer P.L."/>
+<person name="Jivan A."/>
+<person name="Dollins D.E."/>
+<person name="Claessens F."/>
+<person name="Gewirth D.T."/>
+</authorList>
+<dbReference type="PubMed" id="15037741"/>
+<dbReference type="DOI" id="10.1073/pnas.0401123101"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 533-637 IN COMPLEX WITH DNA AND ZINC IONS</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Bioorg. Med. Chem. Lett." volume="15" first="271" last="276">
+<title>Structure based approach to the design of bicyclic-1H-isoindole-1,3(2H)-dione based androgen receptor antagonists.</title>
+<authorList>
+<person name="Salvati M.E."/>
+<person name="Balog A."/>
+<person name="Shan W."/>
+<person name="Wei D.D."/>
+<person name="Pickering D."/>
+<person name="Attar R.M."/>
+<person name="Geng J."/>
+<person name="Rizzo C.A."/>
+<person name="Gottardis M.M."/>
+<person name="Weinmann R."/>
+<person name="Krystek S.R."/>
+<person name="Sack J."/>
+<person name="An Y."/>
+<person name="Kish K."/>
+</authorList>
+<dbReference type="PubMed" id="15603938"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2004.10.085"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 647-902 OF MUTANT ALA-860 IN COMPLEX WITH SYNTHETIC ANTAGONIST</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="J. Med. Chem." volume="49" first="7596" last="7599">
+<title>Discovery of potent, orally-active, and muscle-selective androgen receptor modulators based on an N-aryl-hydroxybicyclohydantoin scaffold.</title>
+<authorList>
+<person name="Sun C."/>
+<person name="Robl J.A."/>
+<person name="Wang T.C."/>
+<person name="Huang Y."/>
+<person name="Kuhns J.E."/>
+<person name="Lupisella J.A."/>
+<person name="Beehler B.C."/>
+<person name="Golla R."/>
+<person name="Sleph P.G."/>
+<person name="Seethala R."/>
+<person name="Fura A."/>
+<person name="Krystek S.R. Jr."/>
+<person name="An Y."/>
+<person name="Malley M.F."/>
+<person name="Sack J.S."/>
+<person name="Salvati M.E."/>
+<person name="Grover G.J."/>
+<person name="Ostrowski J."/>
+<person name="Hamann L.G."/>
+</authorList>
+<dbReference type="PubMed" id="17181141"/>
+<dbReference type="DOI" id="10.1021/jm061101w"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 647-902 IN COMPLEX WITH SYNTHETIC ANDROGEN ANTAGONIST</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2007" name="Endocrinology" volume="148" first="4" last="12">
+<title>Pharmacological and X-ray structural characterization of a novel selective androgen receptor modulator: potent hyperanabolic stimulation of skeletal muscle with hypostimulation of prostate in rats.</title>
+<authorList>
+<person name="Ostrowski J."/>
+<person name="Kuhns J.E."/>
+<person name="Lupisella J.A."/>
+<person name="Manfredi M.C."/>
+<person name="Beehler B.C."/>
+<person name="Krystek S.R. Jr."/>
+<person name="Bi Y."/>
+<person name="Sun C."/>
+<person name="Seethala R."/>
+<person name="Golla R."/>
+<person name="Sleph P.G."/>
+<person name="Fura A."/>
+<person name="An Y."/>
+<person name="Kish K.F."/>
+<person name="Sack J.S."/>
+<person name="Mookhtiar K.A."/>
+<person name="Grover G.J."/>
+<person name="Hamann L.G."/>
+</authorList>
+<dbReference type="PubMed" id="17008401"/>
+<dbReference type="DOI" id="10.1210/en.2006-0843"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 647-902 IN COMPLEX WITH THE SYNTHETIC AGONIST MBS-564929</scope>
+<scope>FUNCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Steroid hormone receptors are ligand-activated transcription factors that regulate eukaryotic gene expression and affect cellular proliferation and differentiation in target tissues. Transcription factor activity is modulated by bound coactivator and corepressor proteins. Transcription activation is down-regulated by NR0B2. Activated, but not phosphorylated, by HIPK3 and ZIPK/DAPK3 (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 5 6 7 8 10">Binds DNA as a homodimer. Part of a ternary complex containing AR, EFCAB6/DJBP and PARK7. Interacts with HIPK3 and NR0B2 in the presence of androgen. The ligand binding domain interacts with KAT7/HBO1 in the presence of dihydrotestosterone. Interacts with EFCAB6/DJBP, PELP1, PQBP1, RANBP9, RBAK, SPDEF, SRA1, TGFB1I1, ZNF318 and RREB1. Interacts with ZMIZ1/ZIMP10 and ZMIZ2/ZMIP7 which both enhance its transactivation activity. Interacts with SLC30A9 and RAD54L2/ARIP4. Interacts via the ligand-binding domain with LXXLL and FXXLF motifs from NCOA1, NCOA2, NCOA3, NCOA4 and MAGEA11. The AR N-terminal poly-Gln region binds Ran resulting in enhancement of AR-mediated transactivation. Ran-binding decreases as the poly-Gln length increases. Interacts with HIP1 (via coiled coil domain). Interacts (via ligand-binding domain) with TRIM68. Interacts with TNK2. Interacts with USP26. Interacts with RNF6. Interacts (regulated by RNF6 probably through polyubiquitination) with RNF14; regulates AR transcriptional activity. Interacts with PRMT2 and TRIM24. Interacts with GNB2L1/RACK1. Interacts with RANBP10; this interaction enhances dihydrotestosterone-induced AR transcriptional activity. Interacts with PRPF6 in a hormone-independent way; this interaction enhances dihydrotestosterone-induced AR transcriptional activity. Interacts with STK4/MST1. Interacts with ZIPK/DAPK3. Interacts with LPXN. Interacts with MAK. Part of a complex containing AR, MAK and NCOA3. Interacts with CRY1.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 10">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="1">Predominantly cytoplasmic in unligated form but translocates to the nucleus upon ligand-binding. Can also translocate to the nucleus in unligated form in the presence of GNB2L1 (By similarity).</text>
+</comment>
+<comment type="tissue specificity">
+<text>Highest levels in the seminal vesicle, ventral prostate and coagulating gland with lower levels in the kidney and levator ani muscle.</text>
+</comment>
+<comment type="domain">
+<text evidence="1">Composed of three domains: a modulating N-terminal domain, a DNA-binding domain and a C-terminal ligand-binding domain. In the presence of bound steroid the ligand-binding domain interacts with the N-terminal modulating domain, and thereby activates AR transcription factor activity. Agonist binding is required for dimerization and binding to target DNA. The transcription factor activity of the complex formed by ligand-activated AR and DNA is modulated by interactions with coactivator and corepressor proteins. Interaction with RANBP9 is mediated by both the N-terminal domain and the DNA-binding domain. Interaction with EFCAB6/DJBP is mediated by the DNA-binding domain (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Phosphorylated in prostate cancer cells in response to several growth factors including EGF. Phosphorylation is induced by c-Src kinase (CSK). Tyr-517 is one of the major phosphorylation sites and an increase in phosphorylation and Src kinase activity is associated with prostate cancer progression (By similarity). Phosphorylation by TNK2 enhances the DNA-binding and transcriptional activity. Phosphorylation at Ser-61 by CDK9 regulates AR promoter selectivity and cell growth. Phosphorylation by PAK6 leads to AR-mediated transcription inhibition (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Sumoylated on Lys-384 (major) and Lys-503 (By similarity). Ubiquitinated. Deubiquitinated by USP26 (By similarity). 'Lys-6' and 'Lys-27'-linked polyubiquitination by RNF6 modulates AR transcriptional activity and specificity (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Palmitoylated by ZDHHC7 and ZDHHC21. Palmitoylation is required for plasma membrane targeting and for rapid intracellular signaling via ERK and AKT kinases and cAMP generation (By similarity).</text>
+</comment>
+<comment type="disease">
+<text>Defects in Ar are a cause of androgen insensitivity. Rats with this syndrome are called testicular feminized (TFM).</text>
+</comment>
+<comment type="miscellaneous">
+<text>In the absence of ligand, steroid hormone receptors are thought to be weakly associated with nuclear components; hormone binding greatly increases receptor affinity. The hormone-receptor complex appears to recognize discrete DNA sequences upstream of transcriptional start sites.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Transcriptional activity is enhanced by binding to RANBP9.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the nuclear hormone receptor family. NR3 subfamily.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Contains 1 nuclear receptor DNA-binding domain.</text>
+</comment>
+<dbReference type="EMBL" id="M20133">
+<property type="protein sequence ID" value="AAA40733.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M23264">
+<property type="protein sequence ID" value="AAA40759.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J05454">
+<property type="protein sequence ID" value="AAA40734.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B40494">
+<property type="entry name" value="B40494"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_036634.1">
+<property type="nucleotide sequence ID" value="NM_012502.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Rn.9813"/>
+<dbReference type="PDB" id="1I37">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=647-902"/>
+</dbReference>
+<dbReference type="PDB" id="1I38">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=647-902"/>
+</dbReference>
+<dbReference type="PDB" id="1R4I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B=533-637"/>
+</dbReference>
+<dbReference type="PDB" id="1XNN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=647-902"/>
+</dbReference>
+<dbReference type="PDB" id="2IHQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=647-902"/>
+</dbReference>
+<dbReference type="PDB" id="2NW4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=647-902"/>
+</dbReference>
+<dbReference type="PDB" id="3G0W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=647-902"/>
+</dbReference>
+<dbReference type="PDBsum" id="1I37"/>
+<dbReference type="PDBsum" id="1I38"/>
+<dbReference type="PDBsum" id="1R4I"/>
+<dbReference type="PDBsum" id="1XNN"/>
+<dbReference type="PDBsum" id="2IHQ"/>
+<dbReference type="PDBsum" id="2NW4"/>
+<dbReference type="PDBsum" id="3G0W"/>
+<dbReference type="ProteinModelPortal" id="P15207"/>
+<dbReference type="SMR" id="P15207">
+<property type="residue range" value="538-611, 646-901"/>
+</dbReference>
+<dbReference type="BioGrid" id="246396">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-5963N"/>
+<dbReference type="IntAct" id="P15207">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="STRING" id="10116.ENSRNOP00000009129"/>
+<dbReference type="BindingDB" id="P15207"/>
+<dbReference type="ChEMBL" id="CHEMBL3072"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="628"/>
+<dbReference type="PhosphoSite" id="P15207"/>
+<dbReference type="PaxDb" id="P15207"/>
+<dbReference type="PRIDE" id="P15207"/>
+<dbReference type="Ensembl" id="ENSRNOT00000009129">
+<property type="protein sequence ID" value="ENSRNOP00000009129"/>
+<property type="gene ID" value="ENSRNOG00000005639"/>
+</dbReference>
+<dbReference type="GeneID" id="24208"/>
+<dbReference type="KEGG" id="rno:24208"/>
+<dbReference type="CTD" id="367"/>
+<dbReference type="RGD" id="2147">
+<property type="gene designation" value="Ar"/>
+</dbReference>
+<dbReference type="eggNOG" id="NOG245477"/>
+<dbReference type="GeneTree" id="ENSGT00760000118887"/>
+<dbReference type="HOGENOM" id="HOG000254783"/>
+<dbReference type="HOVERGEN" id="HBG007583"/>
+<dbReference type="InParanoid" id="P15207"/>
+<dbReference type="KO" id="K08557"/>
+<dbReference type="OrthoDB" id="EOG7J17Z7"/>
+<dbReference type="PhylomeDB" id="P15207"/>
+<dbReference type="TreeFam" id="TF350286"/>
+<dbReference type="EvolutionaryTrace" id="P15207"/>
+<dbReference type="NextBio" id="602605"/>
+<dbReference type="PRO" id="PR:P15207"/>
+<dbReference type="Genevestigator" id="P15207"/>
+<dbReference type="GO" id="GO:0030424">
+<property type="term" value="C:axon"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005497">
+<property type="term" value="F:androgen binding"/>
+<property type="evidence" value="IMP:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004882">
+<property type="term" value="F:androgen receptor activity"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050681">
+<property type="term" value="F:androgen receptor binding"/>
+<property type="evidence" value="IPI:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008013">
+<property type="term" value="F:beta-catenin binding"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="TAS:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004879">
+<property type="term" value="F:ligand-activated sequence-specific DNA binding RNA polymerase II transcription factor activity"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="IPI:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005102">
+<property type="term" value="F:receptor binding"/>
+<property type="evidence" value="IPI:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:sequence-specific DNA binding transcription factor activity"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044212">
+<property type="term" value="F:transcription regulatory region DNA binding"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060520">
+<property type="term" value="P:activation of prostate induction by androgen receptor signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030521">
+<property type="term" value="P:androgen receptor signaling pathway"/>
+<property type="evidence" value="IMP:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071383">
+<property type="term" value="P:cellular response to steroid hormone stimulus"/>
+<property type="evidence" value="IEP:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060742">
+<property type="term" value="P:epithelial cell differentiation involved in prostate gland development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003382">
+<property type="term" value="P:epithelial cell morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030522">
+<property type="term" value="P:intracellular receptor signaling pathway"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060599">
+<property type="term" value="P:lateral sprouting involved in mammary gland duct morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033327">
+<property type="term" value="P:Leydig cell differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048808">
+<property type="term" value="P:male genitalia morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046661">
+<property type="term" value="P:male sex differentiation"/>
+<property type="evidence" value="IMP:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019102">
+<property type="term" value="P:male somatic sex determination"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060749">
+<property type="term" value="P:mammary gland alveolus development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060571">
+<property type="term" value="P:morphogenesis of an epithelial fold"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035264">
+<property type="term" value="P:multicellular organism growth"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050680">
+<property type="term" value="P:negative regulation of epithelial cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001237">
+<property type="term" value="P:negative regulation of extrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045720">
+<property type="term" value="P:negative regulation of integrin biosynthetic process"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048645">
+<property type="term" value="P:organ formation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell proliferation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043568">
+<property type="term" value="P:positive regulation of insulin-like growth factor receptor signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033148">
+<property type="term" value="P:positive regulation of intracellular estrogen receptor signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043410">
+<property type="term" value="P:positive regulation of MAPK cascade"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051092">
+<property type="term" value="P:positive regulation of NF-kappaB transcription factor activity"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042327">
+<property type="term" value="P:positive regulation of phosphorylation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060740">
+<property type="term" value="P:prostate gland epithelium morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060736">
+<property type="term" value="P:prostate gland growth"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050790">
+<property type="term" value="P:regulation of catalytic activity"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048638">
+<property type="term" value="P:regulation of developmental growth"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090003">
+<property type="term" value="P:regulation of establishment of protein localization to plasma membrane"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060685">
+<property type="term" value="P:regulation of prostatic bud formation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003073">
+<property type="term" value="P:regulation of systemic arterial blood pressure"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032868">
+<property type="term" value="P:response to insulin"/>
+<property type="evidence" value="IEP:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072520">
+<property type="term" value="P:seminiferous tubule development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007338">
+<property type="term" value="P:single fertilization"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060748">
+<property type="term" value="P:tertiary branching involved in mammary gland duct morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006351">
+<property type="term" value="P:transcription, DNA-templated"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.565.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.50.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001103">
+<property type="entry name" value="Andrgn_rcpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008946">
+<property type="entry name" value="Nucl_hormone_rcpt_ligand-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000536">
+<property type="entry name" value="Nucl_hrmn_rcpt_lig-bd_core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001628">
+<property type="entry name" value="Znf_hrmn_rcpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013088">
+<property type="entry name" value="Znf_NHR/GATA"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02166">
+<property type="entry name" value="Androgen_recep"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00104">
+<property type="entry name" value="Hormone_recep"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00105">
+<property type="entry name" value="zf-C4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00521">
+<property type="entry name" value="ANDROGENR"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00047">
+<property type="entry name" value="STROIDFINGER"/>
+</dbReference>
+<dbReference type="SMART" id="SM00430">
+<property type="entry name" value="HOLI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00399">
+<property type="entry name" value="ZnF_C4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48508">
+<property type="entry name" value="SSF48508"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00031">
+<property type="entry name" value="NUCLEAR_REC_DBD_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51030">
+<property type="entry name" value="NUCLEAR_REC_DBD_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0446">Lipid-binding</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0754">Steroid-binding</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="Androgen receptor" id="PRO_0000053712">
+<location>
+<begin position="1"/>
+<end position="902"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="Nuclear receptor" evidence="2">
+<location>
+<begin position="541"/>
+<end position="614"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="NR C4-type" evidence="2">
+<location>
+<begin position="542"/>
+<end position="562"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="NR C4-type" evidence="2">
+<location>
+<begin position="578"/>
+<end position="602"/>
+</location>
+</feature>
+<feature type="region of interest" description="Modulating">
+<location>
+<begin position="1"/>
+<end position="540"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with LPXN" evidence="1">
+<location>
+<begin position="534"/>
+<end position="902"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with HIPK3">
+<location>
+<begin position="554"/>
+<end position="644"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with KAT7" evidence="1">
+<location>
+<begin position="607"/>
+<end position="902"/>
+</location>
+</feature>
+<feature type="region of interest" description="Ligand-binding">
+<location>
+<begin position="673"/>
+<end position="902"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Arg">
+<location>
+<begin position="63"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gln">
+<location>
+<begin position="174"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="370"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ala">
+<location>
+<begin position="394"/>
+<end position="400"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="444"/>
+<end position="450"/>
+</location>
+</feature>
+<feature type="binding site" description="Androgen">
+<location>
+<position position="688"/>
+</location>
+</feature>
+<feature type="binding site" description="Androgen">
+<location>
+<position position="735"/>
+</location>
+</feature>
+<feature type="binding site" description="Androgen">
+<location>
+<position position="860"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with coactivator LXXL motif" evidence="1">
+<location>
+<position position="703"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with coactivator FXXLF motif" evidence="1">
+<location>
+<position position="880"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CDK9" evidence="1">
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="221"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK and TNK2" evidence="1">
+<location>
+<position position="265"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="305"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="344"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK and TNK2" evidence="1">
+<location>
+<position position="361"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="391"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="517"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="534"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by STK4/MST1" evidence="1">
+<location>
+<position position="633"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by CSK" evidence="1">
+<location>
+<position position="898"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)" evidence="1">
+<location>
+<position position="384"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)" evidence="1">
+<location>
+<position position="503"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="1">
+<location>
+<position position="828"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="1">
+<location>
+<position position="830"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In TFM; has only 10-15% of the androgen-binding capacity of wild-type AR." evidence="9">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="735"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAA40734." ref="3" evidence="11">
+<location>
+<position position="195"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA40759." ref="2" evidence="11">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="389"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="543"/>
+<end position="545"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="551"/>
+<end position="553"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="556"/>
+<end position="558"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="560"/>
+<end position="570"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="579"/>
+<end position="582"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="588"/>
+<end position="593"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="595"/>
+<end position="605"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="655"/>
+<end position="663"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="674"/>
+<end position="676"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="680"/>
+<end position="703"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="708"/>
+<end position="710"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="713"/>
+<end position="740"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="743"/>
+<end position="748"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="751"/>
+<end position="753"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="755"/>
+<end position="760"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="764"/>
+<end position="779"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="784"/>
+<end position="795"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="797"/>
+<end position="800"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="807"/>
+<end position="826"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="827"/>
+<end position="829"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="833"/>
+<end position="866"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="867"/>
+<end position="869"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="876"/>
+<end position="884"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="886"/>
+<end position="890"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="893"/>
+<end position="896"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00407"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11320241"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12350225"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15037741"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15603938"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17008401"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17181141"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2341409"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9725910"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="902" mass="98218" checksum="43F4064759FDCBED" modified="1990-04-01" version="1">
+MEVQLGLGRVYPRPPSKTYRGAFQNLFQSVREAIQNPGPRHPEAASIAPPGACLQQRQET
+SPRRRRRQQHPEDGSPQAHIRGTTGYLALEEEQQPSQQQSASEGHPESGCLPEPGAATAP
+GKGLPQQPPAPPDQDDSAAPSTLSLLGPTFPGLSSCSADIKDILSEAGTMQLLQQQQQQQ
+QQQQQQQQQQQQQQQEVISEGSSSVRAREATGAPSSSKDSYLGGNSTISDSAKELCKAVS
+VSMGLGVEALEHLSPGEQLRGDCMYASLLGGPPAVRPTPCAPLAECKGLSLDEGPGKGTE
+ETAEYSSFKGGYAKGLEGESLGCSGSSEAGSSGTLEIPSSLSLYKSGAVDEAAAYQNRDY
+YNFPLALSGPPHPPPPTHPHARIKLENPSDYGSAWAAAAAQCRYGDLASLHGGSVAGPST
+GSPPATASSSWHTLFTAEEGQLYGPGGGGGSSSPSDAGPVAPYGYTRPPQGLASQEGDFS
+ASEVWYPGGVVNRVPYPSPSCVKSEMGPWMENYSGPYGDMRLDSTRDHVLPIDYYFPPQK
+TCLICGDEASGCHYGALTCGSCKVFFKRAAEGKQKYLCASRNDCTIDKFRRKNCPSCRLR
+KCYEAGMTLGARKLKKLGNLKLQEEGENSSAGSPTEDPSQKMTVSHIEGYECQPIFLNVL
+EAIEPGVVCAGHDNNQPDSFAALLSSLNELGERQLVHVVKWAKALPGFRNLHVDDQMAVI
+QYSWMGLMVFAMGWRSFTNVNSRMLYFAPDLVFNEYRMHKSRMYSQCVRMRHLSQEFGWL
+QITPQEFLCMKALLLFSIIPVDGLKNQKFFDELRMNYIKELDRIIACKRKNPTSCSRRFY
+QLTKLLDSVQPIARELHQFTFDLLIKSHMVSVDFPEMMAEIISVQVPKILSGKVKPIYFH
+TQ
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

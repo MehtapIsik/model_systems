@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2014-04-16" modified="2014-10-29" version="7">
+<accession>P9WIJ3</accession>
+<accession>L0T3J0</accession>
+<accession>P96275</accession>
+<name>DEF_MYCTU</name>
+<protein>
+<recommendedName>
+<fullName>Peptide deformylase</fullName>
+<shortName>PDF</shortName>
+<ecNumber>3.5.1.88</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Polypeptide deformylase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">def</name>
+<name type="ordered locus">Rv0429c</name>
+<name type="ORF">MTCY22G10.26c</name>
+</gene>
+<organism>
+<name type="scientific">Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)</name>
+<dbReference type="NCBI Taxonomy" id="83332"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Actinobacteridae</taxon>
+<taxon>Actinomycetales</taxon>
+<taxon>Corynebacterineae</taxon>
+<taxon>Mycobacteriaceae</taxon>
+<taxon>Mycobacterium</taxon>
+<taxon>Mycobacterium tuberculosis complex</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="Nature" volume="393" first="537" last="544">
+<title>Deciphering the biology of Mycobacterium tuberculosis from the complete genome sequence.</title>
+<authorList>
+<person name="Cole S.T."/>
+<person name="Brosch R."/>
+<person name="Parkhill J."/>
+<person name="Garnier T."/>
+<person name="Churcher C.M."/>
+<person name="Harris D.E."/>
+<person name="Gordon S.V."/>
+<person name="Eiglmeier K."/>
+<person name="Gas S."/>
+<person name="Barry C.E. III"/>
+<person name="Tekaia F."/>
+<person name="Badcock K."/>
+<person name="Basham D."/>
+<person name="Brown D."/>
+<person name="Chillingworth T."/>
+<person name="Connor R."/>
+<person name="Davies R.M."/>
+<person name="Devlin K."/>
+<person name="Feltwell T."/>
+<person name="Gentles S."/>
+<person name="Hamlin N."/>
+<person name="Holroyd S."/>
+<person name="Hornsby T."/>
+<person name="Jagels K."/>
+<person name="Krogh A."/>
+<person name="McLean J."/>
+<person name="Moule S."/>
+<person name="Murphy L.D."/>
+<person name="Oliver S."/>
+<person name="Osborne J."/>
+<person name="Quail M.A."/>
+<person name="Rajandream M.A."/>
+<person name="Rogers J."/>
+<person name="Rutter S."/>
+<person name="Seeger K."/>
+<person name="Skelton S."/>
+<person name="Squares S."/>
+<person name="Squares R."/>
+<person name="Sulston J.E."/>
+<person name="Taylor K."/>
+<person name="Whitehead S."/>
+<person name="Barrell B.G."/>
+</authorList>
+<dbReference type="PubMed" id="9634230"/>
+<dbReference type="DOI" id="10.1038/31159"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2008" name="BMC Syst. Biol." volume="2" first="109" last="109">
+<title>targetTB: a target identification pipeline for Mycobacterium tuberculosis through an interactome, reactome and genome-scale structural analysis.</title>
+<authorList>
+<person name="Raman K."/>
+<person name="Yeturu K."/>
+<person name="Chandra N."/>
+</authorList>
+<dbReference type="PubMed" id="19099550"/>
+<dbReference type="DOI" id="10.1186/1752-0509-2-109"/>
+</citation>
+<scope>IDENTIFICATION AS A DRUG TARGET [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2011" name="Mol. Cell. Proteomics" volume="10" first="M111.011627" last="M111.011627">
+<title>Proteogenomic analysis of Mycobacterium tuberculosis by high resolution mass spectrometry.</title>
+<authorList>
+<person name="Kelkar D.S."/>
+<person name="Kumar D."/>
+<person name="Kumar P."/>
+<person name="Balakrishnan L."/>
+<person name="Muthusamy B."/>
+<person name="Yadav A.K."/>
+<person name="Shrivastava P."/>
+<person name="Marimuthu A."/>
+<person name="Anand S."/>
+<person name="Sundaram H."/>
+<person name="Kingsbury R."/>
+<person name="Harsha H.C."/>
+<person name="Nair B."/>
+<person name="Prasad T.S."/>
+<person name="Chauhan D.S."/>
+<person name="Katoch K."/>
+<person name="Katoch V.M."/>
+<person name="Kumar P."/>
+<person name="Chaerkady R."/>
+<person name="Ramachandran S."/>
+<person name="Dash D."/>
+<person name="Pandey A."/>
+</authorList>
+<dbReference type="PubMed" id="21969609"/>
+<dbReference type="DOI" id="10.1074/mcp.M111.011627"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<strain>ATCC 25618 / H37Rv</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Removes the formyl group from the N-terminal Met of newly synthesized proteins. Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<text>Formyl-L-methionyl peptide + H(2)O = formate + methionyl peptide.</text>
+</comment>
+<comment type="cofactor">
+<text evidence="1">Binds 1 Fe(2+) ion.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Was identified as a high-confidence drug target.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the polypeptide deformylase family.</text>
+</comment>
+<dbReference type="EC" id="3.5.1.88"/>
+<dbReference type="EMBL" id="AL123456">
+<property type="protein sequence ID" value="CCP43160.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="C70631">
+<property type="entry name" value="C70631"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_214943.1">
+<property type="nucleotide sequence ID" value="NC_000962.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_006513755.1">
+<property type="nucleotide sequence ID" value="NC_018143.2"/>
+</dbReference>
+<dbReference type="PDB" id="3E3U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.56"/>
+<property type="chains" value="A=1-197"/>
+</dbReference>
+<dbReference type="PDBsum" id="3E3U"/>
+<dbReference type="ProteinModelPortal" id="P9WIJ3"/>
+<dbReference type="SMR" id="P9WIJ3">
+<property type="residue range" value="2-197"/>
+</dbReference>
+<dbReference type="ChEMBL" id="CHEMBL5765"/>
+<dbReference type="GeneID" id="13318296"/>
+<dbReference type="GeneID" id="886366"/>
+<dbReference type="KEGG" id="mtu:Rv0429c"/>
+<dbReference type="KEGG" id="mtv:RVBD_0429c"/>
+<dbReference type="TubercuList" id="Rv0429c"/>
+<dbReference type="KO" id="K01462"/>
+<dbReference type="PhylomeDB" id="P9WIJ3"/>
+<dbReference type="GO" id="GO:0005506">
+<property type="term" value="F:iron ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042586">
+<property type="term" value="F:peptide deformylase activity"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040007">
+<property type="term" value="P:growth"/>
+<property type="evidence" value="IMP:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035601">
+<property type="term" value="P:protein deacylation"/>
+<property type="evidence" value="IDA:MTBBASE"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="IEA:UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.45.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00163">
+<property type="entry name" value="Pep_deformylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000181">
+<property type="entry name" value="Fmet_deformylase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023635">
+<property type="entry name" value="Peptide_deformylase"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10458">
+<property type="entry name" value="PTHR10458"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01327">
+<property type="entry name" value="Pep_deformylase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF004749">
+<property type="entry name" value="Pep_def"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01576">
+<property type="entry name" value="PDEFORMYLASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56420">
+<property type="entry name" value="SSF56420"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00079">
+<property type="entry name" value="pept_deformyl"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0648">Protein biosynthesis</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Peptide deformylase" id="PRO_0000082806">
+<location>
+<begin position="1"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="active site" evidence="1">
+<location>
+<position position="149"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="1">
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="1">
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="1">
+<location>
+<position position="152"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="12"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="33"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="50"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="54"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="61"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="78"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="99"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="103"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="113"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="120"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="133"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="140"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="158"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="164"/>
+<end position="177"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="197" mass="20939" checksum="14F2F655EDF01C93" modified="2014-04-16" version="1">
+MAVVPIRIVGDPVLHTATTPVTVAADGSLPADLAQLIATMYDTMDAANGVGLAANQIGCS
+LRLFVYDCAADRAMTARRRGVVINPVLETSEIPETMPDPDTDDEGCLSVPGESFPTGRAK
+WARVTGLDADGSPVSIEGTGLFARMLQHETGHLDGFLYLDRLIGRYARNAKRAVKSHGWG
+VPGLSWLPGEDPDPFGH
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

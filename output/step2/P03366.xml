@@ -1,0 +1,4860 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2014-10-29" version="188">
+<accession>P03366</accession>
+<accession>P03368</accession>
+<name>POL_HV1B1</name>
+<protein>
+<recommendedName>
+<fullName>Gag-Pol polyprotein</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Pr160Gag-Pol</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Matrix protein p17</fullName>
+<shortName>MA</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Capsid protein p24</fullName>
+<shortName>CA</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Spacer peptide p2</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Nucleocapsid protein p7</fullName>
+<shortName>NC</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Transframe peptide</fullName>
+<shortName>TF</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>p6-pol</fullName>
+<shortName>p6*</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Protease</fullName>
+<ecNumber>3.4.23.16</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>PR</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Retropepsin</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Reverse transcriptase/ribonuclease H</fullName>
+<ecNumber>2.7.7.49</ecNumber>
+<ecNumber>2.7.7.7</ecNumber>
+<ecNumber>3.1.26.13</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Exoribonuclease H</fullName>
+<ecNumber>3.1.13.2</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName>p66 RT</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>p51 RT</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>p15</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Integrase</fullName>
+<shortName>IN</shortName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">gag-pol</name>
+</gene>
+<organism>
+<name type="scientific">Human immunodeficiency virus type 1 group M subtype B (isolate BH10)</name>
+<name type="common">HIV-1</name>
+<dbReference type="NCBI Taxonomy" id="11678"/>
+<lineage>
+<taxon>Viruses</taxon>
+<taxon>Retro-transcribing viruses</taxon>
+<taxon>Retroviridae</taxon>
+<taxon>Orthoretrovirinae</taxon>
+<taxon>Lentivirus</taxon>
+<taxon>Primate lentivirus group</taxon>
+</lineage>
+</organism>
+<organismHost>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+</organismHost>
+<reference key="1">
+<citation type="journal article" date="1985" name="Nature" volume="313" first="277" last="284">
+<title>Complete nucleotide sequence of the AIDS virus, HTLV-III.</title>
+<authorList>
+<person name="Ratner L."/>
+<person name="Haseltine W.A."/>
+<person name="Patarca R."/>
+<person name="Livak K.J."/>
+<person name="Starcich B.R."/>
+<person name="Josephs S.F."/>
+<person name="Doran E.R."/>
+<person name="Rafalski J.A."/>
+<person name="Whitehorn E.A."/>
+<person name="Baumeister K."/>
+<person name="Ivanoff L."/>
+<person name="Petteway S.R. Jr."/>
+<person name="Pearson M.L."/>
+<person name="Lautenberger J.A."/>
+<person name="Papas T.S."/>
+<person name="Ghrayeb J."/>
+<person name="Chang N.T."/>
+<person name="Gallo R.C."/>
+<person name="Wong-Staal F."/>
+</authorList>
+<dbReference type="PubMed" id="2578615"/>
+<dbReference type="DOI" id="10.1038/313277a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Nature" volume="313" first="450" last="458">
+<title>Nucleic acid structure and expression of the human AIDS/lymphadenopathy retrovirus.</title>
+<authorList>
+<person name="Muesing M.A."/>
+<person name="Smith D.H."/>
+<person name="Cabradilla C.D."/>
+<person name="Benton C.V."/>
+<person name="Lasky L.A."/>
+<person name="Capon D.J."/>
+</authorList>
+<dbReference type="PubMed" id="2982104"/>
+<dbReference type="DOI" id="10.1038/313450a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>Isolate PV22</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="1992-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Muesing M.A."/>
+</authorList>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="24295" last="24301">
+<title>Human immunodeficiency virus reverse transcriptase displays a partially processive 3' to 5' endonuclease activity.</title>
+<authorList>
+<person name="DeStefano J.J."/>
+<person name="Buiser R.G."/>
+<person name="Mallaber L.M."/>
+<person name="Bambara R.A."/>
+<person name="Fay P.J."/>
+</authorList>
+<dbReference type="PubMed" id="1722202"/>
+</citation>
+<scope>CHARACTERIZATION OF RNASE H</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="FEBS Lett." volume="283" first="180" last="184">
+<title>Mutating P2 and P1 residues at cleavage junctions in the HIV-1 pol polyprotein. Effects on hydrolysis by HIV-1 proteinase.</title>
+<authorList>
+<person name="Jupp R.A."/>
+<person name="Phylip L.H."/>
+<person name="Mills J.S."/>
+<person name="Le Grice S.F.J."/>
+<person name="Kay J."/>
+</authorList>
+<dbReference type="PubMed" id="2044756"/>
+<dbReference type="DOI" id="10.1016/0014-5793(91)80583-O"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING OF POLYPROTEIN</scope>
+<scope>MUTAGENESIS OF PHE-1039 AND LEU-1159</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1991" name="J. Mol. Biol." volume="220" first="801" last="818">
+<title>Mutations of a conserved residue within HIV-1 ribonuclease H affect its exo- and endonuclease activities.</title>
+<authorList>
+<person name="Wohrl B.M."/>
+<person name="Volkmann S."/>
+<person name="Moelling K."/>
+</authorList>
+<dbReference type="PubMed" id="1714505"/>
+<dbReference type="DOI" id="10.1016/0022-2836(91)90119-Q"/>
+</citation>
+<scope>MUTAGENESIS OF HIS-1138</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1996" name="Biochemistry" volume="35" first="11536" last="11546">
+<title>Biochemical analysis of catalytically crucial aspartate mutants of human immunodeficiency virus type 1 reverse transcriptase.</title>
+<authorList>
+<person name="Kaushik N."/>
+<person name="Rege N."/>
+<person name="Yadav P.N.S."/>
+<person name="Sarafianos S.G."/>
+<person name="Modak M.J."/>
+<person name="Pandey V.N."/>
+</authorList>
+<dbReference type="PubMed" id="8794733"/>
+<dbReference type="DOI" id="10.1021/bi960364x"/>
+</citation>
+<scope>ACTIVE SITES OF REVERSE TRANSCRIPTASE</scope>
+<scope>MUTAGENESIS OF ASP-709; ASP-784 AND ASP-785</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="11157" last="11164">
+<title>Mutations within the primer grip region of HIV-1 reverse transcriptase result in loss of RNase H function.</title>
+<authorList>
+<person name="Palaniappan C."/>
+<person name="Wisniewski M."/>
+<person name="Jacques P.S."/>
+<person name="Le Grice S.F."/>
+<person name="Fay P.J."/>
+<person name="Bambara R.A."/>
+</authorList>
+<dbReference type="PubMed" id="9111014"/>
+<dbReference type="DOI" id="10.1074/jbc.272.17.11157"/>
+</citation>
+<scope>MUTAGENESIS OF GLU-823; PRO-824; PRO-825; PHE-826; LEU-827; TRP-828; MET-829; GLY-830; TYR-831; GLU-832 AND HIS-834</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="277" first="559" last="572">
+<title>Effects of mutations in the polymerase domain on the polymerase, RNase H and strand transfer activities of human immunodeficiency virus type 1 reverse transcriptase.</title>
+<authorList>
+<person name="Gao H.-Q."/>
+<person name="Boyer P.L."/>
+<person name="Arnold E."/>
+<person name="Hughes S.H."/>
+</authorList>
+<dbReference type="PubMed" id="9533880"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.1624"/>
+</citation>
+<scope>MUTAGENESIS OF PRO-651; PRO-654; LEU-673; SER-755; PRO-756; MET-783; ILE-856; GLY-861; LEU-863; TRP-865; LEU-878; ALA-898; LEU-902; LEU-909 AND GLU-1077</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1998" name="Biochemistry" volume="37" first="9630" last="9640">
+<title>Loss of polymerase activity due to Tyr to Phe substitution in the YMDD motif of human immunodeficiency virus type-1 reverse transcriptase is compensated by Met to Val substitution within the same motif.</title>
+<authorList>
+<person name="Harris D."/>
+<person name="Yadav P.N.S."/>
+<person name="Pandey V.N."/>
+</authorList>
+<dbReference type="PubMed" id="9657675"/>
+<dbReference type="DOI" id="10.1021/bi980549z"/>
+</citation>
+<scope>MUTAGENESIS OF TYR-782; MET-783; ASP-784 AND ASP-785</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="J. Virol." volume="72" first="6805" last="6812">
+<title>Sequence requirements for removal of tRNA by an isolated human immunodeficiency virus type 1 RNase H domain.</title>
+<authorList>
+<person name="Smith C.M."/>
+<person name="Leon O."/>
+<person name="Smith J.S."/>
+<person name="Roth M.J."/>
+</authorList>
+<dbReference type="PubMed" id="9658129"/>
+</citation>
+<scope>FUNCTION OF RNASE H</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2000" name="Biochem. J." volume="348" first="77" last="82">
+<title>Mutational analysis of Lys65 of HIV-1 reverse transcriptase.</title>
+<authorList>
+<person name="Sluis-Cremer N."/>
+<person name="Arion D."/>
+<person name="Kaushik N."/>
+<person name="Lim H."/>
+<person name="Parniak M.A."/>
+</authorList>
+<dbReference type="PubMed" id="10794716"/>
+<dbReference type="DOI" id="10.1042/0264-6021:3480077"/>
+</citation>
+<scope>MUTAGENESIS OF LYS-664</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="11978" last="11983">
+<title>Unique progressive cleavage mechanism of HIV reverse transcriptase RNase H.</title>
+<authorList>
+<person name="Wisniewski M."/>
+<person name="Balakrishnan M."/>
+<person name="Palaniappan C."/>
+<person name="Fay P.J."/>
+<person name="Bambara R.A."/>
+</authorList>
+<dbReference type="PubMed" id="11035788"/>
+<dbReference type="DOI" id="10.1073/pnas.210392297"/>
+</citation>
+<scope>CHARACTERIZATION OF RNASE H</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2001" name="J. Gen. Virol." volume="82" first="581" last="590">
+<title>Extended nucleocapsid protein is cleaved from the Gag-Pol precursor of human immunodeficiency virus type 1.</title>
+<authorList>
+<person name="Chen N."/>
+<person name="Morag A."/>
+<person name="Almog N."/>
+<person name="Blumenzweig I."/>
+<person name="Dreazin O."/>
+<person name="Kotler M."/>
+</authorList>
+<dbReference type="PubMed" id="11172099"/>
+</citation>
+<scope>RIBOSOMAL FRAMESHIFT</scope>
+<scope>PROTEOLYTIC PROCESSING OF POLYPROTEIN</scope>
+<scope>MUTAGENESIS OF PHE-440 AND PHE-500</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2001" name="J. Virol." volume="75" first="1834" last="1841">
+<title>Maintenance of the Gag/Gag-Pol ratio is important for human immunodeficiency virus type 1 RNA dimerization and viral infectivity.</title>
+<authorList>
+<person name="Shehu-Xhilaga M."/>
+<person name="Crowe S.M."/>
+<person name="Mak J."/>
+</authorList>
+<dbReference type="PubMed" id="11160682"/>
+<dbReference type="DOI" id="10.1128/JVI.75.4.1834-1841.2001"/>
+</citation>
+<scope>GAG/GAG-POL RATIO</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2002" name="Ukr. Biokhim. Zh." volume="74" first="135" last="138">
+<title>Conformational changes in HIV-1 proteinase: effect of protonation of the active center on conformation of HIV-1 proteinase in water.</title>
+<authorList>
+<person name="Koval'skii D.B."/>
+<person name="Kanibolotskii D.S."/>
+<person name="Dubina V.N."/>
+<person name="Korneliuk A.I."/>
+</authorList>
+<dbReference type="PubMed" id="12924029"/>
+</citation>
+<scope>ACTIVE SITE ASP-525 OF PROTEASE</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2002" name="Biochemistry" volume="41" first="15685" last="15697">
+<title>Substitution of conserved hydrophobic residues in motifs B and C of HIV-1 RT alters the geometry of its catalytic pocket.</title>
+<authorList>
+<person name="Sharma B."/>
+<person name="Kaushik N."/>
+<person name="Singh K."/>
+<person name="Kumar S."/>
+<person name="Pandey V.N."/>
+</authorList>
+<dbReference type="PubMed" id="12501197"/>
+<dbReference type="DOI" id="10.1021/bi026311z"/>
+</citation>
+<scope>MUTAGENESIS OF TRP-752; ILE-766; LEU-786 AND VAL-788</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="1370" last="1374">
+<title>Mutational analysis of Tyr-501 of HIV-1 reverse transcriptase. Effects on ribonuclease H activity and inhibition of this activity by N-acylhydrazones.</title>
+<authorList>
+<person name="Arion D."/>
+<person name="Sluis-Cremer N."/>
+<person name="Min K.-L."/>
+<person name="Abram M.E."/>
+<person name="Fletcher R.S."/>
+<person name="Parniak M.A."/>
+</authorList>
+<dbReference type="PubMed" id="11684697"/>
+<dbReference type="DOI" id="10.1074/jbc.M110254200"/>
+</citation>
+<scope>MUTAGENESIS OF TYR-1100</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2003" name="J. Mol. Biol." volume="326" first="381" last="396">
+<title>Role of residues in the tryptophan repeat motif for HIV-1 reverse transcriptase dimerization.</title>
+<authorList>
+<person name="Tachedjian G."/>
+<person name="Aronson H.-E."/>
+<person name="de los Santos M."/>
+<person name="Seehra J."/>
+<person name="McCoy J.M."/>
+<person name="Goff S.P."/>
+</authorList>
+<dbReference type="PubMed" id="12559908"/>
+<dbReference type="DOI" id="10.1016/S0022-2836(02)01433-X"/>
+</citation>
+<scope>DOMAIN TRYPTOPHAN REPEAT MOTIF</scope>
+<scope>MUTAGENESIS OF TRP-997; TRP-1000; TRP-1001; TYR-1004; TRP-1005; TRP-1009 AND TRP-1013</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="344" first="635" last="652">
+<title>Recognition of internal cleavage sites by retroviral RNases H.</title>
+<authorList>
+<person name="Schultz S.J."/>
+<person name="Zhang M."/>
+<person name="Champoux J.J."/>
+</authorList>
+<dbReference type="PubMed" id="15533434"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.09.081"/>
+</citation>
+<scope>CHARACTERIZATION OF RNASE H</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2005" name="Proteins" volume="60" first="5" last="13">
+<title>Relationship between enzyme activity and dimeric structure of recombinant HIV-1 reverse transcriptase.</title>
+<authorList>
+<person name="Tachedjian G."/>
+<person name="Radzio J."/>
+<person name="Sluis-Cremer N."/>
+</authorList>
+<dbReference type="PubMed" id="15852304"/>
+<dbReference type="DOI" id="10.1002/prot.20480"/>
+</citation>
+<scope>CHARACTERIZATION OF REVERSE TRANSCRIPTASE</scope>
+<scope>MUTAGENESIS OF TRP-1000</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2005" name="Nucleic Acids Res." volume="33" first="4865" last="4873">
+<title>Nucleotide modification at the gamma-phosphate leads to the improved fidelity of HIV-1 reverse transcriptase.</title>
+<authorList>
+<person name="Mulder B.A."/>
+<person name="Anaya S."/>
+<person name="Yu P."/>
+<person name="Lee K.W."/>
+<person name="Nguyen A."/>
+<person name="Murphy J."/>
+<person name="Willson R."/>
+<person name="Briggs J.M."/>
+<person name="Gao X."/>
+<person name="Hardin S.H."/>
+</authorList>
+<dbReference type="PubMed" id="16141194"/>
+<dbReference type="DOI" id="10.1093/nar/gki779"/>
+</citation>
+<scope>CHARACTERIZATION OF RNASE H</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2005" name="J. Virol." volume="79" first="11952" last="11961">
+<title>Virion instability of human immunodeficiency virus type 1 reverse transcriptase (RT) mutated in the protease cleavage site between RT p51 and the RT RNase H domain.</title>
+<authorList>
+<person name="Abram M.E."/>
+<person name="Parniak M.A."/>
+</authorList>
+<dbReference type="PubMed" id="16140771"/>
+<dbReference type="DOI" id="10.1128/JVI.79.18.11952-11961.2005"/>
+</citation>
+<scope>MUTAGENESIS OF ALA-1036; GLU-1037; THR-1038; PHE-1039; TYR-1040 AND VAL-1041</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="1996" name="Curr. Top. Microbiol. Immunol." volume="214" first="95" last="131">
+<title>Proteolytic processing and particle maturation.</title>
+<authorList>
+<person name="Vogt V.M."/>
+</authorList>
+<dbReference type="PubMed" id="8791726"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="1999" name="J. Mol. Biol." volume="285" first="1" last="32">
+<title>Structural biology of HIV.</title>
+<authorList>
+<person name="Turner B.G."/>
+<person name="Summers M.F."/>
+</authorList>
+<dbReference type="PubMed" id="9878383"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.2354"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2001" name="Annu. Rev. Genet." volume="35" first="275" last="302">
+<title>Mechanisms of retroviral recombination.</title>
+<authorList>
+<person name="Negroni M."/>
+<person name="Buc H."/>
+</authorList>
+<dbReference type="PubMed" id="11700285"/>
+<dbReference type="DOI" id="10.1146/annurev.genet.35.102401.090551"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2002" name="Genome Biol." volume="3" first="REVIEWS3006.1" last="REVIEWS3006.7">
+<title>Retroviral proteases.</title>
+<authorList>
+<person name="Dunn B.M."/>
+<person name="Goodenow M.M."/>
+<person name="Gustchina A."/>
+<person name="Wlodawer A."/>
+</authorList>
+<dbReference type="PubMed" id="11983066"/>
+<dbReference type="DOI" id="10.1186/gb-2002-3-4-reviews3006"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2003" name="Biochim. Biophys. Acta" volume="1614" first="62" last="72">
+<title>Role of HIV-1 Gag domains in viral assembly.</title>
+<authorList>
+<person name="Scarlata S."/>
+<person name="Carter C."/>
+</authorList>
+<dbReference type="PubMed" id="12873766"/>
+<dbReference type="DOI" id="10.1016/S0005-2736(03)00163-9"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="1989" name="Science" volume="243" first="928" last="931">
+<title>Molecular modeling of the HIV-1 protease and its substrate binding site.</title>
+<authorList>
+<person name="Weber I.T."/>
+<person name="Miller M."/>
+<person name="Jaskolski M."/>
+<person name="Leis J."/>
+<person name="Skalka A.M."/>
+<person name="Wlodawer A."/>
+</authorList>
+<dbReference type="PubMed" id="2537531"/>
+<dbReference type="DOI" id="10.1126/science.2537531"/>
+</citation>
+<scope>3D-STRUCTURE MODELING OF PROTEASE DOMAIN</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="1989" name="Arch. Biochem. Biophys." volume="273" first="347" last="358">
+<title>Recombinant HIV-1 reverse transcriptase: purification, primary structure, and polymerase/ribonuclease H activities.</title>
+<authorList>
+<person name="Mizrahi V."/>
+<person name="Lazarus G.M."/>
+<person name="Miles L.M."/>
+<person name="Meyers C.A."/>
+<person name="Debouck C."/>
+</authorList>
+<dbReference type="PubMed" id="2476069"/>
+<dbReference type="DOI" id="10.1016/0003-9861(89)90493-1"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 600-1159</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="1990" name="Science" volume="249" first="527" last="533">
+<title>Design, activity, and 2.8 A crystal structure of a C2 symmetric inhibitor complexed to HIV-1 protease.</title>
+<authorList>
+<person name="Erickson J."/>
+<person name="Neidhart D.J."/>
+<person name="Vandrie J."/>
+<person name="Kempf D.J."/>
+<person name="Wang X.C."/>
+<person name="Norbeck D.W."/>
+<person name="Plattner J.J."/>
+<person name="Rittenhouse J.W."/>
+<person name="Turon M."/>
+<person name="Wideburg N.E."/>
+<person name="Kohlbrenner W.E."/>
+<person name="Simmer R."/>
+<person name="Helfrich R."/>
+<person name="Paul D.A."/>
+<person name="Knigge M."/>
+</authorList>
+<dbReference type="PubMed" id="2200122"/>
+<dbReference type="DOI" id="10.1126/science.2200122"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 501-599 IN COMPLEX WITH A C2 SYMMETRIC INHIBITOR</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="1991" name="Science" volume="252" first="88" last="95">
+<title>Crystal structure of the ribonuclease H domain of HIV-1 reverse transcriptase.</title>
+<authorList>
+<person name="Davies J.F. II"/>
+<person name="Hostomska Z."/>
+<person name="Hostomsky Z."/>
+<person name="Jordan S.R."/>
+<person name="Matthews D.A."/>
+</authorList>
+<dbReference type="PubMed" id="1707186"/>
+<dbReference type="DOI" id="10.1126/science.1707186"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 1026-1161</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="20583" last="20585">
+<title>A recombinant ribonuclease H domain of HIV-1 reverse transcriptase that is enzymatically active.</title>
+<authorList>
+<person name="Evans D.B."/>
+<person name="Brawn K."/>
+<person name="Deibel M.R. Jr."/>
+<person name="Tarpley W.G."/>
+<person name="Sharma S.K."/>
+</authorList>
+<dbReference type="PubMed" id="1718968"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 1026-1159</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1991" name="J. Biol. Chem." volume="266" first="14697" last="14702">
+<title>Proteolytic release and crystallization of the RNase H domain of human immunodeficiency virus type 1 reverse transcriptase.</title>
+<authorList>
+<person name="Hostomska Z."/>
+<person name="Matthews D.A."/>
+<person name="Davies J.F. II"/>
+<person name="Nodes B.R."/>
+<person name="Hostomsky Z."/>
+</authorList>
+<dbReference type="PubMed" id="1713588"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 1026-1161</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1992" name="Science" volume="256" first="1783" last="1790">
+<title>Crystal structure at 3.5-A resolution of HIV-1 reverse transcriptase complexed with an inhibitor.</title>
+<authorList>
+<person name="Kohlstaedt L.A."/>
+<person name="Wang J."/>
+<person name="Friedman J.M."/>
+<person name="Rice P.A."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="1377403"/>
+<dbReference type="DOI" id="10.1126/science.1377403"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.5 ANGSTROMS) OF 600-1155 IN COMPLEX WITH AN INHIBITOR</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1992" name="Nature" volume="357" first="85" last="89">
+<title>Structure of HIV-1 reverse transcriptase/DNA complex at 7 A resolution showing active site locations.</title>
+<authorList>
+<person name="Arnold E."/>
+<person name="Jacobo-Molina A."/>
+<person name="Nanni R.G."/>
+<person name="Williams R.L."/>
+<person name="Lu X."/>
+<person name="Ding J."/>
+<person name="Clark A.D. Jr."/>
+<person name="Zhang A."/>
+<person name="Ferris A.L."/>
+<person name="Clark P."/>
+<person name="Hizi A."/>
+<person name="Hughes S.H."/>
+</authorList>
+<dbReference type="PubMed" id="1374166"/>
+<dbReference type="DOI" id="10.1038/357085a0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 600-1157</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="1993" name="J. Med. Chem." volume="36" first="3113" last="3119">
+<title>A series of penicillin-derived C2-symmetric inhibitors of HIV-1 proteinase: structural and modeling studies.</title>
+<authorList>
+<person name="Wonacott A."/>
+<person name="Cooke R."/>
+<person name="Hayes F.R."/>
+<person name="Hann M.M."/>
+<person name="Jhoti H."/>
+<person name="McMeekin P."/>
+<person name="Mistry A."/>
+<person name="Murray-Rust P."/>
+<person name="Singh O.M."/>
+<person name="Weir M.P."/>
+</authorList>
+<dbReference type="PubMed" id="8230097"/>
+<dbReference type="DOI" id="10.1021/jm00073a010"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 501-599</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="1993" name="J. Med. Chem." volume="36" first="2321" last="2331">
+<title>A novel constrained reduced-amide inhibitor of HIV-1 protease derived from the sequential incorporation of gamma-turn mimetics into a model substrate.</title>
+<authorList>
+<person name="Newlander K.A."/>
+<person name="Callahan J.F."/>
+<person name="Moore M.L."/>
+<person name="Tomaszek T.A. Jr."/>
+<person name="Huffman W.F."/>
+</authorList>
+<dbReference type="PubMed" id="8360876"/>
+<dbReference type="DOI" id="10.1021/jm00068a008"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 501-599 IN COMPLEX WITH A NOVEL GAMMA-TURN MIMETIC INHIBITOR</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="1993" name="Proc. Natl. Acad. Sci. U.S.A." volume="90" first="6320" last="6324">
+<title>Crystal structure of human immunodeficiency virus type 1 reverse transcriptase complexed with double-stranded DNA at 3.0-A resolution shows bent DNA.</title>
+<authorList>
+<person name="Jacobo-Molina A."/>
+<person name="Ding J."/>
+<person name="Nanni R.G."/>
+<person name="Clark A.D. Jr."/>
+<person name="Lu X."/>
+<person name="Tantillo C."/>
+<person name="Williams R.L."/>
+<person name="Kamer G."/>
+<person name="Ferris A.L."/>
+<person name="Clark P."/>
+<person name="Hizi A."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="7687065"/>
+<dbReference type="DOI" id="10.1073/pnas.90.13.6320"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 600-1155</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="3911" last="3915">
+<title>Structure of the binding site for nonnucleoside inhibitors of the reverse transcriptase of human immunodeficiency virus type 1.</title>
+<authorList>
+<person name="Smerdon S.J."/>
+<person name="Jager J."/>
+<person name="Wang J."/>
+<person name="Kohlstaedt L.A."/>
+<person name="Chirino A.J."/>
+<person name="Friedman J.M."/>
+<person name="Rice P.A."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="7513427"/>
+<dbReference type="DOI" id="10.1073/pnas.91.9.3911"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 600-1159</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="1995" name="Structure" volume="3" first="381" last="389">
+<title>Comparative analysis of the X-ray structures of HIV-1 and HIV-2 proteases in complex with CGP 53820, a novel pseudosymmetric inhibitor.</title>
+<authorList>
+<person name="Priestle J.P."/>
+<person name="Fassler A."/>
+<person name="Rosel J."/>
+<person name="Tintelnot-Blomley M."/>
+<person name="Strop P."/>
+<person name="Gruetter M.G."/>
+</authorList>
+<dbReference type="PubMed" id="7613867"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(01)00169-1"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 501-599 IN COMPLEX WITH A NOVEL PSEUDOSYMMETRIC INHIBITOR</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="1995" name="Nat. Struct. Biol." volume="2" first="407" last="415">
+<title>Structure of HIV-1 RT/TIBO R 86183 complex reveals similarity in the binding of diverse nonnucleoside inhibitors.</title>
+<authorList>
+<person name="Ding J."/>
+<person name="Das K."/>
+<person name="Moereels H."/>
+<person name="Koymans L."/>
+<person name="Andries K."/>
+<person name="Janssen P.A."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="7545077"/>
+<dbReference type="DOI" id="10.1038/nsb0595-407"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 600-1155 IN COMPLEX WITH A NONNUCLEOSIDE INHIBITOR</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="1995" name="Structure" volume="3" first="365" last="379">
+<title>Structure of HIV-1 reverse transcriptase in a complex with the non-nucleoside inhibitor alpha-APA R 95845 at 2.8-A resolution.</title>
+<authorList>
+<person name="Ding J."/>
+<person name="Das K."/>
+<person name="Tantillo C."/>
+<person name="Zhang W."/>
+<person name="Clark A.D. Jr."/>
+<person name="Jessen S."/>
+<person name="Lu X."/>
+<person name="Hsiou Y."/>
+<person name="Jacobo-Molina A."/>
+<person name="Andries K."/>
+<person name="Et A.L."/>
+</authorList>
+<dbReference type="PubMed" id="7542140"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(01)00168-X"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 600-1157 IN COMPLEX WITH A NON-NUCLEOSIDE INHIBITOR</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="1995" name="Proc. Natl. Acad. Sci. U.S.A." volume="92" first="1222" last="1226">
+<title>The structure of unliganded reverse transcriptase from the human immunodeficiency virus type 1.</title>
+<authorList>
+<person name="Rodgers D.W."/>
+<person name="Gamblin S.J."/>
+<person name="Harris B.A."/>
+<person name="Ray S."/>
+<person name="Culp J.S."/>
+<person name="Hellmig B."/>
+<person name="Woolf D.J."/>
+<person name="Debouck C."/>
+<person name="Harrison S.C."/>
+</authorList>
+<dbReference type="PubMed" id="7532306"/>
+<dbReference type="DOI" id="10.1073/pnas.92.4.1222"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 600-1159</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="1995" name="Nat. Struct. Biol." volume="2" first="807" last="810">
+<title>The DNA-binding domain of HIV-1 integrase has an SH3-like fold.</title>
+<authorList>
+<person name="Eijkelenboom A.P.A.M."/>
+<person name="Lutzke R.A."/>
+<person name="Boelens R."/>
+<person name="Plasterk R.H.A."/>
+<person name="Kaptein R."/>
+<person name="Hard K."/>
+</authorList>
+<dbReference type="PubMed" id="7552753"/>
+<dbReference type="DOI" id="10.1038/nsb0995-807"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1379-1429</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="1995" name="Biochemistry" volume="34" first="1143" last="1152">
+<title>Effect of point mutations on the kinetics and the inhibition of human immunodeficiency virus type 1 protease: relationship to drug resistance.</title>
+<authorList>
+<person name="Lin Y.Z."/>
+<person name="Lin X.L."/>
+<person name="Hong L."/>
+<person name="Foundling S.I."/>
+<person name="Heinrikson R.L."/>
+<person name="Thaisrivongs S."/>
+<person name="Leelamanit W."/>
+<person name="Raterman D."/>
+<person name="Shah M."/>
+<person name="Dunn B.M."/>
+<person name="Tang J."/>
+</authorList>
+<dbReference type="PubMed" id="7827064"/>
+<dbReference type="DOI" id="10.1021/bi00004a007"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 501-599 IN COMPLEX WITH THE PEPTIDIC INHIBITOR U-89360E</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="1996" name="Structure" volume="4" first="853" last="860">
+<title>Structure of unliganded HIV-1 reverse transcriptase at 2.7-A resolution: implications of conformational changes for polymerization and inhibition mechanisms.</title>
+<authorList>
+<person name="Hsiou Y."/>
+<person name="Ding J."/>
+<person name="Das K."/>
+<person name="Clark A.D. Jr."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="8805568"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(96)00091-3"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 600-1155</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="1997" name="J. Med. Chem." volume="40" first="898" last="902">
+<title>Unexpected binding mode of a cyclic sulfamide HIV-1 protease inhibitor.</title>
+<authorList>
+<person name="Backbro K."/>
+<person name="Lowgren S."/>
+<person name="Osterlund K."/>
+<person name="Atepo J."/>
+<person name="Unge T."/>
+<person name="Hulten J."/>
+<person name="Bonham N.M."/>
+<person name="Schaal W."/>
+<person name="Karlen A."/>
+<person name="Hallberg A."/>
+</authorList>
+<dbReference type="PubMed" id="9083478"/>
+<dbReference type="DOI" id="10.1021/jm960588d"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 501-599 IN COMPLEX WITH A SULFAMIDE AND A UREA DERIVATIVE</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="1997" name="Biochemistry" volume="36" first="1573" last="1580">
+<title>Molecular basis of HIV-1 protease drug resistance: structural analysis of mutant proteases complexed with cyclic urea inhibitors.</title>
+<authorList>
+<person name="Ala P.J."/>
+<person name="Huston E.E."/>
+<person name="Klabe R.M."/>
+<person name="McCabe D.D."/>
+<person name="Duke J.L."/>
+<person name="Rizzo C.J."/>
+<person name="Korant B.D."/>
+<person name="DeLoskey R.J."/>
+<person name="Lam P.Y.S."/>
+<person name="Hodge C.N."/>
+<person name="Chang C.-H."/>
+</authorList>
+<dbReference type="PubMed" id="9048541"/>
+<dbReference type="DOI" id="10.1021/bi962234u"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 502-599 IN COMPLEX WITH A CYCLIC UREA INHIBITOR</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="1997" name="FEBS Lett." volume="420" first="11" last="16">
+<title>Structure of a G48H mutant of HIV-1 protease explains how glycine-48 replacements produce mutants resistant to inhibitor drugs.</title>
+<authorList>
+<person name="Hong L."/>
+<person name="Zhang X.-J."/>
+<person name="Foundling S.I."/>
+<person name="Hartsuck J.A."/>
+<person name="Tang J."/>
+</authorList>
+<dbReference type="PubMed" id="9450540"/>
+<dbReference type="DOI" id="10.1016/S0014-5793(97)01477-4"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 501-599 IN COMPLEX WITH THE PEPTIDIC INHIBITOR U-89360E</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="1997" name="J. Med. Chem." volume="40" first="2440" last="2444">
+<title>An orally bioavailable pyrrolinone inhibitor of HIV-1 protease: computational analysis and X-ray crystal structure of the enzyme complex.</title>
+<authorList>
+<person name="Smith A.B. III"/>
+<person name="Hirschmann R."/>
+<person name="Pasternak A."/>
+<person name="Yao W."/>
+<person name="Sprengeler P.A."/>
+<person name="Holloway M.K."/>
+<person name="Kuo L.C."/>
+<person name="Chen Z."/>
+<person name="Darke P.L."/>
+<person name="Schleif W.A."/>
+</authorList>
+<dbReference type="PubMed" id="9258349"/>
+<dbReference type="DOI" id="10.1021/jm970195u"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 501-599</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="1998" name="Protein Sci." volume="7" first="300" last="305">
+<title>Active-site mobility in human immunodeficiency virus, type 1, protease as demonstrated by crystal structure of A28S mutant.</title>
+<authorList>
+<person name="Hong L."/>
+<person name="Hartsuck J.A."/>
+<person name="Foundling S.I."/>
+<person name="Ermolieff J."/>
+<person name="Tang J."/>
+</authorList>
+<dbReference type="PubMed" id="9521105"/>
+<dbReference type="DOI" id="10.1002/pro.5560070209"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 501-599 IN COMPLEX WITH A PEPTIDIC INHIBITOR</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="1998" name="Science" volume="282" first="1669" last="1675">
+<title>Structure of a covalently trapped catalytic complex of HIV-1 reverse transcriptase: implications for drug resistance.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Chopra R."/>
+<person name="Verdine G.L."/>
+<person name="Harrison S.C."/>
+</authorList>
+<dbReference type="PubMed" id="9831551"/>
+<dbReference type="DOI" id="10.1126/science.282.5394.1669"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 588-1027</scope>
+</reference>
+<reference key="54">
+<citation type="journal article" date="1998" name="EMBO J." volume="17" first="4535" last="4542">
+<title>The structure of HIV-1 reverse transcriptase complexed with an RNA pseudoknot inhibitor.</title>
+<authorList>
+<person name="Jaeger J."/>
+<person name="Restle T."/>
+<person name="Steitz T.A."/>
+</authorList>
+<dbReference type="PubMed" id="9687519"/>
+<dbReference type="DOI" id="10.1093/emboj/17.15.4535"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (4.75 ANGSTROMS) OF 600-1153 IN COMPLEX WITH AN RNA PSEUDOKNOT INHIBITOR</scope>
+</reference>
+<reference key="55">
+<citation type="journal article" date="1998" name="J. Mol. Biol." volume="284" first="313" last="323">
+<title>Structures of Tyr188Leu mutant and wild-type HIV-1 reverse transcriptase complexed with the non-nucleoside inhibitor HBY 097: inhibitor flexibility is a useful design feature for reducing drug resistance.</title>
+<authorList>
+<person name="Hsiou Y."/>
+<person name="Das K."/>
+<person name="Ding J."/>
+<person name="Clark A.D. Jr."/>
+<person name="Kleim J.P."/>
+<person name="Rosner M."/>
+<person name="Winkler I."/>
+<person name="Riess G."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="9813120"/>
+<dbReference type="DOI" id="10.1006/jmbi.1998.2171"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 600-1155 IN COMPLEX WITH A NON-NUCLEOSIDE INHIBITOR</scope>
+</reference>
+<reference key="56">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="10027" last="10032">
+<title>Lamivudine (3TC) resistance in HIV-1 reverse transcriptase involves steric hindrance with beta-branched amino acids.</title>
+<authorList>
+<person name="Sarafianos S.G."/>
+<person name="Das K."/>
+<person name="Clark A.D. Jr."/>
+<person name="Ding J."/>
+<person name="Boyer P.L."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="10468556"/>
+<dbReference type="DOI" id="10.1073/pnas.96.18.10027"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.5 ANGSTROMS) OF 600-1157</scope>
+</reference>
+<reference key="57">
+<citation type="journal article" date="2000" name="J. Med. Chem." volume="43" first="304" last="304">
+<title>Urea-PETT compounds as a new class of HIV-1 reverse transcriptase inhibitors. 3. Synthesis and further structure-activity relationship studies of PETT analogues.</title>
+<authorList>
+<person name="Hogberg M."/>
+<person name="Sahlberg C."/>
+<person name="Engelhardt P."/>
+<person name="Noreen R."/>
+<person name="Kangasmetsa J."/>
+<person name="Johansson N.G."/>
+<person name="Oberg B."/>
+<person name="Vrang L."/>
+<person name="Zhang H."/>
+<person name="Sahlberg B.L."/>
+<person name="Unge T."/>
+<person name="Lovgren S."/>
+<person name="Fridborg K."/>
+<person name="Backbro K."/>
+</authorList>
+<dbReference type="PubMed" id="10650066"/>
+<dbReference type="DOI" id="10.1021/jm990572y"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.73 ANGSTROMS) OF 600-1156</scope>
+</reference>
+<reference key="58">
+<citation type="journal article" date="2001" name="EMBO J." volume="20" first="1449" last="1461">
+<title>Crystal structure of HIV-1 reverse transcriptase in complex with a polypurine tract RNA:DNA.</title>
+<authorList>
+<person name="Sarafianos S.G."/>
+<person name="Das K."/>
+<person name="Tantillo C."/>
+<person name="Clark A.D. Jr."/>
+<person name="Ding J."/>
+<person name="Whitcomb J.M."/>
+<person name="Boyer P.L."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="11250910"/>
+<dbReference type="DOI" id="10.1093/emboj/20.6.1449"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 600-1152 IN COMPLEX WITH AN OLIGONUCLEOTIDE</scope>
+<scope>ACTIVE SITES OF RNASE H</scope>
+</reference>
+<reference key="59">
+<citation type="journal article" date="2001" name="J. Mol. Biol." volume="309" first="437" last="445">
+<title>The Lys103Asn mutation of HIV-1 RT: a novel mechanism of drug resistance.</title>
+<authorList>
+<person name="Hsiou Y."/>
+<person name="Ding J."/>
+<person name="Das K."/>
+<person name="Clark A.D. Jr."/>
+<person name="Boyer P.L."/>
+<person name="Lewi P."/>
+<person name="Janssen P.A."/>
+<person name="Kleim J.P."/>
+<person name="Rosner M."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="11371163"/>
+<dbReference type="DOI" id="10.1006/jmbi.2001.4648"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 600-1159</scope>
+</reference>
+<reference key="60">
+<citation type="journal article" date="2002" name="EMBO J." volume="21" first="6614" last="6624">
+<title>Structures of HIV-1 reverse transcriptase with pre- and post-translocation AZTMP-terminated DNA.</title>
+<authorList>
+<person name="Sarafianos S.G."/>
+<person name="Clark A.D. Jr."/>
+<person name="Das K."/>
+<person name="Tuske S."/>
+<person name="Birktoft J.J."/>
+<person name="Ilankumaran P."/>
+<person name="Ramesha A.R."/>
+<person name="Sayer J.M."/>
+<person name="Jerina D.M."/>
+<person name="Boyer P.L."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="12456667"/>
+<dbReference type="DOI" id="10.1093/emboj/cdf637"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 600-1157</scope>
+</reference>
+<reference key="61">
+<citation type="journal article" date="2002" name="Eur. J. Biochem." volume="269" first="1670" last="1677">
+<title>Structural basis for the inhibitory efficacy of efavirenz (DMP-266), MSC194 and PNU142721 towards the HIV-1 RT K103N mutant.</title>
+<authorList>
+<person name="Lindberg J."/>
+<person name="Sigurdsson S."/>
+<person name="Lowgren S."/>
+<person name="Andersson H.O."/>
+<person name="Sahlberg C."/>
+<person name="Noreen R."/>
+<person name="Fridborg K."/>
+<person name="Zhang H."/>
+<person name="Unge T."/>
+</authorList>
+<dbReference type="PubMed" id="11895437"/>
+<dbReference type="DOI" id="10.1046/j.1432-1327.2002.02811.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 600-1159 IN COMPLEX WITH EFIVARENZ</scope>
+</reference>
+<reference key="62">
+<citation type="journal article" date="2003" name="Eur. J. Biochem." volume="270" first="1746" last="1758">
+<title>Optimization of P1-P3 groups in symmetric and asymmetric HIV-1 protease inhibitors.</title>
+<authorList>
+<person name="Andersson H.O."/>
+<person name="Fridborg K."/>
+<person name="Lowgren S."/>
+<person name="Alterman M."/>
+<person name="Muhlman A."/>
+<person name="Bjorsne M."/>
+<person name="Garg N."/>
+<person name="Kvarnstrom I."/>
+<person name="Schaal W."/>
+<person name="Classon B."/>
+<person name="Karlen A."/>
+<person name="Danielsson U.H."/>
+<person name="Ahlsen G."/>
+<person name="Nillroth U."/>
+<person name="Vrang L."/>
+<person name="Oberg B."/>
+<person name="Samuelsson B."/>
+<person name="Hallberg A."/>
+<person name="Unge T."/>
+</authorList>
+<dbReference type="PubMed" id="12694187"/>
+<dbReference type="DOI" id="10.1046/j.1432-1033.2003.03533.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.81 ANGSTROMS) OF 501-599</scope>
+</reference>
+<reference key="63">
+<citation type="journal article" date="2003" name="J. Med. Chem." volume="46" first="1831" last="1844">
+<title>Design, synthesis, and biological evaluation of monopyrrolinone-based HIV-1 protease inhibitors.</title>
+<authorList>
+<person name="Smith A.B. III"/>
+<person name="Cantin L.D."/>
+<person name="Pasternak A."/>
+<person name="Guise-Zawacki L."/>
+<person name="Yao W."/>
+<person name="Charnley A.K."/>
+<person name="Barbosa J."/>
+<person name="Sprengeler P.A."/>
+<person name="Hirschmann R."/>
+<person name="Munshi S."/>
+<person name="Olsen D.B."/>
+<person name="Schleif W.A."/>
+<person name="Kuo L.C."/>
+</authorList>
+<dbReference type="PubMed" id="12723947"/>
+<dbReference type="DOI" id="10.1021/jm0204587"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 501-599 IN COMPLEX WITH MONOPYRROLINONE-BASED INHIBITORS LDC271 AND LGZ479</scope>
+</reference>
+<reference key="64">
+<citation type="journal article" date="2004" name="Eur. J. Biochem." volume="271" first="4594" last="4602">
+<title>Symmetric fluoro-substituted diol-based HIV protease inhibitors. Ortho-fluorinated and meta-fluorinated P1/P1'-benzyloxy side groups significantly improve the antiviral activity and preserve binding efficacy.</title>
+<authorList>
+<person name="Lindberg J."/>
+<person name="Pyring D."/>
+<person name="Lowgren S."/>
+<person name="Rosenquist A."/>
+<person name="Zuccarello G."/>
+<person name="Kvarnstrom I."/>
+<person name="Zhang H."/>
+<person name="Vrang L."/>
+<person name="Classon B."/>
+<person name="Hallberg A."/>
+<person name="Samuelsson B."/>
+<person name="Unge T."/>
+</authorList>
+<dbReference type="PubMed" id="15560801"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.2004.04431.x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.79 ANGSTROMS) OF 501-599</scope>
+</reference>
+<reference key="65">
+<citation type="journal article" date="2004" name="J. Virol." volume="78" first="3387" last="3397">
+<title>Nonnucleoside inhibitor binding affects the interactions of the fingers subdomain of human immunodeficiency virus type 1 reverse transcriptase with DNA.</title>
+<authorList>
+<person name="Peletskaya E.N."/>
+<person name="Kogon A.A."/>
+<person name="Tuske S."/>
+<person name="Arnold E."/>
+<person name="Hughes S.H."/>
+</authorList>
+<dbReference type="PubMed" id="15016861"/>
+<dbReference type="DOI" id="10.1128/JVI.78.7.3387-3397.2004"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 600-1157</scope>
+</reference>
+<reference key="66">
+<citation type="journal article" date="2004" name="Nat. Struct. Mol. Biol." volume="11" first="469" last="474">
+<title>Structures of HIV-1 RT-DNA complexes before and after incorporation of the anti-AIDS drug tenofovir.</title>
+<authorList>
+<person name="Tuske S."/>
+<person name="Sarafianos S.G."/>
+<person name="Clark A.D. Jr."/>
+<person name="Ding J."/>
+<person name="Naeger L.K."/>
+<person name="White K.L."/>
+<person name="Miller M.D."/>
+<person name="Gibbs C.S."/>
+<person name="Boyer P.L."/>
+<person name="Clark P."/>
+<person name="Wang G."/>
+<person name="Gaffney B.L."/>
+<person name="Jones R.A."/>
+<person name="Jerina D.M."/>
+<person name="Hughes S.H."/>
+<person name="Arnold E."/>
+</authorList>
+<dbReference type="PubMed" id="15107837"/>
+<dbReference type="DOI" id="10.1038/nsmb760"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 600-1157 IN COMPLEX WITH DNA BOUND TO TENOFOVIR</scope>
+</reference>
+<reference key="67">
+<citation type="journal article" date="2004" name="Bioorg. Med. Chem. Lett." volume="14" first="4075" last="4078">
+<title>Synthesis and antiviral activity of P1' arylsulfonamide azacyclic urea HIV protease inhibitors.</title>
+<authorList>
+<person name="Huang P.P."/>
+<person name="Randolph J.T."/>
+<person name="Klein L.L."/>
+<person name="Vasavanonda S."/>
+<person name="Dekhtyar T."/>
+<person name="Stoll V.S."/>
+<person name="Kempf D.J."/>
+</authorList>
+<dbReference type="PubMed" id="15225729"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2004.05.036"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.3 ANGSTROMS) OF 501-599 IN COMPLEX WITH ARYLSULFONAMIDE AZACYCLIC UREA INHIBITORS</scope>
+</reference>
+<reference key="68">
+<citation type="journal article" date="2005" name="Bioorg. Med. Chem. Lett." volume="15" first="2275" last="2278">
+<title>Oximinoarylsulfonamides as potent HIV protease inhibitors.</title>
+<authorList>
+<person name="Yeung C.M."/>
+<person name="Klein L.L."/>
+<person name="Flentge C.A."/>
+<person name="Randolph J.T."/>
+<person name="Zhao C."/>
+<person name="Sun M."/>
+<person name="Dekhtyar T."/>
+<person name="Stoll V.S."/>
+<person name="Kempf D.J."/>
+</authorList>
+<dbReference type="PubMed" id="15837308"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2005.03.008"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 501-599 IN COMPLEX WITH OXIMINOARYLSULFONAMIDE INHIBITOR</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Gag-Pol polyprotein and Gag polyprotein may regulate their own translation, by the binding genomic RNA in the 5'-UTR. At low concentration, Gag-Pol and Gag would promote translation, whereas at high concentration, the polyproteins encapsidate genomic RNA and then shutt off translation (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="1">Matrix protein p17 has two main functions: in infected cell, it targets Gag and Gag-pol polyproteins to the plasma membrane via a multipartite membrane-binding signal, that includes its myristoylated N-terminus. The second function is to play a role in nuclear localization of the viral genome at the very start of cell infection. Matrix protein is the part of the pre-integration complex. It binds in the cytoplasm the human BAF protein which prevent autointegration of the viral genome, and might be included in virions at the ration of zero to 3 BAF dimer per virion. The myristoylation signal and the NLS thus exert conflicting influences its subcellular localization. The key regulation of these motifs might be phosphorylation of a portion of MA molecules on the C-terminal tyrosine at the time of virus maturation, by virion-associated cellular tyrosine kinase. Implicated in the release from host cell mediated by Vpu (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="1">Capsid protein p24 forms the conical core that encapsulates the genomic RNA-nucleocapsid complex in the virion. Most core are conical, with only 7% tubular. The core is constituted by capsid protein hexamer subunits. The core is disassembled soon after virion entry. Interaction with human PPIA/CYPA protects the virus from restriction by human TRIM5-alpha and from an unknown antiviral activity in human cells. This capsid restriction by TRIM5 is one of the factors which restricts HIV-1 to the human species (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="1">Nucleocapsid protein p7 encapsulates and protects viral dimeric unspliced (genomic) RNA. Binds these RNAs through its zinc fingers. Facilitates rearangement of nucleic acid secondary structure during retrotranscription of genomic RNA. This capability is referred to as nucleic acid chaperone activity (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="4">The aspartyl protease mediates proteolytic cleavages of Gag and Gag-Pol polyproteins during or shortly after the release of the virion from the plasma membrane. Cleavages take place as an ordered, step-wise cascade to yield mature proteins. This process is called maturation. Displays maximal activity during the budding process just prior to particle release from the cell. Also cleaves Nef and Vif, probably concomitantly with viral structural proteins on maturation of virus particles. Hydrolyzes host EIF4GI and PABP1 in order to shut off the capped cellular mRNA translation. The resulting inhibition of cellular protein synthesis serves to ensure maximal viral gene expression and to evade host immune response (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="1">Reverse transcriptase/ribonuclease H (RT) is a multifunctional enzyme that converts the viral RNA genome into dsDNA in the cytoplasm, shortly after virus entry into the cell. This enzyme displays a DNA polymerase activity that can copy either DNA or RNA templates, and a ribonuclease H (RNase H) activity that cleaves the RNA strand of RNA-DNA heteroduplexes in a partially processive 3' to 5' endonucleasic mode. Conversion of viral genomic RNA into dsDNA requires many steps. A tRNA(3)-Lys binds to the primer-binding site (PBS) situated at the 5'-end of the viral RNA. RT uses the 3' end of the tRNA primer to perform a short round of RNA-dependent minus-strand DNA synthesis. The reading proceeds through the U5 region and ends after the repeated (R) region which is present at both ends of viral RNA. The portion of the RNA-DNA heteroduplex is digested by the RNase H, resulting in a ssDNA product attached to the tRNA primer. This ssDNA/tRNA hybridizes with the identical R region situated at the 3' end of viral RNA. This template exchange, known as minus-strand DNA strong stop transfer, can be either intra- or intermolecular. RT uses the 3' end of this newly synthesized short ssDNA to perform the RNA-dependent minus-strand DNA synthesis of the whole template. RNase H digests the RNA template except for two polypurine tracts (PPTs) situated at the 5'-end and near the center of the genome. It is not clear if both polymerase and RNase H activities are simultaneous. RNase H probably can proceed both in a polymerase-dependent (RNA cut into small fragments by the same RT performing DNA synthesis) and a polymerase-independent mode (cleavage of remaining RNA fragments by free RTs). Secondly, RT performs DNA-directed plus-strand DNA synthesis using the PPTs that have not been removed by RNase H as primers. PPTs and tRNA primers are then removed by RNase H. The 3' and 5' ssDNA PBS regions hybridize to form a circular dsDNA intermediate. Strand displacement synthesis by RT to the PBS and PPT ends produces a blunt ended, linear dsDNA copy of the viral genome that includes long terminal repeats (LTRs) at both ends (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="1">Integrase catalyzes viral DNA integration into the host chromosome, by performing a series of DNA cutting and joining reactions. This enzyme activity takes place after virion entry into a cell and reverse transcription of the RNA genome in dsDNA. The first step in the integration process is 3' processing. This step requires a complex comprising the viral genome, matrix protein, Vpr and integrase. This complex is called the pre-integration complex (PIC). The integrase protein removes 2 nucleotides from each 3' end of the viral DNA, leaving recessed CA OH's at the 3' ends. In the second step, the PIC enters cell nucleus. This process is mediated through integrase and Vpr proteins, and allows the virus to infect a non dividing cell. This ability to enter the nucleus is specific of lentiviruses, other retroviruses cannot and rely on cell division to access cell chromosomes. In the third step, termed strand transfer, the integrase protein joins the previously processed 3' ends to the 5' ends of strands of target cellular DNA at the site of integration. The 5'-ends are produced by integrase-catalyzed staggered cuts, 5 bp apart. A Y-shaped, gapped, recombination intermediate results, with the 5'-ends of the viral DNA strands and the 3' ends of target DNA strands remaining unjoined, flanking a gap of 5 bp. The last step is viral DNA integration into host chromosome. This involves host DNA repair synthesis in which the 5 bp gaps between the unjoined strands are filled in and then ligated. Since this process occurs at both cuts flanking the HIV genome, a 5 bp duplication of host DNA is produced at the ends of HIV-1 integration. Alternatively, Integrase may catalyze the excision of viral DNA just after strand transfer, this is termed disintegration (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="4">Specific for a P1 residue that is hydrophobic, and P1' variable, but often Pro.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Endohydrolysis of RNA in RNA/DNA hybrids. Three different cleavage modes: 1. sequence-specific internal cleavage of RNA. Human immunodeficiency virus type 1 and Moloney murine leukemia virus enzymes prefer to cleave the RNA strand one nucleotide away from the RNA-DNA junction. 2. RNA 5'-end directed cleavage 13-19 nucleotides from the RNA end. 3. DNA 3'-end directed cleavage 15-20 nucleotides away from the primer terminus.</text>
+</comment>
+<comment type="catalytic activity">
+<text>3'-end directed exonucleolytic cleavage of viral RNA-DNA hybrid.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="5">Deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1).</text>
+</comment>
+<comment type="cofactor">
+<text evidence="1">Binds 2 magnesium ions for reverse transcriptase polymerase activity.</text>
+</comment>
+<comment type="cofactor">
+<text evidence="1">Binds 2 magnesium ions for ribonuclease H (RNase H) activity. Substrate-binding is a precondition for magnesium binding (By similarity).</text>
+</comment>
+<comment type="cofactor">
+<text evidence="1">Magnesium ions for integrase activity. Binds at least 1, maybe 2 magnesium ions (By similarity).</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">The viral protease is inhibited by many synthetic protease inhibitors (PIs), such as amprenavir, atazanavir, indinavir, loprinavir, nelfinavir, ritonavir and saquinavir. RT can be inhibited either by nucleoside RT inhibitors (NRTIs) or by non nucleoside RT inhibitors (NNRTIs). NRTIs act as chain terminators, whereas NNRTIs inhibit DNA polymerization by binding a small hydrophobic pocket near the RT active site and inducing an allosteric change in this region. Classical NRTIs are abacavir, adefovir (PMEA), didanosine (ddI), lamivudine (3TC), stavudine (d4T), tenofovir (PMPA), zalcitabine (ddC), and zidovudine (AZT). Classical NNRTIs are atevirdine (BHAP U-87201E), delavirdine, efavirenz (DMP-266), emivirine (I-EBU), and nevirapine (BI-RG-587). The tritherapies used as a basic effective treatment of AIDS associate two NRTIs and one NNRTI. Use of protease inhibitors in tritherapy regimens permit more ambitious therapeutic strategies (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Pre-integration complex interacts with human HMGA1. Matrix protein p17 is a trimer. Interacts with gp120 and human BAF. Capsid is a homodimer. Interacts with human PPIA/CYPA. The protease is a homodimer, whose active site consists of two apposed aspartic acid residues. The reverse transcriptase is a heterodimer of p66 RT and p51 RT (RT p66/p51). Heterodimerization of RT is essential for DNA polymerase activity. Despite the sequence identities, p66 RT and p51 RT have distinct folding. Integrase is a homodimer and possibly can form homotetramer. Integrase interacts with human SMARCB1/INI1 and human PSIP1/LEDGF isoform 1 Integrase interacts with human KPNA3; this interaction might play a role in nuclear import of the pre-integration complex. Integrase interacts with human NUP153; this interaction might play a role in nuclear import of the pre-integration complex (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Matrix protein p17</molecule>
+<subcellularLocation>
+<location evidence="25">Virion</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Host nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Host cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="25">Host cell membrane</location>
+<topology evidence="25">Lipid-anchor</topology>
+</subcellularLocation>
+<text evidence="1">Following virus entry, the nuclear localization signal (NLS) of the matrix protein participates with Vpr to the nuclear localization of the viral genome. During virus production, the nuclear export activity of the matrix protein counteracts the NLS to maintain the Gag and Gag-Pol polyproteins in the cytoplasm, thereby directing unspliced RNA to the plasma membrane (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Capsid protein p24</molecule>
+<subcellularLocation>
+<location evidence="25">Virion</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Nucleocapsid protein p7</molecule>
+<subcellularLocation>
+<location evidence="25">Virion</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Reverse transcriptase/ribonuclease H</molecule>
+<subcellularLocation>
+<location evidence="25">Virion</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Integrase</molecule>
+<subcellularLocation>
+<location evidence="25">Virion</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="25">Host nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="25">Host cytoplasm</location>
+</subcellularLocation>
+<text evidence="25">Nuclear at initial phase, cytoplasmic at assembly.</text>
+</comment>
+<comment type="alternative products">
+<event type="ribosomal frameshifting"/>
+<isoform>
+<id>P03366-1</id>
+<name>Gag-Pol polyprotein</name>
+<sequence type="displayed"/>
+<note>Produced by -1 ribosomal frameshifting.</note>
+</isoform>
+<isoform>
+<id>P03347-1</id>
+<name>Gag polyprotein</name>
+<sequence type="external"/>
+<note>Produced by conventional translation.</note>
+</isoform>
+<text evidence="12">Translation results in the formation of the Gag polyprotein most of the time. Ribosomal frameshifting at the gag-pol genes boundary occurs at low frequency and produces the Gag-Pol polyprotein. This strategy of translation probably allows the virus to modulate the quantity of each viral protein. Maintenance of a correct Gag to Gag-Pol ratio is essential for RNA dimerization and viral infectivity.</text>
+</comment>
+<comment type="domain">
+<text evidence="1">The reverse transcriptase/ribonuclease H (RT) is structured in five subdomains: finger, palm, thumb, connection and RNase H. Within the palm subdomain, the 'primer grip' region is thought to be involved in the positioning of the primer terminus for accommodating the incoming nucleotide. The RNase H domain stabilizes the association of RT with primer-template (By similarity).</text>
+</comment>
+<comment type="domain">
+<text evidence="1">The tryptophan repeat motif is involved in RT p66/p51 dimerization.</text>
+</comment>
+<comment type="domain">
+<text evidence="1">Integrase core domain contains the D-x(n)-D-x(35)-E motif, named for the phylogenetically conserved glutamic acid and aspartic acid residues and the invariant 35 amino acid spacing between the second and third acidic residues. Each acidic residue of the D,D(35)E motif is independently essential for the 3'-processing and strand transfer activities of purified integrase protein (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Specific enzymatic cleavages by the viral protease yield mature proteins. The protease is released by autocatalytic cleavage. The polyprotein is cleaved during and after budding, this process is termed maturation. Proteolytic cleavage of p66 RT removes the RNase H domain to yield the p51 RT subunit. Nucleocapsid protein p7 might be further cleaved after virus entry (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Capsid protein p24 is phosphorylated.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Matrix protein p17 is tyrosine phosphorylated presumably in the virion by a host kinase. This modification targets the matrix protein to the nucleus (By similarity).</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="1">Capsid protein p24 is able to bind macaque TRIM5-alpha or owl monkey TRIMCyp, preventing reverse transcription of the viral genome and succesfull infection of macaque or owl monkey by HIV-1.</text>
+</comment>
+<comment type="miscellaneous">
+<text>The reverse transcriptase is an error-prone enzyme that lacks a proof-reading function. High mutations rate is a direct consequence of this characteristic. RT also displays frequent template switching leading to high recombination rate. Recombination mostly occurs between homologous regions of the two copackaged RNA genomes. If these two RNA molecules derive from different viral strains, reverse transcription will give rise to highly recombinated proviral DNAs.</text>
+</comment>
+<comment type="miscellaneous">
+<text>HIV-1 lineages are divided in three main groups, M (for Major), O (for Outlier), and N (for New, or Non-M, Non-O). The vast majority of strains found worldwide belong to the group M. Group O seems to be endemic to and largely confined to Cameroon and neighboring countries in West Central Africa, where these viruses represent a small minority of HIV-1 strains. The group N is represented by a limited number of isolates from Cameroonian persons. The group M is further subdivided in 9 clades or subtypes (A to D, F to H, J and K).</text>
+</comment>
+<comment type="miscellaneous">
+<text>Resistance to inhibitors associated with mutations are observed both in viral protease and in reverse transcriptase. Most of the time, single mutations confer only a modest reduction in drug susceptibility. Combination of several mutations is usually required to develop a high-level drug resistance. These mutations are predominantly found in clade B viruses and not in other genotypes. They are listed in the clade B representative isolate HXB2 (AC P04585).</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Contains 2 CCHC-type zinc fingers.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Contains 1 integrase catalytic domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Contains 1 integrase-type DNA-binding domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Contains 1 integrase-type zinc finger.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Contains 1 peptidase A2 domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Contains 1 reverse transcriptase domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Contains 1 RNase H domain.</text>
+</comment>
+<comment type="online information" name="HIV drug resistance mutations">
+<link uri="https://www.iasusa.org/content/hiv-drug-resistance-mutations"/>
+</comment>
+<comment type="online information" name="hivdb">
+<link uri="http://hivdb.stanford.edu"/>
+<text>HIV drug resistance database</text>
+</comment>
+<comment type="online information" name="BioAfrica: HIV bioinformatics in Africa">
+<link uri="http://www.bioafrica.net/index.html"/>
+</comment>
+<dbReference type="EC" id="3.4.23.16"/>
+<dbReference type="EC" id="2.7.7.49"/>
+<dbReference type="EC" id="2.7.7.7"/>
+<dbReference type="EC" id="3.1.26.13"/>
+<dbReference type="EC" id="3.1.13.2"/>
+<dbReference type="EMBL" id="M15654">
+<property type="protein sequence ID" value="AAA44198.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="EMBL" id="K02083">
+<property type="protein sequence ID" value="AAB59867.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X01762">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="PIR" id="A03965">
+<property type="entry name" value="GNVWH3"/>
+</dbReference>
+<dbReference type="PIR" id="A03967">
+<property type="entry name" value="GNVWVL"/>
+</dbReference>
+<dbReference type="PDB" id="1A9M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1AJV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1AJX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1AXA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1BQM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=600-1155, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1BQN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="A=600-1440, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1D4H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1D4I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1D4J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1DLO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=600-1155, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1DW6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.88"/>
+<property type="chains" value="C/D=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EBK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.06"/>
+<property type="chains" value="C/D/E/F=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EBW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EBY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EBZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.01"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EC0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.79"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EC1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EC2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EC3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1EET">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.73"/>
+<property type="chains" value="A=600-1156, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1G35">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1GNM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1GNN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1GNO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HAR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=600-815"/>
+</dbReference>
+<dbReference type="PDB" id="1HBV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HEF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="E=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HEG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="E=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HIH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HMV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/C/E/G=600-1159, B/D/F/H=600-1039"/>
+</dbReference>
+<dbReference type="PDB" id="1HNI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1157, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1HNV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1157, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1HOS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HPS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HPZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1HQE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1HQU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1HRH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=1026-1161"/>
+</dbReference>
+<dbReference type="PDB" id="1HTE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HTF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HTG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HVI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HVK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HVP">
+<property type="method" value="Model"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1HVU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="4.75"/>
+<property type="chains" value="A/D/G/J=600-1153, B/E/H/K=604-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1HYS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1152, B=600-1024"/>
+</dbReference>
+<dbReference type="PDB" id="1IKV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1159, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1IKW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1159, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1IKX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1159, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1IKY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1159, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1J5O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A=600-1157, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1KJH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="P=1155-1164"/>
+</dbReference>
+<dbReference type="PDB" id="1MER">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1MES">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1MET">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1MEU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1N5Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=600-1157, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1N6Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1157, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1NPA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1NPV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1NPW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1QE1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A=600-1157, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1QMC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1379-1429"/>
+</dbReference>
+<dbReference type="PDB" id="1R0A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1157, B=600-1028"/>
+</dbReference>
+<dbReference type="PDB" id="1RDH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=1026-1159"/>
+</dbReference>
+<dbReference type="PDB" id="1RTD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/C=600-1153"/>
+</dbReference>
+<dbReference type="PDB" id="1RVL">
+<property type="method" value="Model"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="1RVM">
+<property type="method" value="Model"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="1RVN">
+<property type="method" value="Model"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="1RVO">
+<property type="method" value="Model"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="1RVP">
+<property type="method" value="Model"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="1RVQ">
+<property type="method" value="Model"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="1RVR">
+<property type="method" value="Model"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="1S6P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1S6Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1S9E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1S9G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1SBG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1SUQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1SV5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="1T03">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=600-1157, B=600-1028"/>
+</dbReference>
+<dbReference type="PDB" id="1T05">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1157"/>
+</dbReference>
+<dbReference type="PDB" id="1T7K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1TV6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1159, B=600-1039"/>
+</dbReference>
+<dbReference type="PDB" id="1TVR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1157, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1UWB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A=600-1157, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="1W5V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=490-599"/>
+</dbReference>
+<dbReference type="PDB" id="1W5W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=490-599"/>
+</dbReference>
+<dbReference type="PDB" id="1W5X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=490-599"/>
+</dbReference>
+<dbReference type="PDB" id="1W5Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=490-599"/>
+</dbReference>
+<dbReference type="PDB" id="1YT9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1ZP8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.02"/>
+<property type="chains" value="A=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1ZPA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.02"/>
+<property type="chains" value="A=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1ZSF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="1ZSR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.06"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2AQU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2B5J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="2B6A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.65"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="2BAN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="2BBB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2BE2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.43"/>
+<property type="chains" value="A=600-1159, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="2EXF">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=390-432"/>
+</dbReference>
+<dbReference type="PDB" id="2G69">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2HB3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A/B=501-598"/>
+</dbReference>
+<dbReference type="PDB" id="2HMI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1157, B=600-1029"/>
+</dbReference>
+<dbReference type="PDB" id="2HNZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="B=606-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2HS1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="0.84"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2HS2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.22"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2I4D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2I4U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2I4V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2I4W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2I4X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2I5J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.15"/>
+<property type="chains" value="A=600-1150, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2IAJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=600-1158, B=600-1045"/>
+</dbReference>
+<dbReference type="PDB" id="2IC3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1158, B=600-1045"/>
+</dbReference>
+<dbReference type="PDB" id="2IDW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.10"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2IEO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2JZW">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=390-432"/>
+</dbReference>
+<dbReference type="PDB" id="2L45">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=411-429"/>
+</dbReference>
+<dbReference type="PDB" id="2L46">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=411-429"/>
+</dbReference>
+<dbReference type="PDB" id="2L4L">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=388-432"/>
+</dbReference>
+<dbReference type="PDB" id="2UXZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2UY0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="2VG5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1156, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2VG6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.01"/>
+<property type="chains" value="A=600-1156, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2VG7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.82"/>
+<property type="chains" value="A=600-1156, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2X4U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="C/F=908-916"/>
+</dbReference>
+<dbReference type="PDB" id="2YKM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1156, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2YKN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.12"/>
+<property type="chains" value="A=600-1156, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2ZD1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="2ZE2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3AVI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=1209-1371"/>
+</dbReference>
+<dbReference type="PDB" id="3BGR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3DLK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=600-1154, B=605-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3GGA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D/G/H=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3GGV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.09"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3GGX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3HVT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1155, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3IG1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3IRX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3IS9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3ISN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="C=600-1159, D=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="3ITH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/C=600-1159, B/D=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="3JSM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=600-1157, B=600-1028"/>
+</dbReference>
+<dbReference type="PDB" id="3JYT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="A=600-1157, B=600-1028"/>
+</dbReference>
+<dbReference type="PDB" id="3K2P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.04"/>
+<property type="chains" value="A/B=1026-1159"/>
+</dbReference>
+<dbReference type="PDB" id="3K4V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.39"/>
+<property type="chains" value="A/B/C/D=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3KLE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/E/I/M=600-1157, B/F/J/N=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3KLF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.15"/>
+<property type="chains" value="A/E/I/M=600-1154, B/F/J/N=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3KLG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.65"/>
+<property type="chains" value="A/E=600-1157, B/F=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3KLH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1159, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3KLI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.65"/>
+<property type="chains" value="A=600-1157, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3NDT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.72"/>
+<property type="chains" value="A/B/C/D=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3NU3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.02"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3NU4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3NU5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.29"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3NU6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.16"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3NU9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3NUJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3NUO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3OK9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.27"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3PSU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.07"/>
+<property type="chains" value="A=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3QAA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3QLH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=600-1153, B=605-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3QO9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3TKG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.36"/>
+<property type="chains" value="A/B/C/D=497-599"/>
+</dbReference>
+<dbReference type="PDB" id="3TKW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=497-599"/>
+</dbReference>
+<dbReference type="PDB" id="3TL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.32"/>
+<property type="chains" value="A/B=497-599"/>
+</dbReference>
+<dbReference type="PDB" id="3TLH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3V4I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/C=600-1153, B/D=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3V6D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/C=600-1153, B/D=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3V81">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A/C=600-1153, B/D=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="3ZPS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3ZPT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="3ZPU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=501-599"/>
+</dbReference>
+<dbReference type="PDB" id="4DG1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A=600-1148, B=600-1026"/>
+</dbReference>
+<dbReference type="PDB" id="4G1Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.51"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4G8G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="C=263-272"/>
+</dbReference>
+<dbReference type="PDB" id="4G8I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="C=263-272"/>
+</dbReference>
+<dbReference type="PDB" id="4G9D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="C=263-272"/>
+</dbReference>
+<dbReference type="PDB" id="4G9F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="C=263-272"/>
+</dbReference>
+<dbReference type="PDB" id="4H4M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4H4O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4I2P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4I2Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4ICL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4ID5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4IDK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4IFV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4IFY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4IG0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4IG3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4KFB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=600-1154, B=604-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4KKO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.89"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4KO0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4LSL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.69"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4LSN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4MFB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.88"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4O44">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.89"/>
+<property type="chains" value="A=600-1154, B=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4OJR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.82"/>
+<property type="chains" value="A=1209-1371"/>
+</dbReference>
+<dbReference type="PDB" id="4PQU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.51"/>
+<property type="chains" value="A/C=600-1153, B/D=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4PUO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/C=600-1153, B/D=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4PWD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/C=600-1153, B/D=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4Q0B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="A/C=600-1153, B/D=600-1027"/>
+</dbReference>
+<dbReference type="PDB" id="4QAG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.71"/>
+<property type="chains" value="A/B=1024-1156"/>
+</dbReference>
+<dbReference type="PDBsum" id="1A9M"/>
+<dbReference type="PDBsum" id="1AJV"/>
+<dbReference type="PDBsum" id="1AJX"/>
+<dbReference type="PDBsum" id="1AXA"/>
+<dbReference type="PDBsum" id="1BQM"/>
+<dbReference type="PDBsum" id="1BQN"/>
+<dbReference type="PDBsum" id="1D4H"/>
+<dbReference type="PDBsum" id="1D4I"/>
+<dbReference type="PDBsum" id="1D4J"/>
+<dbReference type="PDBsum" id="1DLO"/>
+<dbReference type="PDBsum" id="1DW6"/>
+<dbReference type="PDBsum" id="1EBK"/>
+<dbReference type="PDBsum" id="1EBW"/>
+<dbReference type="PDBsum" id="1EBY"/>
+<dbReference type="PDBsum" id="1EBZ"/>
+<dbReference type="PDBsum" id="1EC0"/>
+<dbReference type="PDBsum" id="1EC1"/>
+<dbReference type="PDBsum" id="1EC2"/>
+<dbReference type="PDBsum" id="1EC3"/>
+<dbReference type="PDBsum" id="1EET"/>
+<dbReference type="PDBsum" id="1G35"/>
+<dbReference type="PDBsum" id="1GNM"/>
+<dbReference type="PDBsum" id="1GNN"/>
+<dbReference type="PDBsum" id="1GNO"/>
+<dbReference type="PDBsum" id="1HAR"/>
+<dbReference type="PDBsum" id="1HBV"/>
+<dbReference type="PDBsum" id="1HEF"/>
+<dbReference type="PDBsum" id="1HEG"/>
+<dbReference type="PDBsum" id="1HIH"/>
+<dbReference type="PDBsum" id="1HMV"/>
+<dbReference type="PDBsum" id="1HNI"/>
+<dbReference type="PDBsum" id="1HNV"/>
+<dbReference type="PDBsum" id="1HOS"/>
+<dbReference type="PDBsum" id="1HPS"/>
+<dbReference type="PDBsum" id="1HPZ"/>
+<dbReference type="PDBsum" id="1HQE"/>
+<dbReference type="PDBsum" id="1HQU"/>
+<dbReference type="PDBsum" id="1HRH"/>
+<dbReference type="PDBsum" id="1HTE"/>
+<dbReference type="PDBsum" id="1HTF"/>
+<dbReference type="PDBsum" id="1HTG"/>
+<dbReference type="PDBsum" id="1HVI"/>
+<dbReference type="PDBsum" id="1HVK"/>
+<dbReference type="PDBsum" id="1HVP"/>
+<dbReference type="PDBsum" id="1HVU"/>
+<dbReference type="PDBsum" id="1HYS"/>
+<dbReference type="PDBsum" id="1IKV"/>
+<dbReference type="PDBsum" id="1IKW"/>
+<dbReference type="PDBsum" id="1IKX"/>
+<dbReference type="PDBsum" id="1IKY"/>
+<dbReference type="PDBsum" id="1J5O"/>
+<dbReference type="PDBsum" id="1KJH"/>
+<dbReference type="PDBsum" id="1MER"/>
+<dbReference type="PDBsum" id="1MES"/>
+<dbReference type="PDBsum" id="1MET"/>
+<dbReference type="PDBsum" id="1MEU"/>
+<dbReference type="PDBsum" id="1N5Y"/>
+<dbReference type="PDBsum" id="1N6Q"/>
+<dbReference type="PDBsum" id="1NPA"/>
+<dbReference type="PDBsum" id="1NPV"/>
+<dbReference type="PDBsum" id="1NPW"/>
+<dbReference type="PDBsum" id="1QE1"/>
+<dbReference type="PDBsum" id="1QMC"/>
+<dbReference type="PDBsum" id="1R0A"/>
+<dbReference type="PDBsum" id="1RDH"/>
+<dbReference type="PDBsum" id="1RTD"/>
+<dbReference type="PDBsum" id="1RVL"/>
+<dbReference type="PDBsum" id="1RVM"/>
+<dbReference type="PDBsum" id="1RVN"/>
+<dbReference type="PDBsum" id="1RVO"/>
+<dbReference type="PDBsum" id="1RVP"/>
+<dbReference type="PDBsum" id="1RVQ"/>
+<dbReference type="PDBsum" id="1RVR"/>
+<dbReference type="PDBsum" id="1S6P"/>
+<dbReference type="PDBsum" id="1S6Q"/>
+<dbReference type="PDBsum" id="1S9E"/>
+<dbReference type="PDBsum" id="1S9G"/>
+<dbReference type="PDBsum" id="1SBG"/>
+<dbReference type="PDBsum" id="1SUQ"/>
+<dbReference type="PDBsum" id="1SV5"/>
+<dbReference type="PDBsum" id="1T03"/>
+<dbReference type="PDBsum" id="1T05"/>
+<dbReference type="PDBsum" id="1T7K"/>
+<dbReference type="PDBsum" id="1TV6"/>
+<dbReference type="PDBsum" id="1TVR"/>
+<dbReference type="PDBsum" id="1UWB"/>
+<dbReference type="PDBsum" id="1W5V"/>
+<dbReference type="PDBsum" id="1W5W"/>
+<dbReference type="PDBsum" id="1W5X"/>
+<dbReference type="PDBsum" id="1W5Y"/>
+<dbReference type="PDBsum" id="1YT9"/>
+<dbReference type="PDBsum" id="1ZP8"/>
+<dbReference type="PDBsum" id="1ZPA"/>
+<dbReference type="PDBsum" id="1ZSF"/>
+<dbReference type="PDBsum" id="1ZSR"/>
+<dbReference type="PDBsum" id="2AQU"/>
+<dbReference type="PDBsum" id="2B5J"/>
+<dbReference type="PDBsum" id="2B6A"/>
+<dbReference type="PDBsum" id="2BAN"/>
+<dbReference type="PDBsum" id="2BBB"/>
+<dbReference type="PDBsum" id="2BE2"/>
+<dbReference type="PDBsum" id="2EXF"/>
+<dbReference type="PDBsum" id="2G69"/>
+<dbReference type="PDBsum" id="2HB3"/>
+<dbReference type="PDBsum" id="2HMI"/>
+<dbReference type="PDBsum" id="2HNZ"/>
+<dbReference type="PDBsum" id="2HS1"/>
+<dbReference type="PDBsum" id="2HS2"/>
+<dbReference type="PDBsum" id="2I4D"/>
+<dbReference type="PDBsum" id="2I4U"/>
+<dbReference type="PDBsum" id="2I4V"/>
+<dbReference type="PDBsum" id="2I4W"/>
+<dbReference type="PDBsum" id="2I4X"/>
+<dbReference type="PDBsum" id="2I5J"/>
+<dbReference type="PDBsum" id="2IAJ"/>
+<dbReference type="PDBsum" id="2IC3"/>
+<dbReference type="PDBsum" id="2IDW"/>
+<dbReference type="PDBsum" id="2IEO"/>
+<dbReference type="PDBsum" id="2JZW"/>
+<dbReference type="PDBsum" id="2L45"/>
+<dbReference type="PDBsum" id="2L46"/>
+<dbReference type="PDBsum" id="2L4L"/>
+<dbReference type="PDBsum" id="2UXZ"/>
+<dbReference type="PDBsum" id="2UY0"/>
+<dbReference type="PDBsum" id="2VG5"/>
+<dbReference type="PDBsum" id="2VG6"/>
+<dbReference type="PDBsum" id="2VG7"/>
+<dbReference type="PDBsum" id="2X4U"/>
+<dbReference type="PDBsum" id="2YKM"/>
+<dbReference type="PDBsum" id="2YKN"/>
+<dbReference type="PDBsum" id="2ZD1"/>
+<dbReference type="PDBsum" id="2ZE2"/>
+<dbReference type="PDBsum" id="3AVI"/>
+<dbReference type="PDBsum" id="3BGR"/>
+<dbReference type="PDBsum" id="3DLK"/>
+<dbReference type="PDBsum" id="3GGA"/>
+<dbReference type="PDBsum" id="3GGV"/>
+<dbReference type="PDBsum" id="3GGX"/>
+<dbReference type="PDBsum" id="3HVT"/>
+<dbReference type="PDBsum" id="3IG1"/>
+<dbReference type="PDBsum" id="3IRX"/>
+<dbReference type="PDBsum" id="3IS9"/>
+<dbReference type="PDBsum" id="3ISN"/>
+<dbReference type="PDBsum" id="3ITH"/>
+<dbReference type="PDBsum" id="3JSM"/>
+<dbReference type="PDBsum" id="3JYT"/>
+<dbReference type="PDBsum" id="3K2P"/>
+<dbReference type="PDBsum" id="3K4V"/>
+<dbReference type="PDBsum" id="3KLE"/>
+<dbReference type="PDBsum" id="3KLF"/>
+<dbReference type="PDBsum" id="3KLG"/>
+<dbReference type="PDBsum" id="3KLH"/>
+<dbReference type="PDBsum" id="3KLI"/>
+<dbReference type="PDBsum" id="3NDT"/>
+<dbReference type="PDBsum" id="3NU3"/>
+<dbReference type="PDBsum" id="3NU4"/>
+<dbReference type="PDBsum" id="3NU5"/>
+<dbReference type="PDBsum" id="3NU6"/>
+<dbReference type="PDBsum" id="3NU9"/>
+<dbReference type="PDBsum" id="3NUJ"/>
+<dbReference type="PDBsum" id="3NUO"/>
+<dbReference type="PDBsum" id="3OK9"/>
+<dbReference type="PDBsum" id="3PSU"/>
+<dbReference type="PDBsum" id="3QAA"/>
+<dbReference type="PDBsum" id="3QLH"/>
+<dbReference type="PDBsum" id="3QO9"/>
+<dbReference type="PDBsum" id="3TKG"/>
+<dbReference type="PDBsum" id="3TKW"/>
+<dbReference type="PDBsum" id="3TL9"/>
+<dbReference type="PDBsum" id="3TLH"/>
+<dbReference type="PDBsum" id="3V4I"/>
+<dbReference type="PDBsum" id="3V6D"/>
+<dbReference type="PDBsum" id="3V81"/>
+<dbReference type="PDBsum" id="3ZPS"/>
+<dbReference type="PDBsum" id="3ZPT"/>
+<dbReference type="PDBsum" id="3ZPU"/>
+<dbReference type="PDBsum" id="4DG1"/>
+<dbReference type="PDBsum" id="4G1Q"/>
+<dbReference type="PDBsum" id="4G8G"/>
+<dbReference type="PDBsum" id="4G8I"/>
+<dbReference type="PDBsum" id="4G9D"/>
+<dbReference type="PDBsum" id="4G9F"/>
+<dbReference type="PDBsum" id="4H4M"/>
+<dbReference type="PDBsum" id="4H4O"/>
+<dbReference type="PDBsum" id="4I2P"/>
+<dbReference type="PDBsum" id="4I2Q"/>
+<dbReference type="PDBsum" id="4ICL"/>
+<dbReference type="PDBsum" id="4ID5"/>
+<dbReference type="PDBsum" id="4IDK"/>
+<dbReference type="PDBsum" id="4IFV"/>
+<dbReference type="PDBsum" id="4IFY"/>
+<dbReference type="PDBsum" id="4IG0"/>
+<dbReference type="PDBsum" id="4IG3"/>
+<dbReference type="PDBsum" id="4KFB"/>
+<dbReference type="PDBsum" id="4KKO"/>
+<dbReference type="PDBsum" id="4KO0"/>
+<dbReference type="PDBsum" id="4LSL"/>
+<dbReference type="PDBsum" id="4LSN"/>
+<dbReference type="PDBsum" id="4MFB"/>
+<dbReference type="PDBsum" id="4O44"/>
+<dbReference type="PDBsum" id="4OJR"/>
+<dbReference type="PDBsum" id="4PQU"/>
+<dbReference type="PDBsum" id="4PUO"/>
+<dbReference type="PDBsum" id="4PWD"/>
+<dbReference type="PDBsum" id="4Q0B"/>
+<dbReference type="PDBsum" id="4QAG"/>
+<dbReference type="ProteinModelPortal" id="P03366"/>
+<dbReference type="SMR" id="P03366">
+<property type="residue range" value="1-432, 501-1155, 1160-1429"/>
+</dbReference>
+<dbReference type="IntAct" id="P03366">
+<property type="interactions" value="38"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-111903"/>
+<dbReference type="ChEMBL" id="CHEMBL5823"/>
+<dbReference type="SABIO-RK" id="P03366"/>
+<dbReference type="EvolutionaryTrace" id="P03366"/>
+<dbReference type="GO" id="GO:0030430">
+<property type="term" value="C:host cell cytoplasm"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042025">
+<property type="term" value="C:host cell nucleus"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0020002">
+<property type="term" value="C:host cell plasma membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005622">
+<property type="term" value="C:intracellular"/>
+<property type="evidence" value="IEA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019013">
+<property type="term" value="C:viral nucleocapsid"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004190">
+<property type="term" value="F:aspartic-type endopeptidase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003887">
+<property type="term" value="F:DNA-directed DNA polymerase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004533">
+<property type="term" value="F:exoribonuclease H activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003964">
+<property type="term" value="F:RNA-directed DNA polymerase activity"/>
+<property type="evidence" value="IDA:CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004523">
+<property type="term" value="F:RNA-DNA hybrid ribonuclease activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005198">
+<property type="term" value="F:structural molecule activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015074">
+<property type="term" value="P:DNA integration"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006310">
+<property type="term" value="P:DNA recombination"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0075713">
+<property type="term" value="P:establishment of integrated proviral latency"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039651">
+<property type="term" value="P:induction by virus of host cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039657">
+<property type="term" value="P:suppression by virus of host gene expression"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046718">
+<property type="term" value="P:viral entry into host cell"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0075732">
+<property type="term" value="P:viral penetration into host nucleus"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019076">
+<property type="term" value="P:viral release from host cell"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.10.200">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1200.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.150.90">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.375.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.30.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.70.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.420.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.60.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001969">
+<property type="entry name" value="Aspartic_peptidase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000721">
+<property type="entry name" value="Gag_p24"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001037">
+<property type="entry name" value="Integrase_C_retrovir"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001584">
+<property type="entry name" value="Integrase_cat-core"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017856">
+<property type="entry name" value="Integrase_Zn-bd_dom-like_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003308">
+<property type="entry name" value="Integrase_Zn-bd_dom_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000071">
+<property type="entry name" value="Lentvrl_matrix_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012344">
+<property type="entry name" value="Matrix_N_HIV/RSV"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018061">
+<property type="entry name" value="Pept_A2A_retrovirus_sg"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001995">
+<property type="entry name" value="Peptidase_A2_cat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021109">
+<property type="entry name" value="Peptidase_aspartic_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008916">
+<property type="entry name" value="Retrov_capsid_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008919">
+<property type="entry name" value="Retrov_capsid_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010999">
+<property type="entry name" value="Retrovr_matrix_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012337">
+<property type="entry name" value="RNaseH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002156">
+<property type="entry name" value="RNaseH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000477">
+<property type="entry name" value="RT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010659">
+<property type="entry name" value="RVT_connect"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010661">
+<property type="entry name" value="RVT_thumb"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001878">
+<property type="entry name" value="Znf_CCHC"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00540">
+<property type="entry name" value="Gag_p17"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00607">
+<property type="entry name" value="Gag_p24"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00552">
+<property type="entry name" value="IN_DBD_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02022">
+<property type="entry name" value="Integrase_Zn"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00075">
+<property type="entry name" value="RNase_H"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00665">
+<property type="entry name" value="rve"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00077">
+<property type="entry name" value="RVP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00078">
+<property type="entry name" value="RVT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06815">
+<property type="entry name" value="RVT_connect"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06817">
+<property type="entry name" value="RVT_thumb"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00098">
+<property type="entry name" value="zf-CCHC"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00234">
+<property type="entry name" value="HIV1MATRIX"/>
+</dbReference>
+<dbReference type="SMART" id="SM00343">
+<property type="entry name" value="ZnF_C2HC"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46919">
+<property type="entry name" value="SSF46919"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47353">
+<property type="entry name" value="SSF47353"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47836">
+<property type="entry name" value="SSF47836"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47943">
+<property type="entry name" value="SSF47943"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50122">
+<property type="entry name" value="SSF50122"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50630">
+<property type="entry name" value="SSF50630"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53098">
+<property type="entry name" value="SSF53098"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57756">
+<property type="entry name" value="SSF57756"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50175">
+<property type="entry name" value="ASP_PROT_RETROV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00141">
+<property type="entry name" value="ASP_PROTEASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50994">
+<property type="entry name" value="INTEGRASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51027">
+<property type="entry name" value="INTEGRASE_DBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50879">
+<property type="entry name" value="RNASE_H"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50878">
+<property type="entry name" value="RT_POL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50158">
+<property type="entry name" value="ZF_CCHC"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50876">
+<property type="entry name" value="ZF_INTEGRASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-1073">Activation of host caspases by virus</keyword>
+<keyword id="KW-0014">AIDS</keyword>
+<keyword id="KW-0064">Aspartyl protease</keyword>
+<keyword id="KW-0167">Capsid protein</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0229">DNA integration</keyword>
+<keyword id="KW-0233">DNA recombination</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0239">DNA-directed DNA polymerase</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-1262">Eukaryotic host gene expression shutoff by virus</keyword>
+<keyword id="KW-1193">Eukaryotic host translation shutoff by virus</keyword>
+<keyword id="KW-1032">Host cell membrane</keyword>
+<keyword id="KW-1035">Host cytoplasm</keyword>
+<keyword id="KW-1190">Host gene expression shutoff by virus</keyword>
+<keyword id="KW-1043">Host membrane</keyword>
+<keyword id="KW-1048">Host nucleus</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1119">Modulation of host cell apoptosis by virus</keyword>
+<keyword id="KW-0511">Multifunctional enzyme</keyword>
+<keyword id="KW-0519">Myristate</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-0548">Nucleotidyltransferase</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0688">Ribosomal frameshifting</keyword>
+<keyword id="KW-0694">RNA-binding</keyword>
+<keyword id="KW-0695">RNA-directed DNA polymerase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-1179">Viral genome integration</keyword>
+<keyword id="KW-0543">Viral nucleoprotein</keyword>
+<keyword id="KW-1163">Viral penetration into host nucleus</keyword>
+<keyword id="KW-0946">Virion</keyword>
+<keyword id="KW-0917">Virion maturation</keyword>
+<keyword id="KW-1160">Virus entry into host cell</keyword>
+<keyword id="KW-1188">Virus exit from host cell</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="initiator methionine" description="Removed; by host" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Gag-Pol polyprotein" id="PRO_0000261261">
+<location>
+<begin position="2"/>
+<end position="1447"/>
+</location>
+</feature>
+<feature type="chain" description="Matrix protein p17" id="PRO_0000042285" evidence="1">
+<location>
+<begin position="2"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="chain" description="Capsid protein p24" id="PRO_0000042286" evidence="1">
+<location>
+<begin position="133"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="peptide" description="Spacer peptide p2" id="PRO_0000042287" evidence="1">
+<location>
+<begin position="364"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="chain" description="Nucleocapsid protein p7" id="PRO_0000042288" evidence="1">
+<location>
+<begin position="378"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="peptide" description="Transframe peptide" id="PRO_0000246710" evidence="2">
+<location>
+<begin position="433"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="chain" description="p6-pol" id="PRO_0000042289" evidence="2">
+<location>
+<begin position="441"/>
+<end position="500"/>
+</location>
+</feature>
+<feature type="chain" description="Protease" id="PRO_0000038647" evidence="1">
+<location>
+<begin position="501"/>
+<end position="599"/>
+</location>
+</feature>
+<feature type="chain" description="Reverse transcriptase/ribonuclease H" id="PRO_0000042290" evidence="1">
+<location>
+<begin position="600"/>
+<end position="1159"/>
+</location>
+</feature>
+<feature type="chain" description="p51 RT" id="PRO_0000042291" evidence="1">
+<location>
+<begin position="600"/>
+<end position="1039"/>
+</location>
+</feature>
+<feature type="chain" description="p15" id="PRO_0000042292">
+<location>
+<begin position="1040"/>
+<end position="1159"/>
+</location>
+</feature>
+<feature type="chain" description="Integrase" id="PRO_0000042293" evidence="1">
+<location>
+<begin position="1160"/>
+<end position="1447"/>
+</location>
+</feature>
+<feature type="domain" description="Peptidase A2" evidence="4">
+<location>
+<begin position="520"/>
+<end position="589"/>
+</location>
+</feature>
+<feature type="domain" description="Reverse transcriptase" evidence="5">
+<location>
+<begin position="643"/>
+<end position="833"/>
+</location>
+</feature>
+<feature type="domain" description="RNase H" evidence="6">
+<location>
+<begin position="1033"/>
+<end position="1156"/>
+</location>
+</feature>
+<feature type="domain" description="Integrase catalytic" evidence="8">
+<location>
+<begin position="1213"/>
+<end position="1363"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="CCHC-type 1" evidence="3">
+<location>
+<begin position="390"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="CCHC-type 2" evidence="3">
+<location>
+<begin position="411"/>
+<end position="428"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="Integrase-type" evidence="7">
+<location>
+<begin position="1162"/>
+<end position="1203"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="Integrase-type" evidence="9">
+<location>
+<begin position="1382"/>
+<end position="1429"/>
+</location>
+</feature>
+<feature type="region of interest" description="RT 'primer grip'">
+<location>
+<begin position="826"/>
+<end position="834"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear export signal" evidence="1">
+<location>
+<begin position="16"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="1">
+<location>
+<begin position="26"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Tryptophan repeat motif">
+<location>
+<begin position="997"/>
+<end position="1013"/>
+</location>
+</feature>
+<feature type="active site" description="For protease activity; shared with dimeric partner" evidence="10 16">
+<location>
+<position position="525"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for reverse transcriptase activity">
+<location>
+<position position="709"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for reverse transcriptase activity">
+<location>
+<position position="784"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for reverse transcriptase activity">
+<location>
+<position position="785"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for RNase H activity" evidence="25">
+<location>
+<position position="1042"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for RNase H activity" evidence="25">
+<location>
+<position position="1077"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for RNase H activity" evidence="25">
+<location>
+<position position="1097"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for RNase H activity" evidence="25">
+<location>
+<position position="1148"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for integrase activity" evidence="1">
+<location>
+<position position="1223"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium; catalytic; for integrase activity" evidence="1">
+<location>
+<position position="1275"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease" evidence="1">
+<location>
+<begin position="132"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="site" description="Cis/trans isomerization of proline peptide bond; by human PPIA/CYPA" evidence="1">
+<location>
+<begin position="221"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease" evidence="1">
+<location>
+<begin position="363"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease" evidence="1">
+<location>
+<begin position="377"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease" evidence="2">
+<location>
+<begin position="432"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease">
+<location>
+<begin position="440"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease">
+<location>
+<begin position="500"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease" evidence="1">
+<location>
+<begin position="599"/>
+<end position="600"/>
+</location>
+</feature>
+<feature type="site" description="Essential for RT p66/p51 heterodimerization">
+<location>
+<position position="1000"/>
+</location>
+</feature>
+<feature type="site" description="Essential for RT p66/p51 heterodimerization">
+<location>
+<position position="1013"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease; partial">
+<location>
+<begin position="1039"/>
+<end position="1040"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by viral protease" evidence="1">
+<location>
+<begin position="1159"/>
+<end position="1160"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by host" evidence="1">
+<location>
+<position position="132"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="N-myristoyl glycine; by host" evidence="1">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate PV22.">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="sequence variant">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="434"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate PV22.">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="771"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate PV22.">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="1050"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate PV22.">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="1057"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate PV22.">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="1111"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In strain: Isolate PV22.">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="1128"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of cleavage between NC and TF." evidence="12">
+<original>F</original>
+<variation>I</variation>
+<location>
+<position position="440"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of cleavage between TF and p15." evidence="12">
+<original>F</original>
+<variation>I</variation>
+<location>
+<position position="500"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="74% loss of polymerase activity. 86% loss of RNase H activity." evidence="23">
+<original>P</original>
+<variation>G</variation>
+<location>
+<position position="651"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="64% loss of polymerase activity. 57% loss of RNase H activity." evidence="23">
+<original>P</original>
+<variation>G</variation>
+<location>
+<position position="654"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in RT binding affinity for all dNTP substrates and in catalytic efficiency. 100-fold decreased sensitivity to ddNTP inhibitors." evidence="11">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="664"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in RT binding affinity for all dNTP substrates and in catalytic efficiency. 100-fold decreased sensitivity to ddNTP inhibitors." evidence="11">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="664"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in RT binding affinity for all dNTP substrates and in catalytic efficiency. 100-fold decreased sensitivity to ddNTP inhibitors." evidence="11">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="664"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="10-fold decreased sensitivity to ddATP and ddCTP inhibitors." evidence="11">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="664"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No loss of polymerase activity. No loss of RNase H activity." evidence="23">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="673"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="5- to 12-fold decrease in affinity for dTTP substrates. Strongly decreased RNA-directed and DNA-directed DNA polymerase activities. No effect on RNase H activity. Loss of pyrophosphorolysis (reverse of the polymerase reaction)." evidence="21">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="709"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="5- to 12-fold decrease in affinity for dTTP substrates. Strongly decreased RNA-directed DNA polymerase activity. Slightly decreased DNA-directed DNA polymerase activity. No effect on RNase H activity. Loss of pyrophosphorolysis (reverse of the polymerase reaction)." evidence="21">
+<original>D</original>
+<variation>S</variation>
+<location>
+<position position="709"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="73% loss of DNA-directed DNA polymerase activity. 70% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="752"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="10% loss of DNA-directed DNA polymerase activity. 22% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>W</original>
+<variation>F</variation>
+<location>
+<position position="752"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="58% loss of DNA-directed DNA polymerase activity. 42% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>W</original>
+<variation>Y</variation>
+<location>
+<position position="752"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="74% loss of polymerase activity. 56% loss of RNase H activity." evidence="23">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="755"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of polymerase activity. No loss of RNase H activity." evidence="23">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="755"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of polymerase activity. No loss of RNase H activity." evidence="23">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="755"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="34% loss of polymerase activity. No loss of RNase H activity." evidence="23">
+<original>P</original>
+<variation>G</variation>
+<location>
+<position position="756"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="71% loss of DNA-directed DNA polymerase activity. 61% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="766"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="16% loss of DNA-directed DNA polymerase activity. 24% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>I</original>
+<variation>D</variation>
+<location>
+<position position="766"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="80% loss of DNA-directed DNA polymerase activity. 23% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="766"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="34% increase of DNA-directed DNA polymerase activity. 18% increase of RNA-directed DNA polymerase activity." evidence="14">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="766"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="70% loss of DNA-directed DNA polymerase activity. 64% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="766"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of polymerase activity." evidence="24">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="782"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="70% loss of polymerase activity. No loss of polymerase activity; when associated with V-783." evidence="24">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="782"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="54% loss of polymerase activity according to PubMed:9533880; increases polymerase activity according to PubMed:9657675. No loss of RNase H activity." evidence="23 24">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="783"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="90% loss of polymerase activity. No loss of RNase H activity." evidence="23 24">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="783"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="58% loss of polymerase activity. No loss of RNase H activity." evidence="23 24">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="783"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased RNA-directed and DNA-directed DNA polymerase activities. No effect on RNase H activity." evidence="21 24">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="784"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased RNA-directed and DNA-directed DNA polymerase activities. No effect on RNase H activity." evidence="21 24">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="784"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased RNA-directed and DNA-directed DNA polymerase activities. No effect on RNase H activity." evidence="21 24">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="784"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased RNA-directed and DNA-directed DNA polymerase activities. Loss of pyrophosphorolysis (reverse of the polymerase reaction). No effect on RNase H activity." evidence="21 24">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="785"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Drastically reduced incorporation of phosphorothioate nucleotide. Loss of pyrophosphorolysis (reverse of the polymerase reaction). No effect on RNase H activity." evidence="21 24">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="785"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of pyrophosphorolysis (reverse of the polymerase reaction). No effect on RNase H activity." evidence="21 24">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="785"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="76% loss of DNA-directed DNA polymerase activity. 60% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="786"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="29% loss of DNA-directed DNA polymerase activity. 46% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="786"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="20% loss of DNA-directed DNA polymerase activity. 21% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="786"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="22% loss of DNA-directed DNA polymerase activity. No loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="786"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="37% increase of DNA-directed DNA polymerase activity. No loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="788"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="25% increase of DNA-directed DNA polymerase activity. No loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="788"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="27% increase of DNA-directed DNA polymerase activity. 10% loss of RNA-directed DNA polymerase activity." evidence="14">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="788"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RNA-dependent DNA polymerase activity. No effect on RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="823"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RNA-dependent DNA polymerase activity. No effect on RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="824"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RNA-dependent DNA polymerase activity. Complete loss of RNA 5'-end cleavage. No effect on RNA 3'-end cleavage." evidence="22">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="825"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RNA-dependent DNA polymerase activity. Complete loss of RNA 5'-end cleavage. No effect on RNA 3'-end cleavage." evidence="22">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="826"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RNA-dependent DNA polymerase activity. No effect on RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="827"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of RNA-dependent DNA polymerase activity. No effect on RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="828"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RNA-dependent DNA polymerase activity. No effect on RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>M</original>
+<variation>A</variation>
+<location>
+<position position="829"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of RNA-dependent DNA polymerase activity. Complete loss of RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="830"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of RNA-dependent DNA polymerase activity. Complete loss of RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="831"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of RNA-dependent DNA polymerase activity. Complete loss of RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="832"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of RNA-dependent DNA polymerase activity. Complete loss of RNA 5'-end and 3'-end cleavages." evidence="22">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="834"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="96% loss of polymerase activity. 45% loss of RNase H activity." evidence="23">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="856"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of polymerase activity. 25% loss of RNase H activity." evidence="23">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="861"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="17% loss of polymerase activity. 30% loss of RNase H activity." evidence="23">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="863"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of polymerase activity. 87% loss of RNase H activity." evidence="23">
+<original>W</original>
+<variation>T</variation>
+<location>
+<position position="865"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="21% loss of polymerase activity. 16% loss of RNase H activity." evidence="23">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="878"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="68% loss of polymerase activity. 10% loss of RNase H activity." evidence="23">
+<original>A</original>
+<variation>L</variation>
+<location>
+<position position="898"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="59% loss of polymerase activity. 8% loss of RNase H activity." evidence="23">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="902"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="31% loss of polymerase activity. No loss of RNase H activity." evidence="23">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="909"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RT p66/p51 heterodimerization." evidence="15">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="997"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of RT p66/p51 heterodimerization. Complete loss of polymerase activity." evidence="15 17">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="1000"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RT p66/p51 heterodimerization." evidence="15 17">
+<original>W</original>
+<variation>F</variation>
+<location>
+<position position="1000"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of RT p66/p51 heterodimerization. Complete loss of polymerase activity." evidence="15 17">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="1000"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RT p66/p51 heterodimerization." evidence="15">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="1001"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RT p66/p51 heterodimerization." evidence="15">
+<original>Y</original>
+<variation>L</variation>
+<location>
+<position position="1004"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased RT p66/p51 heterodimerization." evidence="15">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="1005"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on RT p66/p51 heterodimerization." evidence="15">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="1009"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of RT p66/p51 heterodimerization." evidence="15">
+<original>W</original>
+<variation>L</variation>
+<location>
+<position position="1013"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Replication slightly delayed." evidence="18">
+<original>A</original>
+<variation>I</variation>
+<location>
+<position position="1036"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Virions contain primarily p51 RT." evidence="18">
+<original>E</original>
+<variation>N</variation>
+<location>
+<position position="1037"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of virion production; when associated with G-1041." evidence="18">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="1038"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Virions contain primarily p51 RT." evidence="18 20">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="1039"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of cleavage between p51 RT and p15." evidence="18 20">
+<original>F</original>
+<variation>I</variation>
+<location>
+<position position="1039"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on cleavage between p51 RT and p15." evidence="18 20">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="1039"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight delays in replication. Virions contain primarily p51 RT." evidence="18 20">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="1039"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight delays in replication. Virions contain primarily p51 RT." evidence="18 20">
+<original>F</original>
+<variation>W</variation>
+<location>
+<position position="1039"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Virions contain primarily p51 RT; when associated with A-1039." evidence="18">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="1040"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of virion production; when associated with K-1041." evidence="18">
+<original>Y</original>
+<variation>I</variation>
+<location>
+<position position="1040"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Virions contain primarily p51 RT; when associated with W-1039." evidence="18">
+<original>Y</original>
+<variation>W</variation>
+<location>
+<position position="1040"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of virion production; when associated with S-1038." evidence="18">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="1041"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of virion production; when associated with I-1038." evidence="18">
+<original>V</original>
+<variation>K</variation>
+<location>
+<position position="1041"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight delays in replication." evidence="18">
+<original>V</original>
+<variation>S</variation>
+<location>
+<position position="1041"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No loss of polymerase activity. complete loss of RNase H activity." evidence="23">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="1077"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of RNAase H activity." evidence="13">
+<original>Y</original>
+<variation>A</variation>
+<variation>G</variation>
+<variation>H</variation>
+<variation>L</variation>
+<variation>S</variation>
+<variation>Q</variation>
+<location>
+<position position="1100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost complete loss of RNAase H activity." evidence="13">
+<original>Y</original>
+<variation>E</variation>
+<location>
+<position position="1100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost no effect on RNAase H activity and replication." evidence="13">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="1100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost no effect on RNAase H activity. Unable to replicate. Completely resistant to inhibition by BBNH." evidence="13">
+<original>Y</original>
+<variation>R</variation>
+<location>
+<position position="1100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Almost no effect on RNAase H activity and replication. 6-fold resistance to inhibition by BBNH." evidence="13">
+<original>Y</original>
+<variation>W</variation>
+<location>
+<position position="1100"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severely reduces exonuclease activity of RNase H. Probably also reduces substrate binding affinity. Modifies cleavage preferences of RNase H. No effect on the endonuclease activity." evidence="19">
+<original>H</original>
+<variation>D</variation>
+<variation>N</variation>
+<location>
+<position position="1138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severely reduced exonuclease activity of RNase H, but no effect on endonucleonuclease activity." evidence="19">
+<original>H</original>
+<variation>D</variation>
+<location>
+<position position="1138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Severely reduced exonuclease activity of RNase H, but no effect on endonucleonuclease activity." evidence="19">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="1138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on cleavage between reverse transcriptase/ribonuclease H and integrase." evidence="20">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="1159"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of cleavage between reverse transcriptase/ribonuclease H and integrase." evidence="20">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="1159"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="393"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="398"/>
+<end position="400"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="402"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="414"/>
+<end position="416"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="419"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="423"/>
+<end position="425"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="426"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="502"/>
+<end position="504"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="505"/>
+<end position="507"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="510"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="518"/>
+<end position="524"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="529"/>
+<end position="533"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="542"/>
+<end position="549"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="552"/>
+<end position="566"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="569"/>
+<end position="578"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="581"/>
+<end position="585"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="587"/>
+<end position="590"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="591"/>
+<end position="594"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="596"/>
+<end position="598"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="602"/>
+<end position="604"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="611"/>
+<end position="614"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="627"/>
+<end position="642"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="645"/>
+<end position="648"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="651"/>
+<end position="653"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="659"/>
+<end position="663"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="665"/>
+<end position="668"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="670"/>
+<end position="674"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="677"/>
+<end position="682"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="684"/>
+<end position="686"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="689"/>
+<end position="691"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="696"/>
+<end position="698"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="699"/>
+<end position="701"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="703"/>
+<end position="709"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="710"/>
+<end position="712"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="713"/>
+<end position="716"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="721"/>
+<end position="727"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="729"/>
+<end position="731"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="734"/>
+<end position="736"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="737"/>
+<end position="739"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="741"/>
+<end position="747"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="752"/>
+<end position="754"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="755"/>
+<end position="773"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="774"/>
+<end position="776"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="777"/>
+<end position="782"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="785"/>
+<end position="790"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="794"/>
+<end position="808"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="809"/>
+<end position="811"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="816"/>
+<end position="818"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="819"/>
+<end position="823"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="824"/>
+<end position="828"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="831"/>
+<end position="833"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="835"/>
+<end position="837"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="838"/>
+<end position="841"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="849"/>
+<end position="852"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="853"/>
+<end position="866"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="867"/>
+<end position="869"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="870"/>
+<end position="872"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="876"/>
+<end position="879"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="880"/>
+<end position="882"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="883"/>
+<end position="885"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="886"/>
+<end position="888"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="890"/>
+<end position="892"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="896"/>
+<end position="908"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="909"/>
+<end position="911"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="913"/>
+<end position="916"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="920"/>
+<end position="922"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="925"/>
+<end position="932"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="935"/>
+<end position="943"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="946"/>
+<end position="954"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="957"/>
+<end position="961"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="963"/>
+<end position="982"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="987"/>
+<end position="992"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="994"/>
+<end position="1003"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1004"/>
+<end position="1006"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1012"/>
+<end position="1015"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1017"/>
+<end position="1019"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1020"/>
+<end position="1022"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1023"/>
+<end position="1026"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1029"/>
+<end position="1031"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1036"/>
+<end position="1045"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1047"/>
+<end position="1049"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1052"/>
+<end position="1058"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1059"/>
+<end position="1061"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1063"/>
+<end position="1070"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1073"/>
+<end position="1087"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1090"/>
+<end position="1096"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1099"/>
+<end position="1105"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1110"/>
+<end position="1114"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1115"/>
+<end position="1126"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1128"/>
+<end position="1134"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1137"/>
+<end position="1139"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1140"/>
+<end position="1142"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1144"/>
+<end position="1152"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1153"/>
+<end position="1155"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1219"/>
+<end position="1227"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1230"/>
+<end position="1237"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1238"/>
+<end position="1240"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1243"/>
+<end position="1250"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1253"/>
+<end position="1266"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1271"/>
+<end position="1273"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1277"/>
+<end position="1281"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1283"/>
+<end position="1292"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1295"/>
+<end position="1297"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1305"/>
+<end position="1324"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1325"/>
+<end position="1327"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1331"/>
+<end position="1344"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1355"/>
+<end position="1367"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1380"/>
+<end position="1386"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1395"/>
+<end position="1403"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1405"/>
+<end position="1420"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1421"/>
+<end position="1423"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1424"/>
+<end position="1428"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1436"/>
+<end position="1439"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00047"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00275"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00405"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00408"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00450"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00457"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00506"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10094"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10794716"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11172099"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11684697"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12501197"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12559908"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12924029"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15852304"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16140771"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1714505"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2044756"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8794733"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9111014"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9533880"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9657675"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000305"/>
+<sequence length="1447" mass="163288" checksum="AC3EE1439592E0AD" modified="2007-01-23" version="3">
+MGARASVLSGGELDRWEKIRLRPGGKKKYKLKHIVWASRELERFAVNPGLLETSEGCRQI
+LGQLQPSLQTGSEELRSLYNTVATLYCVHQRIEIKDTKEALDKIEEEQNKSKKKAQQAAA
+DTGHSSQVSQNYPIVQNIQGQMVHQAISPRTLNAWVKVVEEKAFSPEVIPMFSALSEGAT
+PQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHAGPIAPGQMREPRGSDIAGTT
+STLQEQIGWMTNNPPIPVGEIYKRWIILGLNKIVRMYSPTSILDIRQGPKEPFRDYVDRF
+YKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQGVGGPGHKA
+RVLAEAMSQVTNTATIMMQRGNFRNQRKMVKCFNCGKEGHTARNCRAPRKKGCWKCGKEG
+HQMKDCTERQANFLREDLAFLQGKAREFSSEQTRANSPTISSEQTRANSPTRRELQVWGR
+DNNSPSEAGADRQGTVSFNFPQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEEMSLPG
+RWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVGPTPVNIIGRNLLTQIGCTLNFP
+ISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPENPYNTPVF
+AIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLD
+EDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFKKQNPDIVIY
+QYMDDLYVGSDLEIGQHRTKIEELRQHLLRWGLTTPDKKHQKEPPFLWMGYELHPDKWTV
+QPIVLPEKDSWTVNDIQKLVGKLNWASQIYPGIKVRQLCKLLRGTKALTEVIPLTEEAEL
+ELAENREILKEPVHGVYYDPSKDLIAEIQKQGQGQWTYQIYQEPFKNLKTGKYARMRGAH
+TNDVKQLTEAVQKITTESIVIWGKTPKFKLPIQKETWETWWTEYWQATWIPEWEFVNTPP
+LVKLWYQLEKEPIVGAETFYVDGAANRETKLGKAGYVTNKGRQKVVPLTNTTNQKTELQA
+IYLALQDSGLEVNIVTDSQYALGIIQAQPDKSESELVNQIIEQLIKKEKVYLAWVPAHKG
+IGGNEQVDKLVSAGIRKILFLDGIDKAQDEHEKYHSNWRAMASDFNLPPVVAKEIVASCD
+KCQLKGEAMHGQVDCSPGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFL
+LKLAGRWPVKTIHTDNGSNFTSATVKAACWWAGIKQEFGIPYNPQSQGVVESMNKELKKI
+IGQVRDQAEHLKTAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQ
+NFRVYYRDSRNPLWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRDYGKQMAGDDCV
+ASRQDED
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

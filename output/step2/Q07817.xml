@@ -1,0 +1,2314 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1995-02-01" modified="2014-10-29" version="179">
+<accession>Q07817</accession>
+<accession>E1P5L6</accession>
+<accession>Q5CZ89</accession>
+<accession>Q5TE65</accession>
+<accession>Q92976</accession>
+<name>B2CL1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Bcl-2-like protein 1</fullName>
+<shortName>Bcl2-L-1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Apoptosis regulator Bcl-X</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">BCL2L1</name>
+<name type="synonym">BCL2L</name>
+<name type="synonym">BCLX</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Cell" volume="74" first="597" last="608">
+<title>bcl-x, a bcl-2-related gene that functions as a dominant regulator of apoptotic cell death.</title>
+<authorList>
+<person name="Boise L.H."/>
+<person name="Gonzalez-Garcia M."/>
+<person name="Postema C.E."/>
+<person name="Ding L."/>
+<person name="Lindsten T."/>
+<person name="Turka L.A."/>
+<person name="Mao X."/>
+<person name="Nunez G."/>
+<person name="Thompson C.B."/>
+</authorList>
+<dbReference type="PubMed" id="8358789"/>
+<dbReference type="DOI" id="10.1016/0092-8674(93)90508-N"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS BCL-X(L) AND BCL-X(S))</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="Biochem. Biophys. Res. Commun." volume="248" first="147" last="152">
+<title>Identification of a human cDNA encoding a novel Bcl-x isoform.</title>
+<authorList>
+<person name="Ban J."/>
+<person name="Eckhart L."/>
+<person name="Weninger W."/>
+<person name="Mildner M."/>
+<person name="Tschachler E."/>
+</authorList>
+<dbReference type="PubMed" id="9675101"/>
+<dbReference type="DOI" id="10.1006/bbrc.1998.8907"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM BCL-X(BETA))</scope>
+<scope>INTERACTION WITH BAX</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="1996-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Inohara N."/>
+<person name="Ohta S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM BCL-X(BETA))</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM BCL-X(L))</scope>
+<source>
+<tissue>Colon carcinoma</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="2004-10" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM BCL-X(L))</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2001" name="Nature" volume="414" first="865" last="871">
+<title>The DNA sequence and comparative analysis of human chromosome 20.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Matthews L.H."/>
+<person name="Ashurst J.L."/>
+<person name="Burton J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Jones M."/>
+<person name="Stavrides G."/>
+<person name="Almeida J.P."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K.N."/>
+<person name="Beard L.M."/>
+<person name="Beare D.M."/>
+<person name="Beasley O.P."/>
+<person name="Bird C.P."/>
+<person name="Blakey S.E."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Buck D."/>
+<person name="Burrill W.D."/>
+<person name="Butler A.P."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clamp M."/>
+<person name="Clark G."/>
+<person name="Clark L.N."/>
+<person name="Clark S.Y."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Cobley V.E."/>
+<person name="Collier R.E."/>
+<person name="Connor R.E."/>
+<person name="Corby N.R."/>
+<person name="Coulson A."/>
+<person name="Coville G.J."/>
+<person name="Deadman R."/>
+<person name="Dhami P.D."/>
+<person name="Dunn M."/>
+<person name="Ellington A.G."/>
+<person name="Frankland J.A."/>
+<person name="Fraser A."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths M.N.D."/>
+<person name="Gwilliam R."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Heath P.D."/>
+<person name="Ho S."/>
+<person name="Holden J.L."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Jekosch K."/>
+<person name="Johnson C.M."/>
+<person name="Johnson D."/>
+<person name="Kay M.P."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lehvaeslaiho M.H."/>
+<person name="Leversha M.A."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Lovell J.D."/>
+<person name="Marsh V.L."/>
+<person name="Martin S.L."/>
+<person name="McConnachie L.J."/>
+<person name="McLay K."/>
+<person name="McMurray A.A."/>
+<person name="Milne S.A."/>
+<person name="Mistry D."/>
+<person name="Moore M.J.F."/>
+<person name="Mullikin J.C."/>
+<person name="Nickerson T."/>
+<person name="Oliver K."/>
+<person name="Parker A."/>
+<person name="Patel R."/>
+<person name="Pearce T.A.V."/>
+<person name="Peck A.I."/>
+<person name="Phillimore B.J.C.T."/>
+<person name="Prathalingam S.R."/>
+<person name="Plumb R.W."/>
+<person name="Ramsay H."/>
+<person name="Rice C.M."/>
+<person name="Ross M.T."/>
+<person name="Scott C.E."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Soderlund C."/>
+<person name="Steward C.A."/>
+<person name="Sulston J.E."/>
+<person name="Swann R.M."/>
+<person name="Sycamore N."/>
+<person name="Taylor R."/>
+<person name="Tee L."/>
+<person name="Thomas D.W."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A.C."/>
+<person name="Vaudin M."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="Whitehead S.L."/>
+<person name="Whittaker P."/>
+<person name="Willey D.L."/>
+<person name="Williams L."/>
+<person name="Williams S.A."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Hubbard T."/>
+<person name="Durbin R.M."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="11780052"/>
+<dbReference type="DOI" id="10.1038/414865a"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM BCL-X(L))</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1995" name="Proc. Natl. Acad. Sci. U.S.A." volume="92" first="7834" last="7838">
+<title>Multiple Bcl-2 family members demonstrate selective dimerizations with Bax.</title>
+<authorList>
+<person name="Sedlak T.W."/>
+<person name="Oltvai Z.N."/>
+<person name="Yang E."/>
+<person name="Wang K."/>
+<person name="Boise L.H."/>
+<person name="Thompson C.B."/>
+<person name="Korsmeyer S.J."/>
+</authorList>
+<dbReference type="PubMed" id="7644501"/>
+<dbReference type="DOI" id="10.1073/pnas.92.17.7834"/>
+</citation>
+<scope>MUTAGENESIS OF GLY-138</scope>
+<scope>HETERODIMERIZATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1996" name="Nature" volume="379" first="554" last="556">
+<title>Bax-independent inhibition of apoptosis by Bcl-XL.</title>
+<authorList>
+<person name="Cheng E.H.-Y."/>
+<person name="Levine B."/>
+<person name="Boise L.H."/>
+<person name="Thompson C.B."/>
+<person name="Hardwick J.M."/>
+<person name="Korsmeyer S.J."/>
+</authorList>
+<dbReference type="PubMed" id="8596636"/>
+<dbReference type="DOI" id="10.1038/379554a0"/>
+</citation>
+<scope>MUTAGENESIS OF BH1 AND BH2 MOTIFS</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="Proc. Natl. Acad. Sci. U.S.A." volume="95" first="554" last="559">
+<title>Modulation of cell death by Bcl-xL through caspase interaction.</title>
+<authorList>
+<person name="Clem R.J."/>
+<person name="Cheng E.H.-Y."/>
+<person name="Karp C.L."/>
+<person name="Kirsch D.G."/>
+<person name="Ueno K."/>
+<person name="Takahashi A."/>
+<person name="Kastan M.B."/>
+<person name="Griffin D.E."/>
+<person name="Earnshaw W.C."/>
+<person name="Veliuona M.A."/>
+<person name="Hardwick J.M."/>
+</authorList>
+<dbReference type="PubMed" id="9435230"/>
+<dbReference type="DOI" id="10.1073/pnas.95.2.554"/>
+</citation>
+<scope>CLEAVAGE BY CASPASES</scope>
+<scope>MUTAGENESIS OF ASP-61</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2000" name="Biochem. Biophys. Res. Commun." volume="270" first="868" last="879">
+<title>Characterization of Bax-sigma, a cell death-inducing isoform of Bax.</title>
+<authorList>
+<person name="Schmitt E."/>
+<person name="Paquet C."/>
+<person name="Beauchemin M."/>
+<person name="Dever-Bertrand J."/>
+<person name="Bertrand R."/>
+</authorList>
+<dbReference type="PubMed" id="10772918"/>
+<dbReference type="DOI" id="10.1006/bbrc.2000.2537"/>
+</citation>
+<scope>INTERACTION WITH BAX</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2001" name="J. Immunol." volume="167" first="6366" last="6373">
+<title>The association of Aiolos transcription factor and Bcl-xL is involved in the control of apoptosis.</title>
+<authorList>
+<person name="Rebollo A."/>
+<person name="Ayllon V."/>
+<person name="Fleischer A."/>
+<person name="Martinez C.A."/>
+<person name="Zaballos A."/>
+</authorList>
+<dbReference type="PubMed" id="11714801"/>
+<dbReference type="DOI" id="10.4049/jimmunol.167.11.6366"/>
+</citation>
+<scope>INTERACTION WITH IKZF3</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2001" name="Mol. Cell" volume="7" first="673" last="682">
+<title>PUMA induces the rapid apoptosis of colorectal cancer cells.</title>
+<authorList>
+<person name="Yu J."/>
+<person name="Zhang L."/>
+<person name="Hwang P.M."/>
+<person name="Kinzler K.W."/>
+<person name="Vogelstein B."/>
+</authorList>
+<dbReference type="PubMed" id="11463391"/>
+<dbReference type="DOI" id="10.1016/S1097-2765(01)00213-1"/>
+</citation>
+<scope>INTERACTION WITH BCL2 AND BBC3</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="Proc. Natl. Acad. Sci. U.S.A." volume="99" first="6925" last="6930">
+<title>Siva-1 binds to and inhibits BCL-X(L)-mediated protection against UV radiation-induced apoptosis.</title>
+<authorList>
+<person name="Xue L."/>
+<person name="Chu F."/>
+<person name="Cheng Y."/>
+<person name="Sun X."/>
+<person name="Borthakur A."/>
+<person name="Ramarao M."/>
+<person name="Pandey P."/>
+<person name="Wu M."/>
+<person name="Schlossman S.F."/>
+<person name="Prasad K.V.S."/>
+</authorList>
+<dbReference type="PubMed" id="12011449"/>
+<dbReference type="DOI" id="10.1073/pnas.102182299"/>
+</citation>
+<scope>INTERACTION WITH SIVA1</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="37893" last="37903">
+<title>PGAM5, a Bcl-XL-interacting protein, is a novel substrate for the redox-regulated Keap1-dependent ubiquitin ligase complex.</title>
+<authorList>
+<person name="Lo S.-C."/>
+<person name="Hannink M."/>
+</authorList>
+<dbReference type="PubMed" id="17046835"/>
+<dbReference type="DOI" id="10.1074/jbc.M606539200"/>
+</citation>
+<scope>INTERACTION WITH PGAM5</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2010" name="Mol. Cell. Biol." volume="30" first="640" last="656">
+<title>Cyclin-dependent kinase 1-mediated Bcl-xL/Bcl-2 phosphorylation acts as a functional link coupling mitotic arrest and apoptosis.</title>
+<authorList>
+<person name="Terrano D.T."/>
+<person name="Upreti M."/>
+<person name="Chambers T.C."/>
+</authorList>
+<dbReference type="PubMed" id="19917720"/>
+<dbReference type="DOI" id="10.1128/MCB.00882-09"/>
+</citation>
+<scope>FUNCTION IN APOPTOSIS</scope>
+<scope>PHOSPHORYLATION AT SER-62 BY CDK1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2011" name="Cell. Signal." volume="23" first="2030" last="2038">
+<title>Bcl-xL phosphorylation at Ser49 by polo kinase 3 during cell cycle progression and checkpoints.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Beauchemin M."/>
+<person name="Bertrand R."/>
+</authorList>
+<dbReference type="PubMed" id="21840391"/>
+<dbReference type="DOI" id="10.1016/j.cellsig.2011.07.017"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-49</scope>
+<scope>MUTAGENESIS OF SER-49</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2013" name="Nat. Cell Biol." volume="15" first="773" last="785">
+<title>A Bcl-xL-Drp1 complex regulates synaptic vesicle membrane dynamics during endocytosis.</title>
+<authorList>
+<person name="Li H."/>
+<person name="Alavian K.N."/>
+<person name="Lazrove E."/>
+<person name="Mehta N."/>
+<person name="Jones A."/>
+<person name="Zhang P."/>
+<person name="Licznerski P."/>
+<person name="Graham M."/>
+<person name="Uo T."/>
+<person name="Guo J."/>
+<person name="Rahner C."/>
+<person name="Duman R.S."/>
+<person name="Morrison R.S."/>
+<person name="Jonas E.A."/>
+</authorList>
+<dbReference type="PubMed" id="23792689"/>
+<dbReference type="DOI" id="10.1038/ncb2791"/>
+</citation>
+<scope>INTERACTION WITH DNM1L</scope>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF 145-SER--GLY-147 AND 188-TRP--PHE-191</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1996" name="Nature" volume="381" first="335" last="341">
+<title>X-ray and NMR structure of human Bcl-xL, an inhibitor of programmed cell death.</title>
+<authorList>
+<person name="Muchmore S.W."/>
+<person name="Sattler M."/>
+<person name="Liang H."/>
+<person name="Meadows R.P."/>
+<person name="Harlan J.E."/>
+<person name="Yoon H.S."/>
+<person name="Nettesheim D."/>
+<person name="Chang B.S."/>
+<person name="Thompson C.B."/>
+<person name="Wong S.L."/>
+<person name="Ng S.L."/>
+<person name="Fesik S.W."/>
+</authorList>
+<dbReference type="PubMed" id="8692274"/>
+<dbReference type="DOI" id="10.1038/381335a0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS)</scope>
+<scope>STRUCTURE BY NMR OF 1-209</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1997" name="Science" volume="275" first="983" last="986">
+<title>Structure of Bcl-xL-Bak peptide complex: recognition between regulators of apoptosis.</title>
+<authorList>
+<person name="Sattler M."/>
+<person name="Liang H."/>
+<person name="Nettesheim D."/>
+<person name="Meadows R.P."/>
+<person name="Harlan J.E."/>
+<person name="Eberstadt M."/>
+<person name="Yoon H.S."/>
+<person name="Shuker S.B."/>
+<person name="Chang B.S."/>
+<person name="Minn A.J."/>
+<person name="Thompson C.B."/>
+<person name="Fesik S.W."/>
+</authorList>
+<dbReference type="PubMed" id="9020082"/>
+<dbReference type="DOI" id="10.1126/science.275.5302.983"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-209</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2000" name="Protein Sci." volume="9" first="2528" last="2534">
+<title>Rationale for Bcl-xL/Bad peptide complex formation from structure, mutagenesis, and biophysical studies.</title>
+<authorList>
+<person name="Petros A.M."/>
+<person name="Nettesheim D.G."/>
+<person name="Wang Y."/>
+<person name="Olejniczak E.T."/>
+<person name="Meadows R.P."/>
+<person name="Mack J."/>
+<person name="Swift K."/>
+<person name="Matayoshi E.D."/>
+<person name="Zhang H."/>
+<person name="Thompson C.B."/>
+<person name="Fesik S.W."/>
+</authorList>
+<dbReference type="PubMed" id="11206074"/>
+<dbReference type="DOI" id="10.1110/ps.9.12.2528"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-209 IN COMPLEX WITH BAD</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="2159" last="2165">
+<title>Bcl-XL mutations suppress cellular sensitivity to antimycin A.</title>
+<authorList>
+<person name="Manion M.K."/>
+<person name="O'Neill J.W."/>
+<person name="Giedt C.D."/>
+<person name="Kim K.M."/>
+<person name="Zhang K.Y.Z."/>
+<person name="Hockenbery D.M."/>
+</authorList>
+<dbReference type="PubMed" id="14534311"/>
+<dbReference type="DOI" id="10.1074/jbc.M306021200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 1-211</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2005" name="Nature" volume="435" first="677" last="681">
+<title>An inhibitor of Bcl-2 family proteins induces regression of solid tumours.</title>
+<authorList>
+<person name="Oltersdorf T."/>
+<person name="Elmore S.W."/>
+<person name="Shoemaker A.R."/>
+<person name="Armstrong R.C."/>
+<person name="Augeri D.J."/>
+<person name="Belli B.A."/>
+<person name="Bruncko M."/>
+<person name="Deckwerth T.L."/>
+<person name="Dinges J."/>
+<person name="Hajduk P.J."/>
+<person name="Joseph M.K."/>
+<person name="Kitada S."/>
+<person name="Korsmeyer S.J."/>
+<person name="Kunzer A.R."/>
+<person name="Letai A."/>
+<person name="Li C."/>
+<person name="Mitten M.J."/>
+<person name="Nettesheim D.G."/>
+<person name="Ng S.-C."/>
+<person name="Nimmer P.M."/>
+<person name="O'Connor J.M."/>
+<person name="Oleksijew A."/>
+<person name="Petros A.M."/>
+<person name="Reed J.C."/>
+<person name="Shen W."/>
+<person name="Tahir S.K."/>
+<person name="Thompson C.B."/>
+<person name="Tomaselli K.J."/>
+<person name="Wang B."/>
+<person name="Wendt M.D."/>
+<person name="Zhang H."/>
+<person name="Fesik S.W."/>
+<person name="Rosenberg S.H."/>
+</authorList>
+<dbReference type="PubMed" id="15902208"/>
+<dbReference type="DOI" id="10.1038/nature03579"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-209</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="356" first="367" last="381">
+<title>BCL-XL dimerization by three-dimensional domain swapping.</title>
+<authorList>
+<person name="O'Neill J.W."/>
+<person name="Manion M.K."/>
+<person name="Maguire B."/>
+<person name="Hockenbery D.M."/>
+</authorList>
+<dbReference type="PubMed" id="16368107"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2005.11.032"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.45 ANGSTROMS) OF 1-211</scope>
+<scope>HOMODIMERIZATION</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="13123" last="13132">
+<title>Crystal structure of the Bcl-XL-Beclin 1 peptide complex: Beclin 1 is a novel BH3-only protein.</title>
+<authorList>
+<person name="Oberstein A."/>
+<person name="Jeffrey P.D."/>
+<person name="Shi Y."/>
+</authorList>
+<dbReference type="PubMed" id="17337444"/>
+<dbReference type="DOI" id="10.1074/jbc.M700492200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 83-209 IN COMPLEX WITH BECN1</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2007" name="J. Med. Chem." volume="50" first="641" last="662">
+<title>Studies leading to potent, dual inhibitors of Bcl-2 and Bcl-xL.</title>
+<authorList>
+<person name="Bruncko M."/>
+<person name="Oost T.K."/>
+<person name="Belli B.A."/>
+<person name="Ding H."/>
+<person name="Joseph M.K."/>
+<person name="Kunzer A."/>
+<person name="Martineau D."/>
+<person name="McClellan W.J."/>
+<person name="Mitten M."/>
+<person name="Ng S.-C."/>
+<person name="Nimmer P.M."/>
+<person name="Oltersdorf T."/>
+<person name="Park C.-M."/>
+<person name="Petros A.M."/>
+<person name="Shoemaker A.R."/>
+<person name="Song X."/>
+<person name="Wang X."/>
+<person name="Wendt M.D."/>
+<person name="Zhang H."/>
+<person name="Fesik S.W."/>
+<person name="Rosenberg S.H."/>
+<person name="Elmore S.W."/>
+</authorList>
+<dbReference type="PubMed" id="17256834"/>
+<dbReference type="DOI" id="10.1021/jm061152t"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-209</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2011" name="Biochem. J." volume="438" first="291" last="301">
+<title>Structural changes in the BH3 domain of SOUL protein upon interaction with the anti-apoptotic protein Bcl-xL.</title>
+<authorList>
+<person name="Ambrosi E."/>
+<person name="Capaldi S."/>
+<person name="Bovi M."/>
+<person name="Saccomani G."/>
+<person name="Perduca M."/>
+<person name="Monaco H.L."/>
+</authorList>
+<dbReference type="PubMed" id="21639858"/>
+<dbReference type="DOI" id="10.1042/BJ20110257"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 1-209 IN COMPLEX WITH HEBP2</scope>
+<scope>INTERACTION WITH HEBP2</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2013" name="Nat. Chem. Biol." volume="9" first="163" last="168">
+<title>PUMA binding induces partial unfolding within BCL-xL to disrupt p53 binding and promote apoptosis.</title>
+<authorList>
+<person name="Follis A.V."/>
+<person name="Chipuk J.E."/>
+<person name="Fisher J.C."/>
+<person name="Yun M.K."/>
+<person name="Grace C.R."/>
+<person name="Nourse A."/>
+<person name="Baran K."/>
+<person name="Ou L."/>
+<person name="Min L."/>
+<person name="White S.W."/>
+<person name="Green D.R."/>
+<person name="Kriwacki R.W."/>
+</authorList>
+<dbReference type="PubMed" id="23340338"/>
+<dbReference type="DOI" id="10.1038/nchembio.1166"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.9 ANGSTROMS) OF 1-209 IN COMPLEX WITH BBC3</scope>
+<scope>STRUCTURE BY NMR OF 1-209 IN COMPLEX WITH BBC3</scope>
+<scope>INTERACTION WITH BBC3 AND TP53</scope>
+</reference>
+<comment type="function">
+<text>Potent inhibitor of cell death. Inhibits activation of caspases. Appears to regulate cell death by blocking the voltage-dependent anion channel (VDAC) by binding to it and preventing the release of the caspase activator, CYC1, from the mitochondrial membrane. Also acts as a regulator of G2 checkpoint and progression to cytokinesis during mitosis.</text>
+</comment>
+<comment type="function">
+<text>Isoform Bcl-X(L) also regulates presynaptic plasticity, including neurotransmitter release and recovery, number of axonal mitochondria as well as size and number of synaptic vesicle clusters. During synaptic stimulation, increases ATP availability from mitochondria through regulation of mitochondrial membrane ATP synthase F(1)F(0) activity and regulates endocytic vesicle retrieval in hippocampal neurons through association with DMN1L and stimulation of its GTPase activity in synaptic vesicles.</text>
+</comment>
+<comment type="function">
+<text>Isoform Bcl-X(S) promotes apoptosis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 4 5 6 7 8 9 11 13 14 18">Homodimer. Isoform Bcl-X(L) forms heterodimers with BAX, BAK or BCL2. Heterodimerization with BAX does not seem to be required for anti-apoptotic activity. Interacts with BCL2L11. Interacts with BAD. Interacts (isoform Bcl-X(L)) with SIVA1 (isoform 1); the interaction inhibits the anti-apoptotic activity. Interacts with BECN1 and PGAM5. Isoform Bcl-X(L) interacts with IKZF3. Interacts with HEBP2. Isoform Bcl-X(L) interacts with BOP/C22orf29. Interacts with p53/TP53 and BBC3; interaction with BBC3 disrupts the interaction with p53/TP53. Isoform Bcl-X(L) interacts with DNM1L and CLTA; DNM1L and BCL2L1 isoform BCL-X(L) may form a complex in synaptic vesicles that also contains clathrin and MFF. Interacts with ATP5A and ATP5B; the interactions mediate the association of isoform Bcl-X(L) with the mitochondrial membrane ATP synthase F(1)F(0) ATP synthase.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-78035"/>
+<interactant intactId="EBI-78035"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-700771">
+<id>Q92934</id>
+<label>BAD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-400328">
+<id>Q61337</id>
+<label>Bad</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-519866">
+<id>Q16611</id>
+<label>BAK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-516580">
+<id>Q07812</id>
+<label>BAX</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>13</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-519884">
+<id>Q9BXH1</id>
+<label>BBC3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-727801">
+<id>Q99ML1</id>
+<label>Bbc3</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-526406">
+<id>O43521</id>
+<label>BCL2L11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-526416">
+<id>O43521-1</id>
+<label>BCL2L11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-949378">
+<id>Q14457</id>
+<label>BECN1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-519672">
+<id>P55957</id>
+<label>BID</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-700794">
+<id>Q13323</id>
+<label>BIK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-78035"/>
+<interactant intactId="EBI-494118">
+<id>P30429</id>
+<label>ced-4</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-4322678">
+<id>P10909-4</id>
+<label>CLU</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-78035"/>
+<interactant intactId="EBI-446479">
+<id>P99999</id>
+<label>CYCS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-701322">
+<id>O00198</id>
+<label>HRK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-78035"/>
+<interactant intactId="EBI-1220518">
+<id>Q9C000</id>
+<label>NLRP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-78035"/>
+<interactant intactId="EBI-520756">
+<id>O15304</id>
+<label>SIVA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-520766">
+<id>O15304-1</id>
+<label>SIVA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-78035"/>
+<interactant intactId="EBI-1386527">
+<id>Q9H2V7</id>
+<label>SPNS1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-366083">
+<id>P04637</id>
+<label>TP53</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>18</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-474016">
+<id>P02340</id>
+<label>Tp53</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-77642">
+<id>Q13625</id>
+<label>TP53BP2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-287195"/>
+<interactant intactId="EBI-1207633">
+<id>Q86Y07-1</id>
+<label>VRK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform Bcl-X(L)</molecule>
+<subcellularLocation>
+<location evidence="1">Mitochondrion inner membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Mitochondrion outer membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Mitochondrion matrix</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasmic vesicle</location>
+<location evidence="1">Secretory vesicle</location>
+<location evidence="1">Synaptic vesicle membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+<location evidence="1">Cytosol</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+<location>Microtubule organizing center</location>
+<location>Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Nucleus membrane</location>
+<topology evidence="1">Single-pass membrane protein</topology>
+<orientation evidence="1">Cytoplasmic side</orientation>
+</subcellularLocation>
+<text evidence="1">After neuronal stimulation, translocates from cytosol to synaptic vesicle and mitochondrion membrane in a calmodulin-dependent manner (By similarity). Localizes to the centrosome when phosphorylated at Ser-49.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q07817-1</id>
+<name>Bcl-X(L)</name>
+<name>Bcl-xL</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q07817-2</id>
+<name>Bcl-X(S)</name>
+<name>Bcl-xS</name>
+<sequence type="described" ref="VSP_000515"/>
+</isoform>
+<isoform>
+<id>Q07817-3</id>
+<name>Bcl-X(beta)</name>
+<sequence type="described" ref="VSP_000516"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>Bcl-X(S) is expressed at high levels in cells that undergo a high rate of turnover, such as developing lymphocytes. In contrast, Bcl-X(L) is found in tissues containing long-lived postmitotic cells, such as adult brain.</text>
+</comment>
+<comment type="domain">
+<text>The BH4 motif is required for anti-apoptotic activity. The BH1 and BH2 motifs are required for both heterodimerization with other Bcl-2 family members and for repression of cell death.</text>
+</comment>
+<comment type="PTM">
+<text evidence="17">Proteolytically cleaved by caspases during apoptosis. The cleaved protein, lacking the BH4 motif, has pro-apoptotic activity.</text>
+</comment>
+<comment type="PTM">
+<text evidence="10 12">Phosphorylated on Ser-62 by CDK1. This phosphorylation is partial in normal mitotic cells, but complete in G2-arrested cells upon DNA-damage, thus promoting subsequent apoptosis probably by triggering caspases-mediated proteolysis. Phosphorylated by PLK3, leading to regulate the G2 checkpoint and progression to cytokinesis during mitosis. Phosphorylation at Ser-49 appears during the S phase and G2, disappears rapidly in early mitosis during prometaphase, metaphase and early anaphase, and re-appears during telophase and cytokinesis.</text>
+</comment>
+<comment type="similarity">
+<text evidence="19">Belongs to the Bcl-2 family.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/BCL2L1ID129ch20q11.html"/>
+</comment>
+<dbReference type="EMBL" id="Z23115">
+<property type="protein sequence ID" value="CAA80661.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z23116">
+<property type="protein sequence ID" value="CAA80662.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U72398">
+<property type="protein sequence ID" value="AAB17354.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR936637">
+<property type="protein sequence ID" value="CAI56777.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT007208">
+<property type="protein sequence ID" value="AAP35872.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL160175">
+<property type="protein sequence ID" value="CAI12811.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL117381">
+<property type="protein sequence ID" value="CAI12811.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL117381">
+<property type="protein sequence ID" value="CAI23025.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL160175">
+<property type="protein sequence ID" value="CAI23025.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76424.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76425.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76429.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC019307">
+<property type="protein sequence ID" value="AAH19307.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13188.1">
+<molecule id="Q07817-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13189.1">
+<molecule id="Q07817-1"/>
+</dbReference>
+<dbReference type="PIR" id="B47537">
+<property type="entry name" value="B47537"/>
+</dbReference>
+<dbReference type="PIR" id="JE0203">
+<property type="entry name" value="JE0203"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001182.1">
+<molecule id="Q07817-2"/>
+<property type="nucleotide sequence ID" value="NM_001191.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_612815.1">
+<molecule id="Q07817-1"/>
+<property type="nucleotide sequence ID" value="NM_138578.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005260543.1">
+<molecule id="Q07817-1"/>
+<property type="nucleotide sequence ID" value="XM_005260486.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005260544.1">
+<molecule id="Q07817-1"/>
+<property type="nucleotide sequence ID" value="XM_005260487.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.516966"/>
+<dbReference type="PDB" id="1BXL">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="1G5J">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="1LXL">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="1MAZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="1R2D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=1-211"/>
+</dbReference>
+<dbReference type="PDB" id="1R2E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-211"/>
+</dbReference>
+<dbReference type="PDB" id="1R2G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=1-211"/>
+</dbReference>
+<dbReference type="PDB" id="1R2H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-211"/>
+</dbReference>
+<dbReference type="PDB" id="1R2I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-211"/>
+</dbReference>
+<dbReference type="PDB" id="1YSG">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="1YSI">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="1YSN">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2B48">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.45"/>
+<property type="chains" value="A=1-211"/>
+</dbReference>
+<dbReference type="PDB" id="2LP8">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2LPC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2M03">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2M04">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2ME8">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2ME9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2MEJ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-198"/>
+</dbReference>
+<dbReference type="PDB" id="2O1Y">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2O2M">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2-20, A=83-196"/>
+</dbReference>
+<dbReference type="PDB" id="2O2N">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2-20, A=83-196"/>
+</dbReference>
+<dbReference type="PDB" id="2P1L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/C/E/G=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2PON">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-196"/>
+</dbReference>
+<dbReference type="PDB" id="2YJ1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.24"/>
+<property type="chains" value="A/C=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2YQ6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2YQ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="2YXJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3CVA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="X=1-211"/>
+</dbReference>
+<dbReference type="PDB" id="3FDL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3FDM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.26"/>
+<property type="chains" value="A/B/C=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3INQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3IO8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/C=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3PL7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.61"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3QKD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.02"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3R85">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B/C/D=1-197"/>
+</dbReference>
+<dbReference type="PDB" id="3SP7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3SPF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3WIZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3ZK6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.48"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3ZLN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3ZLO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="3ZLR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.03"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4A1U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4A1W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4AQ3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B/C/D/E/F=29-44"/>
+</dbReference>
+<dbReference type="PDB" id="4BPK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4C52">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4C5D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4EHR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.09"/>
+<property type="chains" value="A=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4HNJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-209"/>
+</dbReference>
+<dbReference type="PDB" id="4IEH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=29-44"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BXL"/>
+<dbReference type="PDBsum" id="1G5J"/>
+<dbReference type="PDBsum" id="1LXL"/>
+<dbReference type="PDBsum" id="1MAZ"/>
+<dbReference type="PDBsum" id="1R2D"/>
+<dbReference type="PDBsum" id="1R2E"/>
+<dbReference type="PDBsum" id="1R2G"/>
+<dbReference type="PDBsum" id="1R2H"/>
+<dbReference type="PDBsum" id="1R2I"/>
+<dbReference type="PDBsum" id="1YSG"/>
+<dbReference type="PDBsum" id="1YSI"/>
+<dbReference type="PDBsum" id="1YSN"/>
+<dbReference type="PDBsum" id="2B48"/>
+<dbReference type="PDBsum" id="2LP8"/>
+<dbReference type="PDBsum" id="2LPC"/>
+<dbReference type="PDBsum" id="2M03"/>
+<dbReference type="PDBsum" id="2M04"/>
+<dbReference type="PDBsum" id="2ME8"/>
+<dbReference type="PDBsum" id="2ME9"/>
+<dbReference type="PDBsum" id="2MEJ"/>
+<dbReference type="PDBsum" id="2O1Y"/>
+<dbReference type="PDBsum" id="2O2M"/>
+<dbReference type="PDBsum" id="2O2N"/>
+<dbReference type="PDBsum" id="2P1L"/>
+<dbReference type="PDBsum" id="2PON"/>
+<dbReference type="PDBsum" id="2YJ1"/>
+<dbReference type="PDBsum" id="2YQ6"/>
+<dbReference type="PDBsum" id="2YQ7"/>
+<dbReference type="PDBsum" id="2YXJ"/>
+<dbReference type="PDBsum" id="3CVA"/>
+<dbReference type="PDBsum" id="3FDL"/>
+<dbReference type="PDBsum" id="3FDM"/>
+<dbReference type="PDBsum" id="3INQ"/>
+<dbReference type="PDBsum" id="3IO8"/>
+<dbReference type="PDBsum" id="3PL7"/>
+<dbReference type="PDBsum" id="3QKD"/>
+<dbReference type="PDBsum" id="3R85"/>
+<dbReference type="PDBsum" id="3SP7"/>
+<dbReference type="PDBsum" id="3SPF"/>
+<dbReference type="PDBsum" id="3WIZ"/>
+<dbReference type="PDBsum" id="3ZK6"/>
+<dbReference type="PDBsum" id="3ZLN"/>
+<dbReference type="PDBsum" id="3ZLO"/>
+<dbReference type="PDBsum" id="3ZLR"/>
+<dbReference type="PDBsum" id="4A1U"/>
+<dbReference type="PDBsum" id="4A1W"/>
+<dbReference type="PDBsum" id="4AQ3"/>
+<dbReference type="PDBsum" id="4BPK"/>
+<dbReference type="PDBsum" id="4C52"/>
+<dbReference type="PDBsum" id="4C5D"/>
+<dbReference type="PDBsum" id="4EHR"/>
+<dbReference type="PDBsum" id="4HNJ"/>
+<dbReference type="PDBsum" id="4IEH"/>
+<dbReference type="DisProt" id="DP00298"/>
+<dbReference type="ProteinModelPortal" id="Q07817"/>
+<dbReference type="SMR" id="Q07817">
+<property type="residue range" value="1-209"/>
+</dbReference>
+<dbReference type="BioGrid" id="107070">
+<property type="interactions" value="77"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-30916N"/>
+<dbReference type="IntAct" id="Q07817">
+<property type="interactions" value="58"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-89538"/>
+<dbReference type="STRING" id="9606.ENSP00000302564"/>
+<dbReference type="BindingDB" id="Q07817"/>
+<dbReference type="ChEMBL" id="CHEMBL3137283"/>
+<dbReference type="TCDB" id="1.A.21.1.1">
+<property type="family name" value="the bcl-2 (bcl-2) family"/>
+</dbReference>
+<dbReference type="PhosphoSite" id="Q07817"/>
+<dbReference type="DMDM" id="728955"/>
+<dbReference type="MaxQB" id="Q07817"/>
+<dbReference type="PaxDb" id="Q07817"/>
+<dbReference type="PRIDE" id="Q07817"/>
+<dbReference type="DNASU" id="598"/>
+<dbReference type="Ensembl" id="ENST00000307677">
+<molecule id="Q07817-1"/>
+<property type="protein sequence ID" value="ENSP00000302564"/>
+<property type="gene ID" value="ENSG00000171552"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000376055">
+<molecule id="Q07817-2"/>
+<property type="protein sequence ID" value="ENSP00000365223"/>
+<property type="gene ID" value="ENSG00000171552"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000376062">
+<molecule id="Q07817-1"/>
+<property type="protein sequence ID" value="ENSP00000365230"/>
+<property type="gene ID" value="ENSG00000171552"/>
+</dbReference>
+<dbReference type="GeneID" id="598"/>
+<dbReference type="KEGG" id="hsa:598"/>
+<dbReference type="UCSC" id="uc002wwl.3">
+<molecule id="Q07817-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="598"/>
+<dbReference type="GeneCards" id="GC20M030252"/>
+<dbReference type="HGNC" id="HGNC:992">
+<property type="gene designation" value="BCL2L1"/>
+</dbReference>
+<dbReference type="HPA" id="CAB000105"/>
+<dbReference type="HPA" id="HPA035734"/>
+<dbReference type="MIM" id="600039">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q07817"/>
+<dbReference type="PharmGKB" id="PA76"/>
+<dbReference type="eggNOG" id="NOG300479"/>
+<dbReference type="GeneTree" id="ENSGT00530000062935"/>
+<dbReference type="HOGENOM" id="HOG000056452"/>
+<dbReference type="InParanoid" id="Q07817"/>
+<dbReference type="KO" id="K04570"/>
+<dbReference type="OMA" id="NGSPSWH"/>
+<dbReference type="OrthoDB" id="EOG70GMGD"/>
+<dbReference type="PhylomeDB" id="Q07817"/>
+<dbReference type="TreeFam" id="TF315834"/>
+<dbReference type="Reactome" id="REACT_330">
+<property type="pathway name" value="BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_75927">
+<property type="pathway name" value="The NLRP1 inflammasome"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="BCL2L1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q07817"/>
+<dbReference type="GeneWiki" id="BCL2-like_1_(gene)"/>
+<dbReference type="GenomeRNAi" id="598"/>
+<dbReference type="NextBio" id="2433"/>
+<dbReference type="PMAP-CutDB" id="Q07817"/>
+<dbReference type="PRO" id="PR:Q07817"/>
+<dbReference type="Bgee" id="Q07817"/>
+<dbReference type="CleanEx" id="HS_BCL2L1"/>
+<dbReference type="ExpressionAtlas" id="Q07817">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="Q07817"/>
+<dbReference type="GO" id="GO:0097136">
+<property type="term" value="C:Bcl-2 family protein complex"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030054">
+<property type="term" value="C:cell junction"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031410">
+<property type="term" value="C:cytoplasmic vesicle"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005741">
+<property type="term" value="C:mitochondrial outer membrane"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="IDA:HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005730">
+<property type="term" value="C:nucleolus"/>
+<property type="evidence" value="IDA:HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="IDA:HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045202">
+<property type="term" value="C:synapse"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051434">
+<property type="term" value="F:BH3 domain binding"/>
+<property type="evidence" value="IPI:UniProt"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="IPI:IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046982">
+<property type="term" value="F:protein heterodimerization activity"/>
+<property type="evidence" value="IBA:RefGenome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="IBA:RefGenome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="IPI:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008637">
+<property type="term" value="P:apoptotic mitochondrial changes"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071839">
+<property type="term" value="P:apoptotic process in bone marrow"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008283">
+<property type="term" value="P:cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060154">
+<property type="term" value="P:cellular process regulating host cell cycle in response to virus"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071312">
+<property type="term" value="P:cellular response to alkaloid"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071230">
+<property type="term" value="P:cellular response to amino acid stimulus"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071480">
+<property type="term" value="P:cellular response to gamma radiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000910">
+<property type="term" value="P:cytokinesis"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006897">
+<property type="term" value="P:endocytosis"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097192">
+<property type="term" value="P:extrinsic apoptotic signaling pathway in absence of ligand"/>
+<property type="evidence" value="IBA:RefGenome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009566">
+<property type="term" value="P:fertilization"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007281">
+<property type="term" value="P:germ cell development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040007">
+<property type="term" value="P:growth"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097284">
+<property type="term" value="P:hepatocyte apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045087">
+<property type="term" value="P:innate immune response"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097193">
+<property type="term" value="P:intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008630">
+<property type="term" value="P:intrinsic apoptotic signaling pathway in response to DNA damage"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008584">
+<property type="term" value="P:male gonad development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070584">
+<property type="term" value="P:mitochondrion morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007093">
+<property type="term" value="P:mitotic cell cycle checkpoint"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000811">
+<property type="term" value="P:negative regulation of anoikis"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010507">
+<property type="term" value="P:negative regulation of autophagy"/>
+<property type="evidence" value="TAS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090005">
+<property type="term" value="P:negative regulation of establishment of protein localization to plasma membrane"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900118">
+<property type="term" value="P:negative regulation of execution phase of apoptosis"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001240">
+<property type="term" value="P:negative regulation of extrinsic apoptotic signaling pathway in absence of ligand"/>
+<property type="evidence" value="TAS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001243">
+<property type="term" value="P:negative regulation of intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902230">
+<property type="term" value="P:negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043524">
+<property type="term" value="P:negative regulation of neuron apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090201">
+<property type="term" value="P:negative regulation of release of cytochrome c from mitochondria"/>
+<property type="evidence" value="IC:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051402">
+<property type="term" value="P:neuron apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035872">
+<property type="term" value="P:nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001541">
+<property type="term" value="P:ovarian follicle development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001244">
+<property type="term" value="P:positive regulation of intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046902">
+<property type="term" value="P:regulation of mitochondrial membrane permeability"/>
+<property type="evidence" value="IDA:HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051881">
+<property type="term" value="P:regulation of mitochondrial membrane potential"/>
+<property type="evidence" value="IDA:HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001836">
+<property type="term" value="P:release of cytochrome c from mitochondria"/>
+<property type="evidence" value="IDA:HGNC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046898">
+<property type="term" value="P:response to cycloheximide"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034097">
+<property type="term" value="P:response to cytokine"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019050">
+<property type="term" value="P:suppression by virus of host apoptotic process"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013279">
+<property type="entry name" value="Apop_reg_BclX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002475">
+<property type="entry name" value="Bcl2-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004725">
+<property type="entry name" value="Bcl2/BclX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020717">
+<property type="entry name" value="Bcl2_BH1_motif_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020726">
+<property type="entry name" value="Bcl2_BH2_motif_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020728">
+<property type="entry name" value="Bcl2_BH3_motif_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003093">
+<property type="entry name" value="Bcl2_BH4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020731">
+<property type="entry name" value="Bcl2_BH4_motif_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026298">
+<property type="entry name" value="Blc2_fam"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11256">
+<property type="entry name" value="PTHR11256"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11256:SF12">
+<property type="entry name" value="PTHR11256:SF12"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00452">
+<property type="entry name" value="Bcl-2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02180">
+<property type="entry name" value="BH4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01864">
+<property type="entry name" value="APOPREGBCLX"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01862">
+<property type="entry name" value="BCL2FAMILY"/>
+</dbReference>
+<dbReference type="SMART" id="SM00265">
+<property type="entry name" value="BH4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00865">
+<property type="entry name" value="bcl-2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50062">
+<property type="entry name" value="BCL2_FAMILY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01080">
+<property type="entry name" value="BH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01258">
+<property type="entry name" value="BH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01259">
+<property type="entry name" value="BH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01260">
+<property type="entry name" value="BH4_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50063">
+<property type="entry name" value="BH4_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0965">Cell junction</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0968">Cytoplasmic vesicle</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0254">Endocytosis</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-0999">Mitochondrion inner membrane</keyword>
+<keyword id="KW-1000">Mitochondrion outer membrane</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0770">Synapse</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Bcl-2-like protein 1" id="PRO_0000143062">
+<location>
+<begin position="1"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="210"/>
+<end position="226"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="BH4">
+<location>
+<begin position="4"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="BH3">
+<location>
+<begin position="86"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="BH1">
+<location>
+<begin position="129"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="BH2">
+<location>
+<begin position="180"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by caspase-1">
+<location>
+<begin position="61"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PLK3" evidence="12">
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CDK1" evidence="10">
+<location>
+<position position="62"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform Bcl-X(S)." id="VSP_000515" evidence="19">
+<location>
+<begin position="126"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform Bcl-X(beta)." id="VSP_000516" evidence="19">
+<original>DTFVELYGNNAAAESRKGQERFNRWFLTGMTVAGVVLLGSLFSRK</original>
+<variation>VRTKPLVCPFSLASGQRSPTALLLYLFLLCWVIVGDVDS</variation>
+<location>
+<begin position="189"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Less stable at G2 checkpoint after DNA damage." evidence="12">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No cleavage by caspase-1 nor by caspase-3." evidence="17">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No heterodimerization with BAX." evidence="16">
+<original>FRD</original>
+<variation>VRA</variation>
+<location>
+<begin position="131"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of anti-apoptotic activity." evidence="16">
+<original>VNW</original>
+<variation>AIL</variation>
+<location>
+<begin position="135"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of anti-apoptotic activity." evidence="16">
+<original>GRI</original>
+<variation>ELN</variation>
+<location>
+<begin position="138"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No heterodimerization with BAX." evidence="15">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases interaction with DNM1L, no effect on endocytosis enhancement." evidence="14">
+<original>SFG</original>
+<variation>YCC</variation>
+<location>
+<begin position="145"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No heterodimerization with BAX." evidence="16">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on caspase-1 cleavage." evidence="16">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="156"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on caspase-1 cleavage." evidence="16">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with DNM1L and endocytosis enhancement." evidence="14">
+<original>WDTF</original>
+<variation>SVTC</variation>
+<location>
+<begin position="188"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces anti-apoptotic activity by about half." evidence="16">
+<original>WD</original>
+<variation>GA</variation>
+<location>
+<begin position="188"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on caspase-1 cleavage." evidence="16">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="189"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA80661." ref="1" evidence="19">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAI56777." ref="4" evidence="19">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="3"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="19"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="24"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="29"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="38"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="42"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="50"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="56"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="65"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="70"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="82"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="85"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="102"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="108"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="112"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="116"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="120"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="131"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="137"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="162"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="179"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="185"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="188"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="199"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10772918"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11206074"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11463391"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11714801"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12011449"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17046835"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17337444"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19917720"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21639858"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21840391"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23340338"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23792689"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7644501"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8596636"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9435230"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9675101"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000305"/>
+<sequence length="233" mass="26049" checksum="E09D3CDD851AE9BE" modified="1995-02-01" version="1">
+MSQSNRELVVDFLSYKLSQKGYSWSQFSDVEENRTEAPEGTESEMETPSAINGNPSWHLA
+DSPAVNGATGHSSSLDAREVIPMAAVKQALREAGDEFELRYRRAFSDLTSQLHITPGTAY
+QSFEQVVNELFRDGVNWGRIVAFFSFGGALCVESVDKEMQVLVSRIAAWMATYLNDHLEP
+WIQENGGWDTFVELYGNNAAAESRKGQERFNRWFLTGMTVAGVVLLGSLFSRK
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

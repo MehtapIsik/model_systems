@@ -1,0 +1,912 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1991-11-01" modified="2014-10-29" version="112">
+<accession>P23687</accession>
+<name>PPCE_PIG</name>
+<protein>
+<recommendedName>
+<fullName>Prolyl endopeptidase</fullName>
+<shortName>PE</shortName>
+<ecNumber>3.4.21.26</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Post-proline cleaving enzyme</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PREP</name>
+</gene>
+<organism>
+<name type="scientific">Sus scrofa</name>
+<name type="common">Pig</name>
+<dbReference type="NCBI Taxonomy" id="9823"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Laurasiatheria</taxon>
+<taxon>Cetartiodactyla</taxon>
+<taxon>Suina</taxon>
+<taxon>Suidae</taxon>
+<taxon>Sus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Biochemistry" volume="30" first="2195" last="2203">
+<title>cDNA cloning of porcine brain prolyl endopeptidase and identification of the active-site seryl residue.</title>
+<authorList>
+<person name="Rennex D."/>
+<person name="Hemmings B.A."/>
+<person name="Hofsteenge J."/>
+<person name="Stone S.R."/>
+</authorList>
+<dbReference type="PubMed" id="1900195"/>
+<dbReference type="DOI" id="10.1021/bi00222a025"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<scope>ACTIVE SITE SER-554</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1991" name="Biochem. J." volume="276" first="837" last="840">
+<title>Inactivation of prolyl endopeptidase by a peptidylchloromethane. Kinetics of inactivation and identification of sites of modification.</title>
+<authorList>
+<person name="Stone S.R."/>
+<person name="Rennex D."/>
+<person name="Wikstrom P."/>
+<person name="Shaw E."/>
+<person name="Hofsteenge J."/>
+</authorList>
+<dbReference type="PubMed" id="2064618"/>
+</citation>
+<scope>ACTIVE SITE HIS-680</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1998" name="Cell" volume="94" first="161" last="170">
+<title>Prolyl oligopeptidase: an unusual beta-propeller domain regulates proteolysis.</title>
+<authorList>
+<person name="Fueloep V."/>
+<person name="Bocskei Z."/>
+<person name="Polgar L."/>
+</authorList>
+<dbReference type="PubMed" id="9695945"/>
+<dbReference type="DOI" id="10.1016/S0092-8674(00)81416-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>Cleaves peptide bonds on the C-terminal side of prolyl residues within peptides that are up to approximately 30 amino acids long.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Hydrolysis of Pro-|-Xaa >> Ala-|-Xaa in oligopeptides.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Ubiquitous.</text>
+</comment>
+<comment type="PTM">
+<text>The N-terminus is blocked.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the peptidase S9A family.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.26"/>
+<dbReference type="EMBL" id="M64227">
+<property type="protein sequence ID" value="AAA31110.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="A37942">
+<property type="entry name" value="A37942"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001004050.1">
+<property type="nucleotide sequence ID" value="NM_001004050.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Ssc.10442"/>
+<dbReference type="PDB" id="1E5T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1E8M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1E8N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1H2W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.39"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1H2X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.49"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1H2Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.78"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1H2Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1O6F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1O6G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1QFM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1QFS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1UOO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1UOP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1UOQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1VZ2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="1VZ3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="2XDW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="3EQ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.89"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="3EQ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.73"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="3EQ9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.47"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4AMY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4AMZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4AN0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4AN1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4AX4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4BCB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4BCC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDB" id="4BCD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=1-710"/>
+</dbReference>
+<dbReference type="PDBsum" id="1E5T"/>
+<dbReference type="PDBsum" id="1E8M"/>
+<dbReference type="PDBsum" id="1E8N"/>
+<dbReference type="PDBsum" id="1H2W"/>
+<dbReference type="PDBsum" id="1H2X"/>
+<dbReference type="PDBsum" id="1H2Y"/>
+<dbReference type="PDBsum" id="1H2Z"/>
+<dbReference type="PDBsum" id="1O6F"/>
+<dbReference type="PDBsum" id="1O6G"/>
+<dbReference type="PDBsum" id="1QFM"/>
+<dbReference type="PDBsum" id="1QFS"/>
+<dbReference type="PDBsum" id="1UOO"/>
+<dbReference type="PDBsum" id="1UOP"/>
+<dbReference type="PDBsum" id="1UOQ"/>
+<dbReference type="PDBsum" id="1VZ2"/>
+<dbReference type="PDBsum" id="1VZ3"/>
+<dbReference type="PDBsum" id="2XDW"/>
+<dbReference type="PDBsum" id="3EQ7"/>
+<dbReference type="PDBsum" id="3EQ8"/>
+<dbReference type="PDBsum" id="3EQ9"/>
+<dbReference type="PDBsum" id="4AMY"/>
+<dbReference type="PDBsum" id="4AMZ"/>
+<dbReference type="PDBsum" id="4AN0"/>
+<dbReference type="PDBsum" id="4AN1"/>
+<dbReference type="PDBsum" id="4AX4"/>
+<dbReference type="PDBsum" id="4BCB"/>
+<dbReference type="PDBsum" id="4BCC"/>
+<dbReference type="PDBsum" id="4BCD"/>
+<dbReference type="ProteinModelPortal" id="P23687"/>
+<dbReference type="SMR" id="P23687">
+<property type="residue range" value="1-710"/>
+</dbReference>
+<dbReference type="STRING" id="9823.ENSSSCP00000004715"/>
+<dbReference type="BindingDB" id="P23687"/>
+<dbReference type="ChEMBL" id="CHEMBL2461"/>
+<dbReference type="MEROPS" id="S09.001"/>
+<dbReference type="PaxDb" id="P23687"/>
+<dbReference type="PRIDE" id="P23687"/>
+<dbReference type="GeneID" id="445540"/>
+<dbReference type="KEGG" id="ssc:445540"/>
+<dbReference type="CTD" id="5550"/>
+<dbReference type="eggNOG" id="COG1505"/>
+<dbReference type="HOGENOM" id="HOG000238967"/>
+<dbReference type="HOVERGEN" id="HBG007251"/>
+<dbReference type="InParanoid" id="P23687"/>
+<dbReference type="KO" id="K01322"/>
+<dbReference type="EvolutionaryTrace" id="P23687"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070008">
+<property type="term" value="F:serine-type exopeptidase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.120">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1820">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029058">
+<property type="entry name" value="AB_hydrolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002471">
+<property type="entry name" value="Pept_S9_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023302">
+<property type="entry name" value="Pept_S9A_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001375">
+<property type="entry name" value="Peptidase_S9"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002470">
+<property type="entry name" value="Peptidase_S9A"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11757">
+<property type="entry name" value="PTHR11757"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00326">
+<property type="entry name" value="Peptidase_S9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02897">
+<property type="entry name" value="Peptidase_S9_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00862">
+<property type="entry name" value="PROLIGOPTASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53474">
+<property type="entry name" value="SSF53474"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00708">
+<property type="entry name" value="PRO_ENDOPEP_SER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0720">Serine protease</keyword>
+<feature type="chain" description="Prolyl endopeptidase" id="PRO_0000122403">
+<location>
+<begin position="1"/>
+<end position="710"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="2 3">
+<location>
+<position position="554"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system">
+<location>
+<position position="641"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system" evidence="2 4">
+<location>
+<position position="680"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="1">
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="sequence variant">
+<original>A</original>
+<variation>H</variation>
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="16"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="22"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="29"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="34"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="37"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="59"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="80"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="85"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="99"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="111"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="116"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="121"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="125"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="136"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="151"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="158"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="162"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="176"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="182"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="198"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="209"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="219"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="223"/>
+<end position="226"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="235"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="246"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="254"/>
+<end position="257"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="260"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="266"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="269"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="280"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="285"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="290"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="299"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="312"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="323"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="327"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="337"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="345"/>
+<end position="347"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="348"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="358"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="366"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="371"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="379"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="392"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="401"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="406"/>
+<end position="411"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="414"/>
+<end position="416"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="420"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="428"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="432"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="435"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="445"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="449"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="468"/>
+<end position="471"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="486"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="498"/>
+<end position="502"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="511"/>
+<end position="516"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="520"/>
+<end position="523"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="524"/>
+<end position="539"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="545"/>
+<end position="547"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="548"/>
+<end position="553"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="555"/>
+<end position="566"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="568"/>
+<end position="570"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="572"/>
+<end position="578"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="583"/>
+<end position="585"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="586"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="592"/>
+<end position="595"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="596"/>
+<end position="599"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="605"/>
+<end position="614"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="616"/>
+<end position="618"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="624"/>
+<end position="627"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="632"/>
+<end position="638"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="642"/>
+<end position="644"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="647"/>
+<end position="659"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="660"/>
+<end position="662"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="663"/>
+<end position="665"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="670"/>
+<end position="677"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="686"/>
+<end position="704"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10084"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1900195"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2064618"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="710" mass="80770" checksum="70286A86238D72C0" modified="1991-11-01" version="1">
+MLSFQYPDVYRDETAIQDYHGHKVCDPYAWLEDPDSEQTKAFVEAQNKITVPFLEQCPIR
+GLYKERMTELYDYPKYSCHFKKGKRYFYFYNTGLQNQRVLYVQDSLEGEARVFLDPNILS
+DDGTVALRGYAFSEDGEYFAYGLSASGSDWVTIKFMKVDGAKELPDVLERVKFSCMAWTH
+DGKGMFYNAYPQQDGKSDGTETSTNLHQKLYYHVLGTDQSEDILCAEFPDEPKWMGGAEL
+SDDGRYVLLSIREGCDPVNRLWYCDLQQESNGITGILKWVKLIDNFEGEYDYVTNEGTVF
+TFKTNRHSPNYRLINIDFTDPEESKWKVLVPEHEKDVLEWVACVRSNFLVLCYLHDVKNT
+LQLHDLATGALLKIFPLEVGSVVGYSGQKKDTEIFYQFTSFLSPGIIYHCDLTKEELEPR
+VFREVTVKGIDASDYQTVQIFYPSKDGTKIPMFIVHKKGIKLDGSHPAFLYGYGGFNISI
+TPNYSVSRLIFVRHMGGVLAVANIRGGGEYGETWHKGGILANKQNCFDDFQCAAEYLIKE
+GYTSPKRLTINGGSNGGLLVATCANQRPDLFGCVIAQVGVMDMLKFHKYTIGHAWTTDYG
+CSDSKQHFEWLIKYSPLHNVKLPEADDIQYPSMLLLTADHDDRVVPLHSLKFIATLQYIV
+GRSRKQNNPLLIHVDTKAGHGAGKPTAKVIEEVSDMFAFIARCLNIDWIP
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

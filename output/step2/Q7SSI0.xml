@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2003-10-01" modified="2014-10-29" version="70">
+<accession>Q7SSI0</accession>
+<name>Q7SSI0_9HIV1</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Protease</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">pol</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Human immunodeficiency virus 1</name>
+<dbReference type="NCBI Taxonomy" id="11676"/>
+<lineage>
+<taxon>Viruses</taxon>
+<taxon>Retro-transcribing viruses</taxon>
+<taxon>Retroviridae</taxon>
+<taxon>Orthoretrovirinae</taxon>
+<taxon>Lentivirus</taxon>
+<taxon>Primate lentivirus group</taxon>
+</lineage>
+</organism>
+<organismHost>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+</organismHost>
+<reference key="1" evidence="3">
+<citation type="journal article" date="2003" name="AIDS" volume="17" first="1063" last="1069">
+<title>Brazilian Network for HIV Drug Resistance Surveillance (HIV-BResNet): a survey of chronically infected individuals.</title>
+<authorList>
+<person name="Brindeiro R.M."/>
+<person name="Diaz R.S."/>
+<person name="Sabino E.C."/>
+<person name="Morgado M.G."/>
+<person name="Pires I.L."/>
+<person name="Brigido L."/>
+<person name="Dantas M.C."/>
+<person name="Barreira D."/>
+<person name="Teixeira P.R."/>
+<person name="Soares M.A."/>
+<person name="Tanuri A."/>
+</authorList>
+<dbReference type="PubMed" id="12700457"/>
+<dbReference type="DOI" id="10.1097/00002030-200305020-00016"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="10 11">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="338" first="341" last="352">
+<title>High resolution crystal structures of HIV-1 protease with a potent non-peptide inhibitor (UIC-94017) active against multi-drug-resistant clinical strains.</title>
+<authorList>
+<person name="Tie Y."/>
+<person name="Boross P.I."/>
+<person name="Wang Y.F."/>
+<person name="Gaddis L."/>
+<person name="Hussain A.K."/>
+<person name="Leshchenko S."/>
+<person name="Ghosh A.K."/>
+<person name="Louis J.M."/>
+<person name="Harrison R.W."/>
+<person name="Weber I.T."/>
+</authorList>
+<dbReference type="PubMed" id="15066436"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.02.052"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.10 ANGSTROMS)</scope>
+</reference>
+<reference key="3" evidence="4">
+<citation type="journal article" date="2005" name="J. Mol. Biol." volume="354" first="789" last="800">
+<title>Kinetic, stability, and structural changes in high-resolution crystal structures of HIV-1 protease with drug-resistant mutations L24I, I50V, and G73S.</title>
+<authorList>
+<person name="Liu F."/>
+<person name="Boross P.I."/>
+<person name="Wang Y.F."/>
+<person name="Tozser J."/>
+<person name="Louis J.M."/>
+<person name="Harrison R.W."/>
+<person name="Weber I.T."/>
+</authorList>
+<dbReference type="PubMed" id="16277992"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2005.09.095"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.10 ANGSTROMS)</scope>
+</reference>
+<reference key="4" evidence="6">
+<citation type="journal article" date="2006" name="J. Med. Chem." volume="49" first="5252" last="5261">
+<title>Structure-based design of novel HIV-1 protease inhibitors to combat drug resistance.</title>
+<authorList>
+<person name="Ghosh A.K."/>
+<person name="Sridhar P.R."/>
+<person name="Leshchenko S."/>
+<person name="Hussain A.K."/>
+<person name="Li J."/>
+<person name="Kovalevsky A.Y."/>
+<person name="Walters D.E."/>
+<person name="Wedekind J.E."/>
+<person name="Grum-Tokars V."/>
+<person name="Das D."/>
+<person name="Koh Y."/>
+<person name="Maeda K."/>
+<person name="Gatanaga H."/>
+<person name="Weber I.T."/>
+<person name="Mitsuya H."/>
+</authorList>
+<dbReference type="PubMed" id="16913714"/>
+<dbReference type="DOI" id="10.1021/jm060561m"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.35 ANGSTROMS)</scope>
+</reference>
+<reference key="5" evidence="5">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="358" first="1191" last="1199">
+<title>Mechanism of drug resistance revealed by the crystal structure of the unliganded HIV-1 protease with F53L mutation.</title>
+<authorList>
+<person name="Liu F."/>
+<person name="Kovalevsky A.Y."/>
+<person name="Louis J.M."/>
+<person name="Boross P.I."/>
+<person name="Wang Y.F."/>
+<person name="Harrison R.W."/>
+<person name="Weber I.T."/>
+</authorList>
+<dbReference type="PubMed" id="16569415"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2006.02.076"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.35 ANGSTROMS) OF 8-94</scope>
+</reference>
+<reference key="6" evidence="7 8">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="363" first="161" last="173">
+<title>Ultra-high resolution crystal structure of HIV-1 protease mutant reveals two binding sites for clinical inhibitor TMC114.</title>
+<authorList>
+<person name="Kovalevsky A.Y."/>
+<person name="Liu F."/>
+<person name="Leshchenko S."/>
+<person name="Ghosh A.K."/>
+<person name="Louis J.M."/>
+<person name="Harrison R.W."/>
+<person name="Weber I.T."/>
+</authorList>
+<dbReference type="PubMed" id="16962136"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2006.08.007"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (0.84 ANGSTROMS)</scope>
+</reference>
+<reference key="7" evidence="9">
+<citation type="journal article" date="2006" name="J. Mol. Biol." volume="363" first="635" last="647">
+<title>Suppression of HIV-1 protease inhibitor resistance by phosphonate-mediated solvent anchoring.</title>
+<authorList>
+<person name="Cihlar T."/>
+<person name="He G.X."/>
+<person name="Liu X."/>
+<person name="Chen J.M."/>
+<person name="Hatada M."/>
+<person name="Swaminathan S."/>
+<person name="McDermott M.J."/>
+<person name="Yang Z.Y."/>
+<person name="Mulato A.S."/>
+<person name="Chen X."/>
+<person name="Leavitt S.A."/>
+<person name="Stray K.M."/>
+<person name="Lee W.A."/>
+</authorList>
+<dbReference type="PubMed" id="16979654"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2006.07.073"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.50 ANGSTROMS)</scope>
+</reference>
+<reference key="8" evidence="14 15">
+<citation type="journal article" date="2007" name="Biochemistry" volume="46" first="14854" last="14864">
+<title>Caught in the Act: the 1.5 A resolution crystal structures of the HIV-1 protease and the I54V mutant reveal a tetrahedral reaction intermediate.</title>
+<authorList>
+<person name="Kovalevsky A.Y."/>
+<person name="Chumanevich A.A."/>
+<person name="Liu F."/>
+<person name="Louis J.M."/>
+<person name="Weber I.T."/>
+</authorList>
+<dbReference type="PubMed" id="18052235"/>
+<dbReference type="DOI" id="10.1021/bi700822g"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.46 ANGSTROMS)</scope>
+</reference>
+<reference key="9" evidence="12 13">
+<citation type="journal article" date="2007" name="Proteins" volume="67" first="232" last="242">
+<title>Atomic resolution crystal structures of HIV-1 protease and mutants V82A and I84V with saquinavir.</title>
+<authorList>
+<person name="Tie Y."/>
+<person name="Kovalevsky A.Y."/>
+<person name="Boross P."/>
+<person name="Wang Y.F."/>
+<person name="Ghosh A.K."/>
+<person name="Tozser J."/>
+<person name="Harrison R.W."/>
+<person name="Weber I.T."/>
+</authorList>
+<dbReference type="PubMed" id="17243183"/>
+<dbReference type="DOI" id="10.1002/prot.21304"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (0.97 ANGSTROMS)</scope>
+</reference>
+<reference key="10" evidence="16 17">
+<citation type="journal article" date="2012" name="Protein Sci." volume="21" first="339" last="350">
+<title>Critical differences in HIV-1 and HIV-2 protease specificity for clinical inhibitors.</title>
+<authorList>
+<person name="Tie Y."/>
+<person name="Wang Y.F."/>
+<person name="Boross P.I."/>
+<person name="Chiu T.Y."/>
+<person name="Ghosh A.K."/>
+<person name="Tozser J."/>
+<person name="Louis J.M."/>
+<person name="Harrison R.W."/>
+<person name="Weber I.T."/>
+</authorList>
+<dbReference type="PubMed" id="22238126"/>
+<dbReference type="DOI" id="10.1002/pro.2019"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.42 ANGSTROMS)</scope>
+</reference>
+<reference key="11" evidence="18">
+<citation type="journal article" date="2013" name="J. Med. Chem." volume="56" first="6792" last="6802">
+<title>Highly potent HIV-1 protease inhibitors with novel tricyclic P2 ligands: design, synthesis, and protein-ligand X-ray studies.</title>
+<authorList>
+<person name="Ghosh A.K."/>
+<person name="Parham G.L."/>
+<person name="Martyr C.D."/>
+<person name="Nyalapatla P.R."/>
+<person name="Osswald H.L."/>
+<person name="Agniswamy J."/>
+<person name="Wang Y.F."/>
+<person name="Amano M."/>
+<person name="Weber I.T."/>
+<person name="Mitsuya H."/>
+</authorList>
+<dbReference type="PubMed" id="23947685"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.29 ANGSTROMS)</scope>
+</reference>
+<comment type="similarity">
+<text evidence="2">Contains peptidase A2 domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Contains peptidase Adomain.</text>
+</comment>
+<dbReference type="EMBL" id="AY213248">
+<property type="protein sequence ID" value="AAP72667.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="PDB" id="2AVO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.10"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2G69">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A=8-94"/>
+</dbReference>
+<dbReference type="PDB" id="2HB3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2HS1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="0.84"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2HS2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.22"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2I4U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2IDW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.10"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2IEO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2NMY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.10"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2NMZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="0.97"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2NNK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.25"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="2NNP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="3B7V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.46"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="3B80">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="3OXC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.16"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="3S53">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="3S54">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.42"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="3S56">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.88"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDB" id="4KB9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.29"/>
+<property type="chains" value="A/B=1-99"/>
+</dbReference>
+<dbReference type="PDBsum" id="2G69"/>
+<dbReference type="PDBsum" id="3OXC"/>
+<dbReference type="PDBsum" id="3S53"/>
+<dbReference type="PDBsum" id="3S54"/>
+<dbReference type="PDBsum" id="3S56"/>
+<dbReference type="PDBsum" id="4KB9"/>
+<dbReference type="ProteinModelPortal" id="Q7SSI0"/>
+<dbReference type="DIP" id="DIP-48779N"/>
+<dbReference type="GO" id="GO:0004190">
+<property type="term" value="F:aspartic-type endopeptidase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.70.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001969">
+<property type="entry name" value="Aspartic_peptidase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018061">
+<property type="entry name" value="Pept_A2A_retrovirus_sg"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001995">
+<property type="entry name" value="Peptidase_A2_cat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021109">
+<property type="entry name" value="Peptidase_aspartic_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00077">
+<property type="entry name" value="RVP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50630">
+<property type="entry name" value="SSF50630"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50175">
+<property type="entry name" value="ASP_PROT_RETROV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00141">
+<property type="entry name" value="ASP_PROTEASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="4 5">3D-structure</keyword>
+<keyword id="KW-0064" evidence="1">Aspartyl protease</keyword>
+<keyword id="KW-0378" evidence="1">Hydrolase</keyword>
+<keyword id="KW-0645" evidence="1">Protease</keyword>
+<feature type="region of interest" description="Phosphate 2 binding" evidence="10">
+<location>
+<begin position="14"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 1" evidence="10">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 3; via amide nitrogen and carbonyl oxygen" evidence="10">
+<location>
+<position position="21"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 4; via amide nitrogen" evidence="10">
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 5" evidence="16">
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 1" evidence="10">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="binding site" description="Phosphate 3" evidence="10">
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="3">
+<location>
+<position position="99"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000453"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00156356"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAP72667.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2AVO"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2G69"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2HB3"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2HS1"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2HS2"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2I4U"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2IDW"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2IEO"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2NMY"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2NMZ"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3B7V"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3B80"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3S53"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3S54"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="4KB9"/>
+</source>
+</evidence>
+<sequence length="99" mass="10777" checksum="188EBF1436824E20" modified="2003-10-01" version="1" fragment="single">
+PQITLWQRPLVTIKIGGQLKEALLDTGADDTVLEEMSLPGRWKPKMIGGIGGFIKVRQYD
+QILIEICGHKAIGTVLVGPTPVNIIGRNLLTQIGSTLNF
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

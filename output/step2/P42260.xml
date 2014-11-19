@@ -1,0 +1,1377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2014-10-29" version="135">
+<accession>P42260</accession>
+<name>GRIK2_RAT</name>
+<protein>
+<recommendedName>
+<fullName>Glutamate receptor ionotropic, kainate 2</fullName>
+<shortName>GluK2</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Glutamate receptor 6</fullName>
+<shortName>GluR-6</shortName>
+<shortName>GluR6</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">Grik2</name>
+<name type="synonym">Glur6</name>
+</gene>
+<organism>
+<name type="scientific">Rattus norvegicus</name>
+<name type="common">Rat</name>
+<dbReference type="NCBI Taxonomy" id="10116"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Sciurognathi</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Rattus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="Nature" volume="351" first="745" last="748">
+<title>Cloning of a cDNA for a glutamate receptor subunit activated by kainate but not AMPA.</title>
+<authorList>
+<person name="Egebjerg J."/>
+<person name="Bettler B."/>
+<person name="Hermans-Borgmeyer I."/>
+<person name="Heinemann S.F."/>
+</authorList>
+<dbReference type="PubMed" id="1648177"/>
+<dbReference type="DOI" id="10.1038/351745a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<strain>Sprague-Dawley</strain>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="FEBS Lett." volume="307" first="139" last="143">
+<title>High-affinity kainate and domoate receptors in rat brain.</title>
+<authorList>
+<person name="Lomeli H."/>
+<person name="Wisden W."/>
+<person name="Koehler M."/>
+<person name="Keinaenen K."/>
+<person name="Sommer B."/>
+<person name="Seeburg P.H."/>
+</authorList>
+<dbReference type="PubMed" id="1322826"/>
+<dbReference type="DOI" id="10.1016/0014-5793(92)80753-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1993" name="Neuron" volume="10" first="491" last="500">
+<title>Determinants of Ca2+ permeability in both TM1 and TM2 of high affinity kainate receptor channels: diversity by RNA editing.</title>
+<authorList>
+<person name="Koehler M."/>
+<person name="Burnashev N."/>
+<person name="Sakmann B."/>
+<person name="Seeburg P.H."/>
+</authorList>
+<dbReference type="PubMed" id="7681676"/>
+<dbReference type="DOI" id="10.1016/0896-6273(93)90336-P"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 560-585</scope>
+<scope>RNA EDITING</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="6967" last="6973">
+<title>The PDZ1 domain of SAP90. Characterization of structure and binding.</title>
+<authorList>
+<person name="Piserchio A."/>
+<person name="Pellegrini M."/>
+<person name="Mehta S."/>
+<person name="Blackman S.M."/>
+<person name="Garcia E.P."/>
+<person name="Marshall J."/>
+<person name="Mierke D.F."/>
+</authorList>
+<dbReference type="PubMed" id="11744724"/>
+<dbReference type="DOI" id="10.1074/jbc.M109453200"/>
+</citation>
+<scope>INTERACTION WITH DLG4</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="40164" last="40173">
+<title>Actinfilin is a Cul3 substrate adaptor, linking GluR6 kainate receptor subunits to the ubiquitin-proteasome pathway.</title>
+<authorList>
+<person name="Salinas G.D."/>
+<person name="Blair L.A."/>
+<person name="Needleman L.A."/>
+<person name="Gonzales J.D."/>
+<person name="Chen Y."/>
+<person name="Li M."/>
+<person name="Singer J.D."/>
+<person name="Marshall J."/>
+</authorList>
+<dbReference type="PubMed" id="17062563"/>
+<dbReference type="DOI" id="10.1074/jbc.M608194200"/>
+</citation>
+<scope>INTERACTION WITH KLHL17</scope>
+<scope>UBIQUITINATION</scope>
+<scope>MUTAGENESIS OF VAL-883 AND ILE-884</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2007" name="Nature" volume="447" first="321" last="325">
+<title>SUMOylation regulates kainate-receptor-mediated synaptic transmission.</title>
+<authorList>
+<person name="Martin S."/>
+<person name="Nishimune A."/>
+<person name="Mellor J.R."/>
+<person name="Henley J.M."/>
+</authorList>
+<dbReference type="PubMed" id="17486098"/>
+<dbReference type="DOI" id="10.1038/nature05736"/>
+</citation>
+<scope>SUMOYLATION AT LYS-886</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF LYS-886</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Neuron" volume="61" first="385" last="396">
+<title>A transmembrane accessory subunit that modulates kainate-type glutamate receptors.</title>
+<authorList>
+<person name="Zhang W."/>
+<person name="St-Gelais F."/>
+<person name="Grabner C.P."/>
+<person name="Trinidad J.C."/>
+<person name="Sumioka A."/>
+<person name="Morimoto-Tomita M."/>
+<person name="Kim K.S."/>
+<person name="Straub C."/>
+<person name="Burlingame A.L."/>
+<person name="Howe J.R."/>
+<person name="Tomita S."/>
+</authorList>
+<dbReference type="PubMed" id="19217376"/>
+<dbReference type="DOI" id="10.1016/j.neuron.2008.12.014"/>
+</citation>
+<scope>INTERACTION WITH NETO2</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Neuron" volume="45" first="539" last="552">
+<title>Crystal structures of the GluR5 and GluR6 ligand binding cores: molecular mechanisms underlying kainate receptor selectivity.</title>
+<authorList>
+<person name="Mayer M.L."/>
+</authorList>
+<dbReference type="PubMed" id="15721240"/>
+<dbReference type="DOI" id="10.1016/j.neuron.2005.01.031"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 429-806 IN COMPLEXES WITH GLUTAMATE; KAINATE; METHYLGLUTAMATE AND QUISQUALATE</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="1708" last="1713">
+<title>Structure of the kainate receptor subunit GluR6 agonist-binding domain complexed with domoic acid.</title>
+<authorList>
+<person name="Nanao M.H."/>
+<person name="Green T."/>
+<person name="Stern-Bach Y."/>
+<person name="Heinemann S.F."/>
+<person name="Choe S."/>
+</authorList>
+<dbReference type="PubMed" id="15677325"/>
+<dbReference type="DOI" id="10.1073/pnas.0409573102"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.11 ANGSTROMS) OF 419-819 IN COMPLEX WITH DOMOATE</scope>
+<scope>SUBUNIT</scope>
+<scope>GLYCOSYLATION AT ASN-423 AND ASN-751</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="Nat. Struct. Mol. Biol." volume="13" first="1120" last="1127">
+<title>Conformational restriction blocks glutamate receptor desensitization.</title>
+<authorList>
+<person name="Weston M.C."/>
+<person name="Schuck P."/>
+<person name="Ghosal A."/>
+<person name="Rosenmund C."/>
+<person name="Mayer M.L."/>
+</authorList>
+<dbReference type="PubMed" id="17115050"/>
+<dbReference type="DOI" id="10.1038/nsmb1178"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.96 ANGSTROMS) OF 663-806</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="Neuron" volume="71" first="319" last="331">
+<title>Structure and assembly mechanism for heteromeric kainate receptors.</title>
+<authorList>
+<person name="Kumar J."/>
+<person name="Schuck P."/>
+<person name="Mayer M.L."/>
+</authorList>
+<dbReference type="PubMed" id="21791290"/>
+<dbReference type="DOI" id="10.1016/j.neuron.2011.05.038"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.91 ANGSTROMS) OF 32-420 IN COMPLEX WITH GRIK5</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>GLYCOSYLATION AT ASN-67; ASN-378 AND ASN-412</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Ionotropic glutamate receptor. L-glutamate acts as an excitatory neurotransmitter at many synapses in the central nervous system. Binding of the excitatory neurotransmitter L-glutamate induces a conformation change, leading to the opening of the cation channel, and thereby converts the chemical signal to an electrical impulse. The receptor then desensitizes rapidly and enters a transient inactive state, characterized by the presence of bound agonist. May be involved in the transmission of light information from the retina to the hypothalamus. Modulates cell surface expression of NETO2 (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 3 4 5 6 8 9">Homotetramer or heterotetramer of pore-forming glutamate receptor subunits. Tetramers may be formed by the dimerization of dimers. Assembles into a kainate-gated homomeric channel that does not bind AMPA (By similarity). GRIK2 associated to GRIK5 forms functional channels that can be gated by AMPA. Interacts with DLG4. Interacts with NETO2. Interacts (via C-terminus) with KLHL17 (via kelch repeats); the interaction targets GRIK2 for degradation via ubiquitin-proteasome pathway.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7809795"/>
+<interactant intactId="EBI-4279420">
+<id>Q66HA1</id>
+<label>Map3k11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="7">Cell membrane</location>
+<topology evidence="7">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7">Cell junction</location>
+<location evidence="7">Synapse</location>
+<location evidence="7">Postsynaptic cell membrane</location>
+<topology evidence="7">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Highest expression is found in the olfactory lobe, piriform cortex, dentate gyrus, hippocampus, granular cell layer of the cerebellum, and in caudate-putamen.</text>
+</comment>
+<comment type="PTM">
+<text evidence="7">Sumoylation mediates kainate receptor-mediated endocytosis and regulates synaptic transmission. Sumoylation is enhanced by PIAS3 and desumoylated by SENP1.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Ubiquitinated. Ubiquitination regulates the GRIK2 levels at the synapse by leading kainate receptor degradation through proteasome.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Phosphorylated by PKC at Ser-868 upon agonist activation, this directly enhance sumoylation.</text>
+</comment>
+<comment type="RNA editing">
+<location>
+<position position="567" evidence="10"/>
+</location>
+<location>
+<position position="571" evidence="10"/>
+</location>
+<location>
+<position position="621" evidence="10"/>
+</location>
+<text>Partially edited. The presence of Gln at position 621 (non-edited) determines channels with low calcium permeability, whereas an arginine residue (edited) determines a higher calcium permeability especially if the preceding sites are fully edited. This receptor is nearly completely edited in all gray matter structures (90% of the receptors).</text>
+</comment>
+<comment type="miscellaneous">
+<text>The postsynaptic actions of Glu are mediated by a variety of receptors that are named according to their selective agonists. This receptor binds domoate > kainate > quisqualate > glutamate. It does not bind AMPA without coexpression with GRIK5.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the glutamate-gated ion channel (TC 1.A.10.1) family. GRIK2 subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="Z11548">
+<property type="protein sequence ID" value="CAA77647.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z11715">
+<property type="protein sequence ID" value="CAA77778.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S19098">
+<property type="entry name" value="S19098"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_062182.1">
+<property type="nucleotide sequence ID" value="NM_019309.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Rn.87696"/>
+<dbReference type="PDB" id="1S50">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A=428-806"/>
+</dbReference>
+<dbReference type="PDB" id="1S7Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="1S9T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="1SD3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="1TT1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.93"/>
+<property type="chains" value="A/B=429-806"/>
+</dbReference>
+<dbReference type="PDB" id="1YAE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.11"/>
+<property type="chains" value="A/B/C/D/E/F=419-557, A/B/C/D/E/F=662-819"/>
+</dbReference>
+<dbReference type="PDB" id="2I0B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A/B/C=429-544, A/B/C=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2I0C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2XXR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2XXT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2XXU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2XXV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2XXW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2XXX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="2XXY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="3G3F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.38"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="3G3G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="3G3H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="3G3I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.37"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="3G3J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.32"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="3G3K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.24"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="3H6G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=32-420"/>
+</dbReference>
+<dbReference type="PDB" id="3H6H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=32-420"/>
+</dbReference>
+<dbReference type="PDB" id="3QLT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.99"/>
+<property type="chains" value="A/B=32-420"/>
+</dbReference>
+<dbReference type="PDB" id="3QLU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.91"/>
+<property type="chains" value="C/D=32-420"/>
+</dbReference>
+<dbReference type="PDB" id="3QLV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.94"/>
+<property type="chains" value="C/D/F/H/J=32-420"/>
+</dbReference>
+<dbReference type="PDB" id="4BDL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="4BDM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="A/B/C/D=429-544, A/B/C/D=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="4BDN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D=429-544, A/B/C/D=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="4BDO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="A/B/C/D=429-544, A/B/C/D=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="4BDQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="4BDR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="4H8I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=429-544, A/B=667-806"/>
+</dbReference>
+<dbReference type="PDB" id="4UQQ">
+<property type="method" value="EM"/>
+<property type="resolution" value="7.60"/>
+<property type="chains" value="A/B/C/D=32-908"/>
+</dbReference>
+<dbReference type="PDBsum" id="1S50"/>
+<dbReference type="PDBsum" id="1S7Y"/>
+<dbReference type="PDBsum" id="1S9T"/>
+<dbReference type="PDBsum" id="1SD3"/>
+<dbReference type="PDBsum" id="1TT1"/>
+<dbReference type="PDBsum" id="1YAE"/>
+<dbReference type="PDBsum" id="2I0B"/>
+<dbReference type="PDBsum" id="2I0C"/>
+<dbReference type="PDBsum" id="2XXR"/>
+<dbReference type="PDBsum" id="2XXT"/>
+<dbReference type="PDBsum" id="2XXU"/>
+<dbReference type="PDBsum" id="2XXV"/>
+<dbReference type="PDBsum" id="2XXW"/>
+<dbReference type="PDBsum" id="2XXX"/>
+<dbReference type="PDBsum" id="2XXY"/>
+<dbReference type="PDBsum" id="3G3F"/>
+<dbReference type="PDBsum" id="3G3G"/>
+<dbReference type="PDBsum" id="3G3H"/>
+<dbReference type="PDBsum" id="3G3I"/>
+<dbReference type="PDBsum" id="3G3J"/>
+<dbReference type="PDBsum" id="3G3K"/>
+<dbReference type="PDBsum" id="3H6G"/>
+<dbReference type="PDBsum" id="3H6H"/>
+<dbReference type="PDBsum" id="3QLT"/>
+<dbReference type="PDBsum" id="3QLU"/>
+<dbReference type="PDBsum" id="3QLV"/>
+<dbReference type="PDBsum" id="4BDL"/>
+<dbReference type="PDBsum" id="4BDM"/>
+<dbReference type="PDBsum" id="4BDN"/>
+<dbReference type="PDBsum" id="4BDO"/>
+<dbReference type="PDBsum" id="4BDQ"/>
+<dbReference type="PDBsum" id="4BDR"/>
+<dbReference type="PDBsum" id="4H8I"/>
+<dbReference type="PDBsum" id="4UQQ"/>
+<dbReference type="ProteinModelPortal" id="P42260"/>
+<dbReference type="SMR" id="P42260">
+<property type="residue range" value="423-546, 668-804"/>
+</dbReference>
+<dbReference type="BioGrid" id="248480">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-29256N"/>
+<dbReference type="IntAct" id="P42260">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-8359884"/>
+<dbReference type="STRING" id="10116.ENSRNOP00000000415"/>
+<dbReference type="BindingDB" id="P42260"/>
+<dbReference type="ChEMBL" id="CHEMBL3038481"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="451"/>
+<dbReference type="TCDB" id="1.A.10.1.11">
+<property type="family name" value="the glutamate-gated ion channel (gic) family of neurotransmitter receptors"/>
+</dbReference>
+<dbReference type="PhosphoSite" id="P42260"/>
+<dbReference type="PaxDb" id="P42260"/>
+<dbReference type="PRIDE" id="P42260"/>
+<dbReference type="GeneID" id="54257"/>
+<dbReference type="KEGG" id="rno:54257"/>
+<dbReference type="UCSC" id="RGD:2733">
+<property type="organism name" value="rat"/>
+</dbReference>
+<dbReference type="CTD" id="2898"/>
+<dbReference type="RGD" id="2733">
+<property type="gene designation" value="Grik2"/>
+</dbReference>
+<dbReference type="eggNOG" id="NOG316680"/>
+<dbReference type="HOGENOM" id="HOG000234371"/>
+<dbReference type="HOVERGEN" id="HBG051839"/>
+<dbReference type="InParanoid" id="P42260"/>
+<dbReference type="KO" id="K05202"/>
+<dbReference type="PhylomeDB" id="P42260"/>
+<dbReference type="EvolutionaryTrace" id="P42260"/>
+<dbReference type="NextBio" id="610770"/>
+<dbReference type="PRO" id="PR:P42260"/>
+<dbReference type="Genevestigator" id="P42260"/>
+<dbReference type="GO" id="GO:0030424">
+<property type="term" value="C:axon"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030054">
+<property type="term" value="C:cell junction"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032839">
+<property type="term" value="C:dendrite cytoplasm"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008328">
+<property type="term" value="C:ionotropic glutamate receptor complex"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032983">
+<property type="term" value="C:kainate selective glutamate receptor complex"/>
+<property type="evidence" value="IBA:RefGenome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043204">
+<property type="term" value="C:perikaryon"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045211">
+<property type="term" value="C:postsynaptic membrane"/>
+<property type="evidence" value="IBA:RefGenome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042734">
+<property type="term" value="C:presynaptic membrane"/>
+<property type="evidence" value="IBA:RefGenome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045202">
+<property type="term" value="C:synapse"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043195">
+<property type="term" value="C:terminal bouton"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005234">
+<property type="term" value="F:extracellular-glutamate-gated ion channel activity"/>
+<property type="evidence" value="IBA:RefGenome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008066">
+<property type="term" value="F:glutamate receptor activity"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004970">
+<property type="term" value="F:ionotropic glutamate receptor activity"/>
+<property type="evidence" value="TAS:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015277">
+<property type="term" value="F:kainate selective glutamate receptor activity"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030165">
+<property type="term" value="F:PDZ domain binding"/>
+<property type="evidence" value="IPI:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="IDA:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031624">
+<property type="term" value="F:ubiquitin conjugating enzyme binding"/>
+<property type="evidence" value="IPI:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="IPI:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034220">
+<property type="term" value="P:ion transmembrane transport"/>
+<property type="evidence" value="IBA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035235">
+<property type="term" value="P:ionotropic glutamate receptor signaling pathway"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051967">
+<property type="term" value="P:negative regulation of synaptic transmission, glutamatergic"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051402">
+<property type="term" value="P:neuron apoptotic process"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043525">
+<property type="term" value="P:positive regulation of neuron apoptotic process"/>
+<property type="evidence" value="IMP:RGD"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043113">
+<property type="term" value="P:receptor clustering"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046328">
+<property type="term" value="P:regulation of JNK cascade"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007165">
+<property type="term" value="P:signal transduction"/>
+<property type="evidence" value="IDA:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007268">
+<property type="term" value="P:synaptic transmission"/>
+<property type="evidence" value="IMP:RGD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001828">
+<property type="entry name" value="ANF_lig-bd_rcpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019594">
+<property type="entry name" value="Glu_rcpt_Glu/Gly-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001320">
+<property type="entry name" value="Iontro_glu_rcpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001508">
+<property type="entry name" value="NMDA_rcpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028082">
+<property type="entry name" value="Peripla_BP_I"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01094">
+<property type="entry name" value="ANF_receptor"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00060">
+<property type="entry name" value="Lig_chan"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF10613">
+<property type="entry name" value="Lig_chan-Glu_bd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00177">
+<property type="entry name" value="NMDARECEPTOR"/>
+</dbReference>
+<dbReference type="SMART" id="SM00918">
+<property type="entry name" value="Lig_chan-Glu_bd"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00079">
+<property type="entry name" value="PBPe"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53822">
+<property type="entry name" value="SSF53822"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0965">Cell junction</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0407">Ion channel</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-1071">Ligand-gated ion channel</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0628">Postsynaptic cell membrane</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0691">RNA editing</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0770">Synapse</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="chain" description="Glutamate receptor ionotropic, kainate 2" id="PRO_0000011546">
+<location>
+<begin position="32"/>
+<end position="908"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="32"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="562"/>
+<end position="582"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="583"/>
+<end position="638"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="639"/>
+<end position="659"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="660"/>
+<end position="819"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="820"/>
+<end position="840"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="841"/>
+<end position="908"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutamate binding">
+<location>
+<begin position="516"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="region of interest" description="Glutamate binding">
+<location>
+<begin position="689"/>
+<end position="690"/>
+</location>
+</feature>
+<feature type="binding site" description="Glutamate">
+<location>
+<position position="523"/>
+</location>
+</feature>
+<feature type="binding site" description="Glutamate">
+<location>
+<position position="738"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKC" evidence="1">
+<location>
+<position position="846"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKC" evidence="1">
+<location>
+<position position="868"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="9">
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="275"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="9">
+<location>
+<position position="378"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="9">
+<location>
+<position position="412"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="4">
+<location>
+<position position="423"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="430"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="546"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="4">
+<location>
+<position position="751"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="9">
+<location>
+<begin position="96"/>
+<end position="347"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO-1)">
+<location>
+<position position="886"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In RNA edited version.">
+<original>I</original>
+<variation>C</variation>
+<location>
+<position position="567"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In RNA edited version.">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="571"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In RNA edited version.">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="621"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with KLHL17. Abolishes actinfilin-mediated degradation." evidence="5">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="883"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with KLHL17. Abolishes actinfilin-mediated degradation." evidence="5">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="884"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes sumoylation. Loss of kainate-mediated endocytosis." evidence="7">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="886"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="34"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="52"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="68"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="88"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="112"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="129"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="145"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="153"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="170"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="180"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="186"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="191"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="198"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="208"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="212"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="225"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="232"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="249"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="253"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="261"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="267"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="275"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="287"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="309"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="318"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="347"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="356"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="367"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="373"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="379"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="382"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="389"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="398"/>
+<end position="406"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="407"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="410"/>
+<end position="413"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="425"/>
+<end position="428"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="433"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="441"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="444"/>
+<end position="446"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="455"/>
+<end position="458"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="459"/>
+<end position="461"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="462"/>
+<end position="474"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="478"/>
+<end position="482"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="493"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="500"/>
+<end position="506"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="511"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="521"/>
+<end position="524"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="527"/>
+<end position="529"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="533"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="538"/>
+<end position="544"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="665"/>
+<end position="667"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="671"/>
+<end position="675"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="678"/>
+<end position="685"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="689"/>
+<end position="696"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="700"/>
+<end position="711"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="713"/>
+<end position="716"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="717"/>
+<end position="720"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="721"/>
+<end position="730"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="731"/>
+<end position="738"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="739"/>
+<end position="748"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="752"/>
+<end position="757"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="762"/>
+<end position="764"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="767"/>
+<end position="769"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="774"/>
+<end position="787"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="790"/>
+<end position="799"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11744724"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15677325"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17062563"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17115050"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17486098"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19217376"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21791290"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7681676"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="908" mass="102470" checksum="7F430E2D8B2E982B" modified="1998-07-15" version="2" precursor="true">
+MKIISPVLSNLVFSRSIKVLLCLLWIGYSQGTTHVLRFGGIFEYVESGPMGAEELAFRFA
+VNTINRNRTLLPNTTLTYDTQKINLYDSFEASKKACDQLSLGVAAIFGPSHSSSANAVQS
+ICNALGVPHIQTRWKHQVSDNKDSFYVSLYPDFSSLSRAILDLVQFFKWKTVTVVYDDST
+GLIRLQELIKAPSRYNLRLKIRQLPADTKDAKPLLKEMKRGKEFHVIFDCSHEMAAGILK
+QALAMGMMTEYYHYIFTTLDLFALDVEPYRYSGVNMTGFRILNTENTQVSSIIEKWSMER
+LQAPPKPDSGLLDGFMTTDAALMYDAVHVVSVAVQQFPQMTVSSLQCNRHKPWRFGTRFM
+SLIKEAHWEGLTGRITFNKTNGLRTDFDLDVISLKEEGLEKIGTWDPASGLNMTESQKGK
+PANITDSLSNRSLIVTTILEEPYVLFKKSDKPLYGNDRFEGYCIDLLRELSTILGFTYEI
+RLVEDGKYGAQDDVNGQWNGMVRELIDHKADLAVAPLAITYVREKVIDFSKPFMTLGISI
+LYRKPNGTNPGVFSFLNPLSPDIWMYILLAYLGVSCVLFVIARFSPYEWYNPHPCNPDSD
+VVENNFTLLNSFWFGVGALMQQGSELMPKALSTRIVGGIWWFFTLIIISSYTANLAAFLT
+VERMESPIDSADDLAKQTKIEYGAVEDGATMTFFKKSKISTYDKMWAFMSSRRQSVLVKS
+NEEGIQRVLTSDYAFLMESTTIEFVTQRNCNLTQIGGLIDSKGYGVGTPMGSPYRDKITI
+AILQLQEEGKLHMMKEKWWRGNGCPEEESKEASALGVQNIGGIFIVLAAGLVLSVFVAVG
+EFLYKSKKNAQLEKRSFCSAMVEELRMSLKCQRRLKHKPQAPVIVKTEEVINMHTFNDRR
+LPGKETMA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

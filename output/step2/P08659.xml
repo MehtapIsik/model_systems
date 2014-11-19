@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1988-01-01" modified="2014-10-01" version="96">
+<accession>P08659</accession>
+<accession>Q27755</accession>
+<name>LUCI_PHOPY</name>
+<protein>
+<recommendedName>
+<fullName>Luciferin 4-monooxygenase</fullName>
+<shortName>Luciferase</shortName>
+<ecNumber>1.13.12.7</ecNumber>
+</recommendedName>
+</protein>
+<organism>
+<name type="scientific">Photinus pyralis</name>
+<name type="common">Common eastern firefly</name>
+<name type="synonym">Lampyris pyralis</name>
+<dbReference type="NCBI Taxonomy" id="7054"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Ecdysozoa</taxon>
+<taxon>Arthropoda</taxon>
+<taxon>Hexapoda</taxon>
+<taxon>Insecta</taxon>
+<taxon>Pterygota</taxon>
+<taxon>Neoptera</taxon>
+<taxon>Endopterygota</taxon>
+<taxon>Coleoptera</taxon>
+<taxon>Polyphaga</taxon>
+<taxon>Elateriformia</taxon>
+<taxon>Elateroidea</taxon>
+<taxon>Lampyridae</taxon>
+<taxon>Lampyrinae</taxon>
+<taxon>Photinus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Mol. Cell. Biol." volume="7" first="725" last="737">
+<title>Firefly luciferase gene: structure and expression in mammalian cells.</title>
+<authorList>
+<person name="de Wet J.R."/>
+<person name="Wood K.V."/>
+<person name="Deluca M."/>
+<person name="Helinski D.R."/>
+<person name="Subramani S."/>
+</authorList>
+<dbReference type="PubMed" id="3821727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1996-07" db="EMBL/GenBank/DDBJ databases">
+<title>Construction and utilization of an Autographa californica nuclear polyhedrosis virus vector with a unique cloning site: expression of genes amplified by the polymerase chain reaction.</title>
+<authorList>
+<person name="Croizier G.M.J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1987" name="Proc. Natl. Acad. Sci. U.S.A." volume="84" first="3264" last="3268">
+<title>Firefly luciferase is targeted to peroxisomes in mammalian cells.</title>
+<authorList>
+<person name="Keller G.-A."/>
+<person name="Gould S."/>
+<person name="de Luca M."/>
+<person name="Subramani S."/>
+</authorList>
+<dbReference type="PubMed" id="3554235"/>
+<dbReference type="DOI" id="10.1073/pnas.84.10.3264"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="Structure" volume="4" first="287" last="298">
+<title>Crystal structure of firefly luciferase throws light on a superfamily of adenylate-forming enzymes.</title>
+<authorList>
+<person name="Conti E."/>
+<person name="Franks N.P."/>
+<person name="Brick P."/>
+</authorList>
+<dbReference type="PubMed" id="8805533"/>
+<dbReference type="DOI" id="10.1016/S0969-2126(96)00033-0"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="Biophys. J." volume="75" first="2205" last="2211">
+<title>Structural basis for the inhibition of firefly luciferase by a general anesthetic.</title>
+<authorList>
+<person name="Franks N.P."/>
+<person name="Jenkins A."/>
+<person name="Conti E."/>
+<person name="Lieb W.R."/>
+<person name="Brick P."/>
+</authorList>
+<dbReference type="PubMed" id="9788915"/>
+<dbReference type="DOI" id="10.1016/S0006-3495(98)77664-7"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text>Produces green light with a wavelength of 562 nm.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Photinus luciferin + O(2) + ATP = oxidized Photinus luciferin + CO(2) + AMP + diphosphate + light.</text>
+</comment>
+<comment type="cofactor">
+<text>Magnesium.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Peroxisome</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the ATP-dependent AMP-binding enzyme family.</text>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="http://en.wikipedia.org/wiki/Firefly_luciferase"/>
+<text>Firefly luciferase entry</text>
+</comment>
+<dbReference type="EC" id="1.13.12.7"/>
+<dbReference type="EMBL" id="M15077">
+<property type="protein sequence ID" value="AAA29795.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X84846">
+<property type="protein sequence ID" value="CAA59281.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X84848">
+<property type="protein sequence ID" value="CAA59283.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U03687">
+<property type="protein sequence ID" value="AAA03561.1"/>
+<property type="molecule type" value="Unassigned_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U89934">
+<property type="protein sequence ID" value="AAB64396.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U89935">
+<property type="protein sequence ID" value="AAB64399.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A26772">
+<property type="entry name" value="A26772"/>
+</dbReference>
+<dbReference type="PDB" id="1BA3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="1LCI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="3IEP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="3IER">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="3IES">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="3RIX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="4E5D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="4G36">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.62"/>
+<property type="chains" value="A/B=1-550"/>
+</dbReference>
+<dbReference type="PDB" id="4G37">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=1-550"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BA3"/>
+<dbReference type="PDBsum" id="1LCI"/>
+<dbReference type="PDBsum" id="3IEP"/>
+<dbReference type="PDBsum" id="3IER"/>
+<dbReference type="PDBsum" id="3IES"/>
+<dbReference type="PDBsum" id="3RIX"/>
+<dbReference type="PDBsum" id="4E5D"/>
+<dbReference type="PDBsum" id="4G36"/>
+<dbReference type="PDBsum" id="4G37"/>
+<dbReference type="ProteinModelPortal" id="P08659"/>
+<dbReference type="SMR" id="P08659">
+<property type="residue range" value="3-544"/>
+</dbReference>
+<dbReference type="IntAct" id="P08659">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-7890251"/>
+<dbReference type="BindingDB" id="P08659"/>
+<dbReference type="ChEMBL" id="CHEMBL5567"/>
+<dbReference type="BioCyc" id="MetaCyc:MONOMER-16917"/>
+<dbReference type="SABIO-RK" id="P08659"/>
+<dbReference type="EvolutionaryTrace" id="P08659"/>
+<dbReference type="GO" id="GO:0005777">
+<property type="term" value="C:peroxisome"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047077">
+<property type="term" value="F:Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008218">
+<property type="term" value="P:bioluminescence"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.8.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR025110">
+<property type="entry name" value="AMP-bd_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020845">
+<property type="entry name" value="AMP-binding_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000873">
+<property type="entry name" value="AMP-dep_Synth/Lig"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027380">
+<property type="entry name" value="Luciferase_N_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00501">
+<property type="entry name" value="AMP-binding"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13193">
+<property type="entry name" value="AMP-binding_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00455">
+<property type="entry name" value="AMP_BINDING"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0455">Luminescence</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0503">Monooxygenase</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0576">Peroxisome</keyword>
+<keyword id="KW-0599">Photoprotein</keyword>
+<feature type="chain" description="Luciferin 4-monooxygenase" id="PRO_0000193147">
+<location>
+<begin position="1"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Microbody targeting signal">
+<location>
+<begin position="548"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA59281." ref="2" evidence="2">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="361"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="7"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="22"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="40"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="45"/>
+<end position="47"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="50"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="53"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="77"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="86"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="89"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="101"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="111"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="124"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="130"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="133"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="148"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="161"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="164"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="178"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="188"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="191"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="207"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="212"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="225"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="236"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="246"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="261"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="270"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="283"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="289"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="300"/>
+<end position="303"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="311"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="321"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="337"/>
+<end position="341"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="343"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="346"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="363"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="370"/>
+<end position="374"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="376"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="388"/>
+<end position="394"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="399"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="405"/>
+<end position="411"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="418"/>
+<end position="426"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="432"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="437"/>
+<end position="439"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="442"/>
+<end position="444"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="447"/>
+<end position="449"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="451"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="464"/>
+<end position="474"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="475"/>
+<end position="477"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="478"/>
+<end position="487"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="495"/>
+<end position="505"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="508"/>
+<end position="510"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="515"/>
+<end position="521"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="528"/>
+<end position="530"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="532"/>
+<end position="542"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3554235"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="550" mass="60745" checksum="E380FCE9D56ACCDE" modified="1988-01-01" version="1">
+MEDAKNIKKGPAPFYPLEDGTAGEQLHKAMKRYALVPGTIAFTDAHIEVNITYAEYFEMS
+VRLAEAMKRYGLNTNHRIVVCSENSLQFFMPVLGALFIGVAVAPANDIYNERELLNSMNI
+SQPTVVFVSKKGLQKILNVQKKLPIIQKIIIMDSKTDYQGFQSMYTFVTSHLPPGFNEYD
+FVPESFDRDKTIALIMNSSGSTGLPKGVALPHRTACVRFSHARDPIFGNQIIPDTAILSV
+VPFHHGFGMFTTLGYLICGFRVVLMYRFEEELFLRSLQDYKIQSALLVPTLFSFFAKSTL
+IDKYDLSNLHEIASGGAPLSKEVGEAVAKRFHLPGIRQGYGLTETTSAILITPEGDDKPG
+AVGKVVPFFEAKVVDLDTGKTLGVNQRGELCVRGPMIMSGYVNNPEATNALIDKDGWLHS
+GDIAYWDEDEHFFIVDRLKSLIKYKGYQVAPAELESILLQHPNIFDAGVAGLPDDDAGEL
+PAAVVVLEHGKTMTEKEIVDYVASQVTTAKKLRGGVVFVDEVPKGLTGKLDARKIREILI
+KAKKGGKSKL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

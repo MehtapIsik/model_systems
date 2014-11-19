@@ -1,0 +1,1070 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1994-02-01" modified="2014-10-29" version="138">
+<accession>P34914</accession>
+<accession>Q8CGV0</accession>
+<name>HYES_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>Bifunctional epoxide hydrolase 2</fullName>
+</recommendedName>
+<domain>
+<recommendedName>
+<fullName>Cytosolic epoxide hydrolase 2</fullName>
+<shortName>CEH</shortName>
+<ecNumber>3.3.2.10</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Epoxide hydratase</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Soluble epoxide hydrolase</fullName>
+<shortName>SEH</shortName>
+</alternativeName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>Lipid-phosphate phosphatase</fullName>
+<ecNumber>3.1.3.76</ecNumber>
+</recommendedName>
+</domain>
+</protein>
+<gene>
+<name type="primary">Ephx2</name>
+<name type="synonym">Eph2</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Sciurognathi</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="17628" last="17633">
+<title>Molecular cloning and expression of murine liver soluble epoxide hydrolase.</title>
+<authorList>
+<person name="Grant D.F."/>
+<person name="Storms D.H."/>
+<person name="Hammock B.D."/>
+</authorList>
+<dbReference type="PubMed" id="8349642"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<scope>INDUCTION</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Arch. Toxicol." volume="70" first="61" last="63">
+<title>Tissue specific basal expression of soluble murine epoxide hydrolase and effects of clofibrate on the mRNA levels in extrahepatic tissues and liver.</title>
+<authorList>
+<person name="Johansson C."/>
+<person name="Stark A."/>
+<person name="Sandberg M."/>
+<person name="Ek B."/>
+<person name="Rask L."/>
+<person name="Meijer J."/>
+</authorList>
+<dbReference type="PubMed" id="8750907"/>
+<dbReference type="DOI" id="10.1007/s002040050250"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>NMRI</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Biol. Reprod." volume="72" first="968" last="975">
+<title>Identification and characterization of an ovary-selective isoform of epoxide hydrolase.</title>
+<authorList>
+<person name="Hennebold J.D."/>
+<person name="Mah K."/>
+<person name="Perez W."/>
+<person name="Vance J.E."/>
+<person name="Stouffer R.L."/>
+<person name="Morisseau C."/>
+<person name="Hammock B.D."/>
+<person name="Adashi E.Y."/>
+</authorList>
+<dbReference type="PubMed" id="15601917"/>
+<dbReference type="DOI" id="10.1095/biolreprod.104.035899"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+<source>
+<strain>C57BL/6</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<strain>FVB/N</strain>
+<tissue>Colon</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="Proc. Natl. Acad. Sci. U.S.A." volume="104" first="1488" last="1493">
+<title>Large-scale phosphorylation analysis of mouse liver.</title>
+<authorList>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Gerber S.A."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="17242355"/>
+<dbReference type="DOI" id="10.1073/pnas.0609836104"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-368</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2013" name="Mol. Cell" volume="50" first="919" last="930">
+<title>SIRT5-mediated lysine desuccinylation impacts diverse metabolic pathways.</title>
+<authorList>
+<person name="Park J."/>
+<person name="Chen Y."/>
+<person name="Tishkoff D.X."/>
+<person name="Peng C."/>
+<person name="Tan M."/>
+<person name="Dai L."/>
+<person name="Xie Z."/>
+<person name="Zhang Y."/>
+<person name="Zwaans B.M."/>
+<person name="Skinner M.E."/>
+<person name="Lombard D.B."/>
+<person name="Zhao Y."/>
+</authorList>
+<dbReference type="PubMed" id="23806337"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2013.06.001"/>
+</citation>
+<scope>SUCCINYLATION [LARGE SCALE ANALYSIS] AT LYS-55; LYS-176; LYS-371; LYS-420; LYS-454; LYS-504; LYS-508 AND LYS-553</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2013" name="Proc. Natl. Acad. Sci. U.S.A." volume="110" first="6601" last="6606">
+<title>Label-free quantitative proteomics of the lysine acetylome in mitochondria identifies substrates of SIRT3 in metabolic pathways.</title>
+<authorList>
+<person name="Rardin M.J."/>
+<person name="Newman J.C."/>
+<person name="Held J.M."/>
+<person name="Cusack M.P."/>
+<person name="Sorensen D.J."/>
+<person name="Li B."/>
+<person name="Schilling B."/>
+<person name="Mooney S.D."/>
+<person name="Kahn C.R."/>
+<person name="Verdin E."/>
+<person name="Gibson B.W."/>
+</authorList>
+<dbReference type="PubMed" id="23576753"/>
+<dbReference type="DOI" id="10.1073/pnas.1302961110"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-176; LYS-191; LYS-215 AND LYS-508</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="10637" last="10642">
+<title>Detoxification of environmental mutagens and carcinogens: structure, mechanism, and evolution of liver epoxide hydrolase.</title>
+<authorList>
+<person name="Argiriadi M.A."/>
+<person name="Morisseau C."/>
+<person name="Hammock B.D."/>
+<person name="Christianson D.W."/>
+</authorList>
+<dbReference type="PubMed" id="10485878"/>
+<dbReference type="DOI" id="10.1073/pnas.96.19.10637"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS)</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="15265" last="15270">
+<title>Binding of alkylurea inhibitors to epoxide hydrolase implicates active site tyrosines in substrate activation.</title>
+<authorList>
+<person name="Argiriadi M.A."/>
+<person name="Morisseau C."/>
+<person name="Goodrow M.H."/>
+<person name="Dowdy D.L."/>
+<person name="Hammock B.D."/>
+<person name="Christianson D.W."/>
+</authorList>
+<dbReference type="PubMed" id="10747889"/>
+<dbReference type="DOI" id="10.1074/jbc.M000278200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) IN COMPLEX WITH EPOXIDE HYDROLASE INHIBITOR</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Bifunctional enzyme. The C-terminal domain has epoxide hydrolase activity and acts on epoxides (alkene oxides, oxiranes) and arene oxides. Plays a role in xenobiotic metabolism by degrading potentially toxic epoxides. Also determines steady-state levels of physiological mediators. The N-terminal domain has lipid phosphatase activity, with the highest activity towards threo-9,10-phosphonooxy-hydroxy-octadecanoic acid, followed by erythro-9,10-phosphonooxy-hydroxy-octadecanoic acid, 12-phosphonooxy-octadec-9Z-enoic acid, 12-phosphonooxy-octadec-9E-enoic acid, and p-nitrophenyl phospate (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<text>An epoxide + H(2)O = a glycol.</text>
+</comment>
+<comment type="catalytic activity">
+<text>(9S,10S)-10-hydroxy-9-(phosphonooxy)octadecanoate + H(2)O = (9S,10S)-9,10-dihydroxyoctadecanoate + phosphate.</text>
+</comment>
+<comment type="cofactor">
+<text evidence="1">Magnesium.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3">Homodimer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Peroxisome</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P34914-1</id>
+<name>1</name>
+<name>Ephx2A</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P34914-2</id>
+<name>2</name>
+<name>Ephx2B</name>
+<sequence type="described" ref="VSP_013904"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="4 9">Detected in liver, intestine, ovary and kidney. Detected at low levels in heart and muscle.</text>
+</comment>
+<comment type="induction">
+<text evidence="4 8 9">Up-regulated during the luteal phase of the stimulated estrus cycle and by compounds that cause peroxisome proliferation, such as clofibrate, tiadenol and fenofibrate.</text>
+</comment>
+<comment type="domain">
+<text>The N-terminal domain has phosphatase activity. The C-terminal domain has epoxide hydrolase activity.</text>
+</comment>
+<comment type="PTM">
+<text>The N-terminus is blocked.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">The covalent modification of cysteine by 15-deoxy-Delta12,14-prostaglandin-J2 is autocatalytic and reversible. It may occur as an alternative to other cysteine modifications, such as S-nitrosylation and S-palmitoylation (By similarity).</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the AB hydrolase superfamily. Epoxide hydrolase family.</text>
+</comment>
+<dbReference type="EC" id="3.3.2.10"/>
+<dbReference type="EC" id="3.1.3.76"/>
+<dbReference type="EMBL" id="L05781">
+<property type="protein sequence ID" value="AAA37555.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z37107">
+<property type="protein sequence ID" value="CAA85471.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY098585">
+<property type="protein sequence ID" value="AAM28238.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC015087">
+<property type="protein sequence ID" value="AAH15087.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS27218.1">
+<molecule id="P34914-1"/>
+</dbReference>
+<dbReference type="PIR" id="A47504">
+<property type="entry name" value="A47504"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001258332.1">
+<molecule id="P34914-2"/>
+<property type="nucleotide sequence ID" value="NM_001271403.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_031966.2">
+<molecule id="P34914-1"/>
+<property type="nucleotide sequence ID" value="NM_007940.4"/>
+</dbReference>
+<dbReference type="UniGene" id="Mm.15295"/>
+<dbReference type="PDB" id="1CQZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=1-554"/>
+</dbReference>
+<dbReference type="PDB" id="1CR6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=1-554"/>
+</dbReference>
+<dbReference type="PDB" id="1EK1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B=1-554"/>
+</dbReference>
+<dbReference type="PDB" id="1EK2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=1-554"/>
+</dbReference>
+<dbReference type="PDBsum" id="1CQZ"/>
+<dbReference type="PDBsum" id="1CR6"/>
+<dbReference type="PDBsum" id="1EK1"/>
+<dbReference type="PDBsum" id="1EK2"/>
+<dbReference type="ProteinModelPortal" id="P34914"/>
+<dbReference type="SMR" id="P34914">
+<property type="residue range" value="4-544"/>
+</dbReference>
+<dbReference type="IntAct" id="P34914">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1859181"/>
+<dbReference type="BindingDB" id="P34914"/>
+<dbReference type="ChEMBL" id="CHEMBL4140"/>
+<dbReference type="MEROPS" id="S33.973"/>
+<dbReference type="PhosphoSite" id="P34914"/>
+<dbReference type="SWISS-2DPAGE" id="P34914"/>
+<dbReference type="MaxQB" id="P34914"/>
+<dbReference type="PaxDb" id="P34914"/>
+<dbReference type="PRIDE" id="P34914"/>
+<dbReference type="Ensembl" id="ENSMUST00000070515">
+<molecule id="P34914-1"/>
+<property type="protein sequence ID" value="ENSMUSP00000069209"/>
+<property type="gene ID" value="ENSMUSG00000022040"/>
+</dbReference>
+<dbReference type="GeneID" id="13850"/>
+<dbReference type="KEGG" id="mmu:13850"/>
+<dbReference type="UCSC" id="uc007ujv.1">
+<molecule id="P34914-1"/>
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="CTD" id="2053"/>
+<dbReference type="MGI" id="MGI:99500">
+<property type="gene designation" value="Ephx2"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0596"/>
+<dbReference type="GeneTree" id="ENSGT00530000063213"/>
+<dbReference type="HOGENOM" id="HOG000028073"/>
+<dbReference type="HOVERGEN" id="HBG006095"/>
+<dbReference type="InParanoid" id="P34914"/>
+<dbReference type="KO" id="K08726"/>
+<dbReference type="OMA" id="GHWTQMD"/>
+<dbReference type="OrthoDB" id="EOG72VH5T"/>
+<dbReference type="PhylomeDB" id="P34914"/>
+<dbReference type="TreeFam" id="TF315395"/>
+<dbReference type="BRENDA" id="3.3.2.10">
+<property type="organism ID" value="3474"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_196570">
+<property type="pathway name" value="Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P34914"/>
+<dbReference type="NextBio" id="284704"/>
+<dbReference type="PRO" id="PR:P34914"/>
+<dbReference type="Bgee" id="P34914"/>
+<dbReference type="CleanEx" id="MM_EPHX2"/>
+<dbReference type="ExpressionAtlas" id="P34914">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="P34914"/>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular vesicular exosome"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005777">
+<property type="term" value="C:peroxisome"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033885">
+<property type="term" value="F:10-hydroxy-9-(phosphonooxy)octadecanoate phosphatase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004301">
+<property type="term" value="F:epoxide hydrolase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042577">
+<property type="term" value="F:lipid phosphatase activity"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015643">
+<property type="term" value="F:toxic substance binding"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042632">
+<property type="term" value="P:cholesterol homeostasis"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046839">
+<property type="term" value="P:phospholipid dephosphorylation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090181">
+<property type="term" value="P:regulation of cholesterol metabolic process"/>
+<property type="evidence" value="IMP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009636">
+<property type="term" value="P:response to toxic substance"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046272">
+<property type="term" value="P:stilbene catabolic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.150.240">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1000">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.1820">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029058">
+<property type="entry name" value="AB_hydrolase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000073">
+<property type="entry name" value="AB_hydrolase_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000639">
+<property type="entry name" value="Epox_hydrolase-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023214">
+<property type="entry name" value="HAD-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006439">
+<property type="entry name" value="HAD-SF_hydro_IA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023198">
+<property type="entry name" value="PGP_dom2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00561">
+<property type="entry name" value="Abhydrolase_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13419">
+<property type="entry name" value="HAD_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00111">
+<property type="entry name" value="ABHYDROLASE"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00412">
+<property type="entry name" value="EPOXHYDRLASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53474">
+<property type="entry name" value="SSF53474"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56784">
+<property type="entry name" value="SSF56784"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01509">
+<property type="entry name" value="HAD-SF-IA-v3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0058">Aromatic hydrocarbons catabolism</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0216">Detoxification</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0443">Lipid metabolism</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0511">Multifunctional enzyme</keyword>
+<keyword id="KW-0576">Peroxisome</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Bifunctional epoxide hydrolase 2" id="PRO_0000084112">
+<location>
+<begin position="1"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="region of interest" description="Phosphatase">
+<location>
+<begin position="1"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="region of interest" description="Phosphate binding" evidence="1">
+<location>
+<begin position="123"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="region of interest" description="Epoxide hydrolase">
+<location>
+<begin position="233"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Microbody targeting signal" evidence="2">
+<location>
+<begin position="552"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="active site" description="Nucleophile">
+<location>
+<position position="333"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor">
+<location>
+<position position="465"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor">
+<location>
+<position position="523"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="1">
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="1">
+<location>
+<position position="381"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine" evidence="7">
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; alternate" evidence="6">
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine; alternate" evidence="7">
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="6">
+<location>
+<position position="191"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="6">
+<location>
+<position position="215"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="368"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine" evidence="7">
+<location>
+<position position="371"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine" evidence="7">
+<location>
+<position position="420"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine" evidence="7">
+<location>
+<position position="454"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine" evidence="7">
+<location>
+<position position="504"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; alternate" evidence="6">
+<location>
+<position position="508"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine; alternate" evidence="7">
+<location>
+<position position="508"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-succinyllysine" evidence="7">
+<location>
+<position position="553"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-(15-deoxy-Delta12,14-prostaglandin J2-9-yl)cysteine" evidence="1">
+<location>
+<position position="521"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_013904" evidence="10">
+<original>MALRVAAFDLDGVLALPSIAGAFRRSEEALALPRDFLLGAYQTEFPEGPTEQLMKGKITFSQ</original>
+<variation>MRFAAMAAFSVFFVSKGLLMNSNIWCVGQEGPSQEDTDTIHTSE</variation>
+<location>
+<begin position="1"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA85471." ref="2" evidence="11">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="5"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="10"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="13"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="51"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="57"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="94"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="103"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="118"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="130"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="134"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="144"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="148"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="153"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="163"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="177"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="188"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="191"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="199"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="205"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="208"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="216"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="232"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="243"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="247"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="256"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="269"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="275"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="285"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="304"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="308"/>
+<end position="322"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="327"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="334"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="347"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="350"/>
+<end position="357"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="369"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="377"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="380"/>
+<end position="385"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="390"/>
+<end position="397"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="399"/>
+<end position="406"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="418"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="421"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="427"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="439"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="443"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="459"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="463"/>
+<end position="467"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="468"/>
+<end position="475"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="476"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="487"/>
+<end position="492"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="496"/>
+<end position="498"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="500"/>
+<end position="503"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="506"/>
+<end position="508"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="514"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="525"/>
+<end position="528"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="530"/>
+<end position="543"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10747889"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15601917"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17242355"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23576753"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23806337"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8349642"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8750907"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15601917"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="554" mass="62515" checksum="2F3A3F7DACE47C93" modified="1996-10-01" version="2">
+MALRVAAFDLDGVLALPSIAGAFRRSEEALALPRDFLLGAYQTEFPEGPTEQLMKGKITF
+SQWVPLMDESYRKSSKACGANLPENFSISQIFSQAMAARSINRPMLQAAIALKKKGFTTC
+IVTNNWLDDGDKRDSLAQMMCELSQHFDFLIESCQVGMIKPEPQIYNFLLDTLKAKPNEV
+VFLDDFGSNLKPARDMGMVTILVHNTASALRELEKVTGTQFPEAPLPVPCNPNDVSHGYV
+TVKPGIRLHFVEMGSGPALCLCHGFPESWFSWRYQIPALAQAGFRVLAIDMKGYGDSSSP
+PEIEEYAMELLCKEMVTFLDKLGIPQAVFIGHDWAGVMVWNMALFYPERVRAVASLNTPF
+MPPDPDVSPMKVIRSIPVFNYQLYFQEPGVAEAELEKNMSRTFKSFFRASDETGFIAVHK
+ATEIGGILVNTPEDPNLSKITTEEEIEFYIQQFKKTGFRGPLNWYRNTERNWKWSCKGLG
+RKILVPALMVTAEKDIVLRPEMSKNMEKWIPFLKRGHIEDCGHWTQIEKPTEVNQILIKW
+LQTEVQNPSVTSKI
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

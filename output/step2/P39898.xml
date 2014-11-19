@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1995-02-01" modified="2014-10-29" version="90">
+<accession>P39898</accession>
+<name>PLM1_PLAFA</name>
+<protein>
+<recommendedName>
+<fullName>Plasmepsin-1</fullName>
+<ecNumber>3.4.23.38</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Aspartic hemoglobinase I</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PfAPG</fullName>
+</alternativeName>
+</protein>
+<organism>
+<name type="scientific">Plasmodium falciparum</name>
+<dbReference type="NCBI Taxonomy" id="5833"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Laverania)</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="EMBO J." volume="13" first="306" last="317">
+<title>Molecular characterization and inhibition of a Plasmodium falciparum aspartic hemoglobinase.</title>
+<authorList>
+<person name="Francis S.E."/>
+<person name="Gluzman I.Y."/>
+<person name="Oksman A."/>
+<person name="Knickerbocker A."/>
+<person name="Mueller R."/>
+<person name="Bryant M.L."/>
+<person name="Sherman D.R."/>
+<person name="Russell D.G."/>
+<person name="Goldberg D.E."/>
+</authorList>
+<dbReference type="PubMed" id="8313875"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<strain>FAF-2</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1991" name="J. Exp. Med." volume="173" first="961" last="969">
+<title>Hemoglobin degradation in the human malaria pathogen Plasmodium falciparum: a catabolic pathway initiated by a specific aspartic protease.</title>
+<authorList>
+<person name="Goldberg D.E."/>
+<person name="Slater A.F.G."/>
+<person name="Beavis R."/>
+<person name="Chait B."/>
+<person name="Cerami A."/>
+<person name="Henderson G.B."/>
+</authorList>
+<dbReference type="PubMed" id="2007860"/>
+<dbReference type="DOI" id="10.1084/jem.173.4.961"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 125-146</scope>
+</reference>
+<comment type="function">
+<text>Participates in the digestion of the host hemoglobin. Initial cleavage at the hinge region of hemoglobin, than cleaves at other sites, leading to denaturation of the molecule and to further degradation.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Hydrolysis of the 33-Phe-|-Leu-34 bond in the alpha-chain of hemoglobin, leading to denaturation of molecule.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<phDependence>Optimum pH is 4.5-5.</phDependence>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Vacuole</location>
+</subcellularLocation>
+<text>Could be first anchored to the membrane through its propeptide before being released.</text>
+</comment>
+<comment type="developmental stage">
+<text>Erythrocytic stages.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the peptidase A1 family.</text>
+</comment>
+<dbReference type="EC" id="3.4.23.38"/>
+<dbReference type="EMBL" id="X75787">
+<property type="protein sequence ID" value="CAA53432.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S41717">
+<property type="entry name" value="S41717"/>
+</dbReference>
+<dbReference type="PDB" id="1LCR">
+<property type="method" value="Model"/>
+<property type="chains" value="A=78-452"/>
+</dbReference>
+<dbReference type="PDB" id="1LDU">
+<property type="method" value="Model"/>
+<property type="chains" value="A=73-452"/>
+</dbReference>
+<dbReference type="PDB" id="3QRV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=117-452"/>
+</dbReference>
+<dbReference type="PDB" id="3QS1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B/C/D=117-452"/>
+</dbReference>
+<dbReference type="PDBsum" id="1LCR"/>
+<dbReference type="PDBsum" id="1LDU"/>
+<dbReference type="PDBsum" id="3QRV"/>
+<dbReference type="PDBsum" id="3QS1"/>
+<dbReference type="ProteinModelPortal" id="P39898"/>
+<dbReference type="SMR" id="P39898">
+<property type="residue range" value="78-452"/>
+</dbReference>
+<dbReference type="BindingDB" id="P39898"/>
+<dbReference type="ChEMBL" id="CHEMBL4687"/>
+<dbReference type="MEROPS" id="A01.022"/>
+<dbReference type="PRIDE" id="P39898"/>
+<dbReference type="eggNOG" id="NOG248684"/>
+<dbReference type="BioCyc" id="MetaCyc:MONOMER-15375"/>
+<dbReference type="GO" id="GO:0005773">
+<property type="term" value="C:vacuole"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004190">
+<property type="term" value="F:aspartic-type endopeptidase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.70.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001461">
+<property type="entry name" value="Aspartic_peptidase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001969">
+<property type="entry name" value="Aspartic_peptidase_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021109">
+<property type="entry name" value="Peptidase_aspartic_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR13683">
+<property type="entry name" value="PTHR13683"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00026">
+<property type="entry name" value="Asp"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00792">
+<property type="entry name" value="PEPSIN"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50630">
+<property type="entry name" value="SSF50630"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00141">
+<property type="entry name" value="ASP_PROTEASE"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0064">Aspartyl protease</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0926">Vacuole</keyword>
+<keyword id="KW-0865">Zymogen</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end status="unknown"/>
+</location>
+</feature>
+<feature type="propeptide" description="Activation peptide" id="PRO_0000025928" evidence="4">
+<location>
+<begin status="unknown"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="chain" description="Plasmepsin-1" id="PRO_0000025929">
+<location>
+<begin position="125"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="active site" evidence="3">
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="active site" evidence="3">
+<location>
+<position position="337"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="326"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="440"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="170"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="372"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="127"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="135"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="138"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="146"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="150"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="162"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="175"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="183"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="190"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="205"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="219"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="238"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="244"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="252"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="262"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="271"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="283"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="289"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="298"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="301"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="313"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="317"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="327"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="341"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="347"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="355"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="368"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="380"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="388"/>
+<end position="391"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="393"/>
+<end position="396"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="397"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="403"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="407"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="421"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="426"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="432"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="438"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="442"/>
+<end position="448"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10094"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2007860"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="452" mass="51461" checksum="8F8F8478F2F7D931" modified="1995-11-01" version="2" precursor="true">
+MALSIKEDFSSAFAKNESAVNSSTFNNNMKTWKIQKRFQILYVFFFLLITGALFYYLIDN
+VLFPKNKKINEIMNTSKHVIIGFSIENSHDRIMKTVKQHRLKNYIKESLKFFKTGLTQKP
+HLGNAGDSVTLNDVANVMYYGEAQIGDNKQKFAFIFDTGSANLWVPSAQCNTIGCKTKNL
+YDSNKSKTYEKDGTKVEMNYVSGTVSGFFSKDIVTIANLSFPYKFIEVTDTNGFEPAYTL
+GQFDGIVGLGWKDLSIGSVDPVVVELKNQNKIEQAVFTFYLPFDDKHKGYLTIGGIEDRF
+YEGQLTYEKLNHDLYWQVDLDLHFGNLTVEKATAIVDSGTSSITAPTEFLNKFFEGLDVV
+KIPFLPLYITTCNNPKLPTLEFRSATNVYTLEPEYYLQQIFDFGISLCMVSIIPVDLNKN
+TFILGDPFMRKYFTVFDYDNHTVGFALAKKKL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="1996-11-01" modified="2014-10-29" version="104">
+<accession>Q72547</accession>
+<name>Q72547_9HIV1</name>
+<protein>
+<submittedName>
+<fullName evidence="6">Reverse transcriptase/RNaseH</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="6">pol</name>
+</gene>
+<organism evidence="6">
+<name type="scientific">Human immunodeficiency virus 1</name>
+<dbReference type="NCBI Taxonomy" id="11676"/>
+<lineage>
+<taxon>Viruses</taxon>
+<taxon>Retro-transcribing viruses</taxon>
+<taxon>Retroviridae</taxon>
+<taxon>Orthoretrovirinae</taxon>
+<taxon>Lentivirus</taxon>
+<taxon>Primate lentivirus group</taxon>
+</lineage>
+</organism>
+<organismHost>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+</organismHost>
+<reference key="1" evidence="6">
+<citation type="journal article" date="1995" name="Virology" volume="212" first="58" last="68">
+<title>Characterisation of foscarnet-resistant strains of human immunodeficiency virus type 1.</title>
+<authorList>
+<person name="Tachedjian G."/>
+<person name="Hooker D.J."/>
+<person name="Gurusinghe A.D."/>
+<person name="Bazmi H."/>
+<person name="Deacon N.J."/>
+<person name="Mellors J."/>
+<person name="Birch C."/>
+<person name="Mills J."/>
+</authorList>
+<dbReference type="PubMed" id="7545854"/>
+<dbReference type="DOI" id="10.1006/viro.1995.1453"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="6">HXBC</strain>
+</source>
+</reference>
+<reference key="2" evidence="7">
+<citation type="journal article" date="2009" name="J. Med. Chem." volume="52" first="1219" last="1223">
+<title>Novel indazole non-nucleoside reverse transcriptase inhibitors using molecular hybridization based on crystallographic overlays.</title>
+<authorList>
+<person name="Jones L.H."/>
+<person name="Allan G."/>
+<person name="Barba O."/>
+<person name="Burt C."/>
+<person name="Corbau R."/>
+<person name="Dupont T."/>
+<person name="Knochel T."/>
+<person name="Irving S."/>
+<person name="Middleton D.S."/>
+<person name="Mowbray C.E."/>
+<person name="Perros M."/>
+<person name="Ringrose H."/>
+<person name="Swain N.A."/>
+<person name="Webster R."/>
+<person name="Westby M."/>
+<person name="Phillips C."/>
+</authorList>
+<dbReference type="PubMed" id="19175319"/>
+<dbReference type="DOI" id="10.1021/jm801322h"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS)</scope>
+</reference>
+<reference key="3" evidence="8">
+<citation type="journal article" date="2009" name="J. Med. Chem." volume="52" first="5781" last="5784">
+<title>RNase H active site inhibitors of human immunodeficiency virus type 1 reverse transcriptase: design, biochemical activity, and structural information.</title>
+<authorList>
+<person name="Kirschberg T.A."/>
+<person name="Balakrishnan M."/>
+<person name="Squires N.H."/>
+<person name="Barnes T."/>
+<person name="Brendza K.M."/>
+<person name="Chen X."/>
+<person name="Eisenberg E.J."/>
+<person name="Jin W."/>
+<person name="Kutty N."/>
+<person name="Leavitt S."/>
+<person name="Liclican A."/>
+<person name="Liu Q."/>
+<person name="Liu X."/>
+<person name="Mak J."/>
+<person name="Perry J.K."/>
+<person name="Wang M."/>
+<person name="Watkins W.J."/>
+<person name="Lansdon E.B."/>
+</authorList>
+<dbReference type="PubMed" id="19791799"/>
+<dbReference type="DOI" id="10.1021/jm900597q"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.70 ANGSTROMS) OF 427-506 AND 517-561</scope>
+</reference>
+<reference key="4" evidence="9 10">
+<citation type="journal article" date="2011" name="Antimicrob. Agents Chemother." volume="55" first="2905" last="2915">
+<title>Structural and binding analysis of pyrimidinol carboxylic acid and N-hydroxy quinazolinedione HIV-1 RNase H inhibitors.</title>
+<authorList>
+<person name="Lansdon E.B."/>
+<person name="Liu Q."/>
+<person name="Leavitt S.A."/>
+<person name="Balakrishnan M."/>
+<person name="Perry J.K."/>
+<person name="Lancaster-Moyer C."/>
+<person name="Kutty N."/>
+<person name="Liu X."/>
+<person name="Squires N.H."/>
+<person name="Watkins W.J."/>
+<person name="Kirschberg T.A."/>
+</authorList>
+<dbReference type="PubMed" id="21464257"/>
+<dbReference type="DOI" id="10.1128/AAC.01594-10"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.40 ANGSTROMS) OF 427-506 AND 517-561 IN COMPLEX WITH MANGANESE</scope>
+</reference>
+<comment type="catalytic activity">
+<text evidence="3">Deoxynucleoside triphosphate + DNA(n) = diphosphate + DNA(n+1).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7484755"/>
+<interactant intactId="EBI-7484755"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="similarity">
+<text evidence="1">Contains 1 reverse transcriptase domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Contains RNase H domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Contains reverse transcriptase domain.</text>
+</comment>
+<dbReference type="EMBL" id="U28646">
+<property type="protein sequence ID" value="AAA93161.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A47330">
+<property type="entry name" value="A47330"/>
+</dbReference>
+<dbReference type="PIR" id="B47330">
+<property type="entry name" value="B47330"/>
+</dbReference>
+<dbReference type="PIR" id="C47330">
+<property type="entry name" value="C47330"/>
+</dbReference>
+<dbReference type="PIR" id="D47330">
+<property type="entry name" value="D47330"/>
+</dbReference>
+<dbReference type="PIR" id="E47330">
+<property type="entry name" value="E47330"/>
+</dbReference>
+<dbReference type="PIR" id="F47330">
+<property type="entry name" value="F47330"/>
+</dbReference>
+<dbReference type="PIR" id="S32132">
+<property type="entry name" value="S32132"/>
+</dbReference>
+<dbReference type="PDB" id="2JLE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-566"/>
+</dbReference>
+<dbReference type="PDB" id="3HYF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=427-506, A=517-561"/>
+</dbReference>
+<dbReference type="PDB" id="3QIN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=427-506, A=517-561"/>
+</dbReference>
+<dbReference type="PDB" id="3QIO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A=427-506, A=517-561"/>
+</dbReference>
+<dbReference type="PDBsum" id="2JLE"/>
+<dbReference type="PDBsum" id="3HYF"/>
+<dbReference type="PDBsum" id="3QIN"/>
+<dbReference type="PDBsum" id="3QIO"/>
+<dbReference type="ProteinModelPortal" id="Q72547"/>
+<dbReference type="IntAct" id="Q72547">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-8208544"/>
+<dbReference type="ChEMBL" id="CHEMBL247"/>
+<dbReference type="DrugBank" id="DB01048">
+<property type="generic name" value="Abacavir"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00705">
+<property type="generic name" value="Delavirdine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00900">
+<property type="generic name" value="Didanosine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00625">
+<property type="generic name" value="Efavirenz"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00879">
+<property type="generic name" value="Emtricitabine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00709">
+<property type="generic name" value="Lamivudine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00238">
+<property type="generic name" value="Nevirapine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08864">
+<property type="generic name" value="Rilpivirine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00649">
+<property type="generic name" value="Stavudine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00300">
+<property type="generic name" value="Tenofovir"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00943">
+<property type="generic name" value="Zalcitabine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00495">
+<property type="generic name" value="Zidovudine"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q72547"/>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="IPI:IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003676">
+<property type="term" value="F:nucleic acid binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003964">
+<property type="term" value="F:RNA-directed DNA polymerase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004523">
+<property type="term" value="F:RNA-DNA hybrid ribonuclease activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.420.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012337">
+<property type="entry name" value="RNaseH-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002156">
+<property type="entry name" value="RNaseH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000477">
+<property type="entry name" value="RT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010659">
+<property type="entry name" value="RVT_connect"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010661">
+<property type="entry name" value="RVT_thumb"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00075">
+<property type="entry name" value="RNase_H"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00078">
+<property type="entry name" value="RVT_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06815">
+<property type="entry name" value="RVT_connect"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06817">
+<property type="entry name" value="RVT_thumb"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53098">
+<property type="entry name" value="SSF53098"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50879">
+<property type="entry name" value="RNASE_H"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50878">
+<property type="entry name" value="RT_POL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="7 8">3D-structure</keyword>
+<keyword id="KW-0464" evidence="8 9">Manganese</keyword>
+<keyword id="KW-0479" evidence="8 9">Metal-binding</keyword>
+<keyword id="KW-0548" evidence="2 6">Nucleotidyltransferase</keyword>
+<keyword id="KW-0695" evidence="2 6">RNA-directed DNA polymerase</keyword>
+<keyword id="KW-0808" evidence="2 6">Transferase</keyword>
+<feature type="metal ion-binding site" description="Manganese" evidence="9 10">
+<location>
+<position position="443"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese" evidence="9 10">
+<location>
+<position position="478"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Manganese" evidence="9 10">
+<location>
+<position position="498"/>
+</location>
+</feature>
+<feature type="binding site" description="Sulfate">
+<location>
+<position position="461"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="6">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="6">
+<location>
+<position position="566"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU000322"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00108448"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00108528"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00108563"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="SAAS" id="SAAS00142830"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAA93161.1"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2JLE"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3HYF"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3QIN"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3QIO"/>
+</source>
+</evidence>
+<sequence length="566" mass="65224" checksum="AA4B9287ECC4E5C6" modified="1996-11-01" version="1" fragment="single">
+PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPENPYNTPV
+FAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKRKSVTVLDVGDAYFSVPL
+DEDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFRKQNPDIVI
+YQYMDDLYVGSDLEIGQHRTKIEELRQHLLRWGLTTPDKKHQKEPPFLWMGYELHPDKWT
+VQPIVLPEKDSWTVNDIQKLVGKLNWASQIYPGIRVRQLCKLLRGTKALTEVIPLTEEAE
+LELAENREILKEPVHGVYYDPSKDLIAEIQKQGQGQWTYQIYQEPFKNLRTGKYARMRGA
+HTNDVKQLTEAVQKITTESIVIWGKTPKFKLPIQKETWETWWTEYWQATWIPEWEFVNTP
+PLVKLWYQLEKEPIVGAETFYVDGAANRETKLGKAGYVTNRGRQKVVTLTDTTNQKTELQ
+AIYLALQDSGLEVNIVTDSQYALGIIQAQPDQSESELVNQIIEQLIKKEKVYLAWVPAHK
+GIGGNEQVDKLVSAGIRKVLFLDGID
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

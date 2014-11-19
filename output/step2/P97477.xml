@@ -1,0 +1,1280 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2003-01-27" modified="2014-10-29" version="145">
+<accession>P97477</accession>
+<accession>O35624</accession>
+<accession>Q8C3H8</accession>
+<accession>Q91YU4</accession>
+<name>AURKA_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>Aurora kinase A</fullName>
+<ecNumber>2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Aurora 2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Aurora family kinase 1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Aurora/IPL1-related kinase 1</fullName>
+<shortName>ARK-1</shortName>
+<shortName>Aurora-related kinase 1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Ipl1- and aurora-related kinase 1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Serine/threonine-protein kinase 6</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Serine/threonine-protein kinase Ayk1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Serine/threonine-protein kinase aurora-A</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">Aurka</name>
+<name type="synonym">Aik</name>
+<name type="synonym">Airk</name>
+<name type="synonym">Ark1</name>
+<name type="synonym">Aura</name>
+<name type="synonym">Ayk1</name>
+<name type="synonym">Btak</name>
+<name type="synonym">Iak1</name>
+<name type="synonym">Stk15</name>
+<name type="synonym">Stk6</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Sciurognathi</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="J. Cell Biol." volume="138" first="643" last="656">
+<title>A novel mammalian, mitotic spindle-associated kinase is related to yeast and fly chromosome segregation regulators.</title>
+<authorList>
+<person name="Gopalan G."/>
+<person name="Chan C.S.M."/>
+<person name="Donovan P.J."/>
+</authorList>
+<dbReference type="PubMed" id="9245792"/>
+<dbReference type="DOI" id="10.1083/jcb.138.3.643"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+<scope>INDUCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>FUNCTION</scope>
+<source>
+<strain>BALB/c</strain>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Oncogene" volume="14" first="2943" last="2950">
+<title>ayk1, a novel mammalian gene related to Drosophila aurora centrosome separation kinase, is specifically expressed during meiosis.</title>
+<authorList>
+<person name="Yanai A."/>
+<person name="Arama E."/>
+<person name="Kilfin G."/>
+<person name="Motro B."/>
+</authorList>
+<dbReference type="PubMed" id="9205101"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1201144"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1998" name="Biochem. Biophys. Res. Commun." volume="244" first="285" last="292">
+<title>cDNA cloning, expression, subcellular localization, and chromosomal assignment of mammalian aurora homologues, aurora-related kinase (ARK) 1 and 2.</title>
+<authorList>
+<person name="Shindo M."/>
+<person name="Nakano H."/>
+<person name="Kuroyanagi H."/>
+<person name="Shirasawa T."/>
+<person name="Mihara M."/>
+<person name="Gilbert D.J."/>
+<person name="Jenkins N.A."/>
+<person name="Copeland N.G."/>
+<person name="Yagita H."/>
+<person name="Okumura K."/>
+</authorList>
+<dbReference type="PubMed" id="9514916"/>
+<dbReference type="DOI" id="10.1006/bbrc.1998.8250"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<source>
+<strain>BALB/c</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Science" volume="309" first="1559" last="1563">
+<title>The transcriptional landscape of the mammalian genome.</title>
+<authorList>
+<person name="Carninci P."/>
+<person name="Kasukawa T."/>
+<person name="Katayama S."/>
+<person name="Gough J."/>
+<person name="Frith M.C."/>
+<person name="Maeda N."/>
+<person name="Oyama R."/>
+<person name="Ravasi T."/>
+<person name="Lenhard B."/>
+<person name="Wells C."/>
+<person name="Kodzius R."/>
+<person name="Shimokawa K."/>
+<person name="Bajic V.B."/>
+<person name="Brenner S.E."/>
+<person name="Batalov S."/>
+<person name="Forrest A.R."/>
+<person name="Zavolan M."/>
+<person name="Davis M.J."/>
+<person name="Wilming L.G."/>
+<person name="Aidinis V."/>
+<person name="Allen J.E."/>
+<person name="Ambesi-Impiombato A."/>
+<person name="Apweiler R."/>
+<person name="Aturaliya R.N."/>
+<person name="Bailey T.L."/>
+<person name="Bansal M."/>
+<person name="Baxter L."/>
+<person name="Beisel K.W."/>
+<person name="Bersano T."/>
+<person name="Bono H."/>
+<person name="Chalk A.M."/>
+<person name="Chiu K.P."/>
+<person name="Choudhary V."/>
+<person name="Christoffels A."/>
+<person name="Clutterbuck D.R."/>
+<person name="Crowe M.L."/>
+<person name="Dalla E."/>
+<person name="Dalrymple B.P."/>
+<person name="de Bono B."/>
+<person name="Della Gatta G."/>
+<person name="di Bernardo D."/>
+<person name="Down T."/>
+<person name="Engstrom P."/>
+<person name="Fagiolini M."/>
+<person name="Faulkner G."/>
+<person name="Fletcher C.F."/>
+<person name="Fukushima T."/>
+<person name="Furuno M."/>
+<person name="Futaki S."/>
+<person name="Gariboldi M."/>
+<person name="Georgii-Hemming P."/>
+<person name="Gingeras T.R."/>
+<person name="Gojobori T."/>
+<person name="Green R.E."/>
+<person name="Gustincich S."/>
+<person name="Harbers M."/>
+<person name="Hayashi Y."/>
+<person name="Hensch T.K."/>
+<person name="Hirokawa N."/>
+<person name="Hill D."/>
+<person name="Huminiecki L."/>
+<person name="Iacono M."/>
+<person name="Ikeo K."/>
+<person name="Iwama A."/>
+<person name="Ishikawa T."/>
+<person name="Jakt M."/>
+<person name="Kanapin A."/>
+<person name="Katoh M."/>
+<person name="Kawasawa Y."/>
+<person name="Kelso J."/>
+<person name="Kitamura H."/>
+<person name="Kitano H."/>
+<person name="Kollias G."/>
+<person name="Krishnan S.P."/>
+<person name="Kruger A."/>
+<person name="Kummerfeld S.K."/>
+<person name="Kurochkin I.V."/>
+<person name="Lareau L.F."/>
+<person name="Lazarevic D."/>
+<person name="Lipovich L."/>
+<person name="Liu J."/>
+<person name="Liuni S."/>
+<person name="McWilliam S."/>
+<person name="Madan Babu M."/>
+<person name="Madera M."/>
+<person name="Marchionni L."/>
+<person name="Matsuda H."/>
+<person name="Matsuzawa S."/>
+<person name="Miki H."/>
+<person name="Mignone F."/>
+<person name="Miyake S."/>
+<person name="Morris K."/>
+<person name="Mottagui-Tabar S."/>
+<person name="Mulder N."/>
+<person name="Nakano N."/>
+<person name="Nakauchi H."/>
+<person name="Ng P."/>
+<person name="Nilsson R."/>
+<person name="Nishiguchi S."/>
+<person name="Nishikawa S."/>
+<person name="Nori F."/>
+<person name="Ohara O."/>
+<person name="Okazaki Y."/>
+<person name="Orlando V."/>
+<person name="Pang K.C."/>
+<person name="Pavan W.J."/>
+<person name="Pavesi G."/>
+<person name="Pesole G."/>
+<person name="Petrovsky N."/>
+<person name="Piazza S."/>
+<person name="Reed J."/>
+<person name="Reid J.F."/>
+<person name="Ring B.Z."/>
+<person name="Ringwald M."/>
+<person name="Rost B."/>
+<person name="Ruan Y."/>
+<person name="Salzberg S.L."/>
+<person name="Sandelin A."/>
+<person name="Schneider C."/>
+<person name="Schoenbach C."/>
+<person name="Sekiguchi K."/>
+<person name="Semple C.A."/>
+<person name="Seno S."/>
+<person name="Sessa L."/>
+<person name="Sheng Y."/>
+<person name="Shibata Y."/>
+<person name="Shimada H."/>
+<person name="Shimada K."/>
+<person name="Silva D."/>
+<person name="Sinclair B."/>
+<person name="Sperling S."/>
+<person name="Stupka E."/>
+<person name="Sugiura K."/>
+<person name="Sultana R."/>
+<person name="Takenaka Y."/>
+<person name="Taki K."/>
+<person name="Tammoja K."/>
+<person name="Tan S.L."/>
+<person name="Tang S."/>
+<person name="Taylor M.S."/>
+<person name="Tegner J."/>
+<person name="Teichmann S.A."/>
+<person name="Ueda H.R."/>
+<person name="van Nimwegen E."/>
+<person name="Verardo R."/>
+<person name="Wei C.L."/>
+<person name="Yagi K."/>
+<person name="Yamanishi H."/>
+<person name="Zabarovsky E."/>
+<person name="Zhu S."/>
+<person name="Zimmer A."/>
+<person name="Hide W."/>
+<person name="Bult C."/>
+<person name="Grimmond S.M."/>
+<person name="Teasdale R.D."/>
+<person name="Liu E.T."/>
+<person name="Brusic V."/>
+<person name="Quackenbush J."/>
+<person name="Wahlestedt C."/>
+<person name="Mattick J.S."/>
+<person name="Hume D.A."/>
+<person name="Kai C."/>
+<person name="Sasaki D."/>
+<person name="Tomaru Y."/>
+<person name="Fukuda S."/>
+<person name="Kanamori-Katayama M."/>
+<person name="Suzuki M."/>
+<person name="Aoki J."/>
+<person name="Arakawa T."/>
+<person name="Iida J."/>
+<person name="Imamura K."/>
+<person name="Itoh M."/>
+<person name="Kato T."/>
+<person name="Kawaji H."/>
+<person name="Kawagashira N."/>
+<person name="Kawashima T."/>
+<person name="Kojima M."/>
+<person name="Kondo S."/>
+<person name="Konno H."/>
+<person name="Nakano K."/>
+<person name="Ninomiya N."/>
+<person name="Nishio T."/>
+<person name="Okada M."/>
+<person name="Plessy C."/>
+<person name="Shibata K."/>
+<person name="Shiraki T."/>
+<person name="Suzuki S."/>
+<person name="Tagami M."/>
+<person name="Waki K."/>
+<person name="Watahiki A."/>
+<person name="Okamura-Oho Y."/>
+<person name="Suzuki H."/>
+<person name="Kawai J."/>
+<person name="Hayashizaki Y."/>
+</authorList>
+<dbReference type="PubMed" id="16141072"/>
+<dbReference type="DOI" id="10.1126/science.1112014"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>C57BL/6J</strain>
+<tissue>Heart</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2)</scope>
+<source>
+<tissue>Mammary gland</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2005" name="Nat. Genet." volume="37" first="401" last="406">
+<title>Chfr is required for tumor suppression and Aurora A regulation.</title>
+<authorList>
+<person name="Yu X."/>
+<person name="Minter-Dykhouse K."/>
+<person name="Malureanu L."/>
+<person name="Zhao W.-M."/>
+<person name="Zhang D."/>
+<person name="Merkle C.J."/>
+<person name="Ward I.M."/>
+<person name="Saya H."/>
+<person name="Fang G."/>
+<person name="van Deursen J."/>
+<person name="Chen J."/>
+</authorList>
+<dbReference type="PubMed" id="15793587"/>
+<dbReference type="DOI" id="10.1038/ng1538"/>
+</citation>
+<scope>UBIQUITINATION BY CHFR</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Mol. Cell. Biol." volume="29" first="1059" last="1071">
+<title>Aurora-A kinase is essential for bipolar spindle formation and early development.</title>
+<authorList>
+<person name="Cowley D.O."/>
+<person name="Rivera-Perez J.A."/>
+<person name="Schliekelman M."/>
+<person name="He Y.J."/>
+<person name="Oliver T.G."/>
+<person name="Lu L."/>
+<person name="O'Quinn R."/>
+<person name="Salmon E.D."/>
+<person name="Magnuson T."/>
+<person name="Van Dyke T."/>
+</authorList>
+<dbReference type="PubMed" id="19075002"/>
+<dbReference type="DOI" id="10.1128/MCB.01062-08"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DISRUPTION PHENOTYPE</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Nat. Cell Biol." volume="11" first="1057" last="1068">
+<title>An essential role of the aPKC-Aurora A-NDEL1 pathway in neurite elongation by modulation of microtubule dynamics.</title>
+<authorList>
+<person name="Mori D."/>
+<person name="Yamada M."/>
+<person name="Mimori-Kiyosue Y."/>
+<person name="Shirai Y."/>
+<person name="Suzuki A."/>
+<person name="Ohno S."/>
+<person name="Saya H."/>
+<person name="Wynshaw-Boris A."/>
+<person name="Hirotsune S."/>
+</authorList>
+<dbReference type="PubMed" id="19668197"/>
+<dbReference type="DOI" id="10.1038/ncb1919"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Dev. Cell" volume="19" first="66" last="77">
+<title>Pitchfork regulates primary cilia disassembly and left-right asymmetry.</title>
+<authorList>
+<person name="Kinzel D."/>
+<person name="Boldt K."/>
+<person name="Davis E.E."/>
+<person name="Burtscher I."/>
+<person name="Trumbach D."/>
+<person name="Diplas B."/>
+<person name="Attie-Bitach T."/>
+<person name="Wurst W."/>
+<person name="Katsanis N."/>
+<person name="Ueffing M."/>
+<person name="Lickert H."/>
+</authorList>
+<dbReference type="PubMed" id="20643351"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2010.06.005"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PIFO</scope>
+<scope>ACTIVATION BY PIFO</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2012" name="Cell Cycle" volume="11" first="721" last="729">
+<title>Novel E3 ligase component FBXL7 ubiquitinates and degrades Aurora A, causing mitotic arrest.</title>
+<authorList>
+<person name="Coon T.A."/>
+<person name="Glasser J.R."/>
+<person name="Mallampalli R.K."/>
+<person name="Chen B.B."/>
+</authorList>
+<dbReference type="PubMed" id="22306998"/>
+<dbReference type="DOI" id="10.4161/cc.11.4.19171"/>
+</citation>
+<scope>UBIQUITINATION</scope>
+<scope>INTERACTION WITH FBXL7</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="27670" last="27681">
+<title>Furry protein promotes Aurora A-mediated polo-like kinase 1 activation.</title>
+<authorList>
+<person name="Ikeda M."/>
+<person name="Chiba S."/>
+<person name="Ohashi K."/>
+<person name="Mizuno K."/>
+</authorList>
+<dbReference type="PubMed" id="22753416"/>
+<dbReference type="DOI" id="10.1074/jbc.M112.378968"/>
+</citation>
+<scope>INTERACTION WITH FRY</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Bioorg. Med. Chem. Lett." volume="18" first="3978" last="3981">
+<title>Discovery of an Aurora kinase inhibitor through site-specific dynamic combinatorial chemistry.</title>
+<authorList>
+<person name="Cancilla M.T."/>
+<person name="He M.M."/>
+<person name="Viswanathan N."/>
+<person name="Simmons R.L."/>
+<person name="Taylor M."/>
+<person name="Fung A.D."/>
+<person name="Cao K."/>
+<person name="Erlanson D.A."/>
+</authorList>
+<dbReference type="PubMed" id="18579375"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2008.06.011"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 116-381 IN COMPLEX WITH SYNTHETIC INHIBITOR</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2008" name="Bioorg. Med. Chem. Lett." volume="18" first="4880" last="4884">
+<title>Discovery of a potent and selective aurora kinase inhibitor.</title>
+<authorList>
+<person name="Oslob J.D."/>
+<person name="Romanowski M.J."/>
+<person name="Allen D.A."/>
+<person name="Baskaran S."/>
+<person name="Bui M."/>
+<person name="Elling R.A."/>
+<person name="Flanagan W.M."/>
+<person name="Fung A.D."/>
+<person name="Hanan E.J."/>
+<person name="Harris S."/>
+<person name="Heumann S.A."/>
+<person name="Hoch U."/>
+<person name="Jacobs J.W."/>
+<person name="Lam J."/>
+<person name="Lawrence C.E."/>
+<person name="McDowell R.S."/>
+<person name="Nannini M.A."/>
+<person name="Shen W."/>
+<person name="Silverman J.A."/>
+<person name="Sopko M.M."/>
+<person name="Tangonan B.T."/>
+<person name="Teague J."/>
+<person name="Yoburn J.C."/>
+<person name="Yu C.H."/>
+<person name="Zhong M."/>
+<person name="Zimmerman K.M."/>
+<person name="O'Brien T."/>
+<person name="Lew W."/>
+</authorList>
+<dbReference type="PubMed" id="18678489"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2008.07.073"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 116-381 IN COMPLEX WITH SYNTHETIC INHIBITOR</scope>
+</reference>
+<comment type="function">
+<text evidence="7 8 9 12">Mitotic serine/threonine kinases that contributes to the regulation of cell cycle progression. Associates with the centrosome and the spindle microtubules during mitosis and plays a critical role in various mitotic events including the establishment of mitotic spindle, centrosome duplication, centrosome separation as well as maturation, chromosomal alignment, spindle assembly checkpoint, and cytokinesis. Required for initial activation of CDK1 at centrosomes. Phosphorylates numerous target proteins, including ARHGEF2, BORA, BRCA1, CDC25B, DLGP5, HDAC6, KIF2A, LATS2, NDEL1, PARD3, PPP1R2, PLK1, RASSF1, TACC3, p53/TP53 and TPX2. Regulates KIF2A tubulin depolymerase activity. Required for normal axon formation. Plays a role in microtubule remodeling during neurite extension. Important for microtubule formation and/or stabilization. Also acts as a key regulatory component of the p53/TP53 pathway, and particularly the checkpoint-response pathways critical for oncogenic transformation of cells, by phosphorylating and stabilizing p53/TP53. Phosphorylates its own inhibitors, the protein phosphatase type 1 (PP1) isoforms, to inhibit their activity. Necessary for proper cilia disassembly prior to mitosis.</text>
+</comment>
+<comment type="catalytic activity">
+<text>ATP + a protein = ADP + a phosphoprotein.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">Activation of CDK1, appears to be an upstream event of AURKA activation. Phosphatase inhibitor-2 (PPP1R2) and TPX2 act also as activators. Inactivated by the G2 checkpoint. Inhibited by GADD45A and p53/TP53, and through dephosphorylation by protein phosphatase type 1 (PP1). MLN8054 is also a potent and selective inhibitor (By similarity). Activated during the early phase of cilia disassembly in the presence of PIFO.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 5 6 9 10 11">Interacts with CPEB1, JTB, TACC1, TPX2, PPP2CA, as well as with the protein phosphatase type 1 (PP1) isoforms PPP1CA, PPP1CB and PPP1CC (By similarity). Interacts also with its substrates ARHGEF2, BORA, BRCA1, KIF2A, PARD3, and p53/TP53. Interaction with BORA promotes phosphorylation of PLK1. Interacts with GADD45A, competing with its oligomerization (By similarity). Interacts with FBXL7 and PIFO. Interacts (via C-terminus) with AUNIP (via C-terminus) (By similarity). Identified in a complex with AUNIP and NIN (By similarity). Interacts with SIRT2 (By similarity). Interacts with FRY; this interaction facilitates AURKA-mediated PLK1 phosphorylation.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+<location>Microtubule organizing center</location>
+<location>Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+<location>Spindle pole</location>
+</subcellularLocation>
+<text evidence="1">Localizes on centrosomes in interphase cells and at each spindle pole in mitosis. Associates with both the pericentriolar material (PCM) and centrioles. Colocalized with SIRT2 at centrosome (By similarity). Detected at the neurite hillock in developing neurons.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P97477-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P97477-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_004871"/>
+<note>May be less abundant or less stable.</note>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="8 12">Detected in embryonic neurons in dorsal root ganglia and brain cortex (at protein level). Highly expressed in testis, in about one third of the seminiferous tubules. Expression is restricted to specific spermatocytes nearing completion of prophase, with levels falling off on transition to elongated spermatids. Highly expressed in the ovary, expression in the oocyte starts around the transition to large growing follicle. Abundant expression is seen in the proliferating granulosa and thecal cells of the growing follicle, and in the young corpus luteum. Very weakly expressed in spleen and intestine.</text>
+</comment>
+<comment type="developmental stage">
+<text>At 7.5-9.5 dpc expressed evenly all over the embryo. At later stages, expression is mainly restricted to proliferating zones. The highest levels of expression at mid-embryonic development (13.5 dpc) were observed in the liver, lung, kidney and back (trapezius) muscle and all regions in active proliferation.</text>
+</comment>
+<comment type="induction">
+<text evidence="12">expression is cell cycle regulated and peaks at phase G2/M.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Activated by phosphorylation at Thr-279; this brings about a change in the conformation of the activation segment. Phosphorylation at Thr-279 varies during the cell cycle and is highest during M phase. Autophosphorylated at Thr-279 upon TPX2 binding. Thr-279 can be phosphorylated by several kinases, including PAK and PKA. Protein phosphatase type 1 (PP1) binds AURKA and inhibits its activity by dephosphorylating Thr-279 during mitosis. Phosphorylation at Ser-333 decreases the kinase activity. PPP2CA controls degradation by dephosphorylating Ser-52 at the end of mitosis (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="1 4 10">Ubiquitinated by the anaphase-promoting complex (APC), leading to its degradation by the proteasome (By similarity). Ubiquitinated by CHFR, leading to its degradation by the proteasome. Ubiquitinated by the E3 ubiquitin-protein ligase complex SCF(FBXL7) during mitosis, leading to its degradation by the proteasome.</text>
+</comment>
+<comment type="disruption phenotype">
+<text evidence="7">Death at the blastocyst stage due to mitotic defects and failure of cell proliferation.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Centrosome amplification can occur when the cycles are uncoupled, and this amplification is associated with cancer and with an increase in the levels of chromosomal instability.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Contains 1 protein kinase domain.</text>
+</comment>
+<comment type="sequence caution" evidence="15">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="BAC39557" version="1"/>
+</conflict>
+<location>
+<position position="382"/>
+</location>
+</comment>
+<dbReference type="EC" id="2.7.11.1"/>
+<dbReference type="EMBL" id="U80932">
+<property type="protein sequence ID" value="AAB62982.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF007817">
+<property type="protein sequence ID" value="AAB63205.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U69106">
+<property type="protein sequence ID" value="AAC12682.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK085861">
+<property type="protein sequence ID" value="BAC39557.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC005425">
+<property type="protein sequence ID" value="AAH05425.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC014711">
+<property type="protein sequence ID" value="AAH14711.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS17129.1">
+<molecule id="P97477-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS71204.1">
+<molecule id="P97477-1"/>
+</dbReference>
+<dbReference type="PIR" id="JC5975">
+<property type="entry name" value="JC5975"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001278114.1">
+<molecule id="P97477-1"/>
+<property type="nucleotide sequence ID" value="NM_001291185.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_035627.1">
+<molecule id="P97477-2"/>
+<property type="nucleotide sequence ID" value="NM_011497.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_006499138.1">
+<molecule id="P97477-1"/>
+<property type="nucleotide sequence ID" value="XM_006499075.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Mm.249363"/>
+<dbReference type="PDB" id="3D14">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDB" id="3D15">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDB" id="3D2I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDB" id="3D2K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDB" id="3DAJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDB" id="3DJ5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDB" id="3DJ6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDB" id="3DJ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=116-381"/>
+</dbReference>
+<dbReference type="PDBsum" id="3D14"/>
+<dbReference type="PDBsum" id="3D15"/>
+<dbReference type="PDBsum" id="3D2I"/>
+<dbReference type="PDBsum" id="3D2K"/>
+<dbReference type="PDBsum" id="3DAJ"/>
+<dbReference type="PDBsum" id="3DJ5"/>
+<dbReference type="PDBsum" id="3DJ6"/>
+<dbReference type="PDBsum" id="3DJ7"/>
+<dbReference type="ProteinModelPortal" id="P97477"/>
+<dbReference type="SMR" id="P97477">
+<property type="residue range" value="5-379"/>
+</dbReference>
+<dbReference type="BioGrid" id="203548">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="IntAct" id="P97477">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="BindingDB" id="P97477"/>
+<dbReference type="ChEMBL" id="CHEMBL2211"/>
+<dbReference type="PhosphoSite" id="P97477"/>
+<dbReference type="MaxQB" id="P97477"/>
+<dbReference type="PaxDb" id="P97477"/>
+<dbReference type="PRIDE" id="P97477"/>
+<dbReference type="Ensembl" id="ENSMUST00000028997">
+<molecule id="P97477-2"/>
+<property type="protein sequence ID" value="ENSMUSP00000028997"/>
+<property type="gene ID" value="ENSMUSG00000027496"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENSMUST00000109139">
+<molecule id="P97477-1"/>
+<property type="protein sequence ID" value="ENSMUSP00000104767"/>
+<property type="gene ID" value="ENSMUSG00000027496"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENSMUST00000109140">
+<molecule id="P97477-1"/>
+<property type="protein sequence ID" value="ENSMUSP00000104768"/>
+<property type="gene ID" value="ENSMUSG00000027496"/>
+</dbReference>
+<dbReference type="GeneID" id="20878"/>
+<dbReference type="KEGG" id="mmu:20878"/>
+<dbReference type="UCSC" id="uc008ocn.1">
+<molecule id="P97477-2"/>
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="UCSC" id="uc008oco.1">
+<molecule id="P97477-1"/>
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="CTD" id="6790"/>
+<dbReference type="MGI" id="MGI:894678">
+<property type="gene designation" value="Aurka"/>
+</dbReference>
+<dbReference type="eggNOG" id="COG0515"/>
+<dbReference type="GeneTree" id="ENSGT00550000074590"/>
+<dbReference type="HOVERGEN" id="HBG108519"/>
+<dbReference type="InParanoid" id="P97477"/>
+<dbReference type="KO" id="K11481"/>
+<dbReference type="OMA" id="MERSKEN"/>
+<dbReference type="OrthoDB" id="EOG74FF1F"/>
+<dbReference type="PhylomeDB" id="P97477"/>
+<dbReference type="TreeFam" id="TF105331"/>
+<dbReference type="Reactome" id="REACT_196635">
+<property type="pathway name" value="Regulation of PLK1 Activity at G2/M Transition"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_226135">
+<property type="pathway name" value="APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P97477"/>
+<dbReference type="NextBio" id="299731"/>
+<dbReference type="PRO" id="PR:P97477"/>
+<dbReference type="Bgee" id="P97477"/>
+<dbReference type="CleanEx" id="MM_AURKA"/>
+<dbReference type="ExpressionAtlas" id="P97477">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="P97477"/>
+<dbReference type="GO" id="GO:0043203">
+<property type="term" value="C:axon hillock"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042585">
+<property type="term" value="C:germinal vesicle"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072687">
+<property type="term" value="C:meiotic spindle"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005815">
+<property type="term" value="C:microtubule organizing center"/>
+<property type="evidence" value="IGI:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072686">
+<property type="term" value="C:mitotic spindle"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045120">
+<property type="term" value="C:pronucleus"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005876">
+<property type="term" value="C:spindle microtubule"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031616">
+<property type="term" value="C:spindle pole centrosome"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035174">
+<property type="term" value="F:histone serine kinase activity"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="IPI:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009948">
+<property type="term" value="P:anterior/posterior axis specification"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051642">
+<property type="term" value="P:centrosome localization"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051297">
+<property type="term" value="P:centrosome organization"/>
+<property type="evidence" value="IGI:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035404">
+<property type="term" value="P:histone-serine phosphorylation"/>
+<property type="evidence" value="IMP:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007126">
+<property type="term" value="P:meiotic nuclear division"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000212">
+<property type="term" value="P:meiotic spindle organization"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000226">
+<property type="term" value="P:microtubule cytoskeleton organization"/>
+<property type="evidence" value="IGI:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000278">
+<property type="term" value="P:mitotic cell cycle"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007100">
+<property type="term" value="P:mitotic centrosome separation"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007067">
+<property type="term" value="P:mitotic nuclear division"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007052">
+<property type="term" value="P:mitotic spindle organization"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032091">
+<property type="term" value="P:negative regulation of protein binding"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090233">
+<property type="term" value="P:negative regulation of spindle checkpoint"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990138">
+<property type="term" value="P:neuron projection extension"/>
+<property type="evidence" value="IGI:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900195">
+<property type="term" value="P:positive regulation of oocyte maturation"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032436">
+<property type="term" value="P:positive regulation of proteasomal ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071539">
+<property type="term" value="P:protein localization to centrosome"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006468">
+<property type="term" value="P:protein phosphorylation"/>
+<property type="evidence" value="IGI:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031647">
+<property type="term" value="P:regulation of protein stability"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007057">
+<property type="term" value="P:spindle assembly involved in female meiosis I"/>
+<property type="evidence" value="IMP:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043146">
+<property type="term" value="P:spindle stabilization"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017441">
+<property type="entry name" value="Protein_kinase_ATP_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002290">
+<property type="entry name" value="Ser/Thr_dual-sp_kinase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00107">
+<property type="entry name" value="PROTEIN_KINASE_ATP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-0970">Cilium biogenesis/degradation</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0493">Microtubule</keyword>
+<keyword id="KW-0498">Mitosis</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0656">Proto-oncogene</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Aurora kinase A" id="PRO_0000086693">
+<location>
+<begin position="1"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="2">
+<location>
+<begin position="124"/>
+<end position="374"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="201"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="region of interest" description="Activation segment" evidence="1">
+<location>
+<begin position="271"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2 3">
+<location>
+<position position="247"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP; via amide nitrogen" evidence="2">
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="265"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="1">
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="1">
+<location>
+<position position="279"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKA and PAK" evidence="1">
+<location>
+<position position="333"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_004871" evidence="13 14">
+<original>M</original>
+<variation>MAVEGEPGCCKRIGKAVWRRGDM</variation>
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAB63205." ref="1" evidence="15">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="234"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="121"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="124"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="131"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="136"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="144"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="149"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="157"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="166"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="187"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="194"/>
+<end position="201"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="209"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="221"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="250"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="253"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="261"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="270"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="284"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="289"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="299"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="325"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="345"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="359"/>
+<end position="361"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="365"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="372"/>
+<end position="377"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10027"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15793587"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18579375"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18678489"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19075002"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19668197"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20643351"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22306998"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22753416"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9245792"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9245792"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<sequence length="395" mass="44772" checksum="26B6B65105A1A812" modified="1997-05-01" version="1">
+MDRCKENCVSRPVKTTVPFGPKRVLVTEQIPSQNLGSASSGQAQRVLCPSNSQRVPSQAQ
+KLGAGQKPAPKQLPAASVPRPVSRLNNPQKNEQPAASGNDSEKEQASLQKTEDTKKRQWT
+LEDFDIGRPLGKGKFGNVYLARERQSKFILALKVLFKTQLEKANVEHQLRREVEIQSHLR
+HPNILRLYGYFHDATRVYLILEYAPLGTVYRELQKLSKFDEQRTATYITELANALSYCHS
+KRVIHRDIKPENLLLGSNGELKIADFGWSVHAPSSRRTTMCGTLDYLPPEMIEGRMHDEK
+VDLWSLGVLCYEFLVGMPPFEAHTYQETYRRISRVEFTFPDFVTEGARDLISRLLKHNAS
+QRLTLAEVLEHPWIKANSSKPPTGHTSKEPTSKSS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

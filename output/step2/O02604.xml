@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2014-10-29" version="88">
+<accession>O02604</accession>
+<accession>O15873</accession>
+<name>DRTS_PLAVI</name>
+<protein>
+<recommendedName>
+<fullName>Bifunctional dihydrofolate reductase-thymidylate synthase</fullName>
+<shortName>DHFR-TS</shortName>
+</recommendedName>
+<domain>
+<recommendedName>
+<fullName>Dihydrofolate reductase</fullName>
+<ecNumber>1.5.1.3</ecNumber>
+</recommendedName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>Thymidylate synthase</fullName>
+<ecNumber>2.1.1.45</ecNumber>
+</recommendedName>
+</domain>
+</protein>
+<organism>
+<name type="scientific">Plasmodium vivax</name>
+<dbReference type="NCBI Taxonomy" id="5855"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Plasmodium)</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="Gene" volume="211" first="177" last="185">
+<title>Analysis of the Plasmodium vivax dihydrofolate reductase-thymidylate synthase gene sequence.</title>
+<authorList>
+<person name="Eldin de Pecoulas P."/>
+<person name="Basco L.K."/>
+<person name="Tahar R."/>
+<person name="Ouatas T."/>
+<person name="Mazabraud A."/>
+</authorList>
+<dbReference type="PubMed" id="9573357"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(98)00118-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>Isolate Ari/Pakistan</strain>
+<strain>Isolate BUR-151</strain>
+<strain>Isolate BUR-98</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="13046" last="13051">
+<title>Crystal structure of dihydrofolate reductase from Plasmodium vivax: pyrimethamine displacement linked with mutation-induced resistance.</title>
+<authorList>
+<person name="Kongsaeree P."/>
+<person name="Khongsuk P."/>
+<person name="Leartsakulpanich U."/>
+<person name="Chitnumsub P."/>
+<person name="Tarnchompoo B."/>
+<person name="Walkinshaw M.D."/>
+<person name="Yuthavong Y."/>
+</authorList>
+<dbReference type="PubMed" id="16135570"/>
+<dbReference type="DOI" id="10.1073/pnas.0501747102"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 1-238 OF WILD TYPE AND MUTANT ARG-58/ASN-117 IN COMPLEXES WITH THE SYNTHETIC INHIBITORS PYR; PYR20 AND WITH NADP</scope>
+<scope>SUBUNIT</scope>
+<scope>CHARACTERIZATION OF PYRIMETHAMINE-RESISTANT VARIANT ASN-117</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<comment type="function">
+<text>Bifunctional enzyme. Involved in de novo dTMP biosynthesis. Key enzyme in folate metabolism. Catalyzes an essential reaction for de novo glycine and purine synthesis, DNA precursor synthesis, and for the conversion of dUMP to dTMP.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="3">5,6,7,8-tetrahydrofolate + NADP(+) = 7,8-dihydrofolate + NADPH.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="3">5,10-methylenetetrahydrofolate + dUMP = dihydrofolate + dTMP.</text>
+</comment>
+<comment type="pathway">
+<text>Cofactor biosynthesis; tetrahydrofolate biosynthesis; 5,6,7,8-tetrahydrofolate from 7,8-dihydrofolate: step 1/1.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3">Homodimer.</text>
+</comment>
+<comment type="domain">
+<text>The repeat region is missing in the pyrimethamine-resistant isolates BUR-98 and BUR-151.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">In the N-terminal section; belongs to the dihydrofolate reductase family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">In the C-terminal section; belongs to the thymidylate synthase family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Contains 1 DHFR (dihydrofolate reductase) domain.</text>
+</comment>
+<dbReference type="EC" id="1.5.1.3"/>
+<dbReference type="EC" id="2.1.1.45"/>
+<dbReference type="EMBL" id="X98123">
+<property type="protein sequence ID" value="CAA66805.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="JC6568">
+<property type="entry name" value="JC6568"/>
+</dbReference>
+<dbReference type="PDB" id="2BL9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=4-238"/>
+</dbReference>
+<dbReference type="PDB" id="2BLA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=4-238"/>
+</dbReference>
+<dbReference type="PDB" id="2BLB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=4-238"/>
+</dbReference>
+<dbReference type="PDB" id="2BLC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A=4-238"/>
+</dbReference>
+<dbReference type="PDBsum" id="2BL9"/>
+<dbReference type="PDBsum" id="2BLA"/>
+<dbReference type="PDBsum" id="2BLB"/>
+<dbReference type="PDBsum" id="2BLC"/>
+<dbReference type="ProteinModelPortal" id="O02604"/>
+<dbReference type="SMR" id="O02604">
+<property type="residue range" value="2-238, 338-623"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00077">
+<property type="reaction ID" value="UER00158"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="O02604"/>
+<dbReference type="GO" id="GO:0004146">
+<property type="term" value="F:dihydrofolate reductase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004799">
+<property type="term" value="F:thymidylate synthase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006231">
+<property type="term" value="P:dTMP biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006545">
+<property type="term" value="P:glycine biosynthetic process"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006730">
+<property type="term" value="P:one-carbon metabolic process"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046654">
+<property type="term" value="P:tetrahydrofolate biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.572.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.430.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00008">
+<property type="entry name" value="Thymidy_synth_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024072">
+<property type="entry name" value="DHFR-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012262">
+<property type="entry name" value="DHFR-TS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017925">
+<property type="entry name" value="DHFR_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001796">
+<property type="entry name" value="DHFR_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023451">
+<property type="entry name" value="Thymidate_synth/dCMP_Mease"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000398">
+<property type="entry name" value="Thymidylate_synthase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020940">
+<property type="entry name" value="Thymidylate_synthase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00186">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00303">
+<property type="entry name" value="Thymidylat_synt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000389">
+<property type="entry name" value="DHFR-TS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00108">
+<property type="entry name" value="THYMDSNTHASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF53597">
+<property type="entry name" value="SSF53597"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55831">
+<property type="entry name" value="SSF55831"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03284">
+<property type="entry name" value="thym_sym"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00075">
+<property type="entry name" value="DHFR_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51330">
+<property type="entry name" value="DHFR_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00091">
+<property type="entry name" value="THYMIDYLATE_SYNTHASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-0511">Multifunctional enzyme</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0545">Nucleotide biosynthesis</keyword>
+<keyword id="KW-0554">One-carbon metabolism</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Bifunctional dihydrofolate reductase-thymidylate synthase" id="PRO_0000186351">
+<location>
+<begin position="1"/>
+<end position="623"/>
+</location>
+</feature>
+<feature type="domain" description="DHFR">
+<location>
+<begin position="9"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="repeat" description="1">
+<location>
+<begin position="88"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="repeat" description="2">
+<location>
+<begin position="94"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="repeat" description="3">
+<location>
+<begin position="100"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP">
+<location>
+<begin position="38"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP">
+<location>
+<begin position="115"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP">
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NADP">
+<location>
+<begin position="174"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="dUMP" evidence="2">
+<location>
+<begin position="524"/>
+<end position="528"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="dUMP" evidence="2">
+<location>
+<begin position="566"/>
+<end position="568"/>
+</location>
+</feature>
+<feature type="region of interest" description="Substrate binding">
+<location>
+<begin position="13"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="region of interest" description="3 X 4 AA repeats of G-G-D-N">
+<location>
+<begin position="88"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="region of interest" description="Thymidylate synthase">
+<location>
+<begin position="337"/>
+<end position="623"/>
+</location>
+</feature>
+<feature type="active site" evidence="2">
+<location>
+<position position="505"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via amide nitrogen and carbonyl oxygen">
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="binding site" description="NADP; via carbonyl oxygen">
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via carbonyl oxygen">
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="179"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="194"/>
+</location>
+</feature>
+<feature type="binding site" description="dUMP" evidence="2">
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="binding site" description="dUMP" evidence="2">
+<location>
+<position position="506"/>
+</location>
+</feature>
+<feature type="binding site" description="dUMP" evidence="2">
+<location>
+<position position="536"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In the pyrimethamine-resistant isolates BUR-98 and BUR-151; interferes with inhibitor binding.">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In the pyrimethamine-resistant isolates BUR-98 and BUR-151.">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="4"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="10"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="23"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="38"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="46"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="51"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="66"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="69"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="115"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="123"/>
+<end position="125"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="131"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="142"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="150"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="155"/>
+<end position="163"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="170"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="176"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="189"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="203"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="211"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="214"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="223"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="228"/>
+<end position="237"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2BL9"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16135570"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="623" mass="71057" checksum="3E6E958F04FB5828" modified="2000-05-30" version="2">
+MEDLSDVFDIYAICACCKVAPTSEGTKNEPFSPRTFRGLGNKGTLPWKCNSVDMKYFSSV
+TTYVDESKYEKLKWKRERYLRMEASQGGGDNTSGGDNTHGGDNADKLQNVVVMGRSSWES
+IPKQYKPLPNRINVVLSKTLTKEDVKEKVFIIDSIDDLLLLLKKLKYYKCFIIGGAQVYR
+ECLSRNLIKQIYFTRINGAYPCDVFFPEFDESQFRVTSVSEVYNSKGTTLDFLVYSKVGG
+GVDGGASNGSTATALRRTAMRSTAMRRNVAPRTAAPPMGPHSRANGERAPPRARARRTTP
+RQRKTTSCTSALTTKWGRKTRSTCKILKFTTASRLMQHPEYQYLGIIYDIIMNGNKQGDR
+TGVGVMSNFGYMMKFNLSEYFPLLTTKKLFLRGIIEELLWFIRGETNGNTLLNKNVRIWE
+ANGTREFLDNRKLFHREVNDLGPIYGFQWRHFGAEYTNMHDNYEDKGVDQLKNVIHLIKN
+EPTSRRIILCAWNVKDLDQMALPPCHILCQFYVFDGKLSCIMYQRSCDLGLGVPFNIASY
+SIFTHMIAQVCNLQPAQFIHILGNAHVYNNHVDSLKVQLNRIPYPFPTLKLNPEVKNIED
+FTISDFTIENYVHHDKITMEMAA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

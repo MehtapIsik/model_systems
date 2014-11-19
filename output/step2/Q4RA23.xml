@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2005-07-19" modified="2014-10-29" version="30">
+<accession>Q4RA23</accession>
+<name>Q4RA23_TETNG</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Chromosome undetermined SCAF24640, whole genome shotgun sequence</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ORF" evidence="1">GSTENG00037368001</name>
+</gene>
+<organism>
+<name type="scientific">Tetraodon nigroviridis</name>
+<name type="common">Spotted green pufferfish</name>
+<name type="synonym">Chelonodon nigroviridis</name>
+<dbReference type="NCBI Taxonomy" id="99883"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Actinopterygii</taxon>
+<taxon>Neopterygii</taxon>
+<taxon>Teleostei</taxon>
+<taxon>Neoteleostei</taxon>
+<taxon>Acanthomorphata</taxon>
+<taxon>Eupercaria</taxon>
+<taxon>Tetraodontiformes</taxon>
+<taxon>Tetradontoidea</taxon>
+<taxon>Tetraodontidae</taxon>
+<taxon>Tetraodon</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="946" last="957">
+<title>Genome duplication in the teleost fish Tetraodon nigroviridis reveals the early vertebrate proto-karyotype.</title>
+<authorList>
+<person name="Jaillon O."/>
+<person name="Aury J.-M."/>
+<person name="Brunet F."/>
+<person name="Petit J.-L."/>
+<person name="Stange-Thomann N."/>
+<person name="Mauceli E."/>
+<person name="Bouneau L."/>
+<person name="Fischer C."/>
+<person name="Ozouf-Costaz C."/>
+<person name="Bernot A."/>
+<person name="Nicaud S."/>
+<person name="Jaffe D."/>
+<person name="Fisher S."/>
+<person name="Lutfalla G."/>
+<person name="Dossat C."/>
+<person name="Segurens B."/>
+<person name="Dasilva C."/>
+<person name="Salanoubat M."/>
+<person name="Levy M."/>
+<person name="Boudet N."/>
+<person name="Castellano S."/>
+<person name="Anthouard V."/>
+<person name="Jubin C."/>
+<person name="Castelli V."/>
+<person name="Katinka M."/>
+<person name="Vacherie B."/>
+<person name="Biemont C."/>
+<person name="Skalli Z."/>
+<person name="Cattolico L."/>
+<person name="Poulain J."/>
+<person name="De Berardinis V."/>
+<person name="Cruaud C."/>
+<person name="Duprat S."/>
+<person name="Brottier P."/>
+<person name="Coutanceau J.-P."/>
+<person name="Gouzy J."/>
+<person name="Parra G."/>
+<person name="Lardier G."/>
+<person name="Chapple C."/>
+<person name="McKernan K.J."/>
+<person name="McEwan P."/>
+<person name="Bosak S."/>
+<person name="Kellis M."/>
+<person name="Volff J.-N."/>
+<person name="Guigo R."/>
+<person name="Zody M.C."/>
+<person name="Mesirov J."/>
+<person name="Lindblad-Toh K."/>
+<person name="Birren B."/>
+<person name="Nusbaum C."/>
+<person name="Kahn D."/>
+<person name="Robinson-Rechavi M."/>
+<person name="Laudet V."/>
+<person name="Schachter V."/>
+<person name="Quetier F."/>
+<person name="Saurin W."/>
+<person name="Scarpelli C."/>
+<person name="Wincker P."/>
+<person name="Lander E.S."/>
+<person name="Weissenbach J."/>
+<person name="Roest Crollius H."/>
+</authorList>
+<dbReference type="PubMed" id="15496914"/>
+<dbReference type="DOI" id="10.1038/nature03025"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="2" evidence="1">
+<citation type="submission" date="2004-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="Genoscope"/>
+<consortium name="Whitehead Institute Centre for Genome Research"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="3" evidence="2">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="37773" last="37781">
+<title>X-ray crystal structures of the estrogen-related receptor-gamma ligand binding domain in three functional states reveal the molecular basis of small molecule regulation.</title>
+<authorList>
+<person name="Wang L."/>
+<person name="Zuercher W.J."/>
+<person name="Consler T.G."/>
+<person name="Lambert M.H."/>
+<person name="Miller A.B."/>
+<person name="Orband-Miller L.A."/>
+<person name="McKee D.D."/>
+<person name="Willson T.M."/>
+<person name="Nolte R.T."/>
+</authorList>
+<dbReference type="PubMed" id="16990259"/>
+<dbReference type="DOI" id="10.1074/jbc.M608410200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.85 ANGSTROMS) OF 138-157</scope>
+</reference>
+<dbReference type="EMBL" id="CAAE01024640">
+<property type="protein sequence ID" value="CAG14760.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PDB" id="2GPV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="G/H/I=138-157"/>
+</dbReference>
+<dbReference type="PDBsum" id="2GPV"/>
+<dbReference type="eggNOG" id="NOG12793"/>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="2">3D-structure</keyword>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="166"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAG14760.1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2GPV"/>
+</source>
+</evidence>
+<sequence length="166" mass="17819" checksum="F6E1CE74CFFFAC1B" modified="2005-07-19" version="1" fragment="single">
+PAPWVSRSPPSSSQPPAFFSKLTDNTSVIVKSKKQEMIKKMTVVCSEGDFSKSGLRTRTG
+GECRSRPLTEALCCCHLQTQASPERDLQHAGIHNRSRSSGAPPAPAGSPHRRLTPPSSRR
+PVSVRCHPAPEAPSNSIGLEAIIRKALMGNYDEQSEERAPPQAGAG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

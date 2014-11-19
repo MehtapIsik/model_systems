@@ -1,0 +1,760 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2014-10-29" version="112">
+<accession>P00469</accession>
+<name>TYSY_LACCA</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Thymidylate synthase</fullName>
+<shortName evidence="1">TS</shortName>
+<shortName evidence="1">TSase</shortName>
+<ecNumber evidence="1">2.1.1.45</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">thyA</name>
+</gene>
+<organism>
+<name type="scientific">Lactobacillus casei</name>
+<dbReference type="NCBI Taxonomy" id="1582"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Lactobacillales</taxon>
+<taxon>Lactobacillaceae</taxon>
+<taxon>Lactobacillus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="DNA" volume="7" first="235" last="241">
+<title>Cloning, sequencing, and expression of the Lactobacillus casei thymidylate synthase gene.</title>
+<authorList>
+<person name="Pinter K."/>
+<person name="Davisson V.J."/>
+<person name="Santi D.V."/>
+</authorList>
+<dbReference type="PubMed" id="2840247"/>
+<dbReference type="DOI" id="10.1089/dna.1988.7.235"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1979" name="J. Biol. Chem." volume="254" first="1301" last="1304">
+<title>The primary structure of Lactobacillus casei thymidylate synthetase. III. The use of 2-(2-nitrophenylsulfenyl)-3-methyl-3-bromoindolenine and limited tryptic peptides to establish the complete amino acid sequence of the enzyme.</title>
+<authorList>
+<person name="Maley G.F."/>
+<person name="Bellisario R.L."/>
+<person name="Guarino D.U."/>
+<person name="Maley F."/>
+</authorList>
+<dbReference type="PubMed" id="105005"/>
+</citation>
+<scope>PROTEIN SEQUENCE</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1990" name="Proteins" volume="8" first="315" last="333">
+<title>Plastic adaptation toward mutations in proteins: structural comparison of thymidylate synthases.</title>
+<authorList>
+<person name="Perry K.M."/>
+<person name="Fauman E.B."/>
+<person name="Finer-Moore J.S."/>
+<person name="Montfort W.R."/>
+<person name="Maley G.F."/>
+<person name="Maley F."/>
+<person name="Stroud R.M."/>
+</authorList>
+<dbReference type="PubMed" id="2128651"/>
+<dbReference type="DOI" id="10.1002/prot.340080406"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1993" name="J. Mol. Biol." volume="232" first="1101" last="1116">
+<title>Refined structures of substrate-bound and phosphate-bound thymidylate synthase from Lactobacillus casei.</title>
+<authorList>
+<person name="Finer-Moore J.S."/>
+<person name="Fauman E.B."/>
+<person name="Foster P.G."/>
+<person name="Perry K.M."/>
+<person name="Santi D.V."/>
+<person name="Stroud R.M."/>
+</authorList>
+<dbReference type="PubMed" id="8371269"/>
+<dbReference type="DOI" id="10.1006/jmbi.1993.1463"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.55 ANGSTROMS)</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1995" name="Chem. Biol." volume="2" first="609" last="614">
+<title>Role of the conserved tryptophan 82 of Lactobacillus casei thymidylate synthase.</title>
+<authorList>
+<person name="Kealey J.T."/>
+<person name="Eckstein J."/>
+<person name="Santi D.V."/>
+</authorList>
+<dbReference type="PubMed" id="9383465"/>
+<dbReference type="DOI" id="10.1016/1074-5521(95)90125-6"/>
+</citation>
+<scope>MUTAGENESIS OF TYR-82</scope>
+</reference>
+<comment type="function">
+<text>Provides the sole de novo source of dTMP for DNA biosynthesis.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">5,10-methylenetetrahydrofolate + dUMP = dihydrofolate + dTMP.</text>
+</comment>
+<comment type="pathway" evidence="1">
+<text>Pyrimidine metabolism; dTTP biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text>Homodimer.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the thymidylate synthase family. Bacterial-type ThyA subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="2">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAA25255" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="2.1.1.45" evidence="1"/>
+<dbReference type="EMBL" id="M19653">
+<property type="protein sequence ID" value="AAA25255.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A29817">
+<property type="entry name" value="SYLBT"/>
+</dbReference>
+<dbReference type="PDB" id="1BO7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1BO8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1BP0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1BP6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1BPJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1JMF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1JMG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1JMH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1JMI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1LCA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1LCB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1LCE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1NJA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1NJB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.74"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1NJC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1NJD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1NJE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TDA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.09"/>
+<property type="chains" value="A=1-315"/>
+</dbReference>
+<dbReference type="PDB" id="1TDB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.65"/>
+<property type="chains" value="A=1-315"/>
+</dbReference>
+<dbReference type="PDB" id="1TDC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.65"/>
+<property type="chains" value="A=1-315"/>
+</dbReference>
+<dbReference type="PDB" id="1THY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TSL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TSM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TSV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TSW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TSX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TSY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TSZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TVU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TVV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1TVW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1VZA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1VZB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1VZC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1VZD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="1VZE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="2G86">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="2G89">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="2G8A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="2G8D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="2TDD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=1-315"/>
+</dbReference>
+<dbReference type="PDB" id="2TDM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3BNZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3BYX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3BZ0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3C06">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3C0A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3IJZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.21"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3IK0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="3IK1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDB" id="4TMS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A=1-316"/>
+</dbReference>
+<dbReference type="PDBsum" id="1BO7"/>
+<dbReference type="PDBsum" id="1BO8"/>
+<dbReference type="PDBsum" id="1BP0"/>
+<dbReference type="PDBsum" id="1BP6"/>
+<dbReference type="PDBsum" id="1BPJ"/>
+<dbReference type="PDBsum" id="1JMF"/>
+<dbReference type="PDBsum" id="1JMG"/>
+<dbReference type="PDBsum" id="1JMH"/>
+<dbReference type="PDBsum" id="1JMI"/>
+<dbReference type="PDBsum" id="1LCA"/>
+<dbReference type="PDBsum" id="1LCB"/>
+<dbReference type="PDBsum" id="1LCE"/>
+<dbReference type="PDBsum" id="1NJA"/>
+<dbReference type="PDBsum" id="1NJB"/>
+<dbReference type="PDBsum" id="1NJC"/>
+<dbReference type="PDBsum" id="1NJD"/>
+<dbReference type="PDBsum" id="1NJE"/>
+<dbReference type="PDBsum" id="1TDA"/>
+<dbReference type="PDBsum" id="1TDB"/>
+<dbReference type="PDBsum" id="1TDC"/>
+<dbReference type="PDBsum" id="1THY"/>
+<dbReference type="PDBsum" id="1TSL"/>
+<dbReference type="PDBsum" id="1TSM"/>
+<dbReference type="PDBsum" id="1TSV"/>
+<dbReference type="PDBsum" id="1TSW"/>
+<dbReference type="PDBsum" id="1TSX"/>
+<dbReference type="PDBsum" id="1TSY"/>
+<dbReference type="PDBsum" id="1TSZ"/>
+<dbReference type="PDBsum" id="1TVU"/>
+<dbReference type="PDBsum" id="1TVV"/>
+<dbReference type="PDBsum" id="1TVW"/>
+<dbReference type="PDBsum" id="1VZA"/>
+<dbReference type="PDBsum" id="1VZB"/>
+<dbReference type="PDBsum" id="1VZC"/>
+<dbReference type="PDBsum" id="1VZD"/>
+<dbReference type="PDBsum" id="1VZE"/>
+<dbReference type="PDBsum" id="2G86"/>
+<dbReference type="PDBsum" id="2G89"/>
+<dbReference type="PDBsum" id="2G8A"/>
+<dbReference type="PDBsum" id="2G8D"/>
+<dbReference type="PDBsum" id="2TDD"/>
+<dbReference type="PDBsum" id="2TDM"/>
+<dbReference type="PDBsum" id="3BNZ"/>
+<dbReference type="PDBsum" id="3BYX"/>
+<dbReference type="PDBsum" id="3BZ0"/>
+<dbReference type="PDBsum" id="3C06"/>
+<dbReference type="PDBsum" id="3C0A"/>
+<dbReference type="PDBsum" id="3IJZ"/>
+<dbReference type="PDBsum" id="3IK0"/>
+<dbReference type="PDBsum" id="3IK1"/>
+<dbReference type="PDBsum" id="4TMS"/>
+<dbReference type="ProteinModelPortal" id="P00469"/>
+<dbReference type="SMR" id="P00469">
+<property type="residue range" value="1-316"/>
+</dbReference>
+<dbReference type="BindingDB" id="P00469"/>
+<dbReference type="ChEMBL" id="CHEMBL5328"/>
+<dbReference type="SABIO-RK" id="P00469"/>
+<dbReference type="UniPathway" id="UPA00575"/>
+<dbReference type="EvolutionaryTrace" id="P00469"/>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="IEA:UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004799">
+<property type="term" value="F:thymidylate synthase activity"/>
+<property type="evidence" value="IEA:UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006231">
+<property type="term" value="P:dTMP biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-HAMAP"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006235">
+<property type="term" value="P:dTTP biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.572.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_00008">
+<property type="entry name" value="Thymidy_synth_bact"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023451">
+<property type="entry name" value="Thymidate_synth/dCMP_Mease"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000398">
+<property type="entry name" value="Thymidylate_synthase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020940">
+<property type="entry name" value="Thymidylate_synthase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00303">
+<property type="entry name" value="Thymidylat_synt"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00108">
+<property type="entry name" value="THYMDSNTHASE"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55831">
+<property type="entry name" value="SSF55831"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03284">
+<property type="entry name" value="thym_sym"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00091">
+<property type="entry name" value="THYMIDYLATE_SYNTHASE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0489">Methyltransferase</keyword>
+<keyword id="KW-0545">Nucleotide biosynthesis</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Thymidylate synthase" id="PRO_0000140967">
+<location>
+<begin position="1"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="active site">
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="4"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="18"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="23"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="26"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="35"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="40"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="48"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="54"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="71"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="83"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="93"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="98"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="101"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="104"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="112"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="133"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="143"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="146"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="152"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="156"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="163"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="174"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="187"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="193"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="198"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="210"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="222"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="225"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="247"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="262"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="265"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="281"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="291"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="296"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="299"/>
+<end position="302"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_00008"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000305"/>
+<sequence length="316" mass="36580" checksum="4C391722044FF0A5" modified="1986-07-21" version="1">
+MLEQPYLDLAKKVLDEGHFKPDRTHTGTYSIFGHQMRFDLSKGFPLLTTKKVPFGLIKSE
+LLWFLHGDTNIRFLLQHRNHIWDEWAFEKWVKSDEYHGPDMTDFGHRSQKDPEFAAVYHE
+EMAKFDDRVLHDDAFAAKYGDLGLVYGSQWRAWHTSKGDTIDQLGDVIEQIKTHPYSRRL
+IVSAWNPEDVPTMALPPCHTLYQFYVNDGKLSLQLYQRSADIFLGVPFNIASYALLTHLV
+AHECGLEVGEFIHTFGDAHLYVNHLDQIKEQLSRTPRPAPTLQLNPDKHDIFDFDMKDIK
+LLNYDPYPAIKAPVAV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

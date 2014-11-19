@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="TrEMBL" created="2001-06-01" modified="2014-10-29" version="61">
+<accession>Q9BJJ9</accession>
+<name>Q9BJJ9_PLAFA</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Enoyl-ACP reductase</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">FabI</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Plasmodium falciparum</name>
+<dbReference type="NCBI Taxonomy" id="5833"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Alveolata</taxon>
+<taxon>Apicomplexa</taxon>
+<taxon>Aconoidasida</taxon>
+<taxon>Haemosporida</taxon>
+<taxon>Plasmodium</taxon>
+<taxon>Plasmodium (Laverania)</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="journal article" date="2001" name="Nat. Med." volume="7" first="167" last="173">
+<title>Triclosan offers protection against blood stages of malaria by inhibiting enoyl-ACP reductase of Plasmodium falciparum.</title>
+<authorList>
+<person name="Surolia N."/>
+<person name="Surolia A."/>
+</authorList>
+<dbReference type="PubMed" id="11175846"/>
+<dbReference type="DOI" id="10.1038/84612"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="2 3">
+<citation type="journal article" date="2004" name="J. Mol. Biol." volume="343" first="147" last="155">
+<title>Structural basis for the variation in triclosan affinity to enoyl reductases.</title>
+<authorList>
+<person name="Pidugu L.S."/>
+<person name="Kapoor M."/>
+<person name="Surolia N."/>
+<person name="Surolia A."/>
+<person name="Suguna K."/>
+</authorList>
+<dbReference type="PubMed" id="15381426"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.08.033"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 96-424 IN COMPLEX WITH NAD</scope>
+</reference>
+<reference key="3" evidence="4 5">
+<citation type="journal article" date="2005" name="Bioorg. Med. Chem. Lett." volume="15" first="5247" last="5252">
+<title>Synthesis, biological activity, and X-ray crystal structural analysis of diaryl ether inhibitors of malarial enoyl acyl carrier protein reductase. Part 1: 4'-substituted triclosan derivatives.</title>
+<authorList>
+<person name="Freundlich J.S."/>
+<person name="Anderson J.W."/>
+<person name="Sarantakis D."/>
+<person name="Shieh H.M."/>
+<person name="Yu M."/>
+<person name="Valderramos J.C."/>
+<person name="Lucumi E."/>
+<person name="Kuo M."/>
+<person name="Jacobs W.R."/>
+<person name="Fidock D.A."/>
+<person name="Schiehser G.A."/>
+<person name="Jacobus D.P."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="16198563"/>
+<dbReference type="DOI" id="10.1016/j.bmcl.2005.08.044"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.68 ANGSTROMS) OF 97-432 IN COMPLEX WITH NAD</scope>
+</reference>
+<reference key="4" evidence="6 7">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="25436" last="25444">
+<title>X-ray structural analysis of Plasmodium falciparum enoyl acyl carrier protein reductase as a pathway toward the optimization of triclosan antimalarial efficacy.</title>
+<authorList>
+<person name="Freundlich J.S."/>
+<person name="Wang F."/>
+<person name="Tsai H.C."/>
+<person name="Kuo M."/>
+<person name="Shieh H.M."/>
+<person name="Anderson J.W."/>
+<person name="Nkrumah L.J."/>
+<person name="Valderramos J.C."/>
+<person name="Yu M."/>
+<person name="Kumar T.R."/>
+<person name="Valderramos S.G."/>
+<person name="Jacobs W.R."/>
+<person name="Schiehser G.A."/>
+<person name="Jacobus D.P."/>
+<person name="Fidock D.A."/>
+<person name="Sacchettini J.C."/>
+</authorList>
+<dbReference type="PubMed" id="17567585"/>
+<dbReference type="DOI" id="10.1074/jbc.M701813200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 96-425 IN COMPLEX WITH NAD</scope>
+</reference>
+<reference key="5" evidence="10 11">
+<citation type="journal article" date="2010" name="IUBMB Life" volume="62" first="467" last="476">
+<title>X-ray crystallographic analysis of the complexes of enoyl acyl carrier protein reductase of Plasmodium falciparum with triclosan variants to elucidate the importance of different functional groups in enzyme inhibition.</title>
+<authorList>
+<person name="Maity K."/>
+<person name="Bhargav S.P."/>
+<person name="Sankaran B."/>
+<person name="Surolia N."/>
+<person name="Surolia A."/>
+<person name="Suguna K."/>
+</authorList>
+<dbReference type="PubMed" id="20503440"/>
+<dbReference type="DOI" id="10.1002/iub.327"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.96 ANGSTROMS) OF 96-424 IN COMPLEX WITH NAD</scope>
+</reference>
+<reference key="6" evidence="8 9">
+<citation type="journal article" date="2011" name="IUBMB Life" volume="63" first="30" last="41">
+<title>Effect of substrate binding loop mutations on the structure, kinetics, and inhibition of enoyl acyl carrier protein reductase from Plasmodium falciparum.</title>
+<authorList>
+<person name="Maity K."/>
+<person name="Banerjee T."/>
+<person name="Prabakaran N."/>
+<person name="Surolia N."/>
+<person name="Surolia A."/>
+<person name="Suguna K."/>
+</authorList>
+<dbReference type="PubMed" id="21280175"/>
+<dbReference type="DOI" id="10.1002/iub.412"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 96-424 IN COMPLEX WITH NAD</scope>
+</reference>
+<dbReference type="EMBL" id="AF332609">
+<property type="protein sequence ID" value="AAK38274.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PDB" id="1UH5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="1V35">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="1ZSN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.99"/>
+<property type="chains" value="A/B=97-432"/>
+</dbReference>
+<dbReference type="PDB" id="1ZXB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.68"/>
+<property type="chains" value="A/B=97-432"/>
+</dbReference>
+<dbReference type="PDB" id="1ZXL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=97-432"/>
+</dbReference>
+<dbReference type="PDB" id="2NQ8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=97-325"/>
+</dbReference>
+<dbReference type="PDB" id="2OL4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.26"/>
+<property type="chains" value="A/B=96-425"/>
+</dbReference>
+<dbReference type="PDB" id="2OOS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=96-425"/>
+</dbReference>
+<dbReference type="PDB" id="3AM3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="3AM4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="3AM5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="3LSY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="3LT0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="3LT1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="3LT2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDB" id="3LT4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=96-424"/>
+</dbReference>
+<dbReference type="PDBsum" id="1UH5"/>
+<dbReference type="PDBsum" id="1V35"/>
+<dbReference type="PDBsum" id="1ZSN"/>
+<dbReference type="PDBsum" id="1ZXB"/>
+<dbReference type="PDBsum" id="1ZXL"/>
+<dbReference type="PDBsum" id="2NQ8"/>
+<dbReference type="PDBsum" id="2OL4"/>
+<dbReference type="PDBsum" id="2OOS"/>
+<dbReference type="PDBsum" id="3AM3"/>
+<dbReference type="PDBsum" id="3AM4"/>
+<dbReference type="PDBsum" id="3AM5"/>
+<dbReference type="PDBsum" id="3LSY"/>
+<dbReference type="PDBsum" id="3LT0"/>
+<dbReference type="PDBsum" id="3LT1"/>
+<dbReference type="PDBsum" id="3LT2"/>
+<dbReference type="PDBsum" id="3LT4"/>
+<dbReference type="ProteinModelPortal" id="Q9BJJ9"/>
+<dbReference type="IntAct" id="Q9BJJ9">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="ChEMBL" id="CHEMBL1275211"/>
+<dbReference type="EvolutionaryTrace" id="Q9BJJ9"/>
+<dbReference type="GO" id="GO:0000166">
+<property type="term" value="F:nucleotide binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.720">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016040">
+<property type="entry name" value="NAD(P)-bd_dom"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002" evidence="2 3">3D-structure</keyword>
+<keyword id="KW-0520" evidence="2 3">NAD</keyword>
+<keyword id="KW-0547" evidence="2 3">Nucleotide-binding</keyword>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="2 3">
+<location>
+<begin position="105"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="2 3">
+<location>
+<begin position="168"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="2 3">
+<location>
+<begin position="216"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="2 3">
+<location>
+<begin position="315"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD; via amide nitrogen" evidence="2 3">
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD" evidence="2 3">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD; via carbonyl oxygen" evidence="4">
+<location>
+<position position="265"/>
+</location>
+</feature>
+<feature type="binding site" description="NAD" evidence="2 3">
+<location>
+<position position="285"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="1">
+<location>
+<position position="432"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAK38274.1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="1UH5"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="1V35"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="1ZSN"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="1ZXB"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2NQ8"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="2OL4"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3AM3"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3AM4"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3LSY"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="PDB" id="3LT0"/>
+</source>
+</evidence>
+<sequence length="432" mass="49827" checksum="8B3241DB53ACF65F" modified="2001-06-01" version="1" fragment="single">
+MNKISQRLLFLFLHFYTTVCFIQNNTQKTFHNVLQNEQIRGKEKAFYRKEKRENIFIGNK
+MKHVHNMNNTHNNNHYMEKEEQDASNINKIKEENKNEDICFIAGIGDTNGYGWGIAKELS
+KRNVKIIFGIWPPVYNIFMKNYKNGKFDNDMIIDKDKKMNILDMLPFDASFDTANDIDEE
+TKNNKRYNMLQNYTIEDVANLIHQKYGKINMLVHSLANAKEVQKDLLNTSRKGYLDALSK
+SSYSLISLCKYFVNIMKPQSSIISLTYHASQKVVPGYGGGMSSAKAALESDTRVLAYHLG
+RNYNIRINTISAGPLKSRAATAINKLNNTYENNTNQNKNRNRHDVHNIMNNSGEKEEKKI
+SASQNYTFIDYAIEYSEKYAPLRQKLLSTDIGSVASFLLSRESRAITGQTIYVDNGLNIM
+FLPDDIYRNENE
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

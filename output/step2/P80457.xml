@@ -1,0 +1,1678 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1996-02-01" modified="2014-10-29" version="133">
+<accession>P80457</accession>
+<accession>Q95325</accession>
+<name>XDH_BOVIN</name>
+<protein>
+<recommendedName>
+<fullName>Xanthine dehydrogenase/oxidase</fullName>
+</recommendedName>
+<domain>
+<recommendedName>
+<fullName>Xanthine dehydrogenase</fullName>
+<shortName>XD</shortName>
+<ecNumber>1.17.1.4</ecNumber>
+</recommendedName>
+</domain>
+<domain>
+<recommendedName>
+<fullName>Xanthine oxidase</fullName>
+<shortName>XO</shortName>
+<ecNumber>1.17.3.2</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Xanthine oxidoreductase</fullName>
+<shortName>XOR</shortName>
+</alternativeName>
+</domain>
+</protein>
+<gene>
+<name type="primary">XDH</name>
+</gene>
+<organism>
+<name type="scientific">Bos taurus</name>
+<name type="common">Bovine</name>
+<dbReference type="NCBI Taxonomy" id="9913"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Laurasiatheria</taxon>
+<taxon>Cetartiodactyla</taxon>
+<taxon>Ruminantia</taxon>
+<taxon>Pecora</taxon>
+<taxon>Bovidae</taxon>
+<taxon>Bovinae</taxon>
+<taxon>Bos</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="J. Dairy Sci." volume="79" first="198" last="204">
+<title>Purification of the bovine xanthine oxidoreductase from milk fat globule membranes and cloning of complementary deoxyribonucleic acid.</title>
+<authorList>
+<person name="Berglund L."/>
+<person name="Rasmussen J.T."/>
+<person name="Andersen M.D."/>
+<person name="Rasmussen M.S."/>
+<person name="Petersen T.E."/>
+</authorList>
+<dbReference type="PubMed" id="8708081"/>
+<dbReference type="DOI" id="10.3168/jds.S0022-0302(96)76351-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Mammary gland</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Biochem. Soc. Trans." volume="25" first="791" last="796">
+<title>The xanthine oxidoreductase gene: structure and regulation.</title>
+<authorList>
+<person name="Terao M."/>
+<person name="Kurosaki M."/>
+<person name="Zanotta S."/>
+<person name="Garattini E."/>
+</authorList>
+<dbReference type="PubMed" id="9388547"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1995" name="Eur. J. Biochem." volume="232" first="646" last="657">
+<title>Properties of rabbit liver aldehyde oxidase and the relationship of the enzyme to xanthine oxidase and dehydrogenase.</title>
+<authorList>
+<person name="Turner N.A."/>
+<person name="Doyle W.A."/>
+<person name="Ventom A.M."/>
+<person name="Bray R.C."/>
+</authorList>
+<dbReference type="PubMed" id="7556219"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1995.646zz.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-23; 186-205 AND 552-562</scope>
+<source>
+<tissue>Milk</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1973" name="Biochem. J." volume="131" first="191" last="198">
+<title>Milk xanthine oxidase type D (dehydrogenase) and type O (oxidase). Purification, interconversion and some properties.</title>
+<authorList>
+<person name="Battelli M.G."/>
+<person name="Lorenzoni E."/>
+<person name="Stripe F."/>
+</authorList>
+<dbReference type="PubMed" id="4352904"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>CONVERSION BY PARTIAL PROTEOLYSIS AND BY REDUCING AGENTS</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Proc. Natl. Acad. Sci. U.S.A." volume="100" first="8170" last="8175">
+<title>Unique amino acids cluster for switching from the dehydrogenase to oxidase form of xanthine oxidoreductase.</title>
+<authorList>
+<person name="Kuwabara Y."/>
+<person name="Nishino T."/>
+<person name="Okamoto K."/>
+<person name="Matsumura T."/>
+<person name="Eger B.T."/>
+<person name="Pai E.F."/>
+<person name="Nishino T."/>
+</authorList>
+<dbReference type="PubMed" id="12817083"/>
+<dbReference type="DOI" id="10.1073/pnas.1431485100"/>
+</citation>
+<scope>ENZYME REGULATION</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<scope>MUTAGENESIS OF ARG-335; TRP-336 AND ARG-427</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2000" name="Proc. Natl. Acad. Sci. U.S.A." volume="97" first="10723" last="10728">
+<title>Crystal structures of bovine milk xanthine dehydrogenase and xanthine oxidase: structure-based mechanism of conversion.</title>
+<authorList>
+<person name="Enroth C."/>
+<person name="Eger B.T."/>
+<person name="Okamoto K."/>
+<person name="Nishino T."/>
+<person name="Nishino T."/>
+<person name="Pai E.F."/>
+</authorList>
+<dbReference type="PubMed" id="11005854"/>
+<dbReference type="DOI" id="10.1073/pnas.97.20.10723"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) IN COMPLEXES WITH FAD; IRON-SULFUR CENTERS; SALICYLATE</scope>
+<scope>SUBUNIT</scope>
+<scope>COFACTOR</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="1848" last="1855">
+<title>An extremely potent inhibitor of xanthine oxidoreductase. Crystal structure of the enzyme-inhibitor complex and mechanism of inhibition.</title>
+<authorList>
+<person name="Okamoto K."/>
+<person name="Eger B.T."/>
+<person name="Nishino T."/>
+<person name="Kondo S."/>
+<person name="Pai E.F."/>
+<person name="Nishino T."/>
+</authorList>
+<dbReference type="PubMed" id="12421831"/>
+<dbReference type="DOI" id="10.1074/jbc.M208307200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) IN COMPLEX WITH FAD; MOLYBDOPTERIN; IRON-SULFUR CENTERS AND SYNTHETIC INHIBITOR TEI-6720</scope>
+<scope>COFACTOR</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="7931" last="7936">
+<title>The crystal structure of xanthine oxidoreductase during catalysis: implications for reaction mechanism and enzyme inhibition.</title>
+<authorList>
+<person name="Okamoto K."/>
+<person name="Matsumoto K."/>
+<person name="Hille R."/>
+<person name="Eger B.T."/>
+<person name="Pai E.F."/>
+<person name="Nishino T."/>
+</authorList>
+<dbReference type="PubMed" id="15148401"/>
+<dbReference type="DOI" id="10.1073/pnas.0400973101"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.94 ANGSTROMS) IN COMPLEX WITH FAD; MOLYBDOPTERIN; IRON-SULFUR CENTERS AND INHIBITOR FYX-051</scope>
+<scope>ACTIVE SITE</scope>
+<scope>COFACTOR</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2009" name="J. Biol. Chem." volume="284" first="8760" last="8767">
+<title>Substrate orientation and catalysis at the molybdenum site in xanthine oxidase: crystal structures in complex with xanthine and lumazine.</title>
+<authorList>
+<person name="Pauff J.M."/>
+<person name="Cao H."/>
+<person name="Hille R."/>
+</authorList>
+<dbReference type="PubMed" id="19109252"/>
+<dbReference type="DOI" id="10.1074/jbc.M804517200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) IN COMPLEXES WITH FAD; MOLYBDOPTERIN; IRON-SULFUR CENTERS; CALCIUM IONS; XANTHINE AND LUMAZINE</scope>
+<scope>COFACTOR</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text>Key enzyme in purine degradation. Catalyzes the oxidation of hypoxanthine to xanthine. Catalyzes the oxidation of xanthine to uric acid. Contributes to the generation of reactive oxygen species.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Xanthine + NAD(+) + H(2)O = urate + NADH.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Hypoxanthine + NAD(+) + H(2)O = xanthine + NADH.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Xanthine + H(2)O + O(2) = urate + H(2)O(2).</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 2 2Fe-2S clusters.</text>
+</comment>
+<comment type="cofactor">
+<text>FAD.</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 1 molybdenum-molybdopterin (Mo-MPT) cofactor per subunit.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="5 7 9">Can be converted from the dehydrogenase form (D) to the oxidase form (O) irreversibly by proteolysis or reversibly through the oxidation of sulfhydryl groups.</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="7 9">111 uM for molecular oxygen in dehydrogenase form</KM>
+<KM evidence="7 9">37.7 uM for molecular oxygen in oxygenase form</KM>
+<KM evidence="7 9">20.8 uM for NAD</KM>
+<KM evidence="7 9">5 uM for xanthine</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="1">Homodimer. Interacts with BTN1A1 (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Peroxisome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 6 8">Detected in milk (at protein level).</text>
+</comment>
+<comment type="PTM">
+<text>Subject to partial proteolysis; this alters the enzyme from the dehydrogenase form (D) to the oxidase form (O).</text>
+</comment>
+<comment type="PTM">
+<text>Contains sulfhydryl groups that are easily oxidized (in vitro); this alters the enzyme from the dehydrogenase form (D) to the oxidase form (O).</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the xanthine dehydrogenase family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Contains 1 2Fe-2S ferredoxin-type domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Contains 1 FAD-binding PCMH-type domain.</text>
+</comment>
+<comment type="online information" name="Worthington enzyme manual">
+<link uri="http://www.worthington-biochem.com/XO/"/>
+</comment>
+<dbReference type="EC" id="1.17.1.4"/>
+<dbReference type="EC" id="1.17.3.2"/>
+<dbReference type="EMBL" id="X83508">
+<property type="protein sequence ID" value="CAA58497.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X98491">
+<property type="protein sequence ID" value="CAA67117.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S65135">
+<property type="entry name" value="S65135"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_776397.1">
+<property type="nucleotide sequence ID" value="NM_173972.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Bt.5403"/>
+<dbReference type="PDB" id="1FIQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=1-219, B=220-569, C=570-1332"/>
+</dbReference>
+<dbReference type="PDB" id="1FO4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="1N5X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=2-1332"/>
+</dbReference>
+<dbReference type="PDB" id="1V97">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.94"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="1VDV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3AM9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.17"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3AMZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3AX7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.34"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3AX9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3B9J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/I=1-219, B/J=220-569, C/K=570-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3BDJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3ETR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/L=2-165, B/M=224-528, C/N=571-1325"/>
+</dbReference>
+<dbReference type="PDB" id="3EUB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="2/A/J/S=1-165, 3/B/K/T=224-528, 4/C/L/U=571-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3NRZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/J=2-165, B/K=224-528, C/L=571-1326"/>
+</dbReference>
+<dbReference type="PDB" id="3NS1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/J=2-165, B/K=224-528, C/L=571-1325"/>
+</dbReference>
+<dbReference type="PDB" id="3NVV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.82"/>
+<property type="chains" value="A/J=2-165, B/K=195-528, C/L=571-1325"/>
+</dbReference>
+<dbReference type="PDB" id="3NVW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/J=2-165, B/K=195-528, C/L=571-1326"/>
+</dbReference>
+<dbReference type="PDB" id="3NVY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/J=2-165, B/K=195-528, C/L=571-1326"/>
+</dbReference>
+<dbReference type="PDB" id="3NVZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/J=2-165, B/K=224-528, C/L=571-1325"/>
+</dbReference>
+<dbReference type="PDB" id="3SR6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/J=2-165, B/K=224-528, C/L=571-1315"/>
+</dbReference>
+<dbReference type="PDB" id="3UNA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3UNC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.65"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDB" id="3UNI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=1-1332"/>
+</dbReference>
+<dbReference type="PDBsum" id="1FIQ"/>
+<dbReference type="PDBsum" id="1FO4"/>
+<dbReference type="PDBsum" id="1N5X"/>
+<dbReference type="PDBsum" id="1V97"/>
+<dbReference type="PDBsum" id="1VDV"/>
+<dbReference type="PDBsum" id="3AM9"/>
+<dbReference type="PDBsum" id="3AMZ"/>
+<dbReference type="PDBsum" id="3AX7"/>
+<dbReference type="PDBsum" id="3AX9"/>
+<dbReference type="PDBsum" id="3B9J"/>
+<dbReference type="PDBsum" id="3BDJ"/>
+<dbReference type="PDBsum" id="3ETR"/>
+<dbReference type="PDBsum" id="3EUB"/>
+<dbReference type="PDBsum" id="3NRZ"/>
+<dbReference type="PDBsum" id="3NS1"/>
+<dbReference type="PDBsum" id="3NVV"/>
+<dbReference type="PDBsum" id="3NVW"/>
+<dbReference type="PDBsum" id="3NVY"/>
+<dbReference type="PDBsum" id="3NVZ"/>
+<dbReference type="PDBsum" id="3SR6"/>
+<dbReference type="PDBsum" id="3UNA"/>
+<dbReference type="PDBsum" id="3UNC"/>
+<dbReference type="PDBsum" id="3UNI"/>
+<dbReference type="DisProt" id="DP00450"/>
+<dbReference type="ProteinModelPortal" id="P80457"/>
+<dbReference type="SMR" id="P80457">
+<property type="residue range" value="2-165, 224-528, 571-1328"/>
+</dbReference>
+<dbReference type="STRING" id="9913.ENSBTAP00000032520"/>
+<dbReference type="BindingDB" id="P80457"/>
+<dbReference type="ChEMBL" id="CHEMBL3649"/>
+<dbReference type="PaxDb" id="P80457"/>
+<dbReference type="PRIDE" id="P80457"/>
+<dbReference type="GeneID" id="280960"/>
+<dbReference type="KEGG" id="bta:280960"/>
+<dbReference type="CTD" id="7498"/>
+<dbReference type="eggNOG" id="COG4630"/>
+<dbReference type="HOGENOM" id="HOG000191197"/>
+<dbReference type="HOVERGEN" id="HBG004182"/>
+<dbReference type="InParanoid" id="P80457"/>
+<dbReference type="KO" id="K00106"/>
+<dbReference type="SABIO-RK" id="P80457"/>
+<dbReference type="EvolutionaryTrace" id="P80457"/>
+<dbReference type="NextBio" id="20805070"/>
+<dbReference type="PRO" id="PR:P80457"/>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005777">
+<property type="term" value="C:peroxisome"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051537">
+<property type="term" value="F:2 iron, 2 sulfur cluster binding"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009055">
+<property type="term" value="F:electron carrier activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050660">
+<property type="term" value="F:flavin adenine dinucleotide binding"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005506">
+<property type="term" value="F:iron ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043546">
+<property type="term" value="F:molybdopterin cofactor binding"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008762">
+<property type="term" value="F:UDP-N-acetylmuramate dehydrogenase activity"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004854">
+<property type="term" value="F:xanthine dehydrogenase activity"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004855">
+<property type="term" value="F:xanthine oxidase activity"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009115">
+<property type="term" value="P:xanthine catabolic process"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.150.120">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.20.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.365.10">
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.43.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.465.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.1170.50">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002888">
+<property type="entry name" value="2Fe-2S-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001041">
+<property type="entry name" value="2Fe-2S_ferredoxin-type"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006058">
+<property type="entry name" value="2Fe2S_fd_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000674">
+<property type="entry name" value="Ald_Oxase/Xan_DH_a/b"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016208">
+<property type="entry name" value="Ald_Oxase/xanthine_DH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008274">
+<property type="entry name" value="AldOxase/xan_DH_Mopterin-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012675">
+<property type="entry name" value="Beta-grasp_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005107">
+<property type="entry name" value="CO_DH_flav_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016169">
+<property type="entry name" value="CO_DH_flavot_FAD-bd_sub2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016166">
+<property type="entry name" value="FAD-bd_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016167">
+<property type="entry name" value="FAD-bd_2_sub1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002346">
+<property type="entry name" value="Mopterin_DH_FAD-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022407">
+<property type="entry name" value="OxRdtase_Mopterin_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014307">
+<property type="entry name" value="Xanthine_DH_ssu"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01315">
+<property type="entry name" value="Ald_Xan_dh_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02738">
+<property type="entry name" value="Ald_Xan_dh_C2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03450">
+<property type="entry name" value="CO_deh_flav_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00941">
+<property type="entry name" value="FAD_binding_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00111">
+<property type="entry name" value="Fer2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01799">
+<property type="entry name" value="Fer2_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000127">
+<property type="entry name" value="Xanthine_DH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01008">
+<property type="entry name" value="Ald_Xan_dh_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01092">
+<property type="entry name" value="CO_deh_flav_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47741">
+<property type="entry name" value="SSF47741"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54292">
+<property type="entry name" value="SSF54292"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54665">
+<property type="entry name" value="SSF54665"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55447">
+<property type="entry name" value="SSF55447"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56003">
+<property type="entry name" value="SSF56003"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56176">
+<property type="entry name" value="SSF56176"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR02963">
+<property type="entry name" value="xanthine_xdhA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00197">
+<property type="entry name" value="2FE2S_FER_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51085">
+<property type="entry name" value="2FE2S_FER_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51387">
+<property type="entry name" value="FAD_PCMH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00559">
+<property type="entry name" value="MOLYBDOPTERIN_EUK"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0001">2Fe-2S</keyword>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0274">FAD</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0411">Iron-sulfur</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0500">Molybdenum</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0576">Peroxisome</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<feature type="initiator methionine" description="Removed" evidence="10">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Xanthine dehydrogenase/oxidase" id="PRO_0000166082">
+<location>
+<begin position="2"/>
+<end position="1332"/>
+</location>
+</feature>
+<feature type="domain" description="2Fe-2S ferredoxin-type" evidence="3">
+<location>
+<begin position="4"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="domain" description="FAD-binding PCMH-type" evidence="4">
+<location>
+<begin position="229"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="6 8">
+<location>
+<begin position="257"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="6 8">
+<location>
+<begin position="347"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="8">
+<location>
+<position position="1261"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1">
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1">
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 1">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2">
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2">
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2">
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron-sulfur 2">
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Molybdenum">
+<location>
+<position position="767"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Molybdenum; via carbonyl oxygen">
+<location>
+<position position="798"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Molybdenum; via amide nitrogen">
+<location>
+<position position="912"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Molybdenum; via amide nitrogen">
+<location>
+<position position="1079"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD" evidence="6 8">
+<location>
+<position position="337"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD" evidence="6 8">
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD; via amide nitrogen and carbonyl oxygen" evidence="6 8">
+<location>
+<position position="404"/>
+</location>
+</feature>
+<feature type="binding site" description="FAD" evidence="6 8">
+<location>
+<position position="422"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="802"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="880"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate">
+<location>
+<position position="914"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate; via amide nitrogen">
+<location>
+<position position="1010"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<location>
+<position position="1073"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="In oxidase form" evidence="1">
+<location>
+<begin position="535"/>
+<end position="992"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Promotes conversion to the oxidase form that utilizes molecular oxygen as electron acceptor. Interferes with normal conversion to the dehydrogenase form by reducing agents." evidence="7">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="335"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Promotes conversion to the oxidase form that utilizes molecular oxygen as electron acceptor. Interferes with normal conversion to the dehydrogenase form by reducing agents." evidence="7">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Promotes conversion to the oxidase form that utilizes molecular oxygen as electron acceptor. Interferes with normal conversion to the dehydrogenase form by reducing agents." evidence="7">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="427"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>T</original>
+<variation>TQ</variation>
+<location>
+<position position="188"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="199"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA58497." ref="1" evidence="11">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="552"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="958"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="976"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>GQ</original>
+<variation>E</variation>
+<location>
+<begin position="1039"/>
+<end position="1040"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="1244"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="1268"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA67117." ref="2" evidence="11">
+<original>RAA</original>
+<variation>ARG</variation>
+<location>
+<begin position="1279"/>
+<end position="1281"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="6"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="13"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="26"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="44"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="52"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="60"/>
+<end position="63"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="64"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="72"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="77"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="84"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="88"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="94"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="100"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="117"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="136"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="142"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="149"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="154"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="198"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="214"/>
+<end position="218"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="219"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="227"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="235"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="242"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="264"/>
+<end position="270"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="276"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="285"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="290"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="294"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="305"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="321"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="325"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="336"/>
+<end position="338"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="340"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="348"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="362"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="371"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="379"/>
+<end position="384"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="387"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="403"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="416"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="428"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="435"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="446"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="467"/>
+<end position="471"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="472"/>
+<end position="475"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="477"/>
+<end position="479"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="480"/>
+<end position="493"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="505"/>
+<end position="527"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="540"/>
+<end position="542"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="543"/>
+<end position="546"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="555"/>
+<end position="559"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="582"/>
+<end position="586"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="593"/>
+<end position="595"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="603"/>
+<end position="609"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="611"/>
+<end position="621"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="625"/>
+<end position="627"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="631"/>
+<end position="635"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="637"/>
+<end position="639"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="644"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="652"/>
+<end position="655"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="658"/>
+<end position="660"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="666"/>
+<end position="674"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="675"/>
+<end position="683"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="686"/>
+<end position="691"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="698"/>
+<end position="703"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="707"/>
+<end position="717"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="719"/>
+<end position="725"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="727"/>
+<end position="736"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="748"/>
+<end position="753"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="760"/>
+<end position="764"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="769"/>
+<end position="780"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="784"/>
+<end position="786"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="787"/>
+<end position="791"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="798"/>
+<end position="801"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="806"/>
+<end position="819"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="823"/>
+<end position="826"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="829"/>
+<end position="835"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="842"/>
+<end position="850"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="856"/>
+<end position="866"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="874"/>
+<end position="883"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="884"/>
+<end position="888"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="892"/>
+<end position="901"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="912"/>
+<end position="915"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="916"/>
+<end position="934"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="938"/>
+<end position="945"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="964"/>
+<end position="974"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="977"/>
+<end position="990"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="992"/>
+<end position="1008"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1012"/>
+<end position="1014"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1016"/>
+<end position="1023"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1029"/>
+<end position="1034"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1038"/>
+<end position="1040"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1042"/>
+<end position="1054"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1058"/>
+<end position="1060"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1061"/>
+<end position="1063"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1068"/>
+<end position="1070"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1079"/>
+<end position="1081"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1082"/>
+<end position="1107"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1113"/>
+<end position="1122"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1128"/>
+<end position="1134"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1142"/>
+<end position="1145"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1151"/>
+<end position="1165"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1166"/>
+<end position="1168"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1171"/>
+<end position="1181"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1188"/>
+<end position="1207"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1224"/>
+<end position="1226"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1232"/>
+<end position="1234"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="1237"/>
+<end position="1243"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1253"/>
+<end position="1255"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1264"/>
+<end position="1267"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1268"/>
+<end position="1285"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1302"/>
+<end position="1308"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="1312"/>
+<end position="1314"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="1317"/>
+<end position="1319"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00465"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00718"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11005854"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12421831"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12817083"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15148401"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="4352904"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7556219"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="1332" mass="146790" checksum="744BA523471948B7" modified="2007-01-23" version="4">
+MTADELVFFVNGKKVVEKNADPETTLLAYLRRKLGLRGTKLGCGEGGCGACTVMLSKYDR
+LQDKIIHFSANACLAPICTLHHVAVTTVEGIGSTKTRLHPVQERIAKSHGSQCGFCTPGI
+VMSMYTLLRNQPEPTVEEIEDAFQGNLCRCTGYRPILQGFRTFAKNGGCCGGNGNNPNCC
+MNQKKDHTVTLSPSLFNPEEFMPLDPTQEPIFPPELLRLKDVPPKQLRFEGERVTWIQAS
+TLKELLDLKAQHPEAKLVVGNTEIGIEMKFKNQLFPMIICPAWIPELNAVEHGPEGISFG
+AACALSSVEKTLLEAVAKLPTQKTEVFRGVLEQLRWFAGKQVKSVASLGGNIITASPISD
+LNPVFMASGTKLTIVSRGTRRTVPMDHTFFPSYRKTLLGPEEILLSIEIPYSREDEFFSA
+FKQASRREDDIAKVTCGMRVLFQPGSMQVKELALCYGGMADRTISALKTTQKQLSKFWNE
+KLLQDVCAGLAEELSLSPDAPGGMIEFRRTLTLSFFFKFYLTVLKKLGKDSKDKCGKLDP
+TYTSATLLFQKDPPANIQLFQEVPNGQSKEDTVGRPLPHLAAAMQASGEAVYCDDIPRYE
+NELFLRLVTSTRAHAKIKSIDVSEAQKVPGFVCFLSADDIPGSNETGLFNDETVFAKDTV
+TCVGHIIGAVVADTPEHAERAAHVVKVTYEDLPAIITIEDAIKNNSFYGSELKIEKGDLK
+KGFSEADNVVSGELYIGGQDHFYLETHCTIAIPKGEEGEMELFVSTQNAMKTQSFVAKML
+GVPVNRILVRVKRMGGGFGGKETRSTLVSVAVALAAYKTGHPVRCMLDRNEDMLITGGRH
+PFLARYKVGFMKTGTIVALEVDHYSNAGNSRDLSHSIMERALFHMDNCYKIPNIRGTGRL
+CKTNLSSNTAFRGFGGPQALFIAENWMSEVAVTCGLPAEEVRWKNMYKEGDLTHFNQRLE
+GFSVPRCWDECLKSSQYYARKSEVDKFNKENCWKKRGLCIIPTKFGISFTVPFLNQAGAL
+IHVYTDGSVLVSHGGTEMGQGLHTKMVQVASKALKIPISKIYISETSTNTVPNSSPTAAS
+VSTDIYGQAVYEACQTILKRLEPFKKKNPDGSWEDWVMAAYQDRVSLSTTGFYRTPNLGY
+SFETNSGNAFHYFTYGVACSEVEIDCLTGDHKNLRTDIVMDVGSSLNPAIDIGQVEGAFV
+QGLGLFTLEELHYSPEGSLHTRGPSTYKIPAFGSIPTEFRVSLLRDCPNKKAIYASKAVG
+EPPLFLGASVFFAIKDAIRAARAQHTNNNTKELFRLDSPATPEKIRNACVDKFTTLCVTG
+APGNCKPWSLRV
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

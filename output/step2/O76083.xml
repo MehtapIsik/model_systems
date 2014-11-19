@@ -1,0 +1,1755 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1999-07-15" modified="2014-10-29" version="138">
+<accession>O76083</accession>
+<accession>B2RBI5</accession>
+<accession>B4DFI5</accession>
+<accession>D3DSJ8</accession>
+<accession>D3DSJ9</accession>
+<accession>O75490</accession>
+<accession>O75491</accession>
+<accession>O95225</accession>
+<accession>Q53Y40</accession>
+<accession>Q5QD39</accession>
+<accession>Q86SF7</accession>
+<accession>Q86SI6</accession>
+<accession>Q86SJ3</accession>
+<accession>Q86WN3</accession>
+<accession>Q86WN4</accession>
+<accession>Q86WN5</accession>
+<accession>Q86WN6</accession>
+<accession>Q86WN7</accession>
+<accession>Q86WN8</accession>
+<accession>Q86WN9</accession>
+<accession>Q86WP0</accession>
+<name>PDE9A_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A</fullName>
+<ecNumber>3.1.4.35</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">PDE9A</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="15559" last="15564">
+<title>Isolation and characterization of PDE9A, a novel human cGMP-specific phosphodiesterase.</title>
+<authorList>
+<person name="Fisher D.A."/>
+<person name="Smith J.F."/>
+<person name="Pillar J.S."/>
+<person name="St Denis S.H."/>
+<person name="Cheng J.B."/>
+</authorList>
+<dbReference type="PubMed" id="9624146"/>
+<dbReference type="DOI" id="10.1074/jbc.273.25.15559"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM PDE9A1)</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Prostate</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="Hum. Genet." volume="103" first="386" last="392">
+<title>Identification and characterization of a novel cyclic nucleotide phosphodiesterase gene (PDE9A) that maps to 21q22.3: alternative splicing of mRNA transcripts, genomic structure and sequence.</title>
+<authorList>
+<person name="Guipponi M."/>
+<person name="Scott H.S."/>
+<person name="Kudoh J."/>
+<person name="Kawasaki K."/>
+<person name="Shibuya K."/>
+<person name="Shintani A."/>
+<person name="Asakawa S."/>
+<person name="Chen H."/>
+<person name="Lalioti M.D."/>
+<person name="Rossier C."/>
+<person name="Minoshima S."/>
+<person name="Shimizu N."/>
+<person name="Antonarakis S.E."/>
+</authorList>
+<dbReference type="PubMed" id="9856478"/>
+<dbReference type="DOI" id="10.1007/s004390050838"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS PDE9A1; PDE9A2; PDE9A3 AND PDE9A4)</scope>
+<source>
+<tissue>Fetal brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="Biochem. Biophys. Res. Commun." volume="301" first="686" last="692">
+<title>Identification and distribution of different mRNA variants produced by differential splicing in the human phosphodiesterase 9A gene.</title>
+<authorList>
+<person name="Rentero C."/>
+<person name="Monfort A."/>
+<person name="Puigdomenech P."/>
+</authorList>
+<dbReference type="PubMed" id="12565835"/>
+<dbReference type="DOI" id="10.1016/S0006-291X(03)00021-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS PDE9A5; PDE9A6; PDE9A7; PDE9A9; PDE9A10; PDE9A11; PDE9A12; PDE9A13; PDE9A16; PDE9A17 AND PDE9A18)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Gene" volume="314" first="15" last="27">
+<title>Identification and characterization of a new human type 9 cGMP-specific phosphodiesterase splice variant (PDE9A5). Differential tissue distribution and subcellular localization of PDE9A variants.</title>
+<authorList>
+<person name="Wang P."/>
+<person name="Wu P."/>
+<person name="Egan R.W."/>
+<person name="Billah M.M."/>
+</authorList>
+<dbReference type="PubMed" id="14527714"/>
+<dbReference type="DOI" id="10.1016/S0378-1119(03)00733-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM PDE9A6)</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Small intestine</tissue>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2006" name="BMC Mol. Biol." volume="7" first="39" last="39">
+<title>Specific use of start codons and cellular localization of splice variants of human phosphodiesterase 9A gene.</title>
+<authorList>
+<person name="Rentero C."/>
+<person name="Puigdomenech P."/>
+</authorList>
+<dbReference type="PubMed" id="17090334"/>
+<dbReference type="DOI" id="10.1186/1471-2199-7-39"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM PDE9A21)</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS PDE9A1 AND PDE9A3)</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM PDE9A2)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Nature" volume="405" first="311" last="319">
+<title>The DNA sequence of human chromosome 21.</title>
+<authorList>
+<person name="Hattori M."/>
+<person name="Fujiyama A."/>
+<person name="Taylor T.D."/>
+<person name="Watanabe H."/>
+<person name="Yada T."/>
+<person name="Park H.-S."/>
+<person name="Toyoda A."/>
+<person name="Ishii K."/>
+<person name="Totoki Y."/>
+<person name="Choi D.-K."/>
+<person name="Groner Y."/>
+<person name="Soeda E."/>
+<person name="Ohki M."/>
+<person name="Takagi T."/>
+<person name="Sakaki Y."/>
+<person name="Taudien S."/>
+<person name="Blechschmidt K."/>
+<person name="Polley A."/>
+<person name="Menzel U."/>
+<person name="Delabar J."/>
+<person name="Kumpf K."/>
+<person name="Lehmann R."/>
+<person name="Patterson D."/>
+<person name="Reichwald K."/>
+<person name="Rump A."/>
+<person name="Schillhabel M."/>
+<person name="Schudy A."/>
+<person name="Zimmermann W."/>
+<person name="Rosenthal A."/>
+<person name="Kudoh J."/>
+<person name="Shibuya K."/>
+<person name="Kawasaki K."/>
+<person name="Asakawa S."/>
+<person name="Shintani A."/>
+<person name="Sasaki T."/>
+<person name="Nagamine K."/>
+<person name="Mitsuyama S."/>
+<person name="Antonarakis S.E."/>
+<person name="Minoshima S."/>
+<person name="Shimizu N."/>
+<person name="Nordsiek G."/>
+<person name="Hornischer K."/>
+<person name="Brandt P."/>
+<person name="Scharfe M."/>
+<person name="Schoen O."/>
+<person name="Desario A."/>
+<person name="Reichelt J."/>
+<person name="Kauer G."/>
+<person name="Bloecker H."/>
+<person name="Ramser J."/>
+<person name="Beck A."/>
+<person name="Klages S."/>
+<person name="Hennig S."/>
+<person name="Riesselmann L."/>
+<person name="Dagand E."/>
+<person name="Wehrmeyer S."/>
+<person name="Borzym K."/>
+<person name="Gardiner K."/>
+<person name="Nizetic D."/>
+<person name="Francis F."/>
+<person name="Lehrach H."/>
+<person name="Reinhardt R."/>
+<person name="Yaspo M.-L."/>
+</authorList>
+<dbReference type="PubMed" id="10830953"/>
+<dbReference type="DOI" id="10.1038/35012518"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="9">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM PDE9A2)</scope>
+<source>
+<tissue>Eye</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="9624" last="9629">
+<title>Crystal structure of phosphodiesterase 9 shows orientation variation of inhibitor 3-isobutyl-1-methylxanthine binding.</title>
+<authorList>
+<person name="Huai Q."/>
+<person name="Wang H."/>
+<person name="Zhang W."/>
+<person name="Colman R.W."/>
+<person name="Robinson H."/>
+<person name="Ke H."/>
+</authorList>
+<dbReference type="PubMed" id="15210993"/>
+<dbReference type="DOI" id="10.1073/pnas.0401120101"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.23 ANGSTROMS) OF 241-566 IN COMPLEX WITH THE INHIBITOR IBMX</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="13309" last="13314">
+<title>Structural basis for the catalytic mechanism of human phosphodiesterase 9.</title>
+<authorList>
+<person name="Liu S."/>
+<person name="Mansour M.N."/>
+<person name="Dillman K.S."/>
+<person name="Perez J.R."/>
+<person name="Danley D.E."/>
+<person name="Aeed P.A."/>
+<person name="Simons S.P."/>
+<person name="Lemotte P.K."/>
+<person name="Menniti F.S."/>
+</authorList>
+<dbReference type="PubMed" id="18757755"/>
+<dbReference type="DOI" id="10.1073/pnas.0708850105"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 242-566 IN COMPLEX WITH MAGNESIUM; MANGANESE; ZINC; GMP AND CGMP</scope>
+<scope>FUNCTION</scope>
+<scope>COFACTOR</scope>
+<scope>MUTAGENESIS OF HIS-312 AND HIS-356</scope>
+</reference>
+<reference key="13">
+<citation type="submission" date="2009-02" db="PDB data bank">
+<title>Crystal structure of the human phosphodiesterase 9a catalytic domain.</title>
+<authorList>
+<consortium name="RIKEN structural genomics initiative (RSGI)"/>
+</authorList>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.80 ANGSTROMS) OF 241-566</scope>
+</reference>
+<comment type="function">
+<text evidence="3">Hydrolyzes the second messenger cGMP, which is a key regulator of many important physiological processes.</text>
+</comment>
+<comment type="catalytic activity">
+<text>Guanosine 3',5'-cyclic phosphate + H(2)O = guanosine 5'-phosphate.</text>
+</comment>
+<comment type="cofactor">
+<text evidence="3">Binds 2 divalent metal cations per subunit. Site 1 may preferentially bind zinc ions, while site 2 has a preference for magnesium and/or manganese ions.</text>
+</comment>
+<comment type="enzyme regulation">
+<text>Inhibited by zaprinast.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-742764"/>
+<interactant intactId="EBI-742790">
+<id>Q13049</id>
+<label>TRIM32</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform PDE9A1</molecule>
+<subcellularLocation>
+<location>Cell projection</location>
+<location>Ruffle membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Perinuclear region</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Golgi apparatus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Endoplasmic reticulum</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform PDE9A2</molecule>
+<subcellularLocation>
+<location>Cell projection</location>
+<location>Ruffle membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Perinuclear region</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform PDE9A3</molecule>
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Endoplasmic reticulum</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform PDE9A17</molecule>
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Endoplasmic reticulum</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>O76083-1</id>
+<name>PDE9A1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>O76083-2</id>
+<name>PDE9A2</name>
+<sequence type="described" ref="VSP_004599"/>
+</isoform>
+<isoform>
+<id>O76083-3</id>
+<name>PDE9A3</name>
+<sequence type="described" ref="VSP_004598 VSP_004599"/>
+</isoform>
+<isoform>
+<id>O76083-4</id>
+<name>PDE9A4</name>
+<sequence type="described" ref="VSP_004600"/>
+</isoform>
+<isoform>
+<id>O76083-5</id>
+<name>PDE9A5</name>
+<sequence type="described" ref="VSP_017309"/>
+</isoform>
+<isoform>
+<id>O76083-6</id>
+<name>PDE9A6</name>
+<name>PDE9A5</name>
+<sequence type="described" ref="VSP_017305 VSP_004599"/>
+</isoform>
+<isoform>
+<id>O76083-7</id>
+<name>PDE9A7</name>
+<name>PDE9A8</name>
+<name>PDE9A14</name>
+<name>PDE9A19</name>
+<name>PDE9A20</name>
+<sequence type="described" ref="VSP_017303"/>
+</isoform>
+<isoform>
+<id>O76083-8</id>
+<name>PDE9A9</name>
+<sequence type="described" ref="VSP_017307 VSP_004599"/>
+</isoform>
+<isoform>
+<id>O76083-9</id>
+<name>PDE9A10</name>
+<sequence type="described" ref="VSP_017304 VSP_017310"/>
+</isoform>
+<isoform>
+<id>O76083-10</id>
+<name>PDE9A11</name>
+<name>PDE9A15</name>
+<sequence type="described" ref="VSP_017302 VSP_017311"/>
+</isoform>
+<isoform>
+<id>O76083-11</id>
+<name>PDE9A12</name>
+<sequence type="described" ref="VSP_017305 VSP_017308"/>
+</isoform>
+<isoform>
+<id>O76083-12</id>
+<name>PDE9A13</name>
+<sequence type="described" ref="VSP_017306"/>
+</isoform>
+<isoform>
+<id>O76083-13</id>
+<name>PDE9A16</name>
+<sequence type="described" ref="VSP_004598"/>
+</isoform>
+<isoform>
+<id>O76083-14</id>
+<name>PDE9A17</name>
+<sequence type="described" ref="VSP_017305"/>
+</isoform>
+<isoform>
+<id>O76083-15</id>
+<name>PDE9A18</name>
+<sequence type="described" ref="VSP_017307"/>
+</isoform>
+<isoform>
+<id>O76083-16</id>
+<name>PDE9A21</name>
+<sequence type="described" ref="VSP_038647 VSP_004599"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="2">Expressed in all tissues examined (testis, brain, small intestine, skeletal muscle, heart, lung, thymus, spleen, placenta, kidney, liver, pancreas, ovary and prostate) except blood. Highest levels in brain, heart, kidney, spleen, prostate and colon. Isoform PDE9A12 is found in prostate.</text>
+</comment>
+<comment type="domain">
+<text>Composed of a C-terminal catalytic domain containing two putative divalent metal sites and an N-terminal regulatory domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the cyclic nucleotide phosphodiesterase family. PDE9 subfamily.</text>
+</comment>
+<dbReference type="EC" id="3.1.4.35"/>
+<dbReference type="EMBL" id="AF048837">
+<property type="protein sequence ID" value="AAC39778.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB017602">
+<property type="protein sequence ID" value="BAA88847.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF067223">
+<property type="protein sequence ID" value="AAC26723.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF067224">
+<property type="protein sequence ID" value="AAC26724.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF067225">
+<property type="protein sequence ID" value="AAC26725.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF067226">
+<property type="protein sequence ID" value="AAC26726.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196299">
+<property type="protein sequence ID" value="AAO34685.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196300">
+<property type="protein sequence ID" value="AAO34686.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196301">
+<property type="protein sequence ID" value="AAO34687.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196302">
+<property type="protein sequence ID" value="AAO34688.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196303">
+<property type="protein sequence ID" value="AAO34689.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196304">
+<property type="protein sequence ID" value="AAO34690.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196305">
+<property type="protein sequence ID" value="AAO34691.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196306">
+<property type="protein sequence ID" value="AAO34692.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196307">
+<property type="protein sequence ID" value="AAO34693.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196308">
+<property type="protein sequence ID" value="AAO34694.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196309">
+<property type="protein sequence ID" value="AAO34695.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196310">
+<property type="protein sequence ID" value="AAO34696.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196311">
+<property type="protein sequence ID" value="AAO34697.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196312">
+<property type="protein sequence ID" value="AAO34698.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196313">
+<property type="protein sequence ID" value="AAO34699.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY196314">
+<property type="protein sequence ID" value="AAO34700.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY242121">
+<property type="protein sequence ID" value="AAO88210.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY701187">
+<property type="protein sequence ID" value="AAV84271.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK294112">
+<property type="protein sequence ID" value="BAG57446.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK314679">
+<property type="protein sequence ID" value="BAG37232.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT007016">
+<property type="protein sequence ID" value="AAP35662.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP001747">
+<property type="protein sequence ID" value="BAA95552.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09544.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09536.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09537.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09541.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09542.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09546.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09540.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09548.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471079">
+<property type="protein sequence ID" value="EAX09549.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC009047">
+<property type="protein sequence ID" value="AAH09047.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13690.1">
+<molecule id="O76083-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33567.1">
+<molecule id="O76083-5"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33568.1">
+<molecule id="O76083-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33569.1">
+<molecule id="O76083-15"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33570.1">
+<molecule id="O76083-12"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33571.1">
+<molecule id="O76083-4"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42941.1">
+<molecule id="O76083-8"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42942.1">
+<molecule id="O76083-14"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42943.1">
+<molecule id="O76083-6"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42944.1">
+<molecule id="O76083-11"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42945.1">
+<molecule id="O76083-13"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42946.1">
+<molecule id="O76083-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42947.1">
+<molecule id="O76083-9"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001567.1">
+<molecule id="O76083-2"/>
+<property type="nucleotide sequence ID" value="NM_001001567.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001568.1">
+<molecule id="O76083-3"/>
+<property type="nucleotide sequence ID" value="NM_001001568.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001569.1">
+<molecule id="O76083-4"/>
+<property type="nucleotide sequence ID" value="NM_001001569.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001570.1">
+<molecule id="O76083-5"/>
+<property type="nucleotide sequence ID" value="NM_001001570.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001571.1">
+<molecule id="O76083-6"/>
+<property type="nucleotide sequence ID" value="NM_001001571.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001572.1">
+<molecule id="O76083-7"/>
+<property type="nucleotide sequence ID" value="NM_001001572.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001573.1">
+<molecule id="O76083-7"/>
+<property type="nucleotide sequence ID" value="NM_001001573.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001574.1">
+<molecule id="O76083-8"/>
+<property type="nucleotide sequence ID" value="NM_001001574.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001575.1">
+<molecule id="O76083-9"/>
+<property type="nucleotide sequence ID" value="NM_001001575.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001576.1">
+<molecule id="O76083-10"/>
+<property type="nucleotide sequence ID" value="NM_001001576.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001577.1">
+<molecule id="O76083-11"/>
+<property type="nucleotide sequence ID" value="NM_001001577.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001578.1">
+<molecule id="O76083-12"/>
+<property type="nucleotide sequence ID" value="NM_001001578.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001579.1">
+<molecule id="O76083-7"/>
+<property type="nucleotide sequence ID" value="NM_001001579.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001580.1">
+<molecule id="O76083-10"/>
+<property type="nucleotide sequence ID" value="NM_001001580.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001581.1">
+<molecule id="O76083-13"/>
+<property type="nucleotide sequence ID" value="NM_001001581.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001582.1">
+<molecule id="O76083-14"/>
+<property type="nucleotide sequence ID" value="NM_001001582.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001583.1">
+<molecule id="O76083-15"/>
+<property type="nucleotide sequence ID" value="NM_001001583.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001584.1">
+<molecule id="O76083-7"/>
+<property type="nucleotide sequence ID" value="NM_001001584.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001001585.1">
+<molecule id="O76083-7"/>
+<property type="nucleotide sequence ID" value="NM_001001585.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002597.1">
+<molecule id="O76083-1"/>
+<property type="nucleotide sequence ID" value="NM_002606.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.473927"/>
+<dbReference type="PDB" id="2HD1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.23"/>
+<property type="chains" value="A/B=241-566"/>
+</dbReference>
+<dbReference type="PDB" id="2YY2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B=241-566"/>
+</dbReference>
+<dbReference type="PDB" id="3DY8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="3DYL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="3DYN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="3DYQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="3DYS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="3JSI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.72"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="3JSW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="3K3E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=241-566"/>
+</dbReference>
+<dbReference type="PDB" id="3K3H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=241-566"/>
+</dbReference>
+<dbReference type="PDB" id="3N3Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A/B=241-566"/>
+</dbReference>
+<dbReference type="PDB" id="3QI3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-593"/>
+</dbReference>
+<dbReference type="PDB" id="3QI4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=1-593"/>
+</dbReference>
+<dbReference type="PDB" id="4E90">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="4G2J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="4G2L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=242-566"/>
+</dbReference>
+<dbReference type="PDB" id="4GH6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=241-566"/>
+</dbReference>
+<dbReference type="PDBsum" id="2HD1"/>
+<dbReference type="PDBsum" id="2YY2"/>
+<dbReference type="PDBsum" id="3DY8"/>
+<dbReference type="PDBsum" id="3DYL"/>
+<dbReference type="PDBsum" id="3DYN"/>
+<dbReference type="PDBsum" id="3DYQ"/>
+<dbReference type="PDBsum" id="3DYS"/>
+<dbReference type="PDBsum" id="3JSI"/>
+<dbReference type="PDBsum" id="3JSW"/>
+<dbReference type="PDBsum" id="3K3E"/>
+<dbReference type="PDBsum" id="3K3H"/>
+<dbReference type="PDBsum" id="3N3Z"/>
+<dbReference type="PDBsum" id="3QI3"/>
+<dbReference type="PDBsum" id="3QI4"/>
+<dbReference type="PDBsum" id="4E90"/>
+<dbReference type="PDBsum" id="4G2J"/>
+<dbReference type="PDBsum" id="4G2L"/>
+<dbReference type="PDBsum" id="4GH6"/>
+<dbReference type="ProteinModelPortal" id="O76083"/>
+<dbReference type="SMR" id="O76083">
+<property type="residue range" value="242-565"/>
+</dbReference>
+<dbReference type="BioGrid" id="111178">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="IntAct" id="O76083">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1444906"/>
+<dbReference type="BindingDB" id="O76083"/>
+<dbReference type="ChEMBL" id="CHEMBL2363066"/>
+<dbReference type="DrugBank" id="DB00201">
+<property type="generic name" value="Caffeine"/>
+</dbReference>
+<dbReference type="GuidetoPHARMACOLOGY" id="1309"/>
+<dbReference type="PhosphoSite" id="O76083"/>
+<dbReference type="PaxDb" id="O76083"/>
+<dbReference type="PRIDE" id="O76083"/>
+<dbReference type="DNASU" id="5152"/>
+<dbReference type="Ensembl" id="ENST00000291539">
+<molecule id="O76083-1"/>
+<property type="protein sequence ID" value="ENSP00000291539"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000328862">
+<molecule id="O76083-15"/>
+<property type="protein sequence ID" value="ENSP00000328699"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000335440">
+<molecule id="O76083-12"/>
+<property type="protein sequence ID" value="ENSP00000335365"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000335512">
+<molecule id="O76083-2"/>
+<property type="protein sequence ID" value="ENSP00000335242"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000349112">
+<molecule id="O76083-4"/>
+<property type="protein sequence ID" value="ENSP00000344730"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000380328">
+<molecule id="O76083-5"/>
+<property type="protein sequence ID" value="ENSP00000369685"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000398224">
+<molecule id="O76083-3"/>
+<property type="protein sequence ID" value="ENSP00000381280"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000398225">
+<molecule id="O76083-14"/>
+<property type="protein sequence ID" value="ENSP00000381281"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000398227">
+<molecule id="O76083-9"/>
+<property type="protein sequence ID" value="ENSP00000381283"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000398229">
+<molecule id="O76083-11"/>
+<property type="protein sequence ID" value="ENSP00000381285"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000398232">
+<molecule id="O76083-13"/>
+<property type="protein sequence ID" value="ENSP00000381287"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000398234">
+<molecule id="O76083-6"/>
+<property type="protein sequence ID" value="ENSP00000381289"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000398236">
+<molecule id="O76083-8"/>
+<property type="protein sequence ID" value="ENSP00000381291"/>
+<property type="gene ID" value="ENSG00000160191"/>
+</dbReference>
+<dbReference type="GeneID" id="5152"/>
+<dbReference type="KEGG" id="hsa:5152"/>
+<dbReference type="UCSC" id="uc002zbm.3">
+<molecule id="O76083-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbn.3">
+<molecule id="O76083-3"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbo.3">
+<molecule id="O76083-5"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbq.3">
+<molecule id="O76083-12"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbt.3">
+<molecule id="O76083-4"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbu.3">
+<molecule id="O76083-11"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbv.3">
+<molecule id="O76083-9"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbw.3">
+<molecule id="O76083-10"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbx.3">
+<molecule id="O76083-2"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zbz.3">
+<molecule id="O76083-16"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zca.3">
+<molecule id="O76083-14"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zcb.3">
+<molecule id="O76083-15"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zcc.3">
+<molecule id="O76083-6"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zcd.3">
+<molecule id="O76083-8"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc002zce.3">
+<molecule id="O76083-13"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="UCSC" id="uc010gpf.1">
+<molecule id="O76083-7"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5152"/>
+<dbReference type="GeneCards" id="GC21P044073"/>
+<dbReference type="HGNC" id="HGNC:8795">
+<property type="gene designation" value="PDE9A"/>
+</dbReference>
+<dbReference type="HPA" id="HPA011380"/>
+<dbReference type="MIM" id="602973">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O76083"/>
+<dbReference type="PharmGKB" id="PA33143"/>
+<dbReference type="eggNOG" id="NOG268427"/>
+<dbReference type="GeneTree" id="ENSGT00760000118889"/>
+<dbReference type="HOVERGEN" id="HBG053545"/>
+<dbReference type="KO" id="K13761"/>
+<dbReference type="OMA" id="PRAFKIN"/>
+<dbReference type="OrthoDB" id="EOG7DFXC4"/>
+<dbReference type="PhylomeDB" id="O76083"/>
+<dbReference type="TreeFam" id="TF314638"/>
+<dbReference type="Reactome" id="REACT_23767">
+<property type="pathway name" value="cGMP effects"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="PDE9A">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="O76083"/>
+<dbReference type="GeneWiki" id="PDE9A"/>
+<dbReference type="GenomeRNAi" id="5152"/>
+<dbReference type="NextBio" id="19884"/>
+<dbReference type="PRO" id="PR:O76083"/>
+<dbReference type="Bgee" id="O76083"/>
+<dbReference type="Genevestigator" id="O76083"/>
+<dbReference type="GO" id="GO:0042995">
+<property type="term" value="C:cell projection"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043204">
+<property type="term" value="C:perikaryon"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047555">
+<property type="term" value="F:3',5'-cyclic-GMP phosphodiesterase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004114">
+<property type="term" value="F:3',5'-cyclic-nucleotide phosphodiesterase activity"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019934">
+<property type="term" value="P:cGMP-mediated signaling"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008152">
+<property type="term" value="P:metabolic process"/>
+<property type="evidence" value="TAS:GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007165">
+<property type="term" value="P:signal transduction"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1300.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003607">
+<property type="entry name" value="HD/PDEase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023088">
+<property type="entry name" value="PDEase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002073">
+<property type="entry name" value="PDEase_catalytic_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023174">
+<property type="entry name" value="PDEase_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00233">
+<property type="entry name" value="PDEase_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00387">
+<property type="entry name" value="PDIESTERASE1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00471">
+<property type="entry name" value="HDc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00126">
+<property type="entry name" value="PDEASE_I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0140">cGMP</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="chain" description="High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A" id="PRO_0000198841">
+<location>
+<begin position="1"/>
+<end position="593"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="cGMP" evidence="3">
+<location>
+<begin position="312"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="cGMP" evidence="3">
+<location>
+<begin position="512"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="region of interest" description="Catalytic" evidence="1">
+<location>
+<begin position="288"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="active site" description="Proton donor">
+<location>
+<position position="312"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 1">
+<location>
+<position position="316"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 1">
+<location>
+<position position="352"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 1">
+<location>
+<position position="353"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 2">
+<location>
+<position position="353"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Divalent metal cation 1">
+<location>
+<position position="462"/>
+</location>
+</feature>
+<feature type="binding site" description="cGMP" evidence="3">
+<location>
+<position position="353"/>
+</location>
+</feature>
+<feature type="binding site" description="cGMP" evidence="3">
+<location>
+<position position="462"/>
+</location>
+</feature>
+<feature type="binding site" description="cGMP" evidence="3">
+<location>
+<position position="484"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A11." id="VSP_017302" evidence="4">
+<location>
+<begin position="1"/>
+<end position="217"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A7." id="VSP_017303" evidence="4">
+<location>
+<begin position="1"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A10." id="VSP_017304" evidence="4">
+<location>
+<begin position="1"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A21." id="VSP_038647" evidence="8">
+<original>MGSGSSSYRPKAIYLDIDGRIQKVIFSKYCNSSDIMDLFCIATGLPRNTTISLLTTDDAMVSIDPTMPANSER</original>
+<variation>MSSFSIHHSVTCCFYLVRSHGRPTS</variation>
+<location>
+<begin position="1"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A3 and isoform PDE9A16." id="VSP_004598" evidence="4 6 9">
+<original>MGSGSSSYRPKAIYLDIDGRIQKVIFSKYCNSSDIMDLFCIATGLPRNTTISLLTTDDAMVSIDPTMPANSER</original>
+<variation>MDAFRS</variation>
+<location>
+<begin position="1"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A6, isoform PDE9A12 and isoform PDE9A17." id="VSP_017305" evidence="4 5">
+<original>MGSGSSSYRPKAIYLDIDGRIQKVIFSKYCNSSDIMDLFCIATGLP</original>
+<variation>MDAFR</variation>
+<location>
+<begin position="1"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A13." id="VSP_017306" evidence="4">
+<original>VIFSKYCNSSDIMDLFCIATGLPRNTTISLLTTDDAMVSIDPTMPANSERTPYKVRPVAIKQLSAGVEDKRTTSRGQSAERPLRDRRVVGLEQPRREGAFESGQVEPRPREPQGCYQEGQRIPPEREELIQSVLAQVAEQFS</original>
+<variation>EHDHLPADHRRRHGLHRPHHAREFRTHSVQSETCGHQATL</variation>
+<location>
+<begin position="24"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A4." id="VSP_004600" evidence="9">
+<original>VIFSKYCNSSDIMDLFCIATGLPRNTTISLLTTDDAMVSIDPTMPANSERTPYKVRPVAIKQLSAGVEDKRTTSRGQSAERPLRDRRVVGLEQPRREGAFESGQVEPRPREPQGCYQEGQRIPPEREELIQSVLAQVAEQFS</original>
+<variation>HSVQSETCGHQATL</variation>
+<location>
+<begin position="24"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A9 and isoform PDE9A18." id="VSP_017307" evidence="4">
+<location>
+<begin position="48"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A12." id="VSP_017308" evidence="4">
+<location>
+<begin position="73"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A5." id="VSP_017309" evidence="4">
+<original>TPYKVRPVAIKQLSAGVEDKRTTSRGQSAERPLRDRRVVGLEQPRREGAFESGQVEPRPREPQGCYQEGQRIPPEREELIQSVLAQVAEQFS</original>
+<variation>NELILYTSLRNLLFLPSKESWASHQHSVQSETCGHQATL</variation>
+<location>
+<begin position="74"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A2, isoform PDE9A3, isoform PDE9A6, isoform PDE9A9 and isoform PDE9A21." id="VSP_004599" evidence="4 5 6 7 8 9 10">
+<location>
+<begin position="88"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A10." id="VSP_017310" evidence="4">
+<original>AEQFS</original>
+<variation>MDAFR</variation>
+<location>
+<begin position="161"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform PDE9A11." id="VSP_017311" evidence="4">
+<original>R</original>
+<variation>M</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Completely abolishes catalytic activity." evidence="3">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="312"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces catalytic activity, but has no effect on substrate affinity." evidence="3">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="356"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; BAG57446." ref="6" evidence="11">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="250"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="263"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="268"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="284"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="292"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="310"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="314"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="333"/>
+<end position="336"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="339"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="352"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="361"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="370"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="380"/>
+<end position="393"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="396"/>
+<end position="398"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="400"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="406"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="425"/>
+<end position="427"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="428"/>
+<end position="439"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="447"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="465"/>
+<end position="467"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="470"/>
+<end position="494"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="500"/>
+<end position="502"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="504"/>
+<end position="506"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="509"/>
+<end position="519"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="521"/>
+<end position="531"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="535"/>
+<end position="561"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="562"/>
+<end position="564"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12565835"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18757755"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12565835"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14527714"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="17090334"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9856478"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source ref="7"/>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="593" mass="68493" checksum="E2731C7C828C0994" modified="1998-11-01" version="1">
+MGSGSSSYRPKAIYLDIDGRIQKVIFSKYCNSSDIMDLFCIATGLPRNTTISLLTTDDAM
+VSIDPTMPANSERTPYKVRPVAIKQLSAGVEDKRTTSRGQSAERPLRDRRVVGLEQPRRE
+GAFESGQVEPRPREPQGCYQEGQRIPPEREELIQSVLAQVAEQFSRAFKINELKAEVANH
+LAVLEKRVELEGLKVVEIEKCKSDIKKMREELAARSSRTNCPCKYSFLDNHKKLTPRRDV
+PTYPKYLLSPETIEALRKPTFDVWLWEPNEMLSCLEHMYHDLGLVRDFSINPVTLRRWLF
+CVHDNYRNNPFHNFRHCFCVAQMMYSMVWLCSLQEKFSQTDILILMTAAICHDLDHPGYN
+NTYQINARTELAVRYNDISPLENHHCAVAFQILAEPECNIFSNIPPDGFKQIRQGMITLI
+LATDMARHAEIMDSFKEKMENFDYSNEEHMTLLKMILIKCCDISNEVRPMEVAEPWVDCL
+LEEYFMQSDREKSEGLPVAPFMDRDKVTKATAQIGFIKFVLIPMFETVTKLFPMVEEIML
+QPLWESRDRYEELKRIDDAMKELQKKTDSLTSGATEKSRERSRDVKNSEGDCA
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

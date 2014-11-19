@@ -1,0 +1,942 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2014-10-29" version="139">
+<accession>P14902</accession>
+<accession>Q540B4</accession>
+<name>I23O1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Indoleamine 2,3-dioxygenase 1</fullName>
+<shortName>IDO-1</shortName>
+<ecNumber>1.13.11.52</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Indoleamine-pyrrole 2,3-dioxygenase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">IDO1</name>
+<name type="synonym">IDO</name>
+<name type="synonym">INDO</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="Biochem. Biophys. Res. Commun." volume="168" first="1" last="8">
+<title>Molecular cloning, sequencing and expression of human interferon-gamma-inducible indoleamine 2,3-dioxygenase cDNA.</title>
+<authorList>
+<person name="Dai W."/>
+<person name="Gupta S.L."/>
+</authorList>
+<dbReference type="PubMed" id="2109605"/>
+<dbReference type="DOI" id="10.1016/0006-291X(90)91666-G"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>INDUCTION BY IFNG</scope>
+<source>
+<tissue>Fibroblast</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1990" name="Nucleic Acids Res." volume="18" first="367" last="367">
+<title>Primary structure of human indoleamine 2,3-dioxygenase deduced from the nucleotide sequence of its cDNA.</title>
+<authorList>
+<person name="Tone S."/>
+<person name="Takikawa O."/>
+<person name="Habara-Ohkubo A."/>
+<person name="Kadoya A."/>
+<person name="Yoshida R."/>
+<person name="Kido R."/>
+</authorList>
+<dbReference type="PubMed" id="2326172"/>
+<dbReference type="DOI" id="10.1093/nar/18.2.367"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="Biochem. Biophys. Res. Commun." volume="189" first="530" last="536">
+<title>Gene structure of human indoleamine 2,3-dioxygenase.</title>
+<authorList>
+<person name="Kadoya A."/>
+<person name="Tone S."/>
+<person name="Maeda H."/>
+<person name="Minatogawa Y."/>
+<person name="Kido R."/>
+</authorList>
+<dbReference type="PubMed" id="1449503"/>
+<dbReference type="DOI" id="10.1016/0006-291X(92)91590-M"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2003-01" db="EMBL/GenBank/DDBJ databases">
+<title>Human indoleamine 2,3-dioxygenase from peripheral blood.</title>
+<authorList>
+<person name="He X."/>
+<person name="Xu L."/>
+<person name="Liu Y."/>
+<person name="Zeng Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Peripheral blood</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2007" name="Cancer Res." volume="67" first="7082" last="7087">
+<title>Novel tryptophan catabolic enzyme IDO2 is the preferred biochemical target of the antitumor indoleamine 2,3-dioxygenase inhibitory compound D-1-methyl-tryptophan.</title>
+<authorList>
+<person name="Metz R."/>
+<person name="Duhadaway J.B."/>
+<person name="Kamasani U."/>
+<person name="Laury-Kleintop L."/>
+<person name="Muller A.J."/>
+<person name="Prendergast G.C."/>
+</authorList>
+<dbReference type="PubMed" id="17671174"/>
+<dbReference type="DOI" id="10.1158/0008-5472.CAN-07-1872"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ENZYME REGULATION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2007" name="J. Mol. Evol." volume="65" first="705" last="714">
+<title>Evolution of vertebrate indoleamine 2,3-dioxygenases.</title>
+<authorList>
+<person name="Yuasa H.J."/>
+<person name="Takubo M."/>
+<person name="Takahashi A."/>
+<person name="Hasegawa T."/>
+<person name="Noma H."/>
+<person name="Suzuki T."/>
+</authorList>
+<dbReference type="PubMed" id="18026683"/>
+<dbReference type="DOI" id="10.1007/s00239-007-9049-1"/>
+</citation>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="2611" last="2616">
+<title>Crystal structure of human indoleamine 2,3-dioxygenase: catalytic mechanism of O2 incorporation by a heme-containing dioxygenase.</title>
+<authorList>
+<person name="Sugimoto H."/>
+<person name="Oda S."/>
+<person name="Otsuki T."/>
+<person name="Hino T."/>
+<person name="Yoshida T."/>
+<person name="Shiro Y."/>
+</authorList>
+<dbReference type="PubMed" id="16477023"/>
+<dbReference type="DOI" id="10.1073/pnas.0508996103"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS)</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Catalyzes the cleavage of the pyrrol ring of tryptophan and incorporates both atoms of a molecule of oxygen.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">D-tryptophan + O(2) = N-formyl-D-kynurenine.</text>
+</comment>
+<comment type="catalytic activity">
+<text evidence="1">L-tryptophan + O(2) = N-formyl-L-kynurenine.</text>
+</comment>
+<comment type="cofactor">
+<text>Binds 1 heme group per subunit.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">Activity is inhibited by and MTH-trp (methylthiohydantoin-DL-tryptophan), modestly inhibited by L-1MT (1-methyl-L-tryptophan) but not D-1MT (1-methyl-D-tryptophan).</text>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="2">21.23 uM for L-tryptophan</KM>
+<KM evidence="2">4.6 mM for D-tryptophan</KM>
+<text>Catalytic efficiency for L-tryptophan is 150 times higher than for D-tryptophan.</text>
+</kinetics>
+</comment>
+<comment type="pathway">
+<text>Amino-acid degradation; L-tryptophan degradation via kynurenine pathway; L-kynurenine from L-tryptophan: step 1/2.</text>
+</comment>
+<comment type="induction">
+<text evidence="3">By IFNG/IFN-gamma.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the indoleamine 2,3-dioxygenase family.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/IDO1ID40973ch8p11.html"/>
+</comment>
+<dbReference type="EC" id="1.13.11.52"/>
+<dbReference type="EMBL" id="M34455">
+<property type="protein sequence ID" value="AAA36081.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X17668">
+<property type="protein sequence ID" value="CAA35663.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86472">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86473">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86474">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86475">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86476">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86477">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86478">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86479">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86480">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M86481">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY221100">
+<property type="protein sequence ID" value="AAO34405.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK313259">
+<property type="protein sequence ID" value="BAG36069.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC027882">
+<property type="protein sequence ID" value="AAH27882.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47847.1"/>
+<dbReference type="PIR" id="PC1161">
+<property type="entry name" value="PC1161"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002155.1">
+<property type="nucleotide sequence ID" value="NM_002164.5"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.840"/>
+<dbReference type="PDB" id="2D0T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-403"/>
+</dbReference>
+<dbReference type="PDB" id="2D0U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="A/B=1-403"/>
+</dbReference>
+<dbReference type="PDB" id="4PK5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.79"/>
+<property type="chains" value="A/B=1-403"/>
+</dbReference>
+<dbReference type="PDB" id="4PK6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.45"/>
+<property type="chains" value="A/B=1-403"/>
+</dbReference>
+<dbReference type="PDBsum" id="2D0T"/>
+<dbReference type="PDBsum" id="2D0U"/>
+<dbReference type="PDBsum" id="4PK5"/>
+<dbReference type="PDBsum" id="4PK6"/>
+<dbReference type="ProteinModelPortal" id="P14902"/>
+<dbReference type="SMR" id="P14902">
+<property type="residue range" value="11-403"/>
+</dbReference>
+<dbReference type="BioGrid" id="109832">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="IntAct" id="P14902">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1414454"/>
+<dbReference type="STRING" id="9606.ENSP00000253513"/>
+<dbReference type="BindingDB" id="P14902"/>
+<dbReference type="ChEMBL" id="CHEMBL4685"/>
+<dbReference type="DrugBank" id="DB00150">
+<property type="generic name" value="L-Tryptophan"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01065">
+<property type="generic name" value="Melatonin"/>
+</dbReference>
+<dbReference type="PhosphoSite" id="P14902"/>
+<dbReference type="DMDM" id="123948"/>
+<dbReference type="PaxDb" id="P14902"/>
+<dbReference type="PRIDE" id="P14902"/>
+<dbReference type="DNASU" id="3620"/>
+<dbReference type="Ensembl" id="ENST00000518237">
+<property type="protein sequence ID" value="ENSP00000430950"/>
+<property type="gene ID" value="ENSG00000131203"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000522495">
+<property type="protein sequence ID" value="ENSP00000430505"/>
+<property type="gene ID" value="ENSG00000131203"/>
+</dbReference>
+<dbReference type="GeneID" id="3620"/>
+<dbReference type="KEGG" id="hsa:3620"/>
+<dbReference type="UCSC" id="uc003xnm.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="3620"/>
+<dbReference type="GeneCards" id="GC08P039771"/>
+<dbReference type="HGNC" id="HGNC:6059">
+<property type="gene designation" value="IDO1"/>
+</dbReference>
+<dbReference type="HPA" id="HPA023072"/>
+<dbReference type="HPA" id="HPA023149"/>
+<dbReference type="HPA" id="HPA027772"/>
+<dbReference type="MIM" id="147435">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P14902"/>
+<dbReference type="PharmGKB" id="PA29869"/>
+<dbReference type="eggNOG" id="NOG73554"/>
+<dbReference type="GeneTree" id="ENSGT00390000002154"/>
+<dbReference type="HOGENOM" id="HOG000203926"/>
+<dbReference type="HOVERGEN" id="HBG006100"/>
+<dbReference type="InParanoid" id="P14902"/>
+<dbReference type="KO" id="K00463"/>
+<dbReference type="OMA" id="EAYDACV"/>
+<dbReference type="PhylomeDB" id="P14902"/>
+<dbReference type="TreeFam" id="TF330978"/>
+<dbReference type="BioCyc" id="MetaCyc:HS05502-MONOMER"/>
+<dbReference type="BRENDA" id="1.13.11.11">
+<property type="organism ID" value="2681"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_916">
+<property type="pathway name" value="Tryptophan catabolism"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P14902"/>
+<dbReference type="UniPathway" id="UPA00333">
+<property type="reaction ID" value="UER00453"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="IDO1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P14902"/>
+<dbReference type="GeneWiki" id="Indoleamine_2,3-dioxygenase"/>
+<dbReference type="GenomeRNAi" id="3620"/>
+<dbReference type="NextBio" id="14159"/>
+<dbReference type="PRO" id="PR:P14902"/>
+<dbReference type="Bgee" id="P14902"/>
+<dbReference type="ExpressionAtlas" id="P14902">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevestigator" id="P14902"/>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030485">
+<property type="term" value="C:smooth muscle contractile fiber"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032421">
+<property type="term" value="C:stereocilium bundle"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009055">
+<property type="term" value="F:electron carrier activity"/>
+<property type="evidence" value="TAS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0020037">
+<property type="term" value="F:heme binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033754">
+<property type="term" value="F:indoleamine 2,3-dioxygenase activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004833">
+<property type="term" value="F:tryptophan 2,3-dioxygenase activity"/>
+<property type="evidence" value="EXP:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034641">
+<property type="term" value="P:cellular nitrogen compound metabolic process"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002534">
+<property type="term" value="P:cytokine production involved in inflammatory response"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007565">
+<property type="term" value="P:female pregnancy"/>
+<property type="evidence" value="TAS:ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034276">
+<property type="term" value="P:kynurenic acid biosynthetic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033555">
+<property type="term" value="P:multicellular organismal response to stress"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046007">
+<property type="term" value="P:negative regulation of activated T cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032693">
+<property type="term" value="P:negative regulation of interleukin-10 production"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070233">
+<property type="term" value="P:negative regulation of T cell apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002678">
+<property type="term" value="P:positive regulation of chronic inflammatory response"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032735">
+<property type="term" value="P:positive regulation of interleukin-12 production"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002666">
+<property type="term" value="P:positive regulation of T cell tolerance induction"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002830">
+<property type="term" value="P:positive regulation of type 2 immune response"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032496">
+<property type="term" value="P:response to lipopolysaccharide"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044281">
+<property type="term" value="P:small molecule metabolic process"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036269">
+<property type="term" value="P:swimming behavior"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006569">
+<property type="term" value="P:tryptophan catabolic process"/>
+<property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019441">
+<property type="term" value="P:tryptophan catabolic process to kynurenine"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000898">
+<property type="entry name" value="Indolamine_dOase"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01231">
+<property type="entry name" value="IDO"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00876">
+<property type="entry name" value="IDO_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00877">
+<property type="entry name" value="IDO_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0223">Dioxygenase</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0349">Heme</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Indoleamine 2,3-dioxygenase 1" id="PRO_0000215204">
+<location>
+<begin position="1"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme proximal ligand)">
+<location>
+<position position="346"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35059413." id="VAR_053368">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="4"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="14"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="19"/>
+<end position="21"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="34"/>
+<end position="36"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="37"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="46"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="55"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="73"/>
+<end position="92"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="95"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="101"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="105"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="126"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="132"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="145"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="148"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="160"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="181"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="193"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="217"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="223"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="230"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="241"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="247"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="250"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="264"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="268"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="284"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="287"/>
+<end position="295"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="296"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="301"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="316"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="322"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="326"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="355"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="382"/>
+<end position="397"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17671174"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18026683"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2109605"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="403" mass="45326" checksum="E92CF57AD0D0BA8D" modified="1990-04-01" version="1">
+MAHAMENSWTISKEYHIDEEVGFALPNPQENLPDFYNDWMFIAKHLPDLIESGQLRERVE
+KLNMLSIDHLTDHKSQRLARLVLGCITMAYVWGKGHGDVRKVLPRNIAVPYCQLSKKLEL
+PPILVYADCVLANWKKKDPNKPLTYENMDVLFSFRDGDCSKGFFLVSLLVEIAAASAIKV
+IPTVFKAMQMQERDTLLKALLEIASCLEKALQVFHQIHDHVNPKAFFSVLRIYLSGWKGN
+PQLSDGLVYEGFWEDPKEFAGGSAGQSSVFQCFDVLLGIQQTAGGGHAAQFLQDMRRYMP
+PAHRNFLCSLESNPSVREFVLSKGDAGLREAYDACVKALVSLRSYHLQIVTKYILIPASQ
+QPKENKTSEDPSKLEAKGTGGTDLMNFLKTVRSTTEKSLLKEG
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

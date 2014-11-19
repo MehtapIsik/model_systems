@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2014-10-29" version="170">
+<accession>P00735</accession>
+<accession>Q3MHK7</accession>
+<name>THRB_BOVIN</name>
+<protein>
+<recommendedName>
+<fullName>Prothrombin</fullName>
+<ecNumber>3.4.21.5</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Coagulation factor II</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Activation peptide fragment 1</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Activation peptide fragment 2</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Thrombin light chain</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Thrombin heavy chain</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">F2</name>
+</gene>
+<organism>
+<name type="scientific">Bos taurus</name>
+<name type="common">Bovine</name>
+<dbReference type="NCBI Taxonomy" id="9913"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Laurasiatheria</taxon>
+<taxon>Cetartiodactyla</taxon>
+<taxon>Ruminantia</taxon>
+<taxon>Pecora</taxon>
+<taxon>Bovidae</taxon>
+<taxon>Bovinae</taxon>
+<taxon>Bos</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1988" name="J. Mol. Biol." volume="200" first="31" last="45">
+<title>Structure and evolution of the bovine prothrombin gene.</title>
+<authorList>
+<person name="Irwin D.M."/>
+<person name="Robertson K.A."/>
+<person name="Macgillivray R.T.A."/>
+</authorList>
+<dbReference type="PubMed" id="3379642"/>
+<dbReference type="DOI" id="10.1016/0022-2836(88)90331-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1984" name="Biochemistry" volume="23" first="1626" last="1634">
+<title>Characterization of bovine prothrombin mRNA and its translation product.</title>
+<authorList>
+<person name="McGillivray R.T.A."/>
+<person name="Davie E.W."/>
+</authorList>
+<dbReference type="PubMed" id="6326805"/>
+<dbReference type="DOI" id="10.1021/bi00303a007"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIH - Mammalian Gene Collection (MGC) project"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>Hereford</strain>
+<tissue>Fetal liver</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="book" date="1975" name="Boerhaave symposium on prothrombin and related coagulation factors" first="25" last="46" publisher="Leiden University Press" city="Leiden">
+<editorList>
+<person name="Hemker H.C."/>
+<person name="Veltkamp J.J."/>
+</editorList>
+<authorList>
+<person name="Magnusson S."/>
+<person name="Sottrup-Jensen L."/>
+<person name="Petersen T.E."/>
+<person name="Claeys H."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 44-625</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>GAMMA-CARBOXYGLUTAMATION AT GLU-50; GLU-51; GLU-58; GLU-60; GLU-63; GLU-64; GLU-69; GLU-70; GLU-73 AND GLU-76</scope>
+<scope>GLYCOSYLATION AT ASN-120; ASN-144 AND ASN-419</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1985" name="Biochemistry" volume="24" first="6854" last="6861">
+<title>Characterization of the bovine prothrombin gene.</title>
+<authorList>
+<person name="Irwin D.M."/>
+<person name="Ahern K.G."/>
+<person name="Pearson G.D."/>
+<person name="McGillivray R.T.A."/>
+</authorList>
+<dbReference type="PubMed" id="3000440"/>
+<dbReference type="DOI" id="10.1021/bi00345a018"/>
+</citation>
+<scope>GENE STRUCTURE</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1986" name="Biochemistry" volume="25" first="3977" last="3982">
+<title>Three-dimensional structure of the kringle sequence: structure of prothrombin fragment 1.</title>
+<authorList>
+<person name="Park C.H."/>
+<person name="Tulinsky A."/>
+</authorList>
+<dbReference type="PubMed" id="3741841"/>
+<dbReference type="DOI" id="10.1021/bi00362a001"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF ACTIVATION PEPTIDE 1</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1991" name="J. Mol. Biol." volume="220" first="481" last="494">
+<title>Structure of bovine prothrombin fragment 1 refined at 2.25-A resolution.</title>
+<authorList>
+<person name="Seshadri T.-P."/>
+<person name="Tulinsky A."/>
+<person name="Skrzypczak-Jankun E."/>
+<person name="Park C.H."/>
+</authorList>
+<dbReference type="PubMed" id="1856869"/>
+<dbReference type="DOI" id="10.1016/0022-2836(91)90025-2"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) OF ACTIVATION PEPTIDE 1</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1992" name="Biochemistry" volume="31" first="2554" last="2566">
+<title>The Ca2+ ion and membrane binding structure of the Gla domain of Ca-prothrombin fragment 1.</title>
+<authorList>
+<person name="Soriano-Garcia M."/>
+<person name="Padmanabhan K."/>
+<person name="de Vos A.M."/>
+<person name="Tulinsky A."/>
+</authorList>
+<dbReference type="PubMed" id="1547238"/>
+<dbReference type="DOI" id="10.1021/bi00124a016"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF ACTIVATION PEPTIDE 1 IN COMPLEX WITH CALCIUM IONS</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>GLYCOSYLATION AT ASN-120 AND ASN-144</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="7911" last="7920">
+<title>The structure of residues 7-16 of the A alpha-chain of human fibrinogen bound to bovine thrombin at 2.3-A resolution.</title>
+<authorList>
+<person name="Martin P.D."/>
+<person name="Robertson W."/>
+<person name="Turk D."/>
+<person name="Huber R."/>
+<person name="Bode W."/>
+<person name="Edwards B.F.P."/>
+</authorList>
+<dbReference type="PubMed" id="1560020"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) IN COMPLEX WITH FIBRINOGEN</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="17670" last="17678">
+<title>The structure of a complex of bovine alpha-thrombin and recombinant hirudin at 2.8-A resolution.</title>
+<authorList>
+<person name="Vitali J."/>
+<person name="Martin P.D."/>
+<person name="Malkowski M.G."/>
+<person name="Robertson W.D."/>
+<person name="Lazar J.B."/>
+<person name="Winant R.C."/>
+<person name="Johnson P.H."/>
+<person name="Edwards B.F.P."/>
+</authorList>
+<dbReference type="PubMed" id="1517214"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 318-625 IN COMPLEX WITH HIRUDIN</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1992" name="J. Mol. Biol." volume="226" first="1085" last="1099">
+<title>Refined 2.3 A X-ray crystal structure of bovine thrombin complexes formed with the benzamidine and arginine-based thrombin inhibitors NAPAP, 4-TAPAP and MQPA. A starting point for improving antithrombotics.</title>
+<authorList>
+<person name="Brandstetter H."/>
+<person name="Turk D."/>
+<person name="Hoeffken H.W."/>
+<person name="Grosse D."/>
+<person name="Stuerzebecher J."/>
+<person name="Martin P.D."/>
+<person name="Edwards B.F.P."/>
+<person name="Bode W."/>
+</authorList>
+<dbReference type="PubMed" id="1518046"/>
+<dbReference type="DOI" id="10.1016/0022-2836(92)91054-S"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS)</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1996" name="EMBO J." volume="15" first="6011" last="6017">
+<title>The ornithodorin-thrombin crystal structure, a key to the TAP enigma?</title>
+<authorList>
+<person name="van de Locht A."/>
+<person name="Stubbs M.T."/>
+<person name="Bode W."/>
+<person name="Friedrich T."/>
+<person name="Bollschweiler C."/>
+<person name="Hoffken W."/>
+<person name="Huber R."/>
+</authorList>
+<dbReference type="PubMed" id="8947023"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF COMPLEX WITH ORNITHODORIN</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="11845" last="11850">
+<title>Structure of the thrombin complex with triabin, a lipocalin-like exosite-binding inhibitor derived from a triatomine bug.</title>
+<authorList>
+<person name="Fuentes-Prior P."/>
+<person name="Noeske-Jungblut C."/>
+<person name="Donner P."/>
+<person name="Schleuning W.-D."/>
+<person name="Huber R."/>
+<person name="Bode W."/>
+</authorList>
+<dbReference type="PubMed" id="9342325"/>
+<dbReference type="DOI" id="10.1073/pnas.94.22.11845"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF COMPLEX WITH TRIABIN</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2003" name="Nat. Struct. Biol." volume="10" first="751" last="756">
+<title>Structural basis of membrane binding by Gla domains of vitamin K-dependent proteins.</title>
+<authorList>
+<person name="Huang M."/>
+<person name="Rigby A.C."/>
+<person name="Morelli X."/>
+<person name="Grant M.A."/>
+<person name="Huang G."/>
+<person name="Furie B."/>
+<person name="Seaton B."/>
+<person name="Furie B.C."/>
+</authorList>
+<dbReference type="PubMed" id="12923575"/>
+<dbReference type="DOI" id="10.1038/nsb971"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 44-190 IN COMPLEX WITH CALCIUM AND LYSOPHOSPHATIDYLSERINE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Thrombin, which cleaves bonds after Arg and Lys, converts fibrinogen to fibrin and activates factors V, VII, VIII, XIII, and, in complex with thrombomodulin, protein C. Functions in blood homeostasis, inflammation and wound healing (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<text>Selective cleavage of Arg-|-Gly bonds in fibrinogen to form fibrin and release fibrinopeptides A and B.</text>
+</comment>
+<comment type="enzyme regulation">
+<text evidence="1">Inhibited by SERPINA5.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Heterodimer (named alpha-thrombin) of a light and a heavy chain; disulfide-linked. Forms a heterodimer with SERPINA5 (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-990806"/>
+<interactant intactId="EBI-990838">
+<id>Q4W8J9</id>
+<label>coa</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Secreted</location>
+<location>Extracellular space</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Expressed by the liver and secreted in plasma.</text>
+</comment>
+<comment type="PTM">
+<text evidence="7">The gamma-carboxyglutamyl residues, which bind calcium ions, result from the carboxylation of glutamyl residues by a microsomal enzyme, the vitamin K-dependent carboxylase. The modified residues are necessary for the calcium-dependent interaction with a negatively charged phospholipid surface, which is essential for the conversion of prothrombin to thrombin.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Prothrombin is activated on the surface of a phospholipid membrane that binds the amino end of prothrombin and factors Va and Xa in Ca-dependent interactions; factor Xa removes the activation peptide and cleaves the remaining part into light and heavy chains. The activation process starts slowly because factor V itself has to be activated by the initial, small amounts of thrombin.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Thrombin can itself cleave the N-terminal fragment (fragment 1) of the prothrombin, prior to its activation by factor Xa.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the peptidase S1 family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Contains 1 Gla (gamma-carboxy-glutamate) domain.</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Contains 2 kringle domains.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Contains 1 peptidase S1 domain.</text>
+</comment>
+<dbReference type="EC" id="3.4.21.5"/>
+<dbReference type="EMBL" id="V00135">
+<property type="protein sequence ID" value="CAA23451.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="J00041">
+<property type="protein sequence ID" value="AAA30781.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC105201">
+<property type="protein sequence ID" value="AAI05202.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S02537">
+<property type="entry name" value="TBBO"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_776302.1">
+<property type="nucleotide sequence ID" value="NM_173877.1"/>
+</dbReference>
+<dbReference type="UniGene" id="Bt.29855"/>
+<dbReference type="PDB" id="1A0H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/D=208-366, B/E=367-625"/>
+</dbReference>
+<dbReference type="PDB" id="1AVG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="H=367-625, L=326-366"/>
+</dbReference>
+<dbReference type="PDB" id="1BBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="E=517-625, H=367-515, J/L/M=318-366, K/N=367-625"/>
+</dbReference>
+<dbReference type="PDB" id="1ETR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="H=367-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1ETS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="H=367-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1ETT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="H=367-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1HRT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="H=367-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1ID5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="H=367-622, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1MKW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="H=367-625, K=318-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1MKX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="H=367-625, K=318-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1NL1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=44-190"/>
+</dbReference>
+<dbReference type="PDB" id="1NL2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A=44-189"/>
+</dbReference>
+<dbReference type="PDB" id="1TBQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="H/K=367-625, J/L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1TBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="H/K=367-625, J/L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1TOC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/C/E/G=318-366, B/D/F/H=367-625"/>
+</dbReference>
+<dbReference type="PDB" id="1UCY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="E=517-625, H=367-516, J/L/M=318-366, K/N=367-625"/>
+</dbReference>
+<dbReference type="PDB" id="1UVT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="H=367-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1UVU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="H=367-625, L=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1VIT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="F=367-516, G=517-625, H=367-625, L/M=318-366"/>
+</dbReference>
+<dbReference type="PDB" id="1YCP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="H=367-625, J/L=318-366, K=367-516, M=517-625"/>
+</dbReference>
+<dbReference type="PDB" id="2A1D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/E=326-366, B/F=367-625"/>
+</dbReference>
+<dbReference type="PDB" id="2HPP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="P=214-292"/>
+</dbReference>
+<dbReference type="PDB" id="2ODY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="A/C=318-366, B/D=367-625"/>
+</dbReference>
+<dbReference type="PDB" id="2PF1">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=44-199"/>
+</dbReference>
+<dbReference type="PDB" id="2PF2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=44-199"/>
+</dbReference>
+<dbReference type="PDB" id="2SPT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=44-188"/>
+</dbReference>
+<dbReference type="PDB" id="3PMA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/C=336-364, B/D=367-625"/>
+</dbReference>
+<dbReference type="PDB" id="3PMB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/C=336-364, B/D=367-625"/>
+</dbReference>
+<dbReference type="PDBsum" id="1A0H"/>
+<dbReference type="PDBsum" id="1AVG"/>
+<dbReference type="PDBsum" id="1BBR"/>
+<dbReference type="PDBsum" id="1ETR"/>
+<dbReference type="PDBsum" id="1ETS"/>
+<dbReference type="PDBsum" id="1ETT"/>
+<dbReference type="PDBsum" id="1HRT"/>
+<dbReference type="PDBsum" id="1ID5"/>
+<dbReference type="PDBsum" id="1MKW"/>
+<dbReference type="PDBsum" id="1MKX"/>
+<dbReference type="PDBsum" id="1NL1"/>
+<dbReference type="PDBsum" id="1NL2"/>
+<dbReference type="PDBsum" id="1TBQ"/>
+<dbReference type="PDBsum" id="1TBR"/>
+<dbReference type="PDBsum" id="1TOC"/>
+<dbReference type="PDBsum" id="1UCY"/>
+<dbReference type="PDBsum" id="1UVT"/>
+<dbReference type="PDBsum" id="1UVU"/>
+<dbReference type="PDBsum" id="1VIT"/>
+<dbReference type="PDBsum" id="1YCP"/>
+<dbReference type="PDBsum" id="2A1D"/>
+<dbReference type="PDBsum" id="2HPP"/>
+<dbReference type="PDBsum" id="2ODY"/>
+<dbReference type="PDBsum" id="2PF1"/>
+<dbReference type="PDBsum" id="2PF2"/>
+<dbReference type="PDBsum" id="2SPT"/>
+<dbReference type="PDBsum" id="3PMA"/>
+<dbReference type="PDBsum" id="3PMB"/>
+<dbReference type="ProteinModelPortal" id="P00735"/>
+<dbReference type="SMR" id="P00735">
+<property type="residue range" value="44-199, 208-621"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-6099N"/>
+<dbReference type="IntAct" id="P00735">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="MINT" id="MINT-1504393"/>
+<dbReference type="STRING" id="9913.ENSBTAP00000009406"/>
+<dbReference type="BindingDB" id="P00735"/>
+<dbReference type="ChEMBL" id="CHEMBL4471"/>
+<dbReference type="Allergome" id="1245">
+<property type="allergen name" value="Bos d Thrombin"/>
+</dbReference>
+<dbReference type="MEROPS" id="S01.217"/>
+<dbReference type="PaxDb" id="P00735"/>
+<dbReference type="PRIDE" id="P00735"/>
+<dbReference type="Ensembl" id="ENSBTAT00000009406">
+<property type="protein sequence ID" value="ENSBTAP00000009406"/>
+<property type="gene ID" value="ENSBTAG00000007148"/>
+</dbReference>
+<dbReference type="GeneID" id="280685"/>
+<dbReference type="KEGG" id="bta:280685"/>
+<dbReference type="CTD" id="2147"/>
+<dbReference type="eggNOG" id="COG5640"/>
+<dbReference type="GeneTree" id="ENSGT00760000118890"/>
+<dbReference type="HOGENOM" id="HOG000251824"/>
+<dbReference type="HOVERGEN" id="HBG108381"/>
+<dbReference type="InParanoid" id="P00735"/>
+<dbReference type="KO" id="K01313"/>
+<dbReference type="OMA" id="GIECQLW"/>
+<dbReference type="OrthoDB" id="EOG767394"/>
+<dbReference type="TreeFam" id="TF327329"/>
+<dbReference type="Reactome" id="REACT_206454">
+<property type="pathway name" value="Intrinsic Pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_206584">
+<property type="pathway name" value="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_208597">
+<property type="pathway name" value="Cell surface interactions at the vascular wall"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_209521">
+<property type="pathway name" value="G alpha (q) signalling events"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_212120">
+<property type="pathway name" value="Gamma-carboxylation of protein precursors"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_215912">
+<property type="pathway name" value="Thrombin signalling through proteinase activated receptors (PARs)"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_216819">
+<property type="pathway name" value="Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_216886">
+<property type="pathway name" value="Removal of aminoterminal propeptides from gamma-carboxylated proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_217199">
+<property type="pathway name" value="Platelet Aggregation (Plug Formation)"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_219025">
+<property type="pathway name" value="Peptide ligand-binding receptors"/>
+</dbReference>
+<dbReference type="Reactome" id="REACT_220023">
+<property type="pathway name" value="Common Pathway"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P00735"/>
+<dbReference type="NextBio" id="20804874"/>
+<dbReference type="PMAP-CutDB" id="P00735"/>
+<dbReference type="GO" id="GO:0072562">
+<property type="term" value="C:blood microparticle"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular vesicular exosome"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070051">
+<property type="term" value="F:fibrinogen binding"/>
+<property type="evidence" value="IPI:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004252">
+<property type="term" value="F:serine-type endopeptidase activity"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070053">
+<property type="term" value="F:thrombospondin receptor activity"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006953">
+<property type="term" value="P:acute-phase response"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007166">
+<property type="term" value="P:cell surface receptor signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051480">
+<property type="term" value="P:cytosolic calcium ion homeostasis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042730">
+<property type="term" value="P:fibrinolysis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048712">
+<property type="term" value="P:negative regulation of astrocyte differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045861">
+<property type="term" value="P:negative regulation of proteolysis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030168">
+<property type="term" value="P:platelet activation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030194">
+<property type="term" value="P:positive regulation of blood coagulation"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030307">
+<property type="term" value="P:positive regulation of cell growth"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032967">
+<property type="term" value="P:positive regulation of collagen biosynthetic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014068">
+<property type="term" value="P:positive regulation of phosphatidylinositol 3-kinase signaling"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900738">
+<property type="term" value="P:positive regulation of phospholipase C-activating G-protein coupled receptor signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000379">
+<property type="term" value="P:positive regulation of reactive oxygen species metabolic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051281">
+<property type="term" value="P:positive regulation of release of sequestered calcium ion into cytosol"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051258">
+<property type="term" value="P:protein polymerization"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006508">
+<property type="term" value="P:proteolysis"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008360">
+<property type="term" value="P:regulation of cell shape"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.40.20.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.140.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.740.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017857">
+<property type="entry name" value="Coagulation_fac_subgr_Gla_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000294">
+<property type="entry name" value="GLA_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000001">
+<property type="entry name" value="Kringle"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013806">
+<property type="entry name" value="Kringle-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018056">
+<property type="entry name" value="Kringle_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001254">
+<property type="entry name" value="Peptidase_S1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018114">
+<property type="entry name" value="Peptidase_S1_AS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001314">
+<property type="entry name" value="Peptidase_S1A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003966">
+<property type="entry name" value="Prothrombin/thrombin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018992">
+<property type="entry name" value="Thrombin_light_chain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009003">
+<property type="entry name" value="Trypsin-like_Pept_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00594">
+<property type="entry name" value="Gla"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00051">
+<property type="entry name" value="Kringle"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09396">
+<property type="entry name" value="Thrombin_light"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00089">
+<property type="entry name" value="Trypsin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001149">
+<property type="entry name" value="Thrombin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00722">
+<property type="entry name" value="CHYMOTRYPSIN"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00001">
+<property type="entry name" value="GLABLOOD"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01505">
+<property type="entry name" value="PROTHROMBIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00069">
+<property type="entry name" value="GLA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00130">
+<property type="entry name" value="KR"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00020">
+<property type="entry name" value="Tryp_SPc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50494">
+<property type="entry name" value="SSF50494"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57440">
+<property type="entry name" value="SSF57440"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57630">
+<property type="entry name" value="SSF57630"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00011">
+<property type="entry name" value="GLA_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50998">
+<property type="entry name" value="GLA_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00021">
+<property type="entry name" value="KRINGLE_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50070">
+<property type="entry name" value="KRINGLE_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50240">
+<property type="entry name" value="TRYPSIN_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00134">
+<property type="entry name" value="TRYPSIN_HIS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00135">
+<property type="entry name" value="TRYPSIN_SER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0011">Acute phase</keyword>
+<keyword id="KW-0094">Blood coagulation</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0165">Cleavage on pair of basic residues</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0301">Gamma-carboxyglutamic acid</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0356">Hemostasis</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0420">Kringle</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0720">Serine protease</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0865">Zymogen</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="propeptide" id="PRO_0000028153" evidence="7">
+<location>
+<begin position="25"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="chain" description="Prothrombin" id="PRO_0000028154">
+<location>
+<begin position="44"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="peptide" description="Activation peptide fragment 1" id="PRO_0000028155">
+<location>
+<begin position="44"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="peptide" description="Activation peptide fragment 2" id="PRO_0000028156">
+<location>
+<begin position="200"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="chain" description="Thrombin light chain" id="PRO_0000028157">
+<location>
+<begin position="318"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="chain" description="Thrombin heavy chain" id="PRO_0000028158">
+<location>
+<begin position="367"/>
+<end position="625"/>
+</location>
+</feature>
+<feature type="domain" description="Gla" evidence="5">
+<location>
+<begin position="44"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="domain" description="Kringle 1" evidence="3">
+<location>
+<begin position="109"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="domain" description="Kringle 2" evidence="3">
+<location>
+<begin position="214"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="domain" description="Peptidase S1" evidence="4">
+<location>
+<begin position="367"/>
+<end position="621"/>
+</location>
+</feature>
+<feature type="region of interest" description="High affinity receptor-binding region which is also known as the TP508 peptide" evidence="1">
+<location>
+<begin position="554"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system">
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system">
+<location>
+<position position="465"/>
+</location>
+</feature>
+<feature type="active site" description="Charge relay system">
+<location>
+<position position="571"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by thrombin">
+<location>
+<begin position="199"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by factor Xa">
+<location>
+<begin position="317"/>
+<end position="318"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by factor Xa">
+<location>
+<begin position="366"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="60"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="63"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="modified residue" description="4-carboxyglutamate" evidence="5 7">
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="6 7">
+<location>
+<position position="120"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="6 7">
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="7">
+<location>
+<position position="419"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="61"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="91"/>
+<end position="104"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="109"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="130"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="158"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="214"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="235"/>
+<end position="275"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="263"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain (between light and heavy chains)">
+<location>
+<begin position="339"/>
+<end position="485"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="394"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="539"/>
+<end position="553"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="567"/>
+<end position="597"/>
+</location>
+</feature>
+<feature type="sequence variant">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="600"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA30781." ref="2" evidence="8">
+<original>S</original>
+<variation>H</variation>
+<location>
+<position position="231"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAA30781." ref="2" evidence="8">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="249"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4" evidence="8">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="288"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4" evidence="8">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="353"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4" evidence="8">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; AAI05202." ref="3" evidence="8">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AA sequence." ref="4" evidence="8">
+<original>DN</original>
+<variation>ND</variation>
+<location>
+<begin position="549"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="47"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="50"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="57"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="68"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="78"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="91"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="98"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="108"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="112"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="125"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="145"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="149"/>
+<end position="151"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="168"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="179"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="185"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="192"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="217"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="238"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="243"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="248"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="254"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="274"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="278"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="284"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="291"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="310"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="321"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="329"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="337"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="343"/>
+<end position="345"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="346"/>
+<end position="348"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="355"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="370"/>
+<end position="372"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="375"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="381"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="387"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="391"/>
+<end position="400"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="403"/>
+<end position="406"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="408"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="414"/>
+<end position="416"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="424"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="433"/>
+<end position="436"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="439"/>
+<end position="441"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="443"/>
+<end position="445"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="447"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="458"/>
+<end position="461"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="467"/>
+<end position="473"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="489"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="501"/>
+<end position="506"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="510"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="516"/>
+<end position="518"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="520"/>
+<end position="522"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="527"/>
+<end position="533"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="536"/>
+<end position="541"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="543"/>
+<end position="545"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="551"/>
+<end position="554"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="558"/>
+<end position="560"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="568"/>
+<end position="572"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="574"/>
+<end position="578"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="580"/>
+<end position="582"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="585"/>
+<end position="591"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="595"/>
+<end position="598"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="604"/>
+<end position="608"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="609"/>
+<end position="612"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="613"/>
+<end position="621"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00121"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00274"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00463"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1547238"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="625" mass="70506" checksum="95AFF17C23AD78F9" modified="1990-04-01" version="2" precursor="true">
+MARVRGPRLPGCLALAALFSLVHSQHVFLAHQQASSLLQRARRANKGFLEEVRKGNLERE
+CLEEPCSREEAFEALESLSATDAFWAKYTACESARNPREKLNECLEGNCAEGVGMNYRGN
+VSVTRSGIECQLWRSRYPHKPEINSTTHPGADLRENFCRNPDGSITGPWCYTTSPTLRRE
+ECSVPVCGQDRVTVEVIPRSGGSTTSQSPLLETCVPDRGREYRGRLAVTTSGSRCLAWSS
+EQAKALSKDQDFNPAVPLAENFCRNPDGDEEGAWCYVADQPGDFEYCDLNYCEEPVDGDL
+GDRLGEDPDPDAAIEGRTSEDHFQPFFNEKTFGAGEADCGLRPLFEKKQVQDQTEKELFE
+SYIEGRIVEGQDAEVGLSPWQVMLFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNF
+TVDDLLVRIGKHSRTRYERKVEKISMLDKIYIHPRYNWKENLDRDIALLKLKRPIELSDY
+IHPVCLPDKQTAAKLLHAGFKGRVTGWGNRRETWTTSVAEVQPSVLQVVNLPLVERPVCK
+ASTRIRITDNMFCAGYKPGEGKRGDACEGDSGGPFVMKSPYNNRWYQMGIVSWGEGCDRD
+GKYGFYTHVFRLKKWIQKVIDRLGS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

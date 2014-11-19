@@ -3,6 +3,8 @@ __author__ = 'mehtap'
 import urllib, urllib2
 import re
 from bs4 import BeautifulSoup
+import os
+
 
 # BindingDB validation data set page
 url = 'http://www.bindingdb.org/validation_sets/index.jsp'
@@ -10,8 +12,13 @@ request = urllib2.Request(url)
 response = urllib2.urlopen(request)
 validation_set_page = response.read()
 
+#Defining path to put output files
+#path = "/home/mehtap/MEHTAP/model_systems/output/step0"
+path = "../../output/step0"
+
 # Validation data set written to an html file
-file = open('validation_set_page_source.html', "w")
+
+file = open(os.path.join(path, 'validation_set_page_source.html'), "w")
 file.write(validation_set_page)
 file.close()
 
@@ -19,7 +26,7 @@ file.close()
 soup = BeautifulSoup(validation_set_page, "html.parser")
 # print(soup.prettify())
 
-file = open('validation_set_page_source_soup.html', "w")
+file = open(os.path.join(path, 'validation_set_page_source_soup.html'), "w")
 file.write(soup.prettify().encode("utf8"))
 file.close()
 
@@ -57,7 +64,7 @@ print "String of PDB IDs: ", pdb_list_str
 print "Number of PDB IDs in string: ", (len(pdb_list_str)+1)/5
 
 #Writing PDB list as a string to a file
-file = open('pdb_list_from_bindingDB_validationDB.txt', "w")
+file = open(os.path.join(path, 'pdb_list_from_bindingDB_validationDB.txt'), "w")
 file.write(pdb_list_str)
 file.close()
 

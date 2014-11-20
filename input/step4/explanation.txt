@@ -1,0 +1,1 @@
+cyan coloured pdb directory here is a symlink to cbio/jclab/share/pdb

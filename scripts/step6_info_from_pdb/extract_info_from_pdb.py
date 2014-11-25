@@ -1,62 +1,45 @@
-# parses a given pdb file, two functions
-# one returns the expression system
-# the other returns True if expression system is E.coli
-# usage:  python ecoli_expr.py pdbfile.pdb.gz
+# parses a given pdb file, to extract structural information
+#
+# usage:  python extract_info_from_pdb.py pdbfile.pdb.gz
 
 import os
 from sys import argv
 import gzip
 import Bio.PDB
-
-def get_header_dict(pdb_filename):
-    '''
-    for a given pdb file, returns the header in dictionary format
-    :param pdb_filename: pdb file
-    :return:header of pdb file in dictionary format
-    '''
-    pdb_file = gzip.open(pdb_filename)
-    pdb_parser = Bio.PDB.PDBParser(pdb_file)
-
-    ## to get structural data
-    # pdb_id = pdb_filename[7:11]
-    # pdb_data = pdb_parser.get_structure(pdb_id, pdb_file)
-
-    ## get header info from pdb file
-    # pdb_header = pdb_parser.get_header()
-
-    # file = open(os.path.join(output_path, "pdb_header.txt"), "w")
-    # file.write(str(pdb_header))
-    # file.close()
-
-    header_dict = Bio.PDB.parse_pdb_header(pdb_file)
-    pdb_file.close()
-    return header_dict
-
-
-def get_expr_sys_info(header_dict):
-    '''
-    Gets expression system info from pdb header dictionary
-    :param header_dict: header of pdb file in dictionary format
-    :return: the expression system
-    '''
-    return header_dict['source']['1']['expression_system']
-
-def get_structural__
-
+from Bio.PDB.Polypeptide import PPBuilder
 
 #unpacking
 script, filename = argv
 pdb_filename = filename
 
-
 #define input and output path
-input_path = "../../input/step5"
-output_path = "../../output/step5"
+input_path = "../../input/step6"
+output_path = "../../output/step6"
 
-pdb_header_dict = get_header_dict(os.path.join(input_path, filename))
-print "PDB header dictionary: "
-print pdb_header_dict
 
-print "Expression system: "
-print get_expr_sys_info(pdb_header_dict)
+pdb_file = gzip.open(os.path.join(input_path, filename))
+pdb_parser = Bio.PDB.PDBParser(pdb_file)
 
+## to get structural data
+pdb_id = pdb_filename[7:11]
+structure = pdb_parser.get_structure(pdb_id, pdb_file)
+
+print structure
+
+
+# Extract sequence from coordinate information
+# Amino acid residues present in SEQRES but that doesn't have coordinate information
+#are listed in REMARK 465
+ppb = PPBuilder()        # PPBuilder uses C--N distance to find polypeptides.
+for pp in ppb.build_peptides(structure):
+    sequence = pp.get_sequence()
+    print "This is the polypeptide sequence of %s" %pdb_id
+    print sequence
+    print "length of sequence: ", len(sequence)
+
+# OR extract sequence from SEQRES - ?
+
+# when I aligned the sequence output of 1A27 here and the fasta sequence, I see 4 residues missing
+# these 4 residues are reported as REMARK 465 MISSING RESIDUES (THE FOLLOWING RESIDUES WERE NOT LOCATED
+# IN THE EXPERIMENT)
+# does this mean unresolved or missing in protein construct?

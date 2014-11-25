@@ -1,0 +1,36 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+1A27_A|PDBID|CHAIN|SEQUENCE      ARTVVLITGCSSGIGLHLAVRLASDPSQSFKVYATLRDLKTQGRLWEAAR 50
+code                             ARTVVLITGCSSGIGLHLAVRLASDPSQSFKVYATLRDLKTQGRLWEAAR 50
+                                 **************************************************
+
+1A27_A|PDBID|CHAIN|SEQUENCE      ALACPPGSLETLQLDVRDSKSVAAARERVTEGRVDVLVCNAGLGLLGPLE 100
+code                             ALACPPGSLETLQLDVRDSKSVAAARERVTEGRVDVLVCNAGLGLLGPLE 100
+                                 **************************************************
+
+1A27_A|PDBID|CHAIN|SEQUENCE      ALGEDAVASVLDVNVVGTVRMLQAFLPDMKRRGSGRVLVTGSVGGLMGLP 150
+code                             ALGEDAVASVLDVNVVGTVRMLQAFLPDMKRRGSGRVLVTGSVGGLMGLP 150
+                                 **************************************************
+
+1A27_A|PDBID|CHAIN|SEQUENCE      FNDVYCASKFALEGLCESLAVLLLPFGVHLSLIECGPVHTAFMEKVLGSP 200
+code                             FNDVYCASKFALEGLCESLAVLLLPFGVHLSLIECGPVHTAFMEKVLGSP 200
+                                 **************************************************
+
+1A27_A|PDBID|CHAIN|SEQUENCE      EEVLDRTDIHTFHRFYQYLAHSKQVFREAAQNPEEVAEVFLTALRAPKPT 250
+code                             EEVLDRTDIHTFHRFYQYLAHSKQVFREAAQNPEEVAEVFLTALRAPKPT 250
+                                 **************************************************
+
+1A27_A|PDBID|CHAIN|SEQUENCE      LRYFTTERFLPLLRMRLDDPSGSNYVTAMHREVFGDVPA 289
+code                             LRYFTTERFLPLLRMRLDDPSGSNYVTAMHREVFG---- 285
+                                 ***********************************
+
+
+*****************************
+Extracted sequence (code) is from coordinate information
+Amino acid residues present in SEQRES but that doesn't have coordinate information are listed in REMARK 465
+
+# when I aligned the sequence output of 1A27 here and the fasta sequence, I see 4 residues missing
+# these 4 residues are reported as REMARK 465 MISSING RESIDUES (THE FOLLOWING RESIDUES WERE NOT LOCATED
+# IN THE EXPERIMENT)
+# does this mean unresolved or missing in protein construct?

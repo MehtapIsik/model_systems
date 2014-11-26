@@ -8,6 +8,7 @@ import gzip
 import Bio.PDB
 from Bio.PDB.Polypeptide import PPBuilder
 
+
 #unpacking
 script, filename = argv
 pdb_filename = filename
@@ -29,7 +30,7 @@ print structure
 
 # Extract sequence from coordinate information
 # Amino acid residues present in SEQRES but that doesn't have coordinate information
-#are listed in REMARK 465
+# are listed in REMARK 465
 ppb = PPBuilder()        # PPBuilder uses C--N distance to find polypeptides.
 for pp in ppb.build_peptides(structure):
     sequence = pp.get_sequence()
@@ -43,3 +44,7 @@ for pp in ppb.build_peptides(structure):
 # these 4 residues are reported as REMARK 465 MISSING RESIDUES (THE FOLLOWING RESIDUES WERE NOT LOCATED
 # IN THE EXPERIMENT)
 # does this mean unresolved or missing in protein construct?
+
+
+
+

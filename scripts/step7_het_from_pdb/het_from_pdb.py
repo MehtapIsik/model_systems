@@ -1,4 +1,4 @@
-# extracts heterogen specie information from PDB file: small molecules, ligands, metals etc
+# extracts heterogenuous specie information from PDB file: small molecules, ligands, metals etc
 #
 # usage:  python het_from_pdb.py pdbfile.pdb.gz
 

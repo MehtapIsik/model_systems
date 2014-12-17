@@ -1,6 +1,8 @@
 # Writes output of Uniprot Accession Numbers that corresponds to PDB IDs given as input
-# usage:    python map_pdb_to_acc.py input_path/input_file
-#           python map_pdb_to_acc.py ../../input/step1/pdb_list_from_bindingDB_validationDB.txt
+#
+# run this from model_systems directory as
+# usage:    python scripts/step1_pdb_to_acc/map_pdb_to_acc.py input_path/input_file
+#           python scripts/step1_pdb_to_acc/map_pdb_to_acc.py input/step1/pdb_list_from_bindingDB_validationDB.txt
 #
 #  modified from Uniprot help, programmatic access
 # this one must be called with another pdb list file as an argument
@@ -45,7 +47,7 @@ response = urllib2.urlopen(request)
 page = response.read(200000)  #page is a str, to check: type(page)
 
 #Defining path to put output files
-out_path = "../../output/step1"
+out_path = "output/step1"
 
 
 #print page (PDB ACC table)

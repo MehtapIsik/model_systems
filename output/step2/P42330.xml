@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <uniprot>
-<entry dataset="Swiss-Prot" created="1995-11-01" modified="2014-10-29" version="160">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2014-11-26" version="161">
 <accession>P42330</accession>
 <accession>A8K2V0</accession>
 <accession>B4DL37</accession>
@@ -777,12 +777,12 @@
 </comment>
 <comment type="biophysicochemical properties">
 <kinetics>
-<KM evidence="3">142.1 uM for progesterone</KM>
-<KM evidence="3">2.37 uM for 5-alpha-dihydrotestosterone</KM>
-<KM evidence="3">1.0 uM for androstanediol</KM>
-<Vmax evidence="3">20.1 nmol/min/mg enzyme with progesterone as substrate</Vmax>
-<Vmax evidence="3">1.8 nmol/min/mg enzyme with 5-alpha-dihydrotestosterone as substrate</Vmax>
-<Vmax evidence="3">4.4 nmol/min/mg enzyme with androstanediol as substrate</Vmax>
+<KM evidence="7">142.1 uM for progesterone</KM>
+<KM evidence="7">2.37 uM for 5-alpha-dihydrotestosterone</KM>
+<KM evidence="7">1.0 uM for androstanediol</KM>
+<Vmax evidence="7">20.1 nmol/min/mg enzyme with progesterone as substrate</Vmax>
+<Vmax evidence="7">1.8 nmol/min/mg enzyme with 5-alpha-dihydrotestosterone as substrate</Vmax>
+<Vmax evidence="7">4.4 nmol/min/mg enzyme with androstanediol as substrate</Vmax>
 </kinetics>
 </comment>
 <comment type="subcellular location">
@@ -805,12 +805,12 @@
 </isoform>
 </comment>
 <comment type="tissue specificity">
-<text evidence="3 4 5 7 10 11">Expressed in many tissues including adrenal gland, brain, kidney, liver, lung, mammary gland, placenta, small intestine, colon, spleen, prostate and testis. The dominant HSD in prostate and mammary gland. In the prostate, higher levels in epithelial cells than in stromal cells. In the brain, expressed in medulla, spinal cord, frontotemporal lobes, thalamus, subthalamic nuclei and amygdala. Weaker expression in the hippocampus, substantia nigra and caudate.</text>
+<text evidence="7 8 9 11 14 15">Expressed in many tissues including adrenal gland, brain, kidney, liver, lung, mammary gland, placenta, small intestine, colon, spleen, prostate and testis. The dominant HSD in prostate and mammary gland. In the prostate, higher levels in epithelial cells than in stromal cells. In the brain, expressed in medulla, spinal cord, frontotemporal lobes, thalamus, subthalamic nuclei and amygdala. Weaker expression in the hippocampus, substantia nigra and caudate.</text>
 </comment>
 <comment type="similarity">
-<text evidence="13">Belongs to the aldo/keto reductase family.</text>
+<text evidence="17">Belongs to the aldo/keto reductase family.</text>
 </comment>
-<comment type="sequence caution" evidence="13">
+<comment type="sequence caution" evidence="17">
 <conflict type="erroneous initiation">
 <sequence resource="EMBL-CDS" id="BAA04619" version="2"/>
 </conflict>
@@ -1192,6 +1192,9 @@
 <property type="pathway name" value="Retinoid metabolism and transport"/>
 </dbReference>
 <dbReference type="SABIO-RK" id="P42330"/>
+<dbReference type="ChiTaRS" id="AKR1C3">
+<property type="organism name" value="human"/>
+</dbReference>
 <dbReference type="EvolutionaryTrace" id="P42330"/>
 <dbReference type="GeneWiki" id="AKR1C3"/>
 <dbReference type="GenomeRNAi" id="8644"/>
@@ -1513,34 +1516,34 @@
 <end position="323"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="2">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="6">
 <location>
 <begin position="13"/>
 <end position="22"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="1">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="5">
 <location>
 <begin position="217"/>
 <end position="280"/>
 </location>
 </feature>
-<feature type="active site" description="Proton donor" evidence="1">
+<feature type="active site" description="Proton donor" evidence="5">
 <location>
 <position position="55"/>
 </location>
 </feature>
-<feature type="binding site" description="Substrate" evidence="1">
+<feature type="binding site" description="Substrate" evidence="5">
 <location>
 <position position="117"/>
 </location>
 </feature>
-<feature type="site" description="Important for substrate specificity" evidence="1">
+<feature type="site" description="Important for substrate specificity" evidence="5">
 <location>
 <position position="54"/>
 </location>
 </feature>
-<feature type="site" description="Lowers pKa of active site Tyr" evidence="1">
+<feature type="site" description="Lowers pKa of active site Tyr" evidence="5">
 <location>
 <position position="84"/>
 </location>
@@ -1555,13 +1558,13 @@
 <position position="306"/>
 </location>
 </feature>
-<feature type="splice variant" description="In isoform 2." id="VSP_055798" evidence="12">
+<feature type="splice variant" description="In isoform 2." id="VSP_055798" evidence="16">
 <location>
 <begin position="1"/>
 <end position="119"/>
 </location>
 </feature>
-<feature type="sequence variant" description="In dbSNP:rs12529." id="VAR_013288" evidence="3 4 6 7 8 9 10">
+<feature type="sequence variant" description="In dbSNP:rs12529." id="VAR_013288" evidence="7 8 10 11 12 13 14">
 <original>H</original>
 <variation>Q</variation>
 <location>
@@ -1589,7 +1592,7 @@
 <position position="170"/>
 </location>
 </feature>
-<feature type="sequence variant" description="No effect on 17beta-HSD activity; dbSNP:rs1131132." id="VAR_013289" evidence="7 9">
+<feature type="sequence variant" description="No effect on 17beta-HSD activity; dbSNP:rs1131132." id="VAR_013289" evidence="11 13">
 <original>M</original>
 <variation>I</variation>
 <location>
@@ -1603,295 +1606,315 @@
 <position position="180"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on 17beta-HSD activity." evidence="11">
+<feature type="mutagenesis site" description="No effect on 17beta-HSD activity." evidence="15">
 <original>K</original>
 <variation>E</variation>
 <location>
 <position position="75"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 3; no nucleotide entry." ref="3" evidence="13">
+<feature type="sequence conflict" description="In Ref. 3; no nucleotide entry." ref="3" evidence="17">
 <original>S</original>
 <variation>P</variation>
 <location>
 <position position="3"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 3; no nucleotide entry." ref="3" evidence="13">
+<feature type="sequence conflict" description="In Ref. 3; no nucleotide entry." ref="3" evidence="17">
 <original>Q</original>
 <variation>K</variation>
 <location>
 <position position="6"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 6; AAF07272." ref="6" evidence="13">
+<feature type="sequence conflict" description="In Ref. 6; AAF07272." ref="6" evidence="17">
 <original>T</original>
 <variation>S</variation>
 <location>
 <position position="38"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 1; AAD14011 and 3; no nucleotide entry." ref="1 3" evidence="13">
+<feature type="sequence conflict" description="In Ref. 1; AAD14011 and 3; no nucleotide entry." ref="1 3" evidence="17">
 <original>K</original>
 <variation>E</variation>
 <location>
 <position position="75"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 2; AAB41916." ref="2" evidence="13">
+<feature type="sequence conflict" description="In Ref. 2; AAB41916." ref="2" evidence="17">
 <original>K</original>
 <variation>M</variation>
 <location>
 <position position="75"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 6; AAF07272." ref="6" evidence="13">
+<feature type="sequence conflict" description="In Ref. 6; AAF07272." ref="6" evidence="17">
 <original>F</original>
 <variation>S</variation>
 <location>
 <position position="89"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 6; AAF07272." ref="6" evidence="13">
+<feature type="sequence conflict" description="In Ref. 6; AAF07272." ref="6" evidence="17">
 <original>K</original>
 <variation>R</variation>
 <location>
 <position position="270"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="7"/>
 <end position="9"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="15"/>
 <end position="22"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="33"/>
 <end position="44"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="48"/>
 <end position="50"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="53"/>
 <end position="55"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="58"/>
 <end position="70"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="76"/>
 <end position="78"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="80"/>
 <end position="85"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="87"/>
 <end position="89"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="92"/>
 <end position="94"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="95"/>
 <end position="106"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="111"/>
 <end position="116"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="4">
 <location>
 <begin position="124"/>
 <end position="126"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="3">
 <location>
 <begin position="133"/>
 <end position="135"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="144"/>
 <end position="156"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="159"/>
 <end position="167"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="170"/>
 <end position="177"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="187"/>
 <end position="192"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="200"/>
 <end position="208"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="212"/>
 <end position="217"/>
 </location>
 </feature>
-<feature type="turn">
+<feature type="turn" evidence="2">
 <location>
 <begin position="225"/>
 <end position="227"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="235"/>
 <end position="237"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="239"/>
 <end position="248"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="252"/>
 <end position="262"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="266"/>
 <end position="270"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="274"/>
 <end position="280"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="281"/>
 <end position="285"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="290"/>
 <end position="297"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="2">
 <location>
 <begin position="309"/>
 <end position="312"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="318"/>
 <end position="320"/>
 </location>
 </feature>
-<evidence key="1" type="ECO:0000250"/>
-<evidence key="2" type="ECO:0000255"/>
-<evidence key="3" type="ECO:0000269">
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1RY0"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1S1P"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1S2C"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1ZQ5"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250"/>
+<evidence key="6" type="ECO:0000255"/>
+<evidence key="7" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="10557352"/>
 </source>
 </evidence>
-<evidence key="4" type="ECO:0000269">
+<evidence key="8" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="10622721"/>
 </source>
 </evidence>
-<evidence key="5" type="ECO:0000269">
+<evidence key="9" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="11165022"/>
 </source>
 </evidence>
-<evidence key="6" type="ECO:0000269">
+<evidence key="10" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="7626489"/>
 </source>
 </evidence>
-<evidence key="7" type="ECO:0000269">
+<evidence key="11" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="7650035"/>
 </source>
 </evidence>
-<evidence key="8" type="ECO:0000269">
+<evidence key="12" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="7788527"/>
 </source>
 </evidence>
-<evidence key="9" type="ECO:0000269">
+<evidence key="13" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="8274401"/>
 </source>
 </evidence>
-<evidence key="10" type="ECO:0000269">
+<evidence key="14" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="9415401"/>
 </source>
 </evidence>
-<evidence key="11" type="ECO:0000269">
+<evidence key="15" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="9927279"/>
 </source>
 </evidence>
-<evidence key="12" type="ECO:0000303">
+<evidence key="16" type="ECO:0000303">
 <source>
 <dbReference type="PubMed" id="14702039"/>
 </source>
 </evidence>
-<evidence key="13" type="ECO:0000305"/>
+<evidence key="17" type="ECO:0000305"/>
 <sequence length="323" mass="36853" checksum="86A7690D9498C6FD" modified="2010-10-05" version="4">
 MDSKHQCVKLNDGHFMPVLGFGTYAPPEVPRSKALEVTKLAIEAGFRHIDSAHLYNNEEQ
 VGLAIRSKIADGSVKREDIFYTSKLWSTFHRPELVRPALENSLKKAQLDYVDLYLIHSPM

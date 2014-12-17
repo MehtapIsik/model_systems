@@ -2,7 +2,9 @@
 # small molecules, ligands, metals etc
 # pdb documentation: http://www.wwpdb.org/documentation/format33/sect4.html
 #
-# usage:  python het_from_pdb.py pdbfile.pdb.gz
+# run this from model_systems directory
+# usage:  python scripts/step7_het_from_pdb/het_from_pdb.py pdbfile.pdb.gz
+#         python scripts/step7_het_from_pdb/het_from_pdb.py P14061_1A27.pdb.gz
 
 from sys import argv
 import os
@@ -23,8 +25,8 @@ def uniqify_list(a_list):
 script, pdb_filename = argv
 
 #define input and output path
-input_path = "../../input/step7"
-output_path = "../../output/step7"
+input_path = "input/step7"
+output_path = "output/step7"
 
 pdb_file = gzip.open(os.path.join(input_path, pdb_filename), 'r')
 # pdb_file_content = pdb_file.read()

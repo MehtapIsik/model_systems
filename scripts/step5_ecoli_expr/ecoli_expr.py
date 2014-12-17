@@ -1,7 +1,7 @@
 # parses a given pdb file, two functions
 # one returns the expression system
 # the other returns True if expression system is E.coli
-# usage:  python ecoli_expr.py pdbfile.pdb.gz
+# usage:  python scripts/step5_ecoli_expr/ecoli_expr.py pdbfile.pdb.gz
 
 import os
 from sys import argv
@@ -59,8 +59,8 @@ pdb_filename = filename
 
 
 #define input and output path
-input_path = "../../input/step5"
-output_path = "../../output/step5"
+input_path = "input/step5"
+output_path = "output/step5"
 
 pdb_header_dict = get_header_dict(os.path.join(input_path, filename))
 print "PDB header dictionary: "

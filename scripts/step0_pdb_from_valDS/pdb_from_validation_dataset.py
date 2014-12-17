@@ -1,4 +1,6 @@
-__author__ = 'mehtap'
+# run this from model_systems directory as:
+#       python scripts/step0_pdb_from_valDS/pdb_from_validation_dataset.py
+# __author__ = 'mehtap'
 
 import urllib, urllib2
 import re
@@ -14,7 +16,7 @@ validation_set_page = response.read()
 
 #Defining path to put output files
 #path = "/home/mehtap/MEHTAP/model_systems/output/step0"
-path = "../../output/step0"
+path = "output/step0"
 
 # Validation data set written to an html file
 

@@ -1,6 +1,7 @@
 # parses a given pdb file, to extract structural information
 #
-# usage:  python extract_info_from_pdb.py pdbfile.pdb.gz
+#  run this from model_systems directory
+# usage:  python script/step6_seq_from_pdb/extract_seq_from_pdb_coordinates.py pdbfile.pdb.gz
 
 import os
 from sys import argv
@@ -14,8 +15,8 @@ script, filename = argv
 pdb_filename = filename
 
 #define input and output path
-input_path = "../../input/step6"
-output_path = "../../output/step6"
+input_path = "input/step6"
+output_path = "output/step6"
 
 
 pdb_file = gzip.open(os.path.join(input_path, filename))

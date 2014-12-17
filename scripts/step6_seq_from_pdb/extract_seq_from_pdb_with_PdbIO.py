@@ -1,6 +1,8 @@
 # extracts sequence from PDB file
 #
-# usage:  python extract_seq_from_pdb_with_PdbIO.py pdbfile.pdb.gz
+#
+#  run this from model_systems directory
+# usage:  python script/step6_seq_from_pdb/extract_seq_from_pdb_with_PdbIO.py pdbfile.pdb.gz
 
 from sys import argv
 import os
@@ -29,8 +31,8 @@ def get_seq_from_pdb_seqres(pdbfile):
 script, pdb_filename = argv
 
 #define input and output path
-input_path = "../../input/step6"
-output_path = "../../output/step6"
+input_path = "input/step6"
+output_path = "output/step6"
 
 
 pdb_file = gzip.open(os.path.join(input_path, pdb_filename))

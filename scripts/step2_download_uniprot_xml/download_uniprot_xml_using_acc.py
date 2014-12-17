@@ -2,10 +2,12 @@
 # I took Sonya's uniprot_download_xml.py as an example when I am writing this script
 # list of accession numbers is written as a string in a separate file
 
-# usage:    python download_uniprot_xml_using_acc.py input_path/input_file
-#           python download_uniprot_xml_using_acc.py ../../input/step2/uni_acc_str_of_validation_set.txt
+# run this from model_systems directory as:
+
+# usage:    python scripts/step2_download_uniprot_xml/download_uniprot_xml_using_acc.py input_path/input_file
+#           python scripts/step2_download_uniprot_xml/download_uniprot_xml_using_acc.py input/step2/uni_acc_str_of_validation_set.txt
 #           OR for testing
-#           python download_uniprot_xml_using_acc.py ../../input/step2/acc_short.txt
+#           python scripts/step2_download_uniprot_xml/download_uniprot_xml_using_acc.py input/step2/acc_short.txt
 #
 
 import urllib, urllib2
@@ -21,7 +23,7 @@ ACCs_list = ACCs_str.split()  #convert string to a list
 print ACCs_list
 
 #Defining path to put output files
-out_path = "../../output/step2"
+out_path = "output/step2"
 
 #define acc (Uniprot accession number)
 #iterate over uniprot accession numbers(acc)

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <uniprot>
-<entry dataset="Swiss-Prot" created="1993-10-01" modified="2014-10-29" version="157">
+<entry dataset="Swiss-Prot" created="1993-10-01" modified="2014-11-26" version="158">
 <accession>Q04828</accession>
 <accession>P52896</accession>
 <accession>Q5SR15</accession>
@@ -444,7 +444,7 @@
 <scope>X-RAY CRYSTALLOGRAPHY (1.87 ANGSTROMS) IN COMPLEX WITH NADP AND 3-CHLORO-5-PHENYLSALICYLIC ACID</scope>
 </reference>
 <comment type="function">
-<text evidence="2 5">Converts progesterone to its inactive form, 20-alpha-dihydroxyprogesterone (20-alpha-OHP). In the liver and intestine, may have a role in the transport of bile. May have a role in monitoring the intrahepatic bile acid concentration. Has a low bile-binding ability. May play a role in myelin formation.</text>
+<text evidence="5 8">Converts progesterone to its inactive form, 20-alpha-dihydroxyprogesterone (20-alpha-OHP). In the liver and intestine, may have a role in the transport of bile. May have a role in monitoring the intrahepatic bile acid concentration. Has a low bile-binding ability. May play a role in myelin formation.</text>
 </comment>
 <comment type="catalytic activity">
 <text>17-alpha,20-alpha-dihydroxypregn-4-en-3-one + NAD(P)(+) = 17-alpha-hydroxyprogesterone + NAD(P)H.</text>
@@ -456,25 +456,25 @@
 <text>Indan-1-ol + NAD(P)(+) = indanone + NAD(P)H.</text>
 </comment>
 <comment type="enzyme regulation">
-<text evidence="5">Inhibited by hexestrol with an IC(50) of 9.5 uM, 1,10-phenanthroline with an IC(50) of 55 uM, 1,7-phenanthroline with an IC(50) of 72 uM, flufenamic acid with an IC(50) of 6.0 uM, indomethacin with an IC(50) of 140 uM, ibuprofen with an IC(50) of 950 uM, lithocholic acid with an IC(50) of 25 uM, ursodeoxycholic acid with an IC(50) of 340 uM and chenodeoxycholic acid with an IC(50) of 570 uM.</text>
+<text evidence="8">Inhibited by hexestrol with an IC(50) of 9.5 uM, 1,10-phenanthroline with an IC(50) of 55 uM, 1,7-phenanthroline with an IC(50) of 72 uM, flufenamic acid with an IC(50) of 6.0 uM, indomethacin with an IC(50) of 140 uM, ibuprofen with an IC(50) of 950 uM, lithocholic acid with an IC(50) of 25 uM, ursodeoxycholic acid with an IC(50) of 340 uM and chenodeoxycholic acid with an IC(50) of 570 uM.</text>
 </comment>
 <comment type="biophysicochemical properties">
 <kinetics>
-<KM evidence="2 5">5 uM for (s)-tetralol</KM>
-<KM evidence="2 5">38 uM for (s)-indan-1-ol</KM>
-<KM evidence="2 5">580 uM for benzene dihydrodiol</KM>
-<KM evidence="2 5">3 uM for 5-beta-pregnane-3-alpha,20-alpha-diol</KM>
-<KM evidence="2 5">3 uM for 5-beta-pregnan-20-alpha-ol-3-one</KM>
-<KM evidence="2 5">12 uM for 4-pregnen-20-alpha-ol-3-one</KM>
-<KM evidence="2 5">133 uM for 9-alpha,11-beta-PGF2</KM>
-<KM evidence="2 5">2 uM for 5-beta-pregnan-3-alpha-ol-20-one</KM>
-<KM evidence="2 5">1 uM for 5-beta-androstane-3,17-dione</KM>
-<KM evidence="2 5">12 uM for PGD2</KM>
-<KM evidence="2 5">0.6 uM for 20-alpha-hydroxyprogesterone (with NADH)</KM>
+<KM evidence="5 8">5 uM for (s)-tetralol</KM>
+<KM evidence="5 8">38 uM for (s)-indan-1-ol</KM>
+<KM evidence="5 8">580 uM for benzene dihydrodiol</KM>
+<KM evidence="5 8">3 uM for 5-beta-pregnane-3-alpha,20-alpha-diol</KM>
+<KM evidence="5 8">3 uM for 5-beta-pregnan-20-alpha-ol-3-one</KM>
+<KM evidence="5 8">12 uM for 4-pregnen-20-alpha-ol-3-one</KM>
+<KM evidence="5 8">133 uM for 9-alpha,11-beta-PGF2</KM>
+<KM evidence="5 8">2 uM for 5-beta-pregnan-3-alpha-ol-20-one</KM>
+<KM evidence="5 8">1 uM for 5-beta-androstane-3,17-dione</KM>
+<KM evidence="5 8">12 uM for PGD2</KM>
+<KM evidence="5 8">0.6 uM for 20-alpha-hydroxyprogesterone (with NADH)</KM>
 </kinetics>
 </comment>
 <comment type="subunit">
-<text evidence="3 4">Monomer.</text>
+<text evidence="6 7">Monomer.</text>
 </comment>
 <comment type="subcellular location">
 <subcellularLocation>
@@ -482,10 +482,10 @@
 </subcellularLocation>
 </comment>
 <comment type="tissue specificity">
-<text evidence="2">Expressed in all tissues tested including liver, prostate, testis, adrenal gland, brain, uterus, mammary gland and keratinocytes. Highest levels found in liver, mammary gland and brain.</text>
+<text evidence="5">Expressed in all tissues tested including liver, prostate, testis, adrenal gland, brain, uterus, mammary gland and keratinocytes. Highest levels found in liver, mammary gland and brain.</text>
 </comment>
 <comment type="similarity">
-<text evidence="6">Belongs to the aldo/keto reductase family.</text>
+<text evidence="9">Belongs to the aldo/keto reductase family.</text>
 </comment>
 <dbReference type="EC" id="1.1.1.-"/>
 <dbReference type="EC" id="1.1.1.149"/>
@@ -882,31 +882,31 @@
 <end position="323"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="6 7">
 <location>
 <begin position="20"/>
 <end position="24"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="6 7">
 <location>
 <begin position="166"/>
 <end position="167"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="6 7">
 <location>
 <begin position="216"/>
 <end position="222"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="3 4">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="6 7">
 <location>
 <begin position="270"/>
 <end position="280"/>
 </location>
 </feature>
-<feature type="active site" description="Proton donor" evidence="1">
+<feature type="active site" description="Proton donor" evidence="4">
 <location>
 <position position="55"/>
 </location>
@@ -916,17 +916,17 @@
 <position position="24"/>
 </location>
 </feature>
-<feature type="binding site" description="NADP" evidence="3 4">
+<feature type="binding site" description="NADP" evidence="6 7">
 <location>
 <position position="50"/>
 </location>
 </feature>
-<feature type="binding site" description="Substrate" evidence="1">
+<feature type="binding site" description="Substrate" evidence="4">
 <location>
 <position position="117"/>
 </location>
 </feature>
-<feature type="binding site" description="NADP" evidence="3 4">
+<feature type="binding site" description="NADP" evidence="6 7">
 <location>
 <position position="190"/>
 </location>
@@ -941,12 +941,12 @@
 <position position="227"/>
 </location>
 </feature>
-<feature type="site" description="Important for substrate specificity" evidence="1">
+<feature type="site" description="Important for substrate specificity" evidence="4">
 <location>
 <position position="54"/>
 </location>
 </feature>
-<feature type="site" description="Lowers pKa of active site Tyr" evidence="1">
+<feature type="site" description="Lowers pKa of active site Tyr" evidence="4">
 <location>
 <position position="84"/>
 </location>
@@ -970,77 +970,77 @@
 <position position="172"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="30-fold decrease in k(cat)/K(m) value for progesterone reduction; no effect on the K(m) value." evidence="3">
+<feature type="mutagenesis site" description="30-fold decrease in k(cat)/K(m) value for progesterone reduction; no effect on the K(m) value." evidence="6">
 <original>E</original>
 <variation>D</variation>
 <location>
 <position position="127"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Marked decrease in k(cat)/K(m) value for progesterone; 24-fold decrease for progesterone reduction; 18-fold decrease for 20alpha-OHProg oxidation. 95-fold decrease in K(m) value for NADPH." evidence="3">
+<feature type="mutagenesis site" description="Marked decrease in k(cat)/K(m) value for progesterone; 24-fold decrease for progesterone reduction; 18-fold decrease for 20alpha-OHProg oxidation. 95-fold decrease in K(m) value for NADPH." evidence="6">
 <original>H</original>
 <variation>I</variation>
 <location>
 <position position="222"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Marked decrease in k(cat)/K(m) value for progesterone; 10-fold decrease for progesterone reduction; 3-fold decrease for 20alpha-OHProg oxidation. 10-fold decrease in K(m) value for NADPH." evidence="3">
+<feature type="mutagenesis site" description="Marked decrease in k(cat)/K(m) value for progesterone; 10-fold decrease for progesterone reduction; 3-fold decrease for 20alpha-OHProg oxidation. 10-fold decrease in K(m) value for NADPH." evidence="6">
 <original>H</original>
 <variation>S</variation>
 <location>
 <position position="222"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="70-fold decrease in progesterone reduction. No effect on DHT reduction." evidence="3">
+<feature type="mutagenesis site" description="70-fold decrease in progesterone reduction. No effect on DHT reduction." evidence="6">
 <original>R</original>
 <variation>L</variation>
 <location>
 <position position="304"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on progesterone reduction." evidence="3">
+<feature type="mutagenesis site" description="No effect on progesterone reduction." evidence="6">
 <original>Y</original>
 <variation>F</variation>
 <location>
 <position position="305"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on progesterone reduction." evidence="3">
+<feature type="mutagenesis site" description="No effect on progesterone reduction." evidence="6">
 <original>T</original>
 <variation>V</variation>
 <location>
 <position position="307"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on progesterone reduction." evidence="3">
+<feature type="mutagenesis site" description="No effect on progesterone reduction." evidence="6">
 <original>D</original>
 <variation>V</variation>
 <location>
 <position position="309"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry." ref="4" evidence="6">
+<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry." ref="4" evidence="9">
 <original>S</original>
 <variation>A</variation>
 <location>
 <position position="3"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="6">
+<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="9">
 <original>V</original>
 <variation>D</variation>
 <location>
 <position position="95"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="6">
+<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="9">
 <original>G</original>
 <variation>E</variation>
 <location>
 <position position="158"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="6">
+<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="9">
 <original>RQ</original>
 <variation>ST</variation>
 <location>
@@ -1048,7 +1048,7 @@
 <end position="172"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="6">
+<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="9">
 <original>KY</original>
 <variation>QV</variation>
 <location>
@@ -1056,210 +1056,225 @@
 <end position="184"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="6">
+<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="9">
 <original>H</original>
 <variation>L</variation>
 <location>
 <position position="222"/>
 </location>
 </feature>
-<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="6">
+<feature type="sequence conflict" description="In Ref. 4; no nucleotide entry and 10; AAD14012." ref="4 10" evidence="9">
 <original>F</original>
 <variation>I</variation>
 <location>
 <position position="319"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="7"/>
 <end position="9"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="15"/>
 <end position="22"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="33"/>
 <end position="44"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="48"/>
 <end position="50"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="53"/>
 <end position="55"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="58"/>
 <end position="70"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="76"/>
 <end position="78"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="80"/>
 <end position="85"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="87"/>
 <end position="89"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="92"/>
 <end position="106"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="111"/>
 <end position="116"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="2">
 <location>
 <begin position="124"/>
 <end position="126"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="144"/>
 <end position="156"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="159"/>
 <end position="167"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="170"/>
 <end position="177"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="187"/>
 <end position="192"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="3">
 <location>
 <begin position="194"/>
 <end position="197"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="200"/>
 <end position="208"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="212"/>
 <end position="217"/>
 </location>
 </feature>
-<feature type="turn">
+<feature type="turn" evidence="1">
 <location>
 <begin position="225"/>
 <end position="227"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="235"/>
 <end position="237"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="239"/>
 <end position="248"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="252"/>
 <end position="262"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="266"/>
 <end position="270"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="274"/>
 <end position="280"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="281"/>
 <end position="285"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="290"/>
 <end position="297"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="309"/>
 <end position="311"/>
 </location>
 </feature>
-<evidence key="1" type="ECO:0000250"/>
-<evidence key="2" type="ECO:0000269">
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1MRQ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3C3U"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3GUG"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250"/>
+<evidence key="5" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="11013348"/>
 </source>
 </evidence>
-<evidence key="3" type="ECO:0000269">
+<evidence key="6" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="12899831"/>
 </source>
 </evidence>
-<evidence key="4" type="ECO:0000269">
+<evidence key="7" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="21414777"/>
 </source>
 </evidence>
-<evidence key="5" type="ECO:0000269">
+<evidence key="8" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="8573067"/>
 </source>
 </evidence>
-<evidence key="6" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000305"/>
 <sequence length="323" mass="36788" checksum="9CB215478FBD29D5" modified="1993-10-01" version="1">
 MDSKYQCVKLNDGHFMPVLGFGTYAPAEVPKSKALEATKLAIEAGFRHIDSAHLYNNEEQ
 VGLAIRSKIADGSVKREDIFYTSKLWCNSHRPELVRPALERSLKNLQLDYVDLYLIHFPV

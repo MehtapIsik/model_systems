@@ -1,0 +1,11 @@
+Below changes were made to bashrc file:
+
+~/model_systems directory path must be added to PYTHONPATH so that the database molule can be used.
+
+--
+# Add conda to path
+export PATH=~/opt/anaconda3/bin:$PATH
+export PYTHONPATH=~/MEHTAP/model_systems:$PYTHONPATH
+--
+
+Alternatively, /model_systems/database directory could be set up to Anaconda library.

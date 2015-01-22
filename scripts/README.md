@@ -6,6 +6,10 @@ For each step the input files are read from `model_systems/input/` directory and
 
 All the scripts must be executed from `model_systems/` path.
 
+model_systems/ is added to PYTHONPATH. 
+
+
+
 
 ## Manifest
 ----

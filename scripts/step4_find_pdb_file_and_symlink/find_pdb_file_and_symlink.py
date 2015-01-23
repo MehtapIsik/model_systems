@@ -40,4 +40,5 @@ for acc in ACCs_list:
         pdb_file_path = pdb_path + '/pdb/' + pdb_dir_name
         src = os.path.join(pdb_file_path, "pdb"+ pdb_id.lower() + ".ent.gz")
         dst = os.path.join(output_path, acc + "_" + pdb_id + '.pdb.gz')
+        print src
         # os.symlink(src, dst)

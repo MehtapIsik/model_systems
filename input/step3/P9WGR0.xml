@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot>
+<entry dataset="Swiss-Prot" created="2014-04-16" modified="2015-01-07" version="9">
+<accession>P9WGR0</accession>
+<accession>F2GEM2</accession>
+<accession>P0A5Y6</accession>
+<accession>P46533</accession>
+<accession>Q540M9</accession>
+<name>INHA_MYCTO</name>
+<protein>
+<recommendedName>
+<fullName>Enoyl-[acyl-carrier-protein] reductase [NADH]</fullName>
+<ecNumber>1.3.1.9</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>NADH-dependent enoyl-ACP reductase</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">inhA</name>
+<name type="ordered locus">MT1531</name>
+</gene>
+<organism>
+<name type="scientific">Mycobacterium tuberculosis (strain CDC 1551 / Oshkosh)</name>
+<dbReference type="NCBI Taxonomy" id="83331"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Actinobacteridae</taxon>
+<taxon>Actinomycetales</taxon>
+<taxon>Corynebacterineae</taxon>
+<taxon>Mycobacteriaceae</taxon>
+<taxon>Mycobacterium</taxon>
+<taxon>Mycobacterium tuberculosis complex</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="J. Bacteriol." volume="184" first="5479" last="5490">
+<title>Whole-genome comparison of Mycobacterium tuberculosis clinical and laboratory strains.</title>
+<authorList>
+<person name="Fleischmann R.D."/>
+<person name="Alland D."/>
+<person name="Eisen J.A."/>
+<person name="Carpenter L."/>
+<person name="White O."/>
+<person name="Peterson J.D."/>
+<person name="DeBoy R.T."/>
+<person name="Dodson R.J."/>
+<person name="Gwinn M.L."/>
+<person name="Haft D.H."/>
+<person name="Hickey E.K."/>
+<person name="Kolonay J.F."/>
+<person name="Nelson W.C."/>
+<person name="Umayam L.A."/>
+<person name="Ermolaeva M.D."/>
+<person name="Salzberg S.L."/>
+<person name="Delcher A."/>
+<person name="Utterback T.R."/>
+<person name="Weidman J.F."/>
+<person name="Khouri H.M."/>
+<person name="Gill J."/>
+<person name="Mikula A."/>
+<person name="Bishai W."/>
+<person name="Jacobs W.R. Jr."/>
+<person name="Venter J.C."/>
+<person name="Fraser C.M."/>
+</authorList>
+<dbReference type="PubMed" id="12218036"/>
+<dbReference type="DOI" id="10.1128/JB.184.19.5479-5490.2002"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>CDC 1551 / Oshkosh</strain>
+</source>
+</reference>
+<comment type="catalytic activity">
+<text>An acyl-[acyl-carrier protein] + NAD(+) = a trans-2,3-dehydroacyl-[acyl-carrier protein] + NADH.</text>
+</comment>
+<comment type="pathway">
+<text>Lipid metabolism; fatty acid biosynthesis.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3">Homotetramer.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the short-chain dehydrogenases/reductases (SDR) family. FabI subfamily.</text>
+</comment>
+<dbReference type="EC" id="1.3.1.9"/>
+<dbReference type="EMBL" id="AE000516">
+<property type="protein sequence ID" value="AAK45796.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="G70710">
+<property type="entry name" value="G70710"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_335982.1">
+<property type="nucleotide sequence ID" value="NC_002755.2"/>
+</dbReference>
+<dbReference type="PDB" id="4COD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="B/D/F/H=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4OIM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDB" id="4TRJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.73"/>
+<property type="chains" value="A=1-269"/>
+</dbReference>
+<dbReference type="PDBsum" id="4COD"/>
+<dbReference type="PDBsum" id="4OIM"/>
+<dbReference type="PDBsum" id="4TRJ"/>
+<dbReference type="ProteinModelPortal" id="P9WGR0"/>
+<dbReference type="SMR" id="P9WGR0">
+<property type="residue range" value="2-269"/>
+</dbReference>
+<dbReference type="BindingDB" id="P9WGR0"/>
+<dbReference type="GeneID" id="924440"/>
+<dbReference type="KEGG" id="mtc:MT1531"/>
+<dbReference type="KO" id="K11611"/>
+<dbReference type="UniPathway" id="UPA00094"/>
+<dbReference type="Proteomes" id="UP000001020">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004318">
+<property type="term" value="F:enoyl-[acyl-carrier-protein] reductase (NADH) activity"/>
+<property type="evidence" value="IEA:UniProtKB-EC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006633">
+<property type="term" value="P:fatty acid biosynthetic process"/>
+<property type="evidence" value="IEA:UniProtKB-UniPathway"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046677">
+<property type="term" value="P:response to antibiotic"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.720">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014358">
+<property type="entry name" value="Enoyl-ACP_Rdtase_NADH"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016040">
+<property type="entry name" value="NAD(P)-bd_dom"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000094">
+<property type="entry name" value="Enoyl-ACP_rdct"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0046">Antibiotic resistance</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0275">Fatty acid biosynthesis</keyword>
+<keyword id="KW-0276">Fatty acid metabolism</keyword>
+<keyword id="KW-0444">Lipid biosynthesis</keyword>
+<keyword id="KW-0443">Lipid metabolism</keyword>
+<keyword id="KW-0520">NAD</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<feature type="chain" description="Enoyl-[acyl-carrier-protein] reductase [NADH]" id="PRO_0000428318">
+<location>
+<begin position="1"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="NAD" evidence="4">
+<location>
+<begin position="136"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="binding site" description="Substrate" evidence="3">
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="4"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="9"/>
+<end position="13"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="21"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="35"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="44"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="54"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="60"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="68"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="88"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="100"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="103"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="108"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="113"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="125"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="135"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="138"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="152"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="156"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="159"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="181"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="185"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="197"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="204"/>
+<end position="207"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="209"/>
+<end position="225"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="236"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="247"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="255"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="264"/>
+<end position="266"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4COD"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4TRJ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000305"/>
+<sequence length="269" mass="28528" checksum="F161D6D6A631CA08" modified="2014-04-16" version="1">
+MTGLLDGKRILVSGIITDSSIAFHIARVAQEQGAQLVLTGFDRLRLIQRITDRLPAKAPL
+LELDVQNEEHLASLAGRVTEAIGAGNKLDGVVHSIGFMPQTGMGINPFFDAPYADVSKGI
+HISAYSYASMAKALLPIMNPGGSIVGMDFDPSRAMPAYNWMTVAKSALESVNRFVAREAG
+KYGVRSNLVAAGPIRTLAMSAIVGGALGEEAGAQIQLLEEGWDQRAPIGWNMKDATPVAK
+TVCALLSDWLPATTGDIIYADGGAHTQLL
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>

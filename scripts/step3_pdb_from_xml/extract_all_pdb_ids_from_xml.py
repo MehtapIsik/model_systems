@@ -1,7 +1,7 @@
 # run this from model_systems directory as:
 #       python scripts/step3_pdb_from_xml/extract_all_pdb_ids_from_xml.py input/step3/uni_acc_str_of_validation_set.txt
 # or for testing:
-#   python scripts/step3_pdb_from_xml/extract_all_pdb_ids_from_xml.py input/step3/uni_acc_str_2.txt
+#       python scripts/step3_pdb_from_xml/extract_all_pdb_ids_from_xml.py input/step3/uni_acc_str_2.txt
 
 
 import os
@@ -30,6 +30,7 @@ ACCs_list = ACCs_str.split()  #convert string to a list
 #define input and output path
 input_path = "input/step3"
 output_path = "output/step3"
+input_path_of_step4 = "input/step4"
 
 #iterate through Uniprot accession numbers
 for acc in ACCs_list:
@@ -69,5 +70,10 @@ for acc in ACCs_list:
     file2 = open(os.path.join(output_path, "pdb_list_str_of_" + acc +".txt"), "w")
     file2.write(pdb_list_str)
     file2.close()
+
+    #Writing PDB list as a string to a file
+    file3 = open(os.path.join(input_path_of_step4, "pdb_list_str_of_" + acc +".txt"), "w")
+    file3.write(pdb_list_str)
+    file3.close()
 
 

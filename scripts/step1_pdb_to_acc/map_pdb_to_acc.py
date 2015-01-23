@@ -4,6 +4,15 @@
 # usage:    python scripts/step1_pdb_to_acc/map_pdb_to_acc.py input_path/input_file
 #           python scripts/step1_pdb_to_acc/map_pdb_to_acc.py input/step1/pdb_list_from_bindingDB_validationDB.txt
 #
+#           python scripts/step1_pdb_to_acc/map_pdb_to_acc.py input/step1/CORRECTED_pdb_list_from_bindingDB_validationDB.txt
+#  !!! i manually corrected 5 outdated PDB IDs to correct ones in input/step1/CORRECTED_pdb_list... file:
+#     These are:2H7L -> 4TRJ
+#               2H7I -> 4U07
+#               2H7M -> 4TZK
+#               2H7P -> 4TZT
+#               2H7N -> 4U0K
+#
+#
 #  modified from Uniprot help, programmatic access
 # this one must be called with another pdb list file as an argument
 # uniqify function from http://www.peterbe.com/plog/uniqifiers-benchmark
@@ -47,11 +56,13 @@ response = urllib2.urlopen(request)
 page = response.read(200000)  #page is a str, to check: type(page)
 
 #Defining path to put output files
-out_path = "output/step1"
-
+output_path = "output/step1"
+input_path_of_step2 = "input/step2"
+input_path_of_step3 = "input/step3"
+input_path_of_step3 = "input/step4"
 
 #print page (PDB ACC table)
-file1 = open(os.path.join(out_path,'pdb_acc_str_of_validation_set.txt'), 'w')
+file1 = open(os.path.join(output_path,'pdb_acc_str_of_validation_set.txt'), 'w')
 file1.write(page)
 file1.close()
 
@@ -68,12 +79,12 @@ for i, value in enumerate(pdb_acc_list):
 print acc_list
 print "Number of ACC in acc_list: ", len(acc_list)
 
-file2 = open(os.path.join(out_path,'acc_list_of_validation_set.txt'), 'w')
+file2 = open(os.path.join(output_path,'acc_list_of_validation_set.txt'), 'w')
 file2.write(str(acc_list))
 file2.close()
 
 acc_list_str = ' '.join(acc_list)
-file3 = open(os.path.join(out_path,'acc_str_of_validation_set.txt'), 'w')
+file3 = open(os.path.join(output_path,'acc_str_of_validation_set.txt'), 'w')
 file3.write(acc_list_str)
 file3.close()
 
@@ -81,8 +92,25 @@ uni_acc_list = uniqify_list(acc_list)
 print "Number of unique ACC: ", len(uni_acc_list)
 
 uni_acc_list_str = ' '.join(uni_acc_list)
-file4 = open(os.path.join(out_path,'uni_acc_str_of_validation_set.txt'), 'w')
+file4 = open(os.path.join(output_path,'uni_acc_str_of_validation_set.txt'), 'w')
 file4.write(uni_acc_list_str)
 file4.close()
 
+#saving the same output file to input path of the next script (step2, 3, 4)
+file4 = open(os.path.join(input_path_of_step2,'uni_acc_str_of_validation_set.txt'), 'w')
+file4.write(uni_acc_list_str)
+file4.close()
 
+file4 = open(os.path.join(input_path_of_step3,'uni_acc_str_of_validation_set.txt'), 'w')
+file4.write(uni_acc_list_str)
+file4.close()
+
+file4 = open(os.path.join(input_path_of_step4,'uni_acc_str_of_validation_set.txt'), 'w')
+file4.write(uni_acc_list_str)
+file4.close()
+
+#creating symlink of the output file in input path of the next script (step2)
+# somehow doesn't work
+# src = os.path.join(output_path, 'uni_acc_str_of_validation_set.txt')
+# dst = os.path.join(input_path_of_next_step, 'uni_acc_str_of_validation_set.txt')
+# os.symlink(src, dst)

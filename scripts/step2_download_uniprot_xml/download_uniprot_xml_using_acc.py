@@ -24,6 +24,7 @@ print ACCs_list
 
 #Defining path to put output files
 out_path = "output/step2"
+input_path_of_next_step = "input/step3"
 
 #define acc (Uniprot accession number)
 #iterate over uniprot accession numbers(acc)
@@ -41,4 +42,15 @@ for acc in ACCs_list:
     file = open(os.path.join(out_path, "%s.xml" %acc), "w")
     file.write(xml_page)
     file.close()
+
+    #also saving the same output file to input path of the next script (step3)
+    file = open(os.path.join(input_path_of_next_step, "%s.xml" %acc), "w")
+    file.write(xml_page)
+    file.close()
+
+
+    # I wanted to create symlinks to output files in step3's input file but somehow broken link is produced
+    # src = os.path.join(out_path, "%s.xml" %acc)
+    # dst = os.path.join(input_path_of_next_step, "%s.xml" %acc)
+    # os.symlink(src, dst)
 

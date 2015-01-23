@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <uniprot>
-<entry dataset="Swiss-Prot" created="1992-12-01" modified="2014-11-26" version="155">
+<entry dataset="Swiss-Prot" created="1992-12-01" modified="2015-01-07" version="156">
 <accession>P28845</accession>
 <accession>B2R9Z1</accession>
 <accession>D3DT89</accession>
@@ -1182,7 +1182,7 @@
 <dbReference type="HOVERGEN" id="HBG005481"/>
 <dbReference type="InParanoid" id="P28845"/>
 <dbReference type="KO" id="K15680"/>
-<dbReference type="OMA" id="WGGLDML"/>
+<dbReference type="OMA" id="GLFMAYY"/>
 <dbReference type="OrthoDB" id="EOG7353X9"/>
 <dbReference type="PhylomeDB" id="P28845"/>
 <dbReference type="TreeFam" id="TF329114"/>
@@ -1202,6 +1202,9 @@
 <dbReference type="GenomeRNAi" id="3290"/>
 <dbReference type="NextBio" id="13049"/>
 <dbReference type="PRO" id="PR:P28845"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
 <dbReference type="Bgee" id="P28845"/>
 <dbReference type="CleanEx" id="HS_HSD11B1"/>
 <dbReference type="ExpressionAtlas" id="P28845">

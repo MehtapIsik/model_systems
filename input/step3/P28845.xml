@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <uniprot>
-<entry dataset="Swiss-Prot" created="1992-12-01" modified="2014-10-29" version="154">
+<entry dataset="Swiss-Prot" created="1992-12-01" modified="2015-01-07" version="156">
 <accession>P28845</accession>
 <accession>B2R9Z1</accession>
 <accession>D3DT89</accession>
@@ -811,25 +811,25 @@
 <scope>VARIANT [LARGE SCALE ANALYSIS] GLU-148</scope>
 </reference>
 <comment type="function">
-<text evidence="1">Catalyzes reversibly the conversion of cortisol to the inactive metabolite cortisone. Catalyzes reversibly the conversion of 7-ketocholesterol to 7-beta-hydroxycholesterol. In intact cells, the reaction runs only in one direction, from 7-ketocholesterol to 7-beta-hydroxycholesterol (By similarity).</text>
+<text evidence="3">Catalyzes reversibly the conversion of cortisol to the inactive metabolite cortisone. Catalyzes reversibly the conversion of 7-ketocholesterol to 7-beta-hydroxycholesterol. In intact cells, the reaction runs only in one direction, from 7-ketocholesterol to 7-beta-hydroxycholesterol (By similarity).</text>
 </comment>
 <comment type="catalytic activity">
-<text evidence="3 4 7 8">An 11-beta-hydroxysteroid + NADP(+) = an 11-oxosteroid + NADPH.</text>
+<text evidence="5 6 9 10">An 11-beta-hydroxysteroid + NADP(+) = an 11-oxosteroid + NADPH.</text>
 </comment>
 <comment type="subunit">
-<text evidence="5 8 9 10 11 13">Homodimer.</text>
+<text evidence="7 10 11 12 13 15">Homodimer.</text>
 </comment>
 <comment type="subcellular location">
 <subcellularLocation>
-<location evidence="3">Endoplasmic reticulum membrane</location>
-<topology evidence="3">Single-pass type II membrane protein</topology>
+<location evidence="5">Endoplasmic reticulum membrane</location>
+<topology evidence="5">Single-pass type II membrane protein</topology>
 </subcellularLocation>
 </comment>
 <comment type="tissue specificity">
 <text>Widely expressed. Highest expression in liver.</text>
 </comment>
 <comment type="PTM">
-<text evidence="3 12">Glycosylated.</text>
+<text evidence="5 14">Glycosylated.</text>
 </comment>
 <comment type="disease">
 <disease id="DI-01436">
@@ -841,7 +841,7 @@
 <text>The disease is caused by mutations affecting the gene represented in this entry.</text>
 </comment>
 <comment type="similarity">
-<text evidence="14">Belongs to the short-chain dehydrogenases/reductases (SDR) family.</text>
+<text evidence="16">Belongs to the short-chain dehydrogenases/reductases (SDR) family.</text>
 </comment>
 <dbReference type="EC" id="1.1.1.146"/>
 <dbReference type="EMBL" id="M76665">
@@ -1182,7 +1182,7 @@
 <dbReference type="HOVERGEN" id="HBG005481"/>
 <dbReference type="InParanoid" id="P28845"/>
 <dbReference type="KO" id="K15680"/>
-<dbReference type="OMA" id="WGGLDML"/>
+<dbReference type="OMA" id="GLFMAYY"/>
 <dbReference type="OrthoDB" id="EOG7353X9"/>
 <dbReference type="PhylomeDB" id="P28845"/>
 <dbReference type="TreeFam" id="TF329114"/>
@@ -1194,11 +1194,17 @@
 <property type="pathway name" value="Glucocorticoid biosynthesis"/>
 </dbReference>
 <dbReference type="SABIO-RK" id="P28845"/>
+<dbReference type="ChiTaRS" id="HSD11B1">
+<property type="organism name" value="human"/>
+</dbReference>
 <dbReference type="EvolutionaryTrace" id="P28845"/>
 <dbReference type="GeneWiki" id="11%CE%B2-hydroxysteroid_dehydrogenase_type_1"/>
 <dbReference type="GenomeRNAi" id="3290"/>
 <dbReference type="NextBio" id="13049"/>
 <dbReference type="PRO" id="PR:P28845"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
 <dbReference type="Bgee" id="P28845"/>
 <dbReference type="CleanEx" id="HS_HSD11B1"/>
 <dbReference type="ExpressionAtlas" id="P28845">
@@ -1282,7 +1288,7 @@
 <keyword id="KW-0753">Steroid metabolism</keyword>
 <keyword id="KW-0812">Transmembrane</keyword>
 <keyword id="KW-1133">Transmembrane helix</keyword>
-<feature type="initiator methionine" description="Removed" evidence="1">
+<feature type="initiator methionine" description="Removed" evidence="3">
 <location>
 <position position="1"/>
 </location>
@@ -1293,49 +1299,49 @@
 <end position="292"/>
 </location>
 </feature>
-<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<feature type="topological domain" description="Cytoplasmic" evidence="4">
 <location>
 <begin position="2"/>
 <end position="7"/>
 </location>
 </feature>
-<feature type="transmembrane region" description="Helical; Signal-anchor for type II membrane protein" evidence="2">
+<feature type="transmembrane region" description="Helical; Signal-anchor for type II membrane protein" evidence="4">
 <location>
 <begin position="8"/>
 <end position="24"/>
 </location>
 </feature>
-<feature type="topological domain" description="Lumenal" evidence="2">
+<feature type="topological domain" description="Lumenal" evidence="4">
 <location>
 <begin position="25"/>
 <end position="292"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="5 8 9 10 11 13">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="7 10 11 12 13 15">
 <location>
 <begin position="41"/>
 <end position="67"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="5 8 9 10 11 13">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="7 10 11 12 13 15">
 <location>
 <begin position="92"/>
 <end position="93"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="5 8 9 10 11 13">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="7 10 11 12 13 15">
 <location>
 <begin position="119"/>
 <end position="121"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="5 8 9 10 11 13">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="7 10 11 12 13 15">
 <location>
 <begin position="183"/>
 <end position="187"/>
 </location>
 </feature>
-<feature type="nucleotide phosphate-binding region" description="NADP" evidence="5 8 9 10 11 13">
+<feature type="nucleotide phosphate-binding region" description="NADP" evidence="7 10 11 12 13 15">
 <location>
 <begin position="218"/>
 <end position="222"/>
@@ -1351,29 +1357,29 @@
 <position position="170"/>
 </location>
 </feature>
-<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="12">
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="14">
 <location>
 <position position="123"/>
 </location>
 </feature>
-<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="12">
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="14">
 <location>
 <position position="162"/>
 </location>
 </feature>
-<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="2">
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="4">
 <location>
 <position position="207"/>
 </location>
 </feature>
-<feature type="sequence variant" description="In a breast cancer sample; somatic mutation." id="VAR_035845" evidence="6">
+<feature type="sequence variant" description="In a breast cancer sample; somatic mutation." id="VAR_035845" evidence="8">
 <original>V</original>
 <variation>E</variation>
 <location>
 <position position="148"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Predominantly inverted topology. No effect on activity." evidence="3 4">
+<feature type="mutagenesis site" description="Predominantly inverted topology. No effect on activity." evidence="5 6">
 <original>KK</original>
 <variation>RR</variation>
 <location>
@@ -1381,7 +1387,7 @@
 <end position="6"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Inverted topology. Reduced Vmax." evidence="3 4">
+<feature type="mutagenesis site" description="Inverted topology. Reduced Vmax." evidence="5 6">
 <original>KK</original>
 <variation>SS</variation>
 <location>
@@ -1389,35 +1395,35 @@
 <end position="6"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Predominantly inverted topology. No effect on activity." evidence="3">
+<feature type="mutagenesis site" description="Predominantly inverted topology. No effect on activity." evidence="5">
 <original>K</original>
 <variation>R</variation>
 <location>
 <position position="5"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Inverted topology. No effect on activity." evidence="3">
+<feature type="mutagenesis site" description="Inverted topology. No effect on activity." evidence="5">
 <original>K</original>
 <variation>S</variation>
 <location>
 <position position="5"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on topology. Increased Km for corticosterone." evidence="3">
+<feature type="mutagenesis site" description="No effect on topology. Increased Km for corticosterone." evidence="5">
 <original>K</original>
 <variation>R</variation>
 <location>
 <position position="6"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on topology or activity." evidence="3">
+<feature type="mutagenesis site" description="No effect on topology or activity." evidence="5">
 <original>K</original>
 <variation>S</variation>
 <location>
 <position position="6"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on topology. Reduced Vmax." evidence="3">
+<feature type="mutagenesis site" description="No effect on topology. Reduced Vmax." evidence="5">
 <original>YYYY</original>
 <variation>AAAA</variation>
 <location>
@@ -1425,7 +1431,7 @@
 <end position="21"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on topology or activity." evidence="3">
+<feature type="mutagenesis site" description="No effect on topology or activity." evidence="5">
 <original>YYYY</original>
 <variation>FFFF</variation>
 <location>
@@ -1433,7 +1439,7 @@
 <end position="21"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on topology. Reduced Vmax." evidence="3">
+<feature type="mutagenesis site" description="No effect on topology. Reduced Vmax." evidence="5">
 <original>YYY</original>
 <variation>AYA</variation>
 <location>
@@ -1441,7 +1447,7 @@
 <end position="21"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Inverted topology. Reduced Vmax." evidence="4">
+<feature type="mutagenesis site" description="Inverted topology. Reduced Vmax." evidence="6">
 <original>EE</original>
 <variation>KK</variation>
 <location>
@@ -1449,7 +1455,7 @@
 <end position="26"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on topology. Reduced Vmax." evidence="4">
+<feature type="mutagenesis site" description="No effect on topology. Reduced Vmax." evidence="6">
 <original>EE</original>
 <variation>KQ</variation>
 <location>
@@ -1457,7 +1463,7 @@
 <end position="26"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Reduced Vmax." evidence="4">
+<feature type="mutagenesis site" description="Reduced Vmax." evidence="6">
 <original>EE</original>
 <variation>QQ</variation>
 <location>
@@ -1465,7 +1471,7 @@
 <end position="26"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on activity." evidence="4">
+<feature type="mutagenesis site" description="No effect on activity." evidence="6">
 <original>E</original>
 <variation>K</variation>
 <variation>Q</variation>
@@ -1473,14 +1479,14 @@
 <position position="25"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="No effect on activity." evidence="4">
+<feature type="mutagenesis site" description="No effect on activity." evidence="6">
 <original>E</original>
 <variation>K</variation>
 <location>
 <position position="26"/>
 </location>
 </feature>
-<feature type="mutagenesis site" description="Complete loss of activity." evidence="4">
+<feature type="mutagenesis site" description="Complete loss of activity." evidence="6">
 <original>KK</original>
 <variation>SS</variation>
 <location>
@@ -1488,196 +1494,206 @@
 <end position="36"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="29"/>
 <end position="32"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="36"/>
 <end position="41"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="45"/>
 <end position="56"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="60"/>
 <end position="66"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="68"/>
 <end position="81"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="84"/>
 <end position="90"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="96"/>
 <end position="110"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="114"/>
 <end position="118"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="133"/>
 <end position="143"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="145"/>
 <end position="161"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="164"/>
 <end position="170"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="171"/>
 <end position="173"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="181"/>
 <end position="204"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="209"/>
 <end position="215"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="221"/>
 <end position="226"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="229"/>
 <end position="234"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="238"/>
 <end position="250"/>
 </location>
 </feature>
-<feature type="strand">
+<feature type="strand" evidence="1">
 <location>
 <begin position="254"/>
 <end position="258"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="262"/>
 <end position="267"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="271"/>
 <end position="280"/>
 </location>
 </feature>
-<feature type="helix">
+<feature type="helix" evidence="1">
 <location>
 <begin position="281"/>
 <end position="283"/>
 </location>
 </feature>
-<feature type="turn">
+<feature type="turn" evidence="2">
 <location>
 <begin position="287"/>
 <end position="289"/>
 </location>
 </feature>
-<evidence key="1" type="ECO:0000250"/>
-<evidence key="2" type="ECO:0000255"/>
-<evidence key="3" type="ECO:0000269">
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1XU9"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4P38"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="10497248"/>
 </source>
 </evidence>
-<evidence key="4" type="ECO:0000269">
+<evidence key="6" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="15152005"/>
 </source>
 </evidence>
-<evidence key="5" type="ECO:0000269">
+<evidence key="7" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="15513927"/>
 </source>
 </evidence>
-<evidence key="6" type="ECO:0000269">
+<evidence key="8" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="16959974"/>
 </source>
 </evidence>
-<evidence key="7" type="ECO:0000269">
+<evidence key="9" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="17070044"/>
 </source>
 </evidence>
-<evidence key="8" type="ECO:0000269">
+<evidence key="10" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="17919905"/>
 </source>
 </evidence>
-<evidence key="9" type="ECO:0000269">
+<evidence key="11" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="18069989"/>
 </source>
 </evidence>
-<evidence key="10" type="ECO:0000269">
+<evidence key="12" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="18485702"/>
 </source>
 </evidence>
-<evidence key="11" type="ECO:0000269">
+<evidence key="13" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="18553955"/>
 </source>
 </evidence>
-<evidence key="12" type="ECO:0000269">
+<evidence key="14" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="19159218"/>
 </source>
 </evidence>
-<evidence key="13" type="ECO:0000269">
+<evidence key="15" type="ECO:0000269">
 <source>
 <dbReference type="PubMed" id="19217779"/>
 </source>
 </evidence>
-<evidence key="14" type="ECO:0000305"/>
+<evidence key="16" type="ECO:0000305"/>
 <sequence length="292" mass="32401" checksum="4632D0F3BBEFC474" modified="2007-01-23" version="3">
 MAFMKKYLLPILGLFMAYYYYSANEEFRPEMLQGKKVIVTGASKGIGREMAYHLAKMGAH
 VVVTARSKETLQKVVSHCLELGAASAHYIAGTMEDMTFAEQFVAQAGKLMGGLDMLILNH

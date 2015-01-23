@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <uniprot>
-<entry dataset="Swiss-Prot" created="1990-01-01" modified="2014-11-26" version="163">
+<entry dataset="Swiss-Prot" created="1990-01-01" modified="2015-01-07" version="164">
 <accession>P14061</accession>
 <accession>B3KXS1</accession>
 <accession>Q2M2L8</accession>
@@ -952,6 +952,9 @@
 <dbReference type="GenomeRNAi" id="3292"/>
 <dbReference type="NextBio" id="13059"/>
 <dbReference type="PRO" id="PR:P14061"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
 <dbReference type="Bgee" id="P14061"/>
 <dbReference type="CleanEx" id="HS_HSD17B1"/>
 <dbReference type="ExpressionAtlas" id="P14061">
@@ -981,6 +984,10 @@
 <dbReference type="GO" id="GO:0004303">
 <property type="term" value="F:estradiol 17-beta-dehydrogenase activity"/>
 <property type="evidence" value="TAS:Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0047035">
+<property type="term" value="F:testosterone dehydrogenase (NAD+) activity"/>
+<property type="evidence" value="IEA:Ensembl"/>
 </dbReference>
 <dbReference type="GO" id="GO:0060348">
 <property type="term" value="P:bone development"/>

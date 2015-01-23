@@ -3,9 +3,10 @@
 #
 #  run this from model_systems directory
 # input file (string of ACCs) must be located in ~/model_systems/input/step10
+# input file comes from step1
 #
 # usage:    python scripts/step10_chembl_id/get_ligand_info_from_chembl.py input_file
-#           python scripts/scripts/step10_chembl_id/get_ligand_info_from_chembl.py uni_acc_str_of_validation_set.txt
+#           python scripts/step10_chembl_id/get_ligand_info_from_chembl.py uni_acc_str_of_validation_set.txt
 #           OR for testing
 #           python scripts/step10_chembl_id/get_ligand_info_from_chembl.py uni_acc_str_2.txt
 
@@ -18,6 +19,7 @@ import pandas as pd
 
 s = ChEMBL(verbose=False)
 
+
 #define input and output path
 input_path = "input/step10"
 output_path = "output/step10"
@@ -28,6 +30,13 @@ ACCs_file = open(os.path.join(input_path, filename))
 ACCs_str= ACCs_file.read()
 ACCs_list = ACCs_str.split()  #convert string to a list
 print ACCs_list
+
+#list for counting number of unique ingredient compound chembl ids in one targets bioactivities
+ingr_cmpd_number_list=[]
+
+#list for counting number of bioact record in one targets bioactivities
+bioact_number_list=[]
+
 
 for acc in ACCs_list:
     #extract protein target information from ChEMBL
@@ -48,6 +57,14 @@ for acc in ACCs_list:
     #Writing dataframe into to a pickle file
     df.to_pickle(os.path.join(output_path, "chembl_bioactivities_of_" + acc +".pkl"))
 
+
+
+    #counting total bioactivity record number
+    bioact_number_list.append(len(df.index))
+
+
+
+
     #you may want to add a checking step to check if there is any bioactivity data
     #with other units than nM
 
@@ -62,6 +79,8 @@ for acc in ACCs_list:
     df2_summary.to_pickle(os.path.join(output_path, "chembl_bioact_ki_ic50_kd_summary_of_" + acc +".pkl"))
 
 
+
+
     #Approved drugs for this target
     drugs=s.get_approved_drugs(str(target_chembl_id), frmt='json')
     df_drugs=DataFrame(drugs['approvedDrugs'])
@@ -69,6 +88,19 @@ for acc in ACCs_list:
 
 
 
+#Writing bioact_number_list as a string to a file
+print bioact_number_list
+# bioact_number_list_str = ' '.join(str(bioact_number_list))
+bioact_number_list_str = str(bioact_number_list)
+file = open(os.path.join(output_path, 'number_of_bioact.txt'), "w")
+file.write(bioact_number_list_str)
+file.close()
+
+ACCs_list_str = str(ACCs_list)
+file = open(os.path.join(output_path, 'acc_list.txt'), "w")
+file.write(ACCs_list_str)
+file.close()
+print len(ACCs_list)
 
 
 

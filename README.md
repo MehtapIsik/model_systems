@@ -21,3 +21,11 @@ Database being built starting from BindingDB Validation Set for searching bindin
 * `output/` - directory where script outputs are stored
 * `create_objects_test.py` - Python script to test creating objects in the database.
 
+----
+## Dependencies
+* Anaconda-2.1.0
+* Flask-SQLAlchemy-2.0
+* BeautifulSoup-4.3.2
+* Bioservices-1.3.4
+* Pandas-0.14.1
+* BioPython-1.64

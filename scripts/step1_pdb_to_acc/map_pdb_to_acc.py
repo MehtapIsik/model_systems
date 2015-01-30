@@ -59,7 +59,8 @@ page = response.read(200000)  #page is a str, to check: type(page)
 output_path = "output/step1"
 input_path_of_step2 = "input/step2"
 input_path_of_step3 = "input/step3"
-input_path_of_step3 = "input/step4"
+input_path_of_step4 = "input/step4"
+input_path_of_step10 = "input/step10"
 
 #print page (PDB ACC table)
 file1 = open(os.path.join(output_path,'pdb_acc_str_of_validation_set.txt'), 'w')
@@ -106,6 +107,10 @@ file4.write(uni_acc_list_str)
 file4.close()
 
 file4 = open(os.path.join(input_path_of_step4,'uni_acc_str_of_validation_set.txt'), 'w')
+file4.write(uni_acc_list_str)
+file4.close()
+
+file4 = open(os.path.join(input_path_of_step10,'uni_acc_str_of_validation_set.txt'), 'w')
 file4.write(uni_acc_list_str)
 file4.close()
 

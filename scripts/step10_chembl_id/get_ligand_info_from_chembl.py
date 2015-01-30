@@ -16,6 +16,7 @@ from sys import argv
 import os
 from pandas import Series, DataFrame
 import pandas as pd
+import ipdb
 
 s = ChEMBL(verbose=False)
 
@@ -31,17 +32,13 @@ ACCs_str= ACCs_file.read()
 ACCs_list = ACCs_str.split()  #convert string to a list
 print ACCs_list
 
-#list for counting number of unique ingredient compound chembl ids in one targets bioactivities
-ingr_cmpd_number_list=[]
-
-#list for counting number of bioact record in one targets bioactivities
-bioact_number_list=[]
-
 
 for acc in ACCs_list:
     #extract protein target information from ChEMBL
     target_info = s.get_target_by_uniprotId(acc)
     #print target_info
+
+    # ipdb.set_trace()
 
     target_chembl_id = target_info['chemblId']
     #print target_chembl_id
@@ -56,11 +53,6 @@ for acc in ACCs_list:
 
     #Writing dataframe into to a pickle file
     df.to_pickle(os.path.join(output_path, "chembl_bioactivities_of_" + acc +".pkl"))
-
-
-
-    #counting total bioactivity record number
-    bioact_number_list.append(len(df.index))
 
 
 
@@ -86,21 +78,19 @@ for acc in ACCs_list:
     df_drugs=DataFrame(drugs['approvedDrugs'])
     print "For acc %s there are %d approved drugs." %(acc, len(df_drugs))
 
+    #Writing approved drugs for each target into to a pickle file
+    df_drugs.to_pickle(os.path.join(output_path, "chembl_approved_drugs_of_" + acc +".pkl"))
 
 
-#Writing bioact_number_list as a string to a file
-print bioact_number_list
-# bioact_number_list_str = ' '.join(str(bioact_number_list))
-bioact_number_list_str = str(bioact_number_list)
-file = open(os.path.join(output_path, 'number_of_bioact.txt'), "w")
-file.write(bioact_number_list_str)
-file.close()
 
-ACCs_list_str = str(ACCs_list)
-file = open(os.path.join(output_path, 'acc_list.txt'), "w")
-file.write(ACCs_list_str)
-file.close()
-print len(ACCs_list)
+
+# #Writing bioact_number_list as a string to a file
+# print bioact_number_list
+# # bioact_number_list_str = ' '.join(str(bioact_number_list))
+# bioact_number_list_str = str(bioact_number_list)
+# file = open(os.path.join(output_path, 'number_of_bioact.txt'), "w")
+# file.write(bioact_number_list_str)
+# file.close()
 
 
 

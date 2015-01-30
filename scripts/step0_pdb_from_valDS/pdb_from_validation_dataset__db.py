@@ -1,6 +1,10 @@
 # run this from model_systems directory as:
 #       python scripts/step0_pdb_from_valDS/pdb_from_validation_dataset__db.py
 # __author__ = 'mehtap'
+#
+# This script will be modified in the future to write outputs to the Flask SQLAlchemy database.
+# At the moment it doesnt work.
+#
 
 import urllib, urllib2
 import re

@@ -7,7 +7,9 @@
 #
 # usage:    python scripts/step10_chembl_id/get_ligand_info_from_chembl.py input_file
 #           python scripts/step10_chembl_id/get_ligand_info_from_chembl.py uni_acc_str_of_validation_set.txt
-#           OR for testing
+#               (this one gives error due to missing targets, so use the ACC list below)
+#           python scripts/step10_chembl_id/get_ligand_info_from_chembl.py uni_acc_str_of_validation_set_missing_acc.txt
+# OR for testing
 #           python scripts/step10_chembl_id/get_ligand_info_from_chembl.py uni_acc_str_2.txt
 
 

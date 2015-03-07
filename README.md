@@ -29,3 +29,4 @@ Database being built starting from BindingDB Validation Set for searching bindin
 * Bioservices-1.3.4
 * Pandas-0.14.1
 * BioPython-1.64
+* ipdb

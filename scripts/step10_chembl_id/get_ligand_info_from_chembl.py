@@ -19,6 +19,7 @@ import os
 from pandas import Series, DataFrame
 import pandas as pd
 import ipdb
+import time
 
 s = ChEMBL(verbose=False)
 
@@ -38,7 +39,11 @@ print ACCs_list
 for acc in ACCs_list:
     #extract protein target information from ChEMBL
     target_info = s.get_target_by_uniprotId(acc)
-    #print target_info
+
+    # DEBUG
+    print "UniProt accession ID: %s" % acc
+    print "target info from ChEMBL:"
+    print target_info
 
     # ipdb.set_trace()
 
@@ -49,7 +54,28 @@ for acc in ACCs_list:
     bioactivities=s.get_target_bioactivities(str(target_chembl_id))
     #print bioactivities
 
+    # DEBUG
+    print "%d bioactivities retrieved from ChEMBL" % len(bioactivities)
+
+    # Build list of chemblids for all ligands for which bioactivity data is available
+    compound_chemblids = [ entry['ingredient_cmpd_chemblid'] for entry in bioactivities ]
+
+    # Retrieve info for all compounds.
+    print "Retrieving compound data %d compounds" % len(compound_chemblids)
+    initial_time = time.time()
+    compounds = s.get_compounds_by_chemblId(compound_chemblids)
+    final_time = time.time()
+    elapsed_time = final_time - initial_time
+    print "%.3f s elapsed." % elapsed_time
+
+    # Create a pandas dataframe
+    print "Creating a pandas dataframe for compound info..."
+    df = DataFrame(compounds)
+    # Write dataframe into to a pickle file
+    df.to_pickle(os.path.join(output_path, "chembl_ligands_for_" + acc +".pkl"))
+
     #Convert bioactivities in json format to pandas DataFrame
+    print "Creating pandas dataframe for bioactivity data..."
     df=DataFrame(list(bioactivities))
     print "For acc %s there are %d bioactivity data." %(acc, len(df.index))
 

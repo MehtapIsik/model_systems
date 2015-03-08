@@ -70,7 +70,8 @@ for acc in ACCs_list:
 
     # Create a pandas dataframe
     print "Creating a pandas dataframe for compound info..."
-    df = DataFrame(compounds)
+    df = DataFrame(list(compounds))
+    print df.columns # DEBUG
     # Write dataframe into to a pickle file
     df.to_pickle(os.path.join(output_path, "chembl_ligands_for_" + acc +".pkl"))
 

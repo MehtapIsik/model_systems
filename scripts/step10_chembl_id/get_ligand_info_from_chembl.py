@@ -19,6 +19,7 @@ import os
 from pandas import Series, DataFrame
 import pandas as pd
 import ipdb
+import time
 
 s = ChEMBL(verbose=False)
 
@@ -36,9 +37,16 @@ print ACCs_list
 
 
 for acc in ACCs_list:
+    # DEBUG
+    #if acc != 'P23470': continue
+
     #extract protein target information from ChEMBL
     target_info = s.get_target_by_uniprotId(acc)
-    #print target_info
+
+    # DEBUG
+    print "UniProt accession ID: %s" % acc
+    print "target info from ChEMBL:"
+    print target_info
 
     # ipdb.set_trace()
 
@@ -49,25 +57,57 @@ for acc in ACCs_list:
     bioactivities=s.get_target_bioactivities(str(target_chembl_id))
     #print bioactivities
 
-    #Convert bioactivities in json format to pandas DataFrame
-    df=DataFrame(list(bioactivities))
-    print "For acc %s there are %d bioactivity data." %(acc, len(df.index))
+    # DEBUG
+    print "%d bioactivities retrieved from ChEMBL" % len(bioactivities)
+
+    # Build list of chemblids for all ligands for which bioactivity data is available
+    compound_chemblids = [ entry['ingredient_cmpd_chemblid'] for entry in bioactivities ]
+
+    # Retrieve info for all compounds for which bioactivities are available.
+    print "Retrieving compound data %d compounds" % len(compound_chemblids)
+    initial_time = time.time()
+    compounds = s.get_compounds_by_chemblId(compound_chemblids)
+    # Reformat retrieved compounds.
+    compounds = [ entry['compound'] for entry in compounds ]
+    print compounds[0]
+    final_time = time.time()
+    elapsed_time = final_time - initial_time
+    print "%.3f s elapsed." % elapsed_time
+
+    # Create a pandas dataframe for compound information.
+    print "Creating a pandas dataframe for compound info..."
+    compounds_df = DataFrame(compounds)
+    # Rename column
+    compounds_df.rename(columns={'chemblId': 'ingredient_cmpd_chemblid'}, inplace=True)
+    # Print columns
+    print compounds_df.columns # DEBUG
+    # Write dataframe into to a pickle file
+    compounds_df.to_pickle(os.path.join(output_path, "chembl_ligands_for_" + acc +".pkl"))
+
+    # Convert bioactivities in json format to pandas DataFrame
+    print "Creating pandas dataframe for bioactivity data..."
+    bioactivities_df = DataFrame(list(bioactivities))
+    print bioactivities_df.columns # DEBUG
+    print "For acc %s there are %d bioactivity data." %(acc, len(bioactivities_df.index))
 
     #Writing dataframe into to a pickle file
-    df.to_pickle(os.path.join(output_path, "chembl_bioactivities_of_" + acc +".pkl"))
+    bioactivities_df.to_pickle(os.path.join(output_path, "chembl_bioactivities_of_" + acc +".pkl"))
 
-
-
+    # TODO: Join compound data with bioactivity data.
+    print "Joining compound dataframes..."
+    df = pd.merge(bioactivities_df, compounds_df, on='ingredient_cmpd_chemblid')
+    print df.columns
 
     #you may want to add a checking step to check if there is any bioactivity data
     #with other units than nM
 
     #Bioactivity that has Ki, IC50, Kd, Kd1, Kd2 type measurements in nM units
+    print "Filtering for biophysical data..."
     df2=df[((df.bioactivity_type=="Ki")|(df.bioactivity_type=="IC50")|(df.bioactivity_type=="Kd")|(df.bioactivity_type=="Kd1")|(df.bioactivity_type=="Kd2"))&(df.units=='nM')]
     print "For acc %s there are %d Ki/IC50/Kd type bioactivity data." %(acc, len(df2.index))
 
     #Summarized table for bioactivity that has Ki, IC50, Kd, Kd1, Kd2 type measurements in nM units
-    df2_summary=df2[['ingredient_cmpd_chemblid','bioactivity_type','operator','value','units']]
+    df2_summary=df2[['ingredient_cmpd_chemblid','smiles','bioactivity_type','operator','value','units']]
 
     #Writing df2_summary into to a pickle file
     df2_summary.to_pickle(os.path.join(output_path, "chembl_bioact_ki_ic50_kd_summary_of_" + acc +".pkl"))
